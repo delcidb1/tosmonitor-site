@@ -1,0 +1,572 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TOS Monitor — the fine print, in plain English</title>
+<meta name="description" content="We track privacy policy and Terms of Service changes across the apps you use every day. What changed, what it means, and what to do about it." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,300;1,9..144,400&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#080808; --surface:#111111; --surface-2:#141414; --panel:#0E0E0E;
+  --line:#1A1A1A; --line-2:#1E1E1E; --line-3:#2A2A2A; --line-4:#2E2E2E;
+  --muted:#3A3A3A; --dim:#6B6B6B; --body:#C8C8C8; --bright:#F0F0F0;
+  --red:#FF2D2D; --amber:#F5A623; --minor:#555555;
+  --pen:#4D7CFF; --ok:#3A8C4A;
+  --display:'Fraunces',Georgia,serif;
+  --sans:'DM Sans',system-ui,sans-serif;
+  --mono:'JetBrains Mono',monospace;
+  --maxw:1180px;
+}
+*{ box-sizing:border-box; }
+html{ scroll-behavior:smooth; }
+body{
+  margin:0; background:var(--ground); color:var(--body);
+  font-family:var(--sans); -webkit-font-smoothing:antialiased;
+  min-height:100vh;
+}
+::-webkit-scrollbar{ width:4px; height:4px; }
+::-webkit-scrollbar-track{ background:transparent; }
+::-webkit-scrollbar-thumb{ background:#2A2A2A; border-radius:2px; }
+::-webkit-scrollbar-thumb:hover{ background:#3A3A3A; }
+::selection{ background:#E8D44D; color:#080808; }
+:focus-visible{ outline:1px solid var(--pen); outline-offset:2px; }
+
+.shell{ max-width:var(--maxw); margin:0 auto; padding:0 24px; }
+.mono{ font-family:var(--mono); }
+
+/* ---------- masthead ---------- */
+.masthead{
+  position:sticky; top:0; z-index:30;
+  background:rgba(8,8,8,.95); backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--line);
+}
+.masthead__in{
+  height:52px; display:flex; align-items:center; justify-content:space-between;
+}
+.brand{
+  font-family:var(--mono); font-size:14px; font-weight:600;
+  letter-spacing:.08em; color:var(--bright);
+}
+.brand span{ color:var(--red); }
+.brand-wrap{ display:flex; align-items:center; gap:10px; }
+.tagbeta{ font-family:var(--mono); font-size:10px; color:var(--muted); letter-spacing:.04em; }
+.masthead__right{ display:flex; align-items:center; gap:18px; }
+.urgent{ font-family:var(--mono); font-size:10px; color:var(--red); letter-spacing:.06em; }
+.masthead-date{ font-family:var(--mono); font-size:10px; color:var(--muted); letter-spacing:.04em; }
+
+/* ---------- hero ---------- */
+.hero{
+  max-width:var(--maxw); margin:0 auto;
+  padding:72px 24px 64px;
+  border-bottom:1px solid var(--surface-2);
+}
+.hero h1{
+  font-family:var(--display);
+  font-size:clamp(32px,4vw,48px); font-weight:700; line-height:1.2;
+  color:var(--bright); margin:0 0 20px;
+}
+.hero h1 .ghost{ color:transparent; -webkit-text-stroke:1px var(--muted); }
+.hero p{
+  font-family:var(--sans); font-size:15px; line-height:1.6;
+  color:var(--dim); margin:0 0 32px; max-width:62ch;
+}
+.hero-stats{ display:flex; gap:32px; flex-wrap:wrap; }
+.stat__v{
+  font-family:var(--display); font-size:28px; font-weight:700;
+  color:var(--bright); line-height:1; margin-bottom:4px;
+}
+.stat__l{
+  font-family:var(--mono); font-size:10px; color:#444;
+  letter-spacing:.1em; text-transform:uppercase;
+}
+
+/* ---------- controls ---------- */
+.controls{
+  position:sticky; top:52px; z-index:20;
+  background:rgba(8,8,8,.97); backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--surface-2);
+}
+.controls__in{
+  max-width:var(--maxw); margin:0 auto; padding:12px 24px;
+  display:flex; flex-direction:column; gap:10px;
+}
+.search{
+  width:100%; background:var(--surface);
+  border:1px solid var(--line-2); border-radius:2px;
+  padding:9px 14px; font-family:var(--sans); font-size:14px;
+  color:var(--body); outline:none;
+}
+.search::placeholder{ color:#3F3F3F; }
+.search:focus{ border-color:var(--line-4); }
+.filter-row{ display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+.divider{ width:1px; height:14px; background:#222; margin:0 4px; }
+.chip{
+  font-family:var(--mono); font-size:10px; letter-spacing:.08em;
+  padding:4px 10px; border-radius:2px; cursor:pointer;
+  background:transparent; border:1px solid var(--line-2);
+  color:#444; transition:all .1s;
+}
+.chip--v{ text-transform:uppercase; }
+.chip--t{ letter-spacing:.06em; color:var(--muted); }
+.chip:hover{ border-color:#333; }
+.chip[aria-pressed="true"]{ background:#1E1E1E; border-color:#333; color:var(--body); }
+.chip--t[aria-pressed="true"]{ background:var(--line); border-color:#333; color:#888; }
+.chip--v[data-v="IMPORTANT"][aria-pressed="true"]{ background:rgba(255,45,45,.08); border-color:rgba(255,45,45,.25); color:var(--red); }
+.chip--v[data-v="WORTH_KNOWING"][aria-pressed="true"]{ background:rgba(245,166,35,.08); border-color:rgba(245,166,35,.25); color:var(--amber); }
+.chip--v[data-v="MINOR"][aria-pressed="true"]{ background:rgba(100,100,100,.08); border-color:rgba(100,100,100,.2); color:var(--minor); }
+
+/* ---------- verdict badge ---------- */
+.badge{
+  display:inline-flex; align-items:center; gap:5px;
+  font-family:var(--mono); font-size:11px; font-weight:500;
+  letter-spacing:.08em; text-transform:uppercase;
+  border-radius:2px; padding:3px 8px;
+}
+.badge--sm{ font-size:10px; padding:2px 6px; }
+.badge::before{ content:""; width:5px; height:5px; border-radius:50%; background:currentColor; flex-shrink:0; }
+.badge--IMPORTANT{ color:var(--red); background:rgba(255,45,45,.08); border:1px solid rgba(255,45,45,.25); }
+.badge--WORTH_KNOWING{ color:var(--amber); background:rgba(245,166,35,.08); border:1px solid rgba(245,166,35,.25); }
+.badge--MINOR{ color:var(--minor); background:rgba(100,100,100,.08); border:1px solid rgba(100,100,100,.2); }
+
+/* ---------- grid ---------- */
+.main{ max-width:var(--maxw); margin:0 auto; padding:24px 24px 80px; }
+.resultbar{
+  display:flex; align-items:center; justify-content:space-between; margin-bottom:16px;
+}
+.resultbar span{ font-family:var(--mono); font-size:11px; color:var(--muted); letter-spacing:.06em; }
+.card-grid{
+  display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:1px;
+}
+.card{
+  display:flex; flex-direction:column; align-items:flex-start;
+  text-align:left; background:var(--surface);
+  border-top:1px solid var(--line-2);
+  border-right:1px solid var(--line-2);
+  border-bottom:1px solid var(--line-2);
+  border-left:3px solid var(--accent,#333);
+  border-radius:0; padding:20px 22px; cursor:pointer;
+  transition:background .15s, border-color .15s;
+  gap:12px; width:100%; font-family:inherit;
+}
+.card:hover{
+  background:var(--surface-2);
+  border-top-color:var(--line-4);
+  border-right-color:var(--line-4);
+  border-bottom-color:var(--line-4);
+}
+.card__top{ display:flex; align-items:center; justify-content:space-between; width:100%; gap:12px; }
+.card__app{
+  font-family:var(--mono); font-size:11px; font-weight:600;
+  letter-spacing:.12em; text-transform:uppercase; color:var(--accent,#888);
+}
+.card__h{
+  font-family:var(--display); font-size:17px; font-weight:600;
+  line-height:1.35; color:#EFEFEF; margin:0 0 6px;
+}
+.card__sub{ font-family:var(--sans); font-size:13px; line-height:1.5; color:var(--dim); margin:0; }
+.card__meta{
+  font-family:var(--mono); font-size:10px; color:#444; letter-spacing:.06em;
+  display:flex; gap:8px; align-items:center;
+}
+.card__kind{ color:#333; }
+.empty{
+  text-align:center; padding:80px 24px;
+  font-family:var(--display); font-size:20px; font-style:italic; color:var(--line-3);
+}
+
+/* ---------- footer ---------- */
+footer{ border-top:1px solid var(--surface-2); }
+.footer-inner{
+  display:flex; justify-content:space-between; align-items:center;
+  flex-wrap:wrap; gap:12px; max-width:var(--maxw); margin:0 auto; padding:20px 24px;
+}
+.footer-inner p{ font-family:var(--sans); font-size:12px; color:#333; margin:0; }
+.footer-inner span{ font-family:var(--mono); font-size:10px; color:var(--line-3); letter-spacing:.08em; }
+
+/* ---------- detail panel ---------- */
+.scrim{
+  position:fixed; inset:0; background:rgba(0,0,0,.75);
+  backdrop-filter:blur(4px); z-index:40; display:none;
+}
+.scrim[data-open="true"]{ display:block; animation:fadeIn .2s ease; }
+.panel{
+  position:fixed; top:0; right:0; bottom:0;
+  width:min(560px,100vw); background:var(--panel);
+  border-left:1px solid #222; overflow-y:auto; z-index:50;
+  outline:none; display:none;
+}
+.panel[data-open="true"]{ display:block; animation:slideIn .25s cubic-bezier(.4,0,.2,1); }
+@keyframes fadeIn{ from{opacity:0} to{opacity:1} }
+@keyframes slideIn{ from{transform:translateX(100%)} to{transform:translateX(0)} }
+
+.panel__bar{
+  position:sticky; top:0; background:var(--panel);
+  border-bottom:1px solid var(--line); padding:16px 24px;
+  display:flex; align-items:center; justify-content:space-between; z-index:10;
+}
+.panel__id{ display:flex; align-items:center; gap:12px; }
+.panel__app{
+  font-family:var(--mono); font-size:12px; font-weight:600;
+  letter-spacing:.1em; text-transform:uppercase;
+}
+.panel__x{
+  background:none; border:1px solid var(--line-3); color:#666;
+  width:32px; height:32px; border-radius:2px; cursor:pointer;
+  display:flex; align-items:center; justify-content:center;
+  font-size:16px; transition:border-color .1s, color .1s;
+}
+.panel__x:hover{ color:#CCC; border-color:#444; }
+.panel__body{ padding:28px 24px; display:flex; flex-direction:column; gap:28px; }
+.panel__h{
+  font-family:var(--display); font-size:22px; font-weight:700;
+  line-height:1.3; color:var(--bright); margin:0 0 8px;
+}
+.panel__dek{ font-family:var(--sans); font-size:14px; color:var(--dim); margin:0; line-height:1.5; }
+
+.sec{ display:flex; flex-direction:column; gap:12px; }
+.sec__l{
+  font-family:var(--mono); font-size:10px; font-weight:600;
+  letter-spacing:.12em; text-transform:uppercase; color:#444;
+}
+blockquote{
+  margin:0; padding:14px 16px; border-left:3px solid var(--line-3);
+  background:var(--surface-2); font-family:var(--display); font-style:italic;
+  font-size:14px; line-height:1.65; color:#BEBEBE;
+}
+.list{ margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:8px; }
+.list li{ display:flex; gap:12px; align-items:flex-start; }
+.list__n{ font-family:var(--mono); font-size:10px; color:#444; flex-shrink:0; margin-top:3px; }
+.list__t{ font-family:var(--sans); font-size:14px; color:#BEBEBE; line-height:1.55; }
+.acts{ margin:0; padding:0; list-style:none; display:flex; flex-direction:column; gap:10px; }
+.acts li{ display:flex; gap:10px; align-items:flex-start; }
+.acts__c{ color:var(--ok); font-size:13px; flex-shrink:0; margin-top:2px; }
+.vbox{ border-radius:2px; padding:14px 16px; display:flex; flex-direction:column; gap:8px; }
+.vbox p{ margin:0; font-family:var(--sans); font-size:14px; line-height:1.6; color:var(--body); }
+.vbox--IMPORTANT{ background:rgba(255,45,45,.08); border:1px solid rgba(255,45,45,.25); }
+.vbox--WORTH_KNOWING{ background:rgba(245,166,35,.08); border:1px solid rgba(245,166,35,.25); }
+.vbox--MINOR{ background:rgba(100,100,100,.08); border:1px solid rgba(100,100,100,.2); }
+.tags{ display:flex; flex-direction:column; gap:8px; }
+.tags > div{ display:flex; gap:12px; align-items:flex-start; }
+.tag__k{
+  font-family:var(--mono); font-size:10px; font-weight:500;
+  color:#888; background:var(--line); border:1px solid var(--line-3);
+  padding:2px 7px; border-radius:2px; flex-shrink:0; margin-top:1px;
+}
+.tag__e{ font-family:var(--sans); font-size:13px; color:var(--dim); line-height:1.5; }
+.srclink{
+  display:inline-flex; align-items:center; gap:6px;
+  font-family:var(--mono); font-size:11px; color:var(--pen);
+  text-decoration:none; letter-spacing:.06em;
+  border-bottom:1px solid rgba(77,124,255,.3); padding-bottom:2px; width:fit-content;
+}
+.srclink:hover{ border-bottom-color:var(--pen); }
+
+@media (max-width:680px){
+  .hero{ padding:40px 16px 36px; }
+  .hero h1{ font-size:28px; }
+  .hero-stats{ gap:20px; }
+  .masthead-date{ display:none; }
+  .controls__in{ padding:10px 16px; }
+  .filter-row{ overflow-x:auto; flex-wrap:nowrap; padding-bottom:4px; }
+  .filter-row::-webkit-scrollbar{ display:none; }
+  .main{ padding:16px 16px 60px; }
+  .card-grid{ grid-template-columns:1fr; }
+  .footer-inner{ padding:16px; flex-direction:column; gap:8px; }
+  .panel{ width:100vw; }
+}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{ animation-duration:.01ms !important; transition-duration:.01ms !important; }
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="shell masthead__in">
+    <div class="brand-wrap">
+      <span class="brand">TOS<span>/</span>MONITOR</span>
+      <span class="tagbeta">BETA</span>
+    </div>
+    <div class="masthead__right">
+      <span class="urgent" id="urgent" hidden></span>
+      <span class="masthead-date" id="today"></span>
+    </div>
+  </div>
+</header>
+
+<section class="hero">
+  <h1>
+    Somebody has to read<br>
+    <span class="ghost">the fine print.</span><br>
+    It won't be you.
+  </h1>
+  <p>We track privacy policy and Terms of Service changes across the apps you use every day. When something matters, we tell you what changed, what it means, and what to do about it.</p>
+  <div class="hero-stats">
+    <div><div class="stat__v" id="sPosts">—</div><div class="stat__l">Posts</div></div>
+    <div><div class="stat__v" id="sUrgent">—</div><div class="stat__l">Urgent</div></div>
+    <div><div class="stat__v" id="sApps">—</div><div class="stat__l">Services</div></div>
+    <div><div class="stat__v">24h</div><div class="stat__l">Check interval</div></div>
+  </div>
+</section>
+
+<div class="controls">
+  <div class="controls__in">
+    <input type="search" class="search" id="q" placeholder="Search apps, policies, topics..." aria-label="Search the archive">
+    <div class="filter-row" id="filters"></div>
+  </div>
+</div>
+
+<main class="main">
+  <div class="resultbar"><span id="count"></span></div>
+  <div class="card-grid" id="grid"></div>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <p>Summaries are plain-English interpretations, not legal advice. Read the original documents before making decisions.</p>
+    <span>@TOSMONITOR</span>
+  </div>
+</footer>
+
+<div class="scrim" id="scrim" data-open="false"></div>
+<aside class="panel" id="panel" data-open="false" role="dialog" aria-modal="true" aria-labelledby="pH" tabindex="-1">
+  <div class="panel__bar">
+    <div class="panel__id">
+      <span class="panel__app" id="pApp"></span>
+      <span id="pBadge"></span>
+    </div>
+    <button class="panel__x" id="pClose" aria-label="Close">&#10005;</button>
+  </div>
+  <div class="panel__body" id="pBody"></div>
+</aside>
+
+<script>
+/* ============================================================
+   Reads posts.json from the same folder. The ?t= parameter
+   defeats browser and CDN caching so a freshly published
+   update shows on reload rather than at cache expiry.
+   ============================================================ */
+const FALLBACK = [{
+  app:"Example", accent:"#4D7CFF", effective:"2026-01-01",
+  headline:"No posts loaded yet",
+  subhead:"This placeholder shows when posts.json is missing",
+  changes:["Publish posts.json alongside index.html"],
+  verdict:"MINOR",
+  verdict_text:"Placeholder content. The build script writes real posts into this file.",
+  actions:["Run the monitor workflow"],
+  categories:[]
+}];
+
+const VCFG = {
+  IMPORTANT:{ label:"Important" },
+  WORTH_KNOWING:{ label:"Worth Knowing" },
+  MINOR:{ label:"Minor" }
+};
+
+let POSTS = FALLBACK;
+let fVerdict = "ALL", fTag = null, fQ = "";
+let lastFocus = null;
+
+const $ = s => document.querySelector(s);
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+const fmtDate = iso => {
+  const t = new Date(String(iso) + "T00:00:00");
+  return isNaN(t) ? String(iso || "")
+    : t.toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
+};
+
+const vkey = p => VCFG[p.verdict] ? p.verdict : "MINOR";
+const isTldr = p => p.post_type === "tldr";
+
+function badge(p, small){
+  const k = vkey(p);
+  return `<span class="badge badge--${k}${small ? " badge--sm" : ""}">${VCFG[k].label}</span>`;
+}
+
+/* ---------- load ---------- */
+async function boot(){
+  try{
+    const r = await fetch("posts.json?t=" + Date.now(), {cache:"no-store"});
+    if(r.ok){
+      const d = await r.json();
+      const arr = Array.isArray(d) ? d : d.posts;
+      if(Array.isArray(arr) && arr.length) POSTS = arr;
+    }
+  }catch(e){ /* fallback stands in */ }
+
+  POSTS = POSTS.slice().sort((a,b)=> String(b.effective).localeCompare(String(a.effective)));
+
+  const urgent = POSTS.filter(p => p.verdict === "IMPORTANT").length;
+  $("#sPosts").textContent = POSTS.length;
+  $("#sUrgent").textContent = urgent;
+  $("#sApps").textContent = new Set(POSTS.map(p => String(p.app).trim())).size;
+  if(urgent){
+    const u = $("#urgent");
+    u.textContent = urgent + " URGENT";
+    u.hidden = false;
+  }
+  $("#today").textContent =
+    new Date().toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"}).toUpperCase();
+
+  buildFilters();
+  render();
+}
+
+/* ---------- filters ---------- */
+function buildFilters(){
+  const tags = [...new Set(POSTS.flatMap(p => (p.categories||[]).map(c => c.tag)))].slice(0,6);
+
+  const vBtns = ["ALL","IMPORTANT","WORTH_KNOWING","MINOR"].map(v =>
+    `<button class="chip chip--v" data-v="${v}" aria-pressed="${v===fVerdict}">${
+      v==="ALL" ? "All" : VCFG[v].label}</button>`).join("");
+
+  const tBtns = tags.length
+    ? `<div class="divider"></div>` + tags.map(t =>
+        `<button class="chip chip--t" data-t="${esc(t)}" aria-pressed="false">${esc(t)}</button>`).join("")
+    : "";
+
+  const box = $("#filters");
+  box.innerHTML = vBtns + tBtns;
+
+  box.onclick = e => {
+    const v = e.target.closest("[data-v]");
+    const t = e.target.closest("[data-t]");
+    if(v){
+      fVerdict = v.dataset.v;
+      box.querySelectorAll("[data-v]").forEach(b => b.setAttribute("aria-pressed", b===v));
+    } else if(t){
+      const on = t.getAttribute("aria-pressed") === "true";
+      fTag = on ? null : t.dataset.t;
+      box.querySelectorAll("[data-t]").forEach(b =>
+        b.setAttribute("aria-pressed", !on && b===t));
+    } else return;
+    render();
+  };
+  $("#q").oninput = e => { fQ = e.target.value.toLowerCase().trim(); render(); };
+}
+
+function matches(p){
+  if(fVerdict !== "ALL" && p.verdict !== fVerdict) return false;
+  if(fTag && !(p.categories||[]).some(c => c.tag === fTag)) return false;
+  if(!fQ) return true;
+  const hay = [p.app,p.headline,p.subhead,p.verdict_text,
+    ...(p.changes||[]), ...(p.actions||[]),
+    ...(p.categories||[]).flatMap(c => [c.tag,c.explanation])].join(" ").toLowerCase();
+  return hay.includes(fQ);
+}
+
+/* ---------- render ---------- */
+function render(){
+  const list = POSTS.filter(matches);
+  const grid = $("#grid");
+  $("#count").textContent = `${list.length} ${list.length === 1 ? "result" : "results"}`;
+
+  if(!list.length){
+    grid.style.display = "block";
+    grid.innerHTML = `<div class="empty">Nothing found. Try different terms or clear your filters.</div>`;
+    return;
+  }
+  grid.style.display = "";
+
+  grid.innerHTML = list.map(p => `
+    <button class="card" data-i="${POSTS.indexOf(p)}" style="--accent:${esc(p.accent||"#4D7CFF")}">
+      <div class="card__top">
+        <span class="card__app">${esc(p.app)}</span>
+        ${badge(p,true)}
+      </div>
+      <div>
+        <p class="card__h">${esc(p.headline)}</p>
+        <p class="card__sub">${esc(p.subhead)}</p>
+      </div>
+      <div class="card__meta">
+        <span>${esc(fmtDate(p.effective))}</span>
+        <span class="card__kind">${isTldr(p) ? "· Breakdown" : "· Change"}</span>
+      </div>
+    </button>`).join("");
+
+  grid.querySelectorAll(".card").forEach(c =>
+    c.onclick = () => openPost(POSTS[+c.dataset.i], c));
+}
+
+/* ---------- detail ---------- */
+function sec(label, inner){
+  return `<div class="sec"><div class="sec__l">${label}</div>${inner}</div>`;
+}
+
+function openPost(p, trigger){
+  lastFocus = trigger || null;
+  const k = vkey(p), tldr = isTldr(p);
+  const doc = p.source_doc || p.doc || "Policy";
+  const cats = p.categories || [];
+
+  $("#pApp").textContent = p.app;
+  $("#pApp").style.color = p.accent || "#888";
+  $("#pBadge").innerHTML = badge(p);
+
+  const parts = [];
+
+  parts.push(`<div>
+    <h2 class="panel__h" id="pH">${esc(p.headline)}</h2>
+    <p class="panel__dek">${tldr ? "Current as of" : "Effective"} ${esc(fmtDate(p.effective))} · ${esc(doc)}</p>
+  </div>`);
+
+  if(p.quote){
+    parts.push(sec("&sect; What They Wrote", `<blockquote>&ldquo;${esc(p.quote)}&rdquo;</blockquote>`));
+  }
+
+  parts.push(sec(tldr ? "&sect; What This Policy Permits" : "&sect; What Changed",
+    `<ul class="list">${(p.changes||[]).map((c,i)=>
+      `<li><span class="list__n">${String(i+1).padStart(2,"0")}</span><span class="list__t">${esc(c)}</span></li>`
+    ).join("")}</ul>`));
+
+  parts.push(sec("&sect; What It Means",
+    `<div class="vbox vbox--${k}">${badge(p)}<p>${esc(p.verdict_text)}</p></div>`));
+
+  if((p.actions||[]).length){
+    parts.push(sec("&sect; What To Do",
+      `<ul class="acts">${p.actions.map(a=>
+        `<li><span class="acts__c">&#10003;</span><span class="list__t">${esc(a)}</span></li>`
+      ).join("")}</ul>`));
+  }
+
+  if(cats.length){
+    parts.push(sec("&sect; Topics",
+      `<div class="tags">${cats.map(c=>
+        `<div><span class="tag__k">${esc(c.tag)}</span><span class="tag__e">${esc(c.explanation)}</span></div>`
+      ).join("")}</div>`));
+  }
+
+  if(p.source_url){
+    parts.push(`<a class="srclink" href="${esc(p.source_url)}" target="_blank" rel="noopener noreferrer">&#8599; View source document</a>`);
+  }
+
+  $("#pBody").innerHTML = parts.join("");
+  $("#panel").dataset.open = "true";
+  $("#scrim").dataset.open = "true";
+  document.body.style.overflow = "hidden";
+  $("#panel").scrollTop = 0;
+  $("#panel").focus();
+}
+
+function closePost(){
+  $("#panel").dataset.open = "false";
+  $("#scrim").dataset.open = "false";
+  document.body.style.overflow = "";
+  if(lastFocus) lastFocus.focus();
+}
+$("#pClose").onclick = closePost;
+$("#scrim").onclick = closePost;
+document.addEventListener("keydown", e => {
+  if(e.key === "Escape" && $("#panel").dataset.open === "true") closePost();
+});
+
+boot();
+</script>
+</body>
+</html>
