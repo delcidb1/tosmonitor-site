@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TOS Monitor — the fine print, in plain English</title>
+<meta name="description" content="Privacy policy and Terms of Service changes across the apps you actually use, summarized in plain English with what to do about it.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   TOKENS
+   Palette: photocopied legal document + blue ballpoint annotation
+   ============================================================ */
+:root{
+  --paper:      #F7F6F3;   /* cool office paper, not cream */
+  --paper-2:    #FFFFFF;
+  --ink:        #16181D;   /* near-black, blue cast */
+  --ink-mid:    #454B57;
+  --ink-soft:   #7C828F;   /* the legalese grey */
+  --rule:       #E0DFDA;
+  --rule-hard:  #C9C8C2;
+  --pen:        #2B4CF2;   /* the annotation pen */
+  --pen-wash:   #E7EBFE;
+  --hl:         #FBE96B;   /* highlighter */
+
+  --v-minor:    #7C828F;
+  --v-worth:    #B0741A;
+  --v-important:#C0341C;
+
+  --serif: "Newsreader", Georgia, serif;
+  --sans:  "Inter", system-ui, -apple-system, sans-serif;
+  --mono:  "IBM Plex Mono", ui-monospace, Menlo, monospace;
+
+  --maxw: 1180px;
+  --pad: clamp(20px, 5vw, 56px);
+}
+
+*,*::before,*::after{ box-sizing:border-box; }
+
+html{ -webkit-text-size-adjust:100%; }
+
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--sans);
+  font-size:16px;
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+
+a{ color:inherit; }
+
+:focus-visible{
+  outline:2px solid var(--pen);
+  outline-offset:3px;
+  border-radius:2px;
+}
+
+.wrap{
+  max-width:var(--maxw);
+  margin:0 auto;
+  padding-left:var(--pad);
+  padding-right:var(--pad);
+}
+
+.mono{
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:.09em;
+  text-transform:uppercase;
+  font-weight:500;
+}
+
+/* --- SIGNATURE: the highlighter sweep ---------------------- */
+.mark{
+  background-image:linear-gradient(100deg,
+    rgba(251,233,107,0) 0.4%,
+    var(--hl) 1.6%,
+    var(--hl) 97.5%,
+    rgba(251,233,107,0) 99.4%);
+  background-repeat:no-repeat;
+  background-size:100% 64%;
+  background-position:0 84%;
+  padding:0 .16em;
+  color:var(--ink);
+}
+.mark--draw{
+  background-size:0% 64%;
+  animation:sweep .82s cubic-bezier(.2,.7,.3,1) .55s forwards;
+}
+@keyframes sweep{ to{ background-size:100% 64%; } }
+
+/* ============================================================
+   MASTHEAD
+   ============================================================ */
+.bar{
+  border-bottom:1px solid var(--rule);
+  background:var(--paper);
+  position:sticky; top:0; z-index:40;
+}
+.bar__in{
+  display:flex; align-items:center; gap:18px;
+  height:56px;
+}
+.logo{
+  font-family:var(--mono);
+  font-weight:600;
+  font-size:12.5px;
+  letter-spacing:.15em;
+  text-transform:uppercase;
+  text-decoration:none;
+  white-space:nowrap;
+}
+.logo span{ color:var(--pen); }
+.bar__spacer{ flex:1; }
+.bar__note{
+  color:var(--ink-soft);
+  font-family:var(--mono);
+  font-size:11px;
+  letter-spacing:.06em;
+}
+@media (max-width:640px){ .bar__note{ display:none; } }
+
+/* ============================================================
+   HERO — a wall of fine print, rescued by one annotation
+   ============================================================ */
+.hero{
+  border-bottom:1px solid var(--rule);
+  padding:clamp(44px,7vw,84px) 0 0;
+  position:relative;
+  overflow:hidden;
+}
+.hero__grid{
+  display:grid;
+  grid-template-columns:1.05fr .95fr;
+  gap:clamp(28px,5vw,72px);
+  align-items:start;
+}
+@media (max-width:880px){
+  .hero__grid{ grid-template-columns:1fr; gap:32px; }
+}
+
+/* the fine print block */
+.fineprint{
+  font-family:var(--serif);
+  font-size:11.5px;
+  line-height:1.72;
+  color:var(--ink-soft);
+  text-align:justify;
+  hyphens:auto;
+  column-count:2;
+  column-gap:22px;
+  max-height:340px;
+  overflow:hidden;
+  position:relative;
+  -webkit-mask-image:linear-gradient(180deg,#000 0%,#000 62%,transparent 100%);
+  mask-image:linear-gradient(180deg,#000 0%,#000 62%,transparent 100%);
+}
+.fineprint b{ font-weight:500; color:var(--ink-mid); }
+.fineprint__label{
+  font-family:var(--mono);
+  font-size:10px; letter-spacing:.14em; text-transform:uppercase;
+  color:var(--ink-soft);
+  display:block; margin-bottom:12px;
+  padding-bottom:8px;
+  border-bottom:1px solid var(--rule);
+  column-span:all;
+}
+@media (max-width:520px){ .fineprint{ column-count:1; max-height:250px; } }
+
+/* the annotation */
+.hero__say{
+  font-family:var(--sans);
+  font-weight:700;
+  font-size:clamp(30px,4.4vw,50px);
+  line-height:1.08;
+  letter-spacing:-.028em;
+  margin:0 0 22px;
+  text-wrap:balance;
+}
+.hero__sub{
+  font-size:16.5px;
+  color:var(--ink-mid);
+  max-width:40ch;
+  margin:0 0 28px;
+}
+.hero__eyebrow{
+  display:inline-flex; align-items:center; gap:8px;
+  color:var(--pen);
+  margin-bottom:18px;
+}
+.hero__eyebrow::before{
+  content:""; width:22px; height:1px; background:var(--pen);
+}
+
+.stats{
+  display:flex; flex-wrap:wrap; gap:0;
+  border-top:1px solid var(--rule);
+  margin-top:clamp(40px,6vw,64px);
+}
+.stat{
+  padding:16px 26px 18px 0;
+  margin-right:26px;
+  border-right:1px solid var(--rule);
+}
+.stat:last-child{ border-right:0; }
+.stat__n{
+  font-family:var(--sans);
+  font-size:26px; font-weight:600; letter-spacing:-.02em;
+  line-height:1.1;
+}
+.stat__l{ color:var(--ink-soft); margin-top:2px; }
+
+/* ============================================================
+   CONTROLS
+   ============================================================ */
+.controls{
+  position:sticky; top:56px; z-index:30;
+  background:var(--paper);
+  border-bottom:1px solid var(--rule);
+  padding:14px 0;
+}
+.controls__in{
+  display:flex; align-items:center; gap:14px; flex-wrap:wrap;
+}
+.search{
+  flex:1 1 260px;
+  display:flex; align-items:center; gap:9px;
+  border:1px solid var(--rule-hard);
+  background:var(--paper-2);
+  border-radius:2px;
+  padding:0 12px;
+  height:38px;
+  min-width:0;
+}
+.search:focus-within{ border-color:var(--pen); box-shadow:0 0 0 3px var(--pen-wash); }
+.search svg{ flex:none; color:var(--ink-soft); }
+.search input{
+  border:0; background:transparent; outline:none;
+  font-family:var(--sans); font-size:14.5px; color:var(--ink);
+  width:100%; height:100%; min-width:0;
+}
+.search input::placeholder{ color:var(--ink-soft); }
+
+.chips{ display:flex; gap:6px; flex-wrap:wrap; }
+.chip{
+  font-family:var(--mono); font-size:10.5px; letter-spacing:.08em; text-transform:uppercase;
+  border:1px solid var(--rule-hard);
+  background:var(--paper-2);
+  color:var(--ink-mid);
+  padding:8px 12px;
+  border-radius:2px;
+  cursor:pointer;
+  white-space:nowrap;
+  transition:background .13s, color .13s, border-color .13s;
+}
+.chip:hover{ border-color:var(--ink-soft); }
+.chip[aria-pressed="true"]{
+  background:var(--ink); color:var(--paper); border-color:var(--ink);
+}
+
+/* ============================================================
+   CARD GRID
+   ============================================================ */
+.results{ padding:clamp(30px,5vw,52px) 0 clamp(60px,9vw,110px); }
+.results__count{
+  color:var(--ink-soft);
+  margin-bottom:20px;
+  display:block;
+}
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(310px,1fr));
+  gap:1px;
+  background:var(--rule);
+  border:1px solid var(--rule);
+}
+@media (max-width:400px){
+  .grid{ grid-template-columns:1fr; }
+}
+
+.card{
+  background:var(--paper-2);
+  border:0;
+  text-align:left;
+  font-family:inherit;
+  padding:22px 22px 20px;
+  cursor:pointer;
+  display:flex; flex-direction:column; gap:12px;
+  position:relative;
+  transition:background .15s;
+  min-height:214px;
+}
+.card:hover{ background:#FCFCFB; }
+.card::after{
+  content:""; position:absolute; left:0; top:0; bottom:0; width:3px;
+  background:var(--accent,var(--ink)); opacity:0;
+  transition:opacity .15s;
+}
+.card:hover::after, .card:focus-visible::after{ opacity:1; }
+
+.card__top{ display:flex; align-items:center; gap:9px; }
+.card__dot{ width:9px; height:9px; border-radius:50%; background:var(--accent,var(--ink)); flex:none; }
+.card__app{
+  font-family:var(--mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+  font-weight:600;
+}
+.card__h{
+  font-size:19.5px; font-weight:650; line-height:1.22; letter-spacing:-.018em;
+  margin:0; text-wrap:balance;
+}
+.card__sub{ color:var(--ink-mid); font-size:14px; margin:0; }
+.card__foot{
+  margin-top:auto; padding-top:14px;
+  border-top:1px solid var(--rule);
+  display:flex; align-items:center; justify-content:space-between; gap:10px;
+}
+.card__date{ color:var(--ink-soft); font-family:var(--mono); font-size:10.5px; letter-spacing:.05em; }
+
+.verdict{
+  font-family:var(--mono); font-size:10px; letter-spacing:.11em; text-transform:uppercase;
+  font-weight:600;
+  display:inline-flex; align-items:center; gap:6px;
+  white-space:nowrap;
+}
+.verdict::before{ content:""; width:6px; height:6px; }
+.verdict--MINOR{ color:var(--v-minor); }
+.verdict--MINOR::before{ background:var(--v-minor); }
+.verdict--WORTH_KNOWING{ color:var(--v-worth); }
+.verdict--WORTH_KNOWING::before{ background:var(--v-worth); }
+.verdict--IMPORTANT{ color:var(--v-important); }
+.verdict--IMPORTANT::before{ background:var(--v-important); }
+
+.empty{
+  border:1px dashed var(--rule-hard);
+  padding:48px 28px;
+  text-align:center;
+  color:var(--ink-mid);
+}
+.empty strong{ display:block; font-size:17px; margin-bottom:6px; color:var(--ink); }
+
+/* ============================================================
+   DETAIL PANEL
+   ============================================================ */
+.scrim{
+  position:fixed; inset:0; z-index:60;
+  background:rgba(22,24,29,.42);
+  backdrop-filter:blur(2px);
+  opacity:0; pointer-events:none;
+  transition:opacity .2s;
+}
+.scrim[data-open="true"]{ opacity:1; pointer-events:auto; }
+
+.panel{
+  position:fixed; z-index:61; top:0; right:0; bottom:0;
+  width:min(720px,100%);
+  background:var(--paper-2);
+  overflow-y:auto;
+  transform:translateX(102%);
+  transition:transform .3s cubic-bezier(.3,.8,.35,1);
+  box-shadow:-1px 0 0 var(--rule-hard);
+}
+.panel[data-open="true"]{ transform:none; }
+
+.panel__bar{
+  position:sticky; top:0; z-index:2;
+  background:var(--paper-2);
+  border-bottom:1px solid var(--rule);
+  display:flex; align-items:center; gap:12px;
+  padding:12px clamp(20px,4vw,38px);
+}
+.panel__close{
+  margin-left:auto;
+  border:1px solid var(--rule-hard); background:transparent;
+  border-radius:2px; cursor:pointer;
+  font-family:var(--mono); font-size:10.5px; letter-spacing:.09em; text-transform:uppercase;
+  padding:8px 12px; color:var(--ink-mid);
+}
+.panel__close:hover{ border-color:var(--ink); color:var(--ink); }
+
+.panel__body{ padding:clamp(26px,4vw,42px) clamp(20px,4vw,38px) 80px; }
+
+.panel__h{
+  font-size:clamp(27px,3.6vw,38px); font-weight:700; line-height:1.1; letter-spacing:-.028em;
+  margin:0 0 10px; text-wrap:balance;
+}
+.panel__sub{ font-size:17px; color:var(--ink-mid); margin:0 0 26px; }
+
+.meta{
+  display:flex; flex-wrap:wrap; gap:0 0;
+  border-top:1px solid var(--rule); border-bottom:1px solid var(--rule);
+  margin-bottom:32px;
+}
+.meta__i{ padding:13px 22px 14px 0; margin-right:22px; border-right:1px solid var(--rule); }
+.meta__i:last-child{ border-right:0; margin-right:0; }
+.meta__k{ color:var(--ink-soft); display:block; margin-bottom:3px; }
+.meta__v{ font-size:14px; font-weight:550; }
+
+.sec{ margin-bottom:34px; }
+.sec__k{
+  color:var(--ink-soft);
+  padding-bottom:9px; margin-bottom:16px;
+  border-bottom:1px solid var(--rule);
+  display:flex; align-items:baseline; gap:8px;
+}
+.sec__k b{ color:var(--pen); font-weight:600; }
+
+/* verbatim clause + annotation */
+.clause{
+  font-family:var(--serif);
+  font-size:15px; line-height:1.68;
+  color:var(--ink-mid);
+  background:#FAFAF8;
+  border-left:2px solid var(--rule-hard);
+  padding:16px 18px;
+  margin:0 0 14px;
+}
+.clause__src{
+  font-family:var(--mono); font-size:10px; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--ink-soft);
+  display:block; margin-top:10px;
+}
+
+/* changes list */
+.changes{ list-style:none; margin:0; padding:0; counter-reset:c; }
+.changes li{
+  display:flex; gap:14px;
+  padding:13px 0;
+  border-bottom:1px solid var(--rule);
+  font-size:15.5px;
+  align-items:baseline;
+}
+.changes li:first-child{ padding-top:0; }
+.changes li::before{
+  counter-increment:c; content:counter(c,decimal-leading-zero);
+  font-family:var(--mono); font-size:10.5px; color:var(--pen); font-weight:600;
+  flex:none; letter-spacing:.06em;
+}
+
+/* verdict block */
+.vblock{
+  border:1px solid var(--rule-hard);
+  padding:20px 22px;
+  display:flex; flex-direction:column; gap:11px;
+}
+.vblock p{ margin:0; font-size:17px; line-height:1.5; font-weight:500; text-wrap:pretty; }
+
+/* actions */
+.acts{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:1px; background:var(--rule); border:1px solid var(--rule); }
+.acts li{
+  background:var(--paper-2);
+  padding:15px 18px;
+  font-size:15.5px; font-weight:500;
+  display:flex; gap:13px; align-items:center;
+}
+.acts li svg{ flex:none; color:var(--pen); }
+
+/* categories */
+.cats{ display:flex; flex-direction:column; gap:14px; }
+.cat__t{
+  display:inline-block;
+  font-family:var(--mono); font-size:10px; letter-spacing:.1em; text-transform:uppercase; font-weight:600;
+  background:var(--pen-wash); color:var(--pen);
+  padding:5px 9px; border-radius:2px;
+  margin-bottom:6px;
+}
+.cat__e{ font-size:14.5px; color:var(--ink-mid); margin:0; }
+
+.srclink{
+  display:inline-flex; align-items:center; gap:8px;
+  font-family:var(--mono); font-size:11px; letter-spacing:.07em; text-transform:uppercase; font-weight:500;
+  color:var(--pen); text-decoration:none;
+  border-bottom:1px solid var(--pen-wash);
+  padding-bottom:3px;
+}
+.srclink:hover{ border-bottom-color:var(--pen); }
+
+/* ============================================================
+   FOOT
+   ============================================================ */
+.foot{
+  border-top:1px solid var(--rule);
+  padding:34px 0 60px;
+  color:var(--ink-soft);
+  display:flex; gap:18px; flex-wrap:wrap; align-items:center;
+}
+.foot__d{ flex:1; }
+
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{ animation-duration:.001ms !important; transition-duration:.001ms !important; }
+  .mark--draw{ background-size:100% 64%; }
+}
+</style>
+</head>
+<body>
+
+<header class="bar">
+  <div class="wrap bar__in">
+    <a href="#" class="logo">TOS<span>/</span>MONITOR</a>
+    <div class="bar__spacer"></div>
+    <span class="bar__note" id="lastRun">Checked daily · last run —</span>
+  </div>
+</header>
+
+<!-- ================= HERO ================= -->
+<section class="hero">
+  <div class="wrap">
+    <div class="hero__grid">
+
+      <div class="fineprint" aria-hidden="true">
+        <span class="fineprint__label">What they wrote</span>
+        <p>...and any amendments thereto. <b>1.4</b> By continuing to access or use the Service following the posting of revisions, you agree to be bound by the revised Terms. We reserve the right, in our sole discretion, to modify, suspend, or discontinue the Service or any portion thereof at any time, with or without notice, and we shall not be liable to you or to any third party for any such modification, suspension, or discontinuance.</p>
+        <p><b>1.5</b> You grant us a worldwide, non-exclusive, royalty-free, sublicensable and transferable license to host, store, cache, use, display, reproduce, modify, adapt, edit, publish, analyze, transmit, and distribute content that you submit, post, or display on or through the Service, for the limited purposes of operating, developing, providing, and improving the Service and researching and developing new products and features.</p>
+        <p><b>2.1</b> <span class="mark mark--draw">We may share information about you with our affiliates, service providers, and business partners.</span> Categories of recipients include analytics providers, advertising networks, payment processors, and entities with which we enter into a corporate transaction, including a merger, acquisition, reorganization, or sale of assets.</p>
+        <p><b>2.2</b> Where required by applicable law, we will obtain your consent prior to such processing, or will otherwise rely upon a legitimate interest basis, including but not limited to fraud prevention, network security, and the personalization of content and advertisements, subject to your rights of objection as described in Section 9 herein.</p>
+        <p><b>2.3</b> Retention periods vary according to the nature of the data, the purposes for which it was collected, and applicable legal, regulatory, tax, accounting, or reporting requirements, and may extend beyond the closure of your account.</p>
+      </div>
+
+      <div>
+        <span class="mono hero__eyebrow">Plain English</span>
+        <h1 class="hero__say">Somebody has to read the fine print. It might as well not be you.</h1>
+        <p class="hero__sub">Every day this site checks the privacy policies and terms of service at the apps you already use. When something changes, you get the summary, the verdict, and what to actually do about it.</p>
+        <a class="srclink" href="#feed">
+          Browse the archive
+          <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6h8M6.5 2.5 10 6l-3.5 3.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+      </div>
+
+    </div>
+
+    <div class="stats">
+      <div class="stat"><div class="stat__n" id="sDocs">34</div><div class="stat__l mono">Documents watched</div></div>
+      <div class="stat"><div class="stat__n" id="sSvc">29</div><div class="stat__l mono">Services</div></div>
+      <div class="stat"><div class="stat__n" id="sPosts">0</div><div class="stat__l mono">Changes logged</div></div>
+      <div class="stat"><div class="stat__n">24h</div><div class="stat__l mono">Check interval</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= CONTROLS ================= -->
+<div class="controls" id="feed">
+  <div class="wrap controls__in">
+    <label class="search">
+      <svg width="15" height="15" viewBox="0 0 15 15" fill="none" aria-hidden="true"><circle cx="6.5" cy="6.5" r="4.5" stroke="currentColor" stroke-width="1.5"/><path d="M10 10l3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      <input type="search" id="q" placeholder="Search an app, a change, a topic…" aria-label="Search the archive">
+    </label>
+    <div class="chips" id="vFilters" role="group" aria-label="Filter by verdict"></div>
+    <div class="chips" id="cFilters" role="group" aria-label="Filter by category"></div>
+  </div>
+</div>
+
+<!-- ================= RESULTS ================= -->
+<main class="results">
+  <div class="wrap">
+    <span class="mono results__count" id="count"></span>
+    <div class="grid" id="grid"></div>
+  </div>
+</main>
+
+<footer class="foot wrap">
+  <div class="foot__d mono">TOS Monitor · Summaries are plain-English interpretations, not legal advice. Always check the source document.</div>
+  <div class="mono">@tos_monitor</div>
+</footer>
+
+<!-- ================= DETAIL PANEL ================= -->
+<div class="scrim" id="scrim" data-open="false"></div>
+<aside class="panel" id="panel" data-open="false" role="dialog" aria-modal="true" aria-labelledby="pH" tabindex="-1">
+  <div class="panel__bar">
+    <span class="card__dot" id="pDot"></span>
+    <span class="card__app" id="pApp"></span>
+    <button class="panel__close" id="pClose">Close</button>
+  </div>
+  <div class="panel__body" id="pBody"></div>
+</aside>
+
+<script>
+/* ============================================================
+   DATA
+   Drop a posts.json next to this file (an array of your
+   post.json objects) and it loads automatically. Until then
+   the sample set below renders instead.
+   ============================================================ */
+const SAMPLE = [
+  {
+    app:"Instagram", accent:"#C13584", effective:"2026-07-28",
+    headline:"Your DMs now train their AI",
+    subhead:"Opt-out exists but is buried",
+    source_url:"#", source_doc:"Privacy Policy",
+    quote:"Content you share in private messages may be used to develop and improve our generative AI features, unless you have exercised an available objection right.",
+    changes:[
+      "Private message content added to AI training sources",
+      "Objection form moved three menus deeper in settings",
+      "Retention of message data extended to 36 months",
+      "New carve-out for messages with business accounts"
+    ],
+    verdict:"IMPORTANT",
+    verdict_text:"A genuine expansion of what they read. The opt-out works, but almost nobody will find it on their own.",
+    actions:[
+      "Settings → Privacy → AI at Meta → Object",
+      "Submit the form once per linked account",
+      "Screenshot your confirmation email"
+    ],
+    categories:[
+      {tag:"AI Training", explanation:"Your content becomes input for models you get no stake in."},
+      {tag:"Data Retention", explanation:"They keep message data three years past the conversation."},
+      {tag:"Dark Pattern", explanation:"The objection path got longer in the same update that expanded collection."}
+    ]
+  },
+  {
+    app:"DraftKings", accent:"#53D337", effective:"2026-07-19",
+    headline:"Location data shared with ad partners",
+    subhead:"Geolocation goes beyond compliance use",
+    source_url:"#", source_doc:"Privacy Policy",
+    quote:"Precise geolocation collected for regulatory compliance purposes may also be disclosed to advertising partners for measurement and audience segmentation.",
+    changes:[
+      "Compliance geolocation now doubles as ad targeting data",
+      "New disclosure to third-party measurement vendors",
+      "NJ users covered under a separate state addendum",
+      "Opt-out does not affect compliance collection"
+    ],
+    verdict:"IMPORTANT",
+    verdict_text:"The location tracking that regulators require is now feeding advertisers too. Those are very different purposes.",
+    actions:[
+      "Account → Privacy → Opt out of ad sharing",
+      "Set phone location to While Using only",
+      "File a NJ DPA request for your data copy"
+    ],
+    categories:[
+      {tag:"Location", explanation:"Precise geolocation is the most sensitive thing a betting app holds."},
+      {tag:"Third-Party Sharing", explanation:"Ad partners receive data collected under a compliance justification."},
+      {tag:"NJ Relevant", explanation:"New Jersey has its own addendum and its own opt-out rights."}
+    ]
+  },
+  {
+    app:"Oura", accent:"#1B1B1F", effective:"2026-07-11",
+    headline:"Health data policy adds research sharing",
+    subhead:"De-identified, but broadly defined",
+    source_url:"#", source_doc:"Privacy Policy",
+    quote:"We may share de-identified health metrics with academic and commercial research partners for the purpose of advancing sleep and cardiovascular science.",
+    changes:[
+      "Commercial research partners added alongside academic ones",
+      "De-identification standard not specified in the policy",
+      "Sharing is on by default for new accounts",
+      "Existing users keep prior settings until January"
+    ],
+    verdict:"WORTH_KNOWING",
+    verdict_text:"De-identified health data is rarely as anonymous as it sounds, and commercial partners are a meaningful addition.",
+    actions:[
+      "App → Settings → Data → Research sharing",
+      "Toggle off before the January migration",
+      "Export your data history first"
+    ],
+    categories:[
+      {tag:"Health Data", explanation:"Sleep and heart metrics are among the most revealing data you generate."},
+      {tag:"Default On", explanation:"New accounts are enrolled unless they opt out."},
+      {tag:"Anonymization", explanation:"The policy does not define what standard de-identification meets."}
+    ]
+  },
+  {
+    app:"ACME Markets", accent:"#E4002B", effective:"2026-07-02",
+    headline:"Loyalty card purchases sold to brands",
+    subhead:"For Points members in NJ and PA",
+    source_url:"#", source_doc:"Loyalty Program Terms",
+    quote:"Purchase history associated with your loyalty account may be provided to consumer packaged goods manufacturers for the purpose of measuring promotional effectiveness.",
+    changes:[
+      "Item-level purchase history shared with CPG brands",
+      "Sharing framed as a service, not a sale",
+      "Applies to all Albertsons banner stores",
+      "Opt-out is phone-only, not in the app"
+    ],
+    verdict:"WORTH_KNOWING",
+    verdict_text:"Your grocery list is being read by brand marketers. Legally this may not count as a sale, but the effect is similar.",
+    actions:[
+      "Call the loyalty line to opt out",
+      "Ask for written confirmation of removal",
+      "Use the store card without linking your phone"
+    ],
+    categories:[
+      {tag:"Data Sale", explanation:"Framed as a service arrangement rather than a sale under state law."},
+      {tag:"NJ Relevant", explanation:"ACME and Kings operate across New Jersey under the Albertsons umbrella."},
+      {tag:"Dark Pattern", explanation:"Opt-out requires a phone call while opt-in happens at signup."}
+    ]
+  },
+  {
+    app:"Spotify", accent:"#1DB954", effective:"2026-06-24",
+    headline:"Listening history feeds ad profiles",
+    subhead:"Free tier only, for now",
+    source_url:"#", source_doc:"Privacy Policy",
+    quote:"For users on the ad-supported tier, inferences drawn from listening activity may be used to select and measure advertising delivered within the Service.",
+    changes:[
+      "Mood and genre inferences added to ad targeting",
+      "Podcast listening included in the profile",
+      "Premium accounts explicitly excluded",
+      "Inference data retained for 24 months"
+    ],
+    verdict:"WORTH_KNOWING",
+    verdict_text:"What you listen to when you are sad is now an advertising signal. Premium users are carved out.",
+    actions:[
+      "Settings → Privacy → Tailored ads off",
+      "Review your inferred interests list",
+      "Clear listening history if you switch tiers"
+    ],
+    categories:[
+      {tag:"Behavioral Ads", explanation:"Listening patterns become inferred traits used to target you."},
+      {tag:"Inference", explanation:"They derive mood and interest data you never entered."}
+    ]
+  },
+  {
+    app:"ChatGPT", accent:"#10A37F", effective:"2026-06-15",
+    headline:"Memory now on by default",
+    subhead:"Conversations persist across sessions",
+    source_url:"#", source_doc:"Privacy Policy",
+    quote:"Persistent memory is enabled by default for new consumer accounts and retains details from prior conversations to personalize future responses.",
+    changes:[
+      "Memory defaults to on for new accounts",
+      "Stored memories retained until manually deleted",
+      "Memory contents excluded from training by default",
+      "Enterprise and edu accounts unaffected"
+    ],
+    verdict:"WORTH_KNOWING",
+    verdict_text:"Useful feature, real trade-off. Anything you mention once can resurface later, including things you would not repeat.",
+    actions:[
+      "Settings → Personalization → Manage memory",
+      "Delete memories you did not intend to save",
+      "Use temporary chat for sensitive questions"
+    ],
+    categories:[
+      {tag:"Default On", explanation:"Enabled without an explicit choice at signup."},
+      {tag:"Data Retention", explanation:"Memories persist indefinitely unless you remove them."}
+    ]
+  },
+  {
+    app:"PayPal", accent:"#003087", effective:"2026-06-08",
+    headline:"Arbitration clause quietly widened",
+    subhead:"Now covers more account disputes",
+    source_url:"#", source_doc:"User Agreement",
+    quote:"Claims arising from account limitations, holds, and reserve requirements are subject to the arbitration provision set forth in this section.",
+    changes:[
+      "Account holds and reserves added to arbitration scope",
+      "Opt-out window shortened to 30 days",
+      "Small claims carve-out preserved",
+      "Class action waiver language unchanged"
+    ],
+    verdict:"IMPORTANT",
+    verdict_text:"If PayPal freezes your money, you now have fewer ways to fight it. The opt-out window is short.",
+    actions:[
+      "Mail the arbitration opt-out within 30 days",
+      "Keep a copy with a postmark date",
+      "Do not keep large balances in the account"
+    ],
+    categories:[
+      {tag:"Arbitration", explanation:"Disputes go to a private arbitrator instead of a court."},
+      {tag:"Opt-Out Window", explanation:"You have 30 days from the effective date to decline."}
+    ]
+  },
+  {
+    app:"Discord", accent:"#5865F2", effective:"2026-05-30",
+    headline:"Wording change, no real impact",
+    subhead:"Reorganized sections, same practices",
+    source_url:"#", source_doc:"Privacy Policy",
+    quote:"This policy has been reorganized for clarity. The categories of information we collect and the purposes for which we use it have not changed.",
+    changes:[
+      "Sections renumbered and merged",
+      "Definitions moved to a standalone glossary",
+      "No new data categories introduced",
+      "No change to sharing or retention"
+    ],
+    verdict:"MINOR",
+    verdict_text:"Genuinely just a cleanup. Nothing here changes what Discord collects or who receives it.",
+    actions:[
+      "No action needed",
+      "Skim the new glossary if curious",
+      "Revisit at the next update"
+    ],
+    categories:[
+      {tag:"Cosmetic", explanation:"Structural edits with no substantive effect on your data."}
+    ]
+  }
+];
+
+/* ---------- state ---------- */
+let POSTS = SAMPLE;
+let fVerdict = "ALL";
+let fCat = "ALL";
+let fQ = "";
+let lastFocus = null;
+
+const $ = s => document.querySelector(s);
+const grid = $("#grid"), countEl = $("#count");
+
+const VERDICTS = [
+  ["ALL","All"],
+  ["IMPORTANT","Important"],
+  ["WORTH_KNOWING","Worth knowing"],
+  ["MINOR","Minor"]
+];
+const VLABEL = { IMPORTANT:"Important", WORTH_KNOWING:"Worth knowing", MINOR:"Minor" };
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+const fmtDate = d => {
+  const t = new Date(d + "T00:00:00");
+  return isNaN(t) ? String(d)
+    : t.toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
+};
+
+/* ---------- load ---------- */
+async function boot(){
+  try{
+    const r = await fetch("posts.json",{cache:"no-store"});
+    if(r.ok){
+      const d = await r.json();
+      const arr = Array.isArray(d) ? d : d.posts;
+      if(Array.isArray(arr) && arr.length) POSTS = arr;
+    }
+  }catch(e){ /* sample data stands in */ }
+
+  POSTS = POSTS.slice().sort((a,b)=> String(b.effective).localeCompare(String(a.effective)));
+  $("#sPosts").textContent = POSTS.length;
+  $("#sSvc").textContent = new Set(POSTS.map(p=>p.app)).size || 29;
+  if(POSTS[0]) $("#lastRun").textContent = "Checked daily · last change " + fmtDate(POSTS[0].effective);
+
+  buildFilters();
+  render();
+}
+
+/* ---------- filters ---------- */
+function buildFilters(){
+  $("#vFilters").innerHTML = VERDICTS.map(([v,l]) =>
+    `<button class="chip" data-v="${v}" aria-pressed="${v===fVerdict}">${l}</button>`).join("");
+
+  const tally = {};
+  POSTS.forEach(p => (p.categories||[]).forEach(c => { tally[c.tag] = (tally[c.tag]||0)+1; }));
+  const top = Object.entries(tally).sort((a,b)=>b[1]-a[1]).slice(0,5).map(e=>e[0]);
+
+  $("#cFilters").innerHTML =
+    `<button class="chip" data-c="ALL" aria-pressed="true">All topics</button>` +
+    top.map(t => `<button class="chip" data-c="${esc(t)}" aria-pressed="false">${esc(t)}</button>`).join("");
+
+  $("#vFilters").onclick = e => {
+    const b = e.target.closest("[data-v]"); if(!b) return;
+    fVerdict = b.dataset.v;
+    [...$("#vFilters").children].forEach(c => c.setAttribute("aria-pressed", c===b));
+    render();
+  };
+  $("#cFilters").onclick = e => {
+    const b = e.target.closest("[data-c]"); if(!b) return;
+    fCat = b.dataset.c;
+    [...$("#cFilters").children].forEach(c => c.setAttribute("aria-pressed", c===b));
+    render();
+  };
+  $("#q").oninput = e => { fQ = e.target.value.toLowerCase().trim(); render(); };
+}
+
+function matches(p){
+  if(fVerdict !== "ALL" && p.verdict !== fVerdict) return false;
+  if(fCat !== "ALL" && !(p.categories||[]).some(c => c.tag === fCat)) return false;
+  if(!fQ) return true;
+  const hay = [p.app,p.headline,p.subhead,p.verdict_text,
+    ...(p.changes||[]), ...(p.actions||[]),
+    ...(p.categories||[]).flatMap(c=>[c.tag,c.explanation])].join(" ").toLowerCase();
+  return hay.includes(fQ);
+}
+
+/* ---------- render ---------- */
+function render(){
+  const list = POSTS.filter(matches);
+  countEl.textContent = list.length === POSTS.length
+    ? `${list.length} changes logged`
+    : `${list.length} of ${POSTS.length} changes`;
+
+  if(!list.length){
+    grid.style.cssText = "display:block;background:none;border:0";
+    grid.innerHTML = `<div class="empty"><strong>Nothing matches that yet.</strong>
+      Try a broader topic, or clear the search to see everything in the archive.</div>`;
+    return;
+  }
+  grid.style.cssText = "";
+
+  grid.innerHTML = list.map((p,i) => `
+    <button class="card" data-i="${POSTS.indexOf(p)}" style="--accent:${esc(p.accent||"#16181D")}">
+      <div class="card__top">
+        <span class="card__dot"></span>
+        <span class="card__app">${esc(p.app)}</span>
+      </div>
+      <h3 class="card__h">${esc(p.headline)}</h3>
+      <p class="card__sub">${esc(p.subhead)}</p>
+      <div class="card__foot">
+        <span class="verdict verdict--${esc(p.verdict)}">${esc(VLABEL[p.verdict]||p.verdict)}</span>
+        <span class="card__date">Eff. ${esc(fmtDate(p.effective))}</span>
+      </div>
+    </button>`).join("");
+
+  grid.querySelectorAll(".card").forEach(c =>
+    c.onclick = () => openPost(POSTS[+c.dataset.i], c));
+}
+
+/* ---------- detail ---------- */
+const ICON = `<svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M2.5 7.4 5.5 10.4 11.5 4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
+function openPost(p, trigger){
+  lastFocus = trigger || null;
+  $("#pApp").textContent = p.app;
+  $("#pDot").style.background = p.accent || "#16181D";
+
+  $("#pBody").innerHTML = `
+    <h2 class="panel__h" id="pH">${esc(p.headline)}</h2>
+    <p class="panel__sub">${esc(p.subhead)}</p>
+
+    <div class="meta">
+      <div class="meta__i"><span class="meta__k mono">Effective</span><span class="meta__v">${esc(fmtDate(p.effective))}</span></div>
+      <div class="meta__i"><span class="meta__k mono">Document</span><span class="meta__v">${esc(p.source_doc || "Policy")}</span></div>
+      <div class="meta__i"><span class="meta__k mono">Verdict</span><span class="meta__v verdict verdict--${esc(p.verdict)}">${esc(VLABEL[p.verdict]||p.verdict)}</span></div>
+    </div>
+
+    ${p.quote ? `
+    <div class="sec">
+      <div class="sec__k mono"><b>§</b> What they wrote</div>
+      <p class="clause"><span class="mark">${esc(p.quote)}</span>
+        <span class="clause__src">${esc(p.app)} ${esc(p.source_doc||"Policy")} · ${esc(fmtDate(p.effective))}</span>
+      </p>
+    </div>` : ``}
+
+    <div class="sec">
+      <div class="sec__k mono"><b>§</b> What changed</div>
+      <ol class="changes">${(p.changes||[]).map(c=>`<li><span>${esc(c)}</span></li>`).join("")}</ol>
+    </div>
+
+    <div class="sec">
+      <div class="sec__k mono"><b>§</b> What it means for you</div>
+      <div class="vblock">
+        <span class="verdict verdict--${esc(p.verdict)}">${esc(VLABEL[p.verdict]||p.verdict)}</span>
+        <p>${esc(p.verdict_text)}</p>
+      </div>
+    </div>
+
+    <div class="sec">
+      <div class="sec__k mono"><b>§</b> What to do</div>
+      <ul class="acts">${(p.actions||[]).map(a=>`<li>${ICON}<span>${esc(a)}</span></li>`).join("")}</ul>
+    </div>
+
+    <div class="sec">
+      <div class="sec__k mono"><b>§</b> Topics</div>
+      <div class="cats">${(p.categories||[]).map(c=>`
+        <div><span class="cat__t">${esc(c.tag)}</span><p class="cat__e">${esc(c.explanation)}</p></div>`).join("")}
+      </div>
+    </div>
+
+    ${p.source_url ? `<a class="srclink" href="${esc(p.source_url)}" target="_blank" rel="noopener">
+      Read the original document
+      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M4 2h6v6M10 2 3 9" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>` : ``}
+  `;
+
+  $("#panel").dataset.open = "true";
+  $("#scrim").dataset.open = "true";
+  document.body.style.overflow = "hidden";
+  $("#panel").scrollTop = 0;
+  $("#panel").focus();
+}
+
+function closePost(){
+  $("#panel").dataset.open = "false";
+  $("#scrim").dataset.open = "false";
+  document.body.style.overflow = "";
+  if(lastFocus) lastFocus.focus();
+}
+$("#pClose").onclick = closePost;
+$("#scrim").onclick = closePost;
+document.addEventListener("keydown", e => {
+  if(e.key === "Escape" && $("#panel").dataset.open === "true") closePost();
+});
+
+boot();
+</script>
+</body>
+</html>
