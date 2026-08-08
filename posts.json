@@ -1,0 +1,22 @@
+[
+  {
+    "app": "WhatsApp",
+    "accent": "#25D366",
+    "headline": "WhatsApp just updated its privacy policy",
+    "subhead": "A video selfie may be involved. Here's the TL;DR",
+    "effective": "Effective July 2, 2026",
+    "changes": [
+      "A third-party service can now estimate your age from a video selfie",
+      "Usernames are here \u2014 people can reach you without your phone number",
+      "Meta can now store your encrypted chat backups on its servers",
+      "New parental controls give parents insights into linked teen accounts"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Your chats stay end-to-end encrypted. But video-selfie age checks are new territory \u2014 know your options before you're asked.",
+    "actions": [
+      "Set a username when it rolls out \u2014 stop sharing your number",
+      "Review Settings \u2192 Privacy: who sees your photo and info",
+      "Read the full policy and the exact changes \u2014 link in bio"
+    ]
+  }
+]
