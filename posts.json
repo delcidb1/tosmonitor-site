@@ -1,10 +1,241 @@
 [
   {
+    "app": "Snapchat",
+    "accent": "#FFFC00",
+    "headline": "Snapchat's privacy policy just got updated",
+    "subhead": "Face data, age inference, and AI changes explained",
+    "effective": "2026-09-01",
+    "changes": [
+      "Snapchat may now scan faces in your Memories for grouping and search features.",
+      "Snap can infer or verify your age from content and activity you provide.",
+      "Automated tools now explicitly scan content to detect policy violations and check age.",
+      "AI Features section clarified: your My AI chats help train Snap's AI models."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "New face-grouping data use and age-inference language are meaningful expansions of how Snap processes your personal content.",
+    "actions": [
+      "Check Memories settings and disable face grouping features if unwanted.",
+      "Review My AI chat history and delete anything you don't want used for training.",
+      "Visit Snapchat's Privacy Center to audit what data Snap holds about you."
+    ],
+    "categories": [
+      {
+        "tag": "AI Training",
+        "explanation": "The updated policy clarifies that content shared with My AI, including text, images, and location, is used as input to generate outputs and improve AI model responses, making the AI training use more explicit than before."
+      },
+      {
+        "tag": "Permissions",
+        "explanation": "Snapchat added new language allowing it to use face detection information from your Memories for grouping, search, and personalisation features, representing an expanded use of biometric-adjacent data from your camera roll."
+      }
+    ],
+    "source_doc": "Policy"
+  },
+  {
+    "app": "Google",
+    "accent": "#4285F4",
+    "headline": "Google quietly trimmed its privacy policy navigation",
+    "subhead": "Navigation links removed \u2014 but what else changed?",
+    "effective": "2026-08-04",
+    "changes": [
+      "Only navigation menu links were removed from the policy page",
+      "No substantive data collection or sharing rules appear changed",
+      "Policy text body and user-facing terms remain intact"
+    ],
+    "verdict": "MINOR",
+    "verdict_text": "The diff shows only duplicate navigation links removed. No actual policy language affecting user data was changed.",
+    "actions": [
+      "Re-read Google's full privacy policy at policies.google.com/privacy",
+      "Check your Google Account data settings at myaccount.google.com",
+      "Follow @tos_monitor for alerts if substantive changes appear"
+    ],
+    "categories": [],
+    "source_doc": "Policy"
+  },
+  {
+    "post_type": "tldr",
+    "app": "Amazon Privacy",
+    "doc": "Privacy Policy",
+    "headline": "What Amazon already collects, keeps, and shares about you.",
+    "subhead": "The policy you agreed to by using Amazon \u2014 explained plainly.",
+    "effective": "2026-08-01",
+    "changes": [
+      "In-store cameras, sensors, and computer vision track your physical movements and product interactions.",
+      "Amazon shares your advertising identifier and ad-value estimates with ad companies, who may then use it to target you for other advertisers.",
+      "In a sale or acquisition, your personal data transfers to the new owner as a business asset.",
+      "When you update personal info, Amazon keeps a copy of the old version in its records \u2014 indefinitely."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Most practices here are industry-standard. The physical store surveillance and the ad-value data sharing with third-party ad networks are the details most users would not expect.",
+    "actions": [
+      "Visit Your Ads Privacy Choices at amazon.com to limit ad targeting.",
+      "Go to Data Privacy Queries to request access to or deletion of your data.",
+      "Review and edit your browsing history at amazon.com/gp/history to reduce recommendation tracking."
+    ],
+    "categories": [
+      {
+        "tag": "Third-Party Sharing",
+        "explanation": "Amazon shares your advertising identifier and an estimate of your ad value with external ad companies, who may use it to serve you ads from other advertisers entirely."
+      },
+      {
+        "tag": "Data Retention",
+        "explanation": "When you update personal information such as your address or profile details, Amazon retains a copy of the previous version in its records with no stated time limit."
+      },
+      {
+        "tag": "Permissions",
+        "explanation": "Amazon's physical stores use cameras, computer vision, and sensors to record your movements and which products you interact with while shopping in person."
+      }
+    ],
+    "accent": "#16181D",
+    "source_doc": "Privacy Policy"
+  },
+  {
+    "post_type": "tldr",
+    "app": "Amazon Terms",
+    "doc": "Privacy Policy",
+    "headline": "What Amazon's terms already let them do with your content",
+    "subhead": "Reviews, posts, and content you submit belong to Amazon forever.",
+    "effective": "2026-08-01",
+    "changes": [
+      "Any review or photo you post grants Amazon a permanent, royalty-free, worldwide license.",
+      "That license is irrevocable and sublicensable - Amazon can pass your content to others.",
+      "Disputes go to King County, Washington courts only - jury trial waived by both sides.",
+      "App permissions for Amazon apps are acknowledged but details are not listed in this document."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "The perpetual content license and jury-trial waiver are standard in big-tech terms but broader than most users realize. No evidence of data sale in these excerpts.",
+    "actions": [
+      "Avoid posting original creative content in Amazon reviews.",
+      "Note that disputes must be filed in Washington state courts, not locally.",
+      "Check Amazon's separate app permissions page before installing Amazon apps."
+    ],
+    "categories": [
+      {
+        "tag": "Arbitration",
+        "explanation": "You agreed that any dispute with Amazon must be settled in Washington state courts and that neither side gets a jury trial."
+      },
+      {
+        "tag": "Permissions",
+        "explanation": "Amazon apps request device permissions, but the actual list of those permissions is not described in this document - only linked externally."
+      }
+    ],
+    "accent": "#16181D",
+    "source_doc": "Privacy Policy"
+  },
+  {
+    "app": "Instagram",
+    "accent": "#E1306C",
+    "headline": "Instagram tightens rules on automated data collection",
+    "subhead": "New terms govern bots, scrapers, and data harvesting",
+    "effective": "2026-07-28",
+    "changes": [
+      "Automated scraping now governed by a formal 'Automated Data Collection Terms' document",
+      "Instagram can revoke permission for any automated data collection at any time",
+      "Bots and scrapers must comply with the new terms even if previously allowed",
+      "Clarifies that automated access rules apply whether or not you're logged in"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "This formalises and expands restrictions on scraping and bots, and gives Instagram broader power to revoke access without notice.",
+    "actions": [
+      "If you use any automation tools on Instagram, review the new Automated Data Collection Terms",
+      "Developers or businesses using the API should audit their current data practices now",
+      "Regular users: no action needed, but know Instagram is cracking down on scrapers"
+    ],
+    "source_doc": "Policy",
+    "categories": []
+  },
+  {
+    "app": "Discord",
+    "accent": "#5865F2",
+    "headline": "Discord clarifies it never stores your screen shares",
+    "subhead": "One key data retention line quietly rewritten",
+    "effective": "2026-07-24",
+    "changes": [
+      "Discord now explicitly states it does NOT store your screen-share content",
+      "Previous wording was ambiguous; new version clearly separates screen content from thumbnails",
+      "Thumbnail cover image from your stream is still retained for a short time",
+      "No new data is collected \u2014 this is a clarification, not an expansion"
+    ],
+    "verdict": "MINOR",
+    "verdict_text": "This is a wording clarification, not a new data practice. Users gain slightly more transparency about screen-share storage.",
+    "actions": [
+      "No action needed \u2014 your screen-share content was never stored under old policy either",
+      "Review Discord's privacy settings if you regularly screen-share sensitive content",
+      "Follow @tos_monitor to catch any future changes that do expand data collection"
+    ],
+    "source_doc": "Policy",
+    "categories": []
+  },
+  {
+    "app": "Facebook",
+    "accent": "#1877F2",
+    "headline": "Facebook rewrites how Meta AI uses your data",
+    "subhead": "Your interests and location now feed Meta AI responses",
+    "effective": "2026-07-23",
+    "changes": [
+      "Meta AI now uses your interests, location, friends, and partner data to personalize responses",
+      "New policy section explicitly describes how your profile fuels Meta AI recommendations",
+      "'AI at Meta' rebranded to 'Meta AI features' throughout, clarifying scope of data use",
+      "Large sections of explanatory annotations removed, making the policy shorter but less detailed"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "A new explicit section confirms your full profile\u2014interests, location, third-party data\u2014is used to personalize Meta AI. Users should know this.",
+    "actions": [
+      "Review your Meta AI data settings at facebook.com/privacy/genai",
+      "Check Ad Preferences and limit data used for personalization in Accounts Center",
+      "Use 'Your activity off Meta technologies' tool to restrict third-party data sharing"
+    ],
+    "source_doc": "Policy",
+    "categories": []
+  },
+  {
+    "app": "Robinhood",
+    "accent": "#00C805",
+    "headline": "Robinhood adds Platinum Credit Card to privacy policy",
+    "subhead": "New card product means new data collection scope.",
+    "effective": "2026-07-22",
+    "changes": [
+      "Robinhood Platinum Credit Card now listed as a covered product",
+      "Credit card usage data likely collected under existing policy terms",
+      "Expanded product scope may mean more financial data sharing with partners"
+    ],
+    "verdict": "MINOR",
+    "verdict_text": "Only a new product name was added to the policy scope. No changes to data use, sharing, or user rights detected.",
+    "actions": [
+      "Review what data Robinhood collects for credit card products",
+      "Check if you hold or plan to get the Platinum Credit Card",
+      "Visit Robinhood's privacy policy page for full data-sharing details"
+    ],
+    "source_doc": "Policy",
+    "categories": []
+  },
+  {
+    "app": "Netflix",
+    "accent": "#E50914",
+    "headline": "Netflix quietly removed advertiser data-sharing disclosure",
+    "subhead": "One line about your viewing history just vanished",
+    "effective": "2026-07-20",
+    "changes": [
+      "Netflix deleted the line saying it shares your viewing history with advertisers",
+      "The removal makes data-sharing practices less transparent to users",
+      "It's unclear if the practice stopped or just the disclosure was removed",
+      "Ad-supported plan subscribers may still have viewing data shared"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Removing an explicit disclosure about advertiser data-sharing raises transparency concerns, especially for users on Netflix's ad-supported tier.",
+    "actions": [
+      "Check your Netflix privacy settings and limit ad personalization if possible",
+      "Review Netflix's full Privacy Statement for current data-sharing details",
+      "Consider whether the ad-supported plan aligns with your privacy comfort level"
+    ],
+    "source_doc": "Policy",
+    "categories": []
+  },
+  {
     "app": "WhatsApp",
     "accent": "#25D366",
     "headline": "WhatsApp just updated its privacy policy",
     "subhead": "A video selfie may be involved. Here's the TL;DR",
-    "effective": "Effective July 2, 2026",
+    "effective": "2026-07-02",
     "changes": [
       "A third-party service can now estimate your age from a video selfie",
       "Usernames are here \u2014 people can reach you without your phone number",
@@ -17,6 +248,8 @@
       "Set a username when it rolls out \u2014 stop sharing your number",
       "Review Settings \u2192 Privacy: who sees your photo and info",
       "Read the full policy and the exact changes \u2014 link in bio"
-    ]
+    ],
+    "source_doc": "Policy",
+    "categories": []
   }
 ]
