@@ -31,6 +31,27 @@
     "source_doc": "Policy"
   },
   {
+    "app": "Steam",
+    "accent": "#1b2838",
+    "headline": "Steam quietly swapped its EU privacy contact",
+    "subhead": "A new company now handles your EU data questions",
+    "effective": "2026-08-10",
+    "changes": [
+      "Steam replaced its EU data-protection representative with a new firm.",
+      "Old rep: Valve GmbH i.L. \u2014 New rep: RIVACY GmbH in Hamburg.",
+      "The contact address for EU privacy questions has changed."
+    ],
+    "verdict": "MINOR",
+    "verdict_text": "Only the EU representative contact details changed. No data practices, retention rules, or sharing policies were altered.",
+    "actions": [
+      "If you have a pending EU data request, use the new RIVACY GmbH address.",
+      "Check Steam's privacy page for updated contact details before submitting requests.",
+      "No action needed if you are outside the EU or have no active requests."
+    ],
+    "categories": [],
+    "source_doc": "Policy"
+  },
+  {
     "app": "Google",
     "accent": "#4285F4",
     "headline": "Google quietly trimmed its privacy policy navigation",
