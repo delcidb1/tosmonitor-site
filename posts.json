@@ -31,6 +31,33 @@
     "source_doc": "Policy"
   },
   {
+    "app": "Twitch",
+    "accent": "#9146FF",
+    "headline": "Twitch now uses your data to train AI",
+    "subhead": "Your activity feeds Twitch and Amazon's generative AI.",
+    "effective": "2026-08-13",
+    "changes": [
+      "Twitch explicitly added AI and machine learning training as a use of your data.",
+      "Your data may now be used to develop or deploy Amazon's generative AI models.",
+      "This applies across Twitch products and Amazon's broader services ecosystem.",
+      "A link to Amazon's Generative AI Disclosure was added for more detail."
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "Twitch has explicitly added AI training \u2014 including generative AI \u2014 as a permitted use of all user data, with no opt-out mentioned in the diff.",
+    "actions": [
+      "Visit Twitch's Privacy Choices page to review your current data options.",
+      "Check Amazon's Generative AI Development Disclosure linked in the policy.",
+      "Consider what activity you share publicly on Twitch going forward."
+    ],
+    "categories": [
+      {
+        "tag": "AI Training",
+        "explanation": "Twitch added explicit language permitting user data to be used for machine learning and generative AI model development across Twitch and Amazon's products, a use not previously stated in the policy."
+      }
+    ],
+    "source_doc": "Policy"
+  },
+  {
     "app": "Steam",
     "accent": "#1b2838",
     "headline": "Steam quietly swapped its EU privacy contact",
