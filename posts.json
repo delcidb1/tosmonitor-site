@@ -35,7 +35,7 @@
     "accent": "#9146FF",
     "headline": "Twitch now uses your data to train AI",
     "subhead": "Your activity feeds Twitch and Amazon's generative AI.",
-    "effective": "2026-08-13",
+    "effective": "2026-08-14",
     "changes": [
       "Twitch explicitly added AI and machine learning training as a use of your data.",
       "Your data may now be used to develop or deploy Amazon's generative AI models.",
