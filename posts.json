@@ -35,7 +35,7 @@
     "accent": "#9146FF",
     "headline": "Twitch now uses your data to train AI",
     "subhead": "Your activity feeds Twitch and Amazon's generative AI.",
-    "effective": "2026-08-14",
+    "effective": "2026-08-15",
     "changes": [
       "Twitch explicitly added AI and machine learning training as a use of your data.",
       "Your data may now be used to develop or deploy Amazon's generative AI models.",
@@ -53,6 +53,33 @@
       {
         "tag": "AI Training",
         "explanation": "Twitch added explicit language permitting user data to be used for machine learning and generative AI model development across Twitch and Amazon's products, a use not previously stated in the policy."
+      }
+    ],
+    "source_doc": "Policy"
+  },
+  {
+    "app": "Amazon",
+    "accent": "#FF9900",
+    "headline": "Amazon now requires arbitration, drops jury trials",
+    "subhead": "Big dispute-resolution overhaul affects every US shopper.",
+    "effective": "2026-08-14",
+    "changes": [
+      "Disputes must now go to binding arbitration, not court",
+      "Class-action lawsuits against Amazon are now banned",
+      "You must contact customer service and wait 60 days before arbitrating",
+      "Personal injury claims from products now governed by your state's law"
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "Amazon replaced a simple court clause with extensive mandatory arbitration and a class-action waiver, significantly limiting how users can seek legal relief.",
+    "actions": [
+      "Read the new arbitration section at amazon.com/conditions",
+      "Note the 60-day pre-arbitration step before filing any claim",
+      "For product-injury claims, check which state law applies to you"
+    ],
+    "categories": [
+      {
+        "tag": "Arbitration",
+        "explanation": "Amazon replaced a simple court-jurisdiction clause with extensive mandatory binding arbitration and an explicit class-action waiver, removing users' right to jury trials and collective legal action."
       }
     ],
     "source_doc": "Policy"
