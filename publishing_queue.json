@@ -352,8 +352,28 @@
       "post_source": "diffs/2026-08-20_robinhood-privacy_post.json",
       "slide_folder": "slides/2026-08-20_robinhood",
       "status": "queued"
+    },
+    {
+      "app": "Flock Safety",
+      "caption": "Flock Safety runs one of the largest license plate camera networks in the country \u2014 tens of thousands of readers logging where cars go. After a year of reporting on officers misusing the system, the company just announced a package of changes.\n\nWhat's new: default data retention drops from 30 days to 7. Misuse detection becomes mandatory for every law enforcement customer by the end of 2026, with automatic lockouts for abnormal search patterns. Case codes become required on every search. Multi-factor authentication is now mandatory. An outside firm, Bishop Fox, is auditing the products with findings promised in September.\n\nThe catch: the 7-day retention is a recommendation, not a default that flips for everyone. Existing agencies keep their current period unless they opt in. Civil liberties groups have called the package an improvement wrapped around the same underlying \"trust us\" model.\n\nSo the useful move isn't watching Flock \u2014 it's checking your own city. Most agencies publish a Flock Transparency Portal showing retention, sharing partners, and search volume. Worth asking whether yours has turned on offense filtering, too \u2014 that's the setting that limits what outside departments can search your cameras for.\n\nSource: Flock Safety, Aug 13, 2026.\n\n#privacy #surveillance #flocksafety #alpr #dataprivacy #licenseplatereader #digitalrights #tosmonitor",
+      "detected_at": "2026-08-20T02:03:32.414286+00:00",
+      "id": "2026-08-20_flock-safety-privacy-security-update",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/07_outro.png"
+      ],
+      "post_source": "manual/flock_post.json",
+      "priority": 1,
+      "slide_folder": "slides/2026-08-20_flock-safety-privacy-security-update",
+      "source": "manual",
+      "status": "queued"
     }
   ],
-  "updated_at": "2026-08-20T01:34:10.544780+00:00",
+  "updated_at": "2026-08-20T02:05:58.441082+00:00",
   "version": 1
 }
