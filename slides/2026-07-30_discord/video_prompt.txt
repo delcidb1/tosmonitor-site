@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Discord)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, quick one on Discord — their Terms of Service just changed, and there's a line that got removed that you'll want to know about. The previous version literally contained the phrase 'we will sell your info' under the Who We Are section. It's now gone. Almost certainly a test string or editorial accident that made it into a live document — but still, that's not something you want sitting in a ToS unchecked. Our verdict: worth knowing, because accidental or not, it was there. Double-check discord.com/privacy for the real data story. Full breakdown in the carousel — follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #5865F2 accent lighting looks at the
+camera and says: 'Discord quietly edited its 'Who We Are' section. The removed line was almost certainly a test error, but its presence in a live ToS was a real concern worth flagging.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

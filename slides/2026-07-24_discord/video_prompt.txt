@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Discord)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Discord just quietly updated its privacy policy — but before you panic, this one's actually fine. They rewrote a single line about screen sharing to make it clearer: Discord does NOT store the content of your screen shares. The old wording was honestly a bit ambiguous. Your thumbnail image? Still kept briefly. But the actual stream content? Not stored. Verdict: minor — this is a clarification, not a new data grab. Full breakdown in the carousel — follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #5865F2 accent lighting looks at the
+camera and says: 'Discord clarifies it never stores your screen shares. This is a wording clarification, not a new data practice. Users gain slightly more transparency about screen-share storage.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

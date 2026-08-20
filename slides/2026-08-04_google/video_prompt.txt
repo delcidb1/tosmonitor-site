@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Google)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, quick one from tos underscore monitor — Google's privacy policy page just got updated, but before you panic, here's the deal: from what we can see, only some duplicate navigation menu links were removed. No changes to how your data is collected, shared, or used. This looks like a housekeeping edit, not a policy shift. Verdict? Minor. But we're watching closely for anything bigger. Full breakdown in the carousel — follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #4285F4 accent lighting looks at the
+camera and says: 'Google quietly trimmed its privacy policy navigation. The diff shows only duplicate navigation links removed. No actual policy language affecting user data was changed.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

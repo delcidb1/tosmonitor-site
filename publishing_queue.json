@@ -1,0 +1,359 @@
+{
+  "initialized_at": "2026-08-20T01:27:14.344708+00:00",
+  "items": [
+    {
+      "app": "Whatsapp",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.344975+00:00",
+      "id": "2026-07-19_whatsapp",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-19_whatsapp/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-19_whatsapp/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-19_whatsapp/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-19_whatsapp/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-19_whatsapp/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-07-19_whatsapp",
+      "status": "baseline"
+    },
+    {
+      "app": "Netflix",
+      "caption": "Netflix just updated its policy. Updated July 20, 2026.\n\n- Netflix deleted the line saying it shares your viewing history with advertisers\n- The removal makes data-sharing practices less transparent to users\n- It's unclear if the practice stopped or just the disclosure was removed\n- Ad-supported plan subscribers may still have viewing data shared\n\nRemoving an explicit disclosure about advertiser data-sharing raises transparency concerns, especially for users on Netflix's ad-supported tier.\n\nWhat you can do:\n- Check your Netflix privacy settings and limit ad personalization if possible\n- Review Netflix's full Privacy Statement for current data-sharing details\n- Consider whether the ad-supported plan aligns with your privacy comfort level\n\n#Netflix #privacy #termsofservice #dataprivacy #tosmonitor",
+      "detected_at": "2026-08-20T01:27:14.345505+00:00",
+      "id": "2026-07-20_netflix",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/05_action.png"
+      ],
+      "post_source": "diffs/2026-07-20_netflix-terms_post.json",
+      "slide_folder": "slides/2026-07-20_netflix",
+      "status": "baseline"
+    },
+    {
+      "app": "Robinhood",
+      "caption": "Robinhood just updated its policy. Updated July 22, 2026.\n\n- Robinhood Platinum Credit Card now listed as a covered product\n- Credit card usage data likely collected under existing policy terms\n- Expanded product scope may mean more financial data sharing with partners\n\nOnly a new product name was added to the policy scope. No changes to data use, sharing, or user rights detected.\n\nWhat you can do:\n- Review what data Robinhood collects for credit card products\n- Check if you hold or plan to get the Platinum Credit Card\n- Visit Robinhood's privacy policy page for full data-sharing details\n\n#Robinhood #privacy #termsofservice #dataprivacy #tosmonitor",
+      "detected_at": "2026-08-20T01:27:14.345843+00:00",
+      "id": "2026-07-22_robinhood",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/05_action.png"
+      ],
+      "post_source": "diffs/2026-07-22_robinhood-privacy_post.json",
+      "slide_folder": "slides/2026-07-22_robinhood",
+      "status": "baseline"
+    },
+    {
+      "app": "Discord",
+      "caption": "Discord just updated its policy. Updated July 24, 2026.\n\n- Discord now explicitly states it does NOT store your screen-share content\n- Previous wording was ambiguous; new version clearly separates screen content from thumbnails\n- Thumbnail cover image from your stream is still retained for a short time\n- No new data is collected \u2014 this is a clarification, not an expansion\n\nThis is a wording clarification, not a new data practice. Users gain slightly more transparency about screen-share storage.\n\nWhat you can do:\n- No action needed \u2014 your screen-share content was never stored under old policy either\n- Review Discord's privacy settings if you regularly screen-share sensitive content\n- Follow @tos_monitor to catch any future changes that do expand data collection\n\n#Discord #privacy #termsofservice #dataprivacy #tosmonitor",
+      "detected_at": "2026-08-20T01:27:14.346203+00:00",
+      "id": "2026-07-24_discord",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/05_action.png"
+      ],
+      "post_source": "diffs/2026-07-24_discord-privacy_post.json",
+      "slide_folder": "slides/2026-07-24_discord",
+      "status": "baseline"
+    },
+    {
+      "app": "Facebook",
+      "caption": "Facebook just updated its policy. Effective July 23, 2026.\n\n- Meta AI now uses your interests, location, friends, and partner data to personalize responses\n- New policy section explicitly describes how your profile fuels Meta AI recommendations\n- 'AI at Meta' rebranded to 'Meta AI features' throughout, clarifying scope of data use\n- Large sections of explanatory annotations removed, making the policy shorter but less detailed\n\nA new explicit section confirms your full profile\u2014interests, location, third-party data\u2014is used to personalize Meta AI. Users should know this.\n\nWhat you can do:\n- Review your Meta AI data settings at facebook.com/privacy/genai\n- Check Ad Preferences and limit data used for personalization in Accounts Center\n- Use 'Your activity off Meta technologies' tool to restrict third-party data sharing\n\n#Facebook #privacy #termsofservice #dataprivacy #tosmonitor",
+      "detected_at": "2026-08-20T01:27:14.346532+00:00",
+      "id": "2026-07-24_facebook",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/05_action.png"
+      ],
+      "post_source": "diffs/2026-07-24_facebook-privacy_post.json",
+      "slide_folder": "slides/2026-07-24_facebook",
+      "status": "baseline"
+    },
+    {
+      "app": "Instagram",
+      "caption": "Instagram just updated its policy. Updated July 28, 2026.\n\n- Automated scraping now governed by a formal 'Automated Data Collection Terms' document\n- Instagram can revoke permission for any automated data collection at any time\n- Bots and scrapers must comply with the new terms even if previously allowed\n- Clarifies that automated access rules apply whether or not you're logged in\n\nThis formalises and expands restrictions on scraping and bots, and gives Instagram broader power to revoke access without notice.\n\nWhat you can do:\n- If you use any automation tools on Instagram, review the new Automated Data Collection Terms\n- Developers or businesses using the API should audit their current data practices now\n- Regular users: no action needed, but know Instagram is cracking down on scrapers\n\n#Instagram #privacy #termsofservice #dataprivacy #tosmonitor",
+      "detected_at": "2026-08-20T01:27:14.346857+00:00",
+      "id": "2026-07-28_instagram",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/05_action.png"
+      ],
+      "post_source": "diffs/2026-07-28_instagram-terms_post.json",
+      "slide_folder": "slides/2026-07-28_instagram",
+      "status": "baseline"
+    },
+    {
+      "app": "Discord",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.347071+00:00",
+      "id": "2026-07-30_discord",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-30_discord/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-30_discord/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-30_discord/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-30_discord/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-30_discord/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-07-30_discord",
+      "status": "baseline"
+    },
+    {
+      "app": "Google",
+      "caption": "Google just updated its policy. Updated August 04, 2026.\n\n- Only navigation menu links were removed from the policy page\n- No substantive data collection or sharing rules appear changed\n- Policy text body and user-facing terms remain intact\n\nThe diff shows only duplicate navigation links removed. No actual policy language affecting user data was changed.\n\nWhat you can do:\n- Re-read Google's full privacy policy at policies.google.com/privacy\n- Check your Google Account data settings at myaccount.google.com\n- Follow @tos_monitor for alerts if substantive changes appear\n\n#Google #privacy #termsofservice #dataprivacy #tosmonitor",
+      "detected_at": "2026-08-20T01:27:14.347401+00:00",
+      "id": "2026-08-04_google",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/05_action.png"
+      ],
+      "post_source": "diffs/2026-08-04_google-privacy_post.json",
+      "slide_folder": "slides/2026-08-04_google",
+      "status": "baseline"
+    },
+    {
+      "app": "Snapchat",
+      "caption": "Snapchat just updated its policy. Effective 21 September 2026.\n\n- Snapchat may now scan faces in your Memories for grouping and search features.\n- Snap can infer or verify your age from content and activity you provide.\n- Automated tools now explicitly scan content to detect policy violations and check age.\n- AI Features section clarified: your My AI chats help train Snap's AI models.\n\nNew face-grouping data use and age-inference language are meaningful expansions of how Snap processes your personal content.\n\nWhat you can do:\n- Check Memories settings and disable face grouping features if unwanted.\n- Review My AI chat history and delete anything you don't want used for training.\n- Visit Snapchat's Privacy Center to audit what data Snap holds about you.\n\n#Snapchat #privacy #termsofservice #dataprivacy #tosmonitor",
+      "detected_at": "2026-08-20T01:27:14.347716+00:00",
+      "id": "2026-08-05_snapchat",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/05_action.png"
+      ],
+      "post_source": "diffs/2026-08-05_snapchat-privacy_post.json",
+      "slide_folder": "slides/2026-08-05_snapchat",
+      "status": "baseline"
+    },
+    {
+      "app": "Albertsons Privacy Policy",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.347933+00:00",
+      "id": "2026-08-08_albertsons-privacy-policy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_albertsons-privacy-policy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_albertsons-privacy-policy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_albertsons-privacy-policy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_albertsons-privacy-policy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_albertsons-privacy-policy/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-08-08_albertsons-privacy-policy",
+      "status": "baseline"
+    },
+    {
+      "app": "Amazon Privacy Privacy Policy",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.348136+00:00",
+      "id": "2026-08-08_amazon-privacy-privacy-policy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-privacy-privacy-policy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-privacy-privacy-policy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-privacy-privacy-policy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-privacy-privacy-policy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-privacy-privacy-policy/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-08-08_amazon-privacy-privacy-policy",
+      "status": "baseline"
+    },
+    {
+      "app": "Amazon Terms Privacy Policy",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.348328+00:00",
+      "id": "2026-08-08_amazon-terms-privacy-policy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-terms-privacy-policy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-terms-privacy-policy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-terms-privacy-policy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-terms-privacy-policy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_amazon-terms-privacy-policy/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-08-08_amazon-terms-privacy-policy",
+      "status": "baseline"
+    },
+    {
+      "app": "Best Buy Privacy Policy",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.348519+00:00",
+      "id": "2026-08-08_best-buy-privacy-policy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_best-buy-privacy-policy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_best-buy-privacy-policy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_best-buy-privacy-policy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_best-buy-privacy-policy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_best-buy-privacy-policy/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-08-08_best-buy-privacy-policy",
+      "status": "baseline"
+    },
+    {
+      "app": "Grubhub",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.348679+00:00",
+      "id": "2026-08-08_grubhub",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_grubhub/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_grubhub/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_grubhub/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_grubhub/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_grubhub/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-08-08_grubhub",
+      "status": "baseline"
+    },
+    {
+      "app": "Kroger Loyalty Data",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.348852+00:00",
+      "id": "2026-08-08_kroger-loyalty-data",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_kroger-loyalty-data/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_kroger-loyalty-data/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_kroger-loyalty-data/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_kroger-loyalty-data/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_kroger-loyalty-data/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-08-08_kroger-loyalty-data",
+      "status": "baseline"
+    },
+    {
+      "app": "Shoprite Price Plus Club",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.349041+00:00",
+      "id": "2026-08-08_shoprite-price-plus-club",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_shoprite-price-plus-club/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_shoprite-price-plus-club/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_shoprite-price-plus-club/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_shoprite-price-plus-club/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_shoprite-price-plus-club/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-08-08_shoprite-price-plus-club",
+      "status": "baseline"
+    },
+    {
+      "app": "Whatsapp",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.349199+00:00",
+      "id": "2026-08-08_whatsapp",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_whatsapp/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_whatsapp/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_whatsapp/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_whatsapp/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_whatsapp/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-08-08_whatsapp",
+      "status": "baseline"
+    },
+    {
+      "app": "Steam",
+      "caption": "Steam recently updated its Privacy Policy to swap out its EU data-protection representative. The old representative, Valve GmbH i.L., has been replaced by RIVACY GmbH, located at Mexikoring 33, 22297 Hamburg, Germany. For most users this changes nothing about how Steam collects, uses, or shares your data. However, if you are an EU resident who needs to submit a data-access, correction, or deletion request under GDPR, you should make sure you are directing those inquiries to the new representative. Check Steam's current privacy policy for the updated contact before sending any formal requests.\n\n#Steam #valve #privacypolicy #GDPR #gamingprivacy #dataprotection #EUprivacy #privacy",
+      "detected_at": "2026-08-20T01:27:14.349526+00:00",
+      "id": "2026-08-10_steam",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/05_action.png"
+      ],
+      "post_source": "diffs/2026-08-10_steam-privacy_post.json",
+      "slide_folder": "slides/2026-08-10_steam",
+      "status": "baseline"
+    },
+    {
+      "app": "Twitch",
+      "caption": "Twitch updated its Privacy Notice on August 12, 2026, and added new language explicitly allowing your data to be used for machine learning and artificial intelligence development, including training generative AI models across Twitch and Amazon's products and services. Previously, the policy described data use for recommendations, advertising, and general service improvement. Now it goes further, stating Twitch may use data to develop or deploy generative AI. Because Twitch is an Amazon subsidiary, this extends your data's reach into Amazon's broader AI ecosystem. No opt-out mechanism is mentioned in this update. You should visit Twitch's Privacy Choices page and review Amazon's Generative AI Development Disclosure to understand your current options.\n\n#Twitch #amazon #privacypolicy #aitraining #generativeai #dataprivacy #streamers #userdata",
+      "detected_at": "2026-08-20T01:27:14.349890+00:00",
+      "id": "2026-08-13_twitch",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/05_action.png"
+      ],
+      "post_source": "diffs/2026-08-13_twitch-privacy_post.json",
+      "slide_folder": "slides/2026-08-13_twitch",
+      "status": "baseline"
+    },
+    {
+      "app": "Amazon",
+      "caption": "Amazon updated its Conditions of Use on August 14, 2026, replacing a straightforward court-dispute clause with a detailed mandatory arbitration system. Under the new terms, if you have a complaint about Amazon \u2014 a bad charge, a faulty product, a policy dispute \u2014 you can no longer take it to a regular court with a judge or jury. Instead, you must first contact customer service and negotiate for up to 60 days, then go through a JAMS arbitration process. A new class-action waiver means you cannot join other customers in a lawsuit against Amazon; each person must fight their case alone. The only notable carve-out is for personal injury or property damage from a product, which will now be governed by the law of the state where the harm occurred....\n\n#Amazon #arbitration #consumerrights #termsofservice #privacyrights #classaction #onlineshopping #toschange",
+      "detected_at": "2026-08-20T01:27:14.350309+00:00",
+      "id": "2026-08-15_amazon",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/05_action.png"
+      ],
+      "post_source": "diffs/2026-08-15_amazon-terms_post.json",
+      "slide_folder": "slides/2026-08-15_amazon",
+      "status": "baseline"
+    },
+    {
+      "app": "Whatsapp",
+      "caption": "",
+      "detected_at": "2026-08-20T01:27:14.350497+00:00",
+      "id": "2026-08-15_whatsapp",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_whatsapp/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_whatsapp/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_whatsapp/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_whatsapp/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_whatsapp/05_action.png"
+      ],
+      "post_source": null,
+      "slide_folder": "slides/2026-08-15_whatsapp",
+      "status": "baseline"
+    },
+    {
+      "app": "Robinhood",
+      "caption": "Robinhood updated its privacy policy on August 18, 2026, with changes focused on artificial intelligence agents. The policy now explicitly states that Robinhood collects your usage data whether you access the app directly or through an external AI agent acting on your behalf. It also names third-party AI agents alongside Google and Apple as services that can connect to your account and send Robinhood your profile information. This matters because an AI agent operating on your account could generate data Robinhood collects and potentially uses to train its own AI features. If you use or plan to use any AI tool that links to Robinhood, review the updated Customer Agreement and check which services have access to your account.\n\n#Robinhood #privacypolicy #AIagents #fintech #dataprivacy #agenticAI #investingapp #tosmonitor",
+      "detected_at": "2026-08-20T01:29:41.547259+00:00",
+      "id": "2026-08-20_robinhood",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/05_action.png"
+      ],
+      "post_source": "diffs/2026-08-20_robinhood-privacy_post.json",
+      "slide_folder": "slides/2026-08-20_robinhood",
+      "status": "queued"
+    }
+  ],
+  "updated_at": "2026-08-20T01:29:41.547281+00:00",
+  "version": 1
+}

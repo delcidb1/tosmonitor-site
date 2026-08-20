@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Instagram)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Instagram just quietly updated its Terms of Service — and if you use any kind of automation, bot, or scraping tool, you need to pay attention. They've introduced something called the 'Automated Data Collection Terms' — a whole new document that anyone collecting data from Instagram must now follow. And here's the kicker: Instagram can revoke permission for that automated access at any time, for any reason. Regular users? Probably fine. But developers and businesses should check their tools now. Full breakdown in the carousel — follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #E1306C accent lighting looks at the
+camera and says: 'Instagram tightens rules on automated data collection. This formalises and expands restrictions on scraping and bots, and gives Instagram broader power to revoke access without notice.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Flock Safety)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+You've probably driven past one without noticing. Flock Safety cameras read license plates and log where cars go — and this week the company changed its rules. Default storage drops from thirty days to seven. Misuse detection becomes mandatory. Every search now needs a case number. But here's the part that matters: the seven-day limit is a recommendation. Cities already using Flock keep their current setting unless they opt in. So how long your car's movements sit in a database isn't up to Flock. It's up to your city council. Look up your department's Flock transparency portal — most publish one.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #C2452D accent lighting looks at the
+camera and says: 'Flock just changed its surveillance rules. The audit requirements are real. But the 7-day retention is a recommendation, not a switch. How long your movements are stored still depends on your city council, not on Flock.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (WhatsApp)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+WhatsApp just updated its privacy policy. A third-party service can now estimate your age from a video selfie Usernames are here — people can reach you without your phone number Meta can now store your encrypted chat backups on its servers New parental controls give parents insights into linked teen accounts Our verdict: worth knowing. Your chats stay end-to-end encrypted. But video-selfie age checks are new territory — know your options before you're asked. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #25D366 accent lighting looks at the
+camera and says: 'WhatsApp just updated its privacy policy. Your chats stay end-to-end encrypted. But video-selfie age checks are new territory — know your options before you're asked.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Twitch)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Twitch just quietly updated its privacy policy and there is something you need to know. As of August 12, 2026, Twitch now explicitly says it can use your data to train machine learning and artificial intelligence systems, including generative AI models, across Twitch and Amazon's services. That is a meaningful expansion from what the policy said before. Our verdict is IMPORTANT. This is not a minor tweak. Head to Twitch's Privacy Choices page to see what controls you have. Full breakdown in the carousel, follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #9146FF accent lighting looks at the
+camera and says: 'Twitch now uses your data to train AI. Twitch has explicitly added AI training — including generative AI — as a permitted use of all user data, with no opt-out mentioned in the diff.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

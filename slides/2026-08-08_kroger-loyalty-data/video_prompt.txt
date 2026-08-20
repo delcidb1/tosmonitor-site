@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Kroger)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+63 million loyalty members. One income predictor. It can be wrong.. An income predictor estimates your earnings from loyalty card purchases Consumer Reports found profiles wrong on income, education and age One shopper's profile may have reached over 50 companies Precision marketing brought in an estimated $527 million in 2024 Our verdict: important. Kroger says demographic data helps target relevant coupons. Consumer Reports argues inaccurate guesses can quietly cost you the best deals. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #0055B8 accent lighting looks at the
+camera and says: '63 million loyalty members. One income predictor. It can be wrong.. Kroger says demographic data helps target relevant coupons. Consumer Reports argues inaccurate guesses can quietly cost you the best deals.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the policy text.

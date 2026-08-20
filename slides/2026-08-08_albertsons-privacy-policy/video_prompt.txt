@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Albertsons)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Owner of ACME and Kings. It values your loyalty data at $4.13 a shopper.. Albertsons estimates your data is worth about $4.13 per shopper Cameras may infer race, religion, and disability as demographic data Loyalty data is an enumerated input for training AI models Store Wi-Fi ties your device ID and location to your account Our verdict: important. The disclosures are unusually detailed, and most sit in a financial-incentive notice almost no shopper ever opens. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #1B6AC9 accent lighting looks at the
+camera and says: 'Owner of ACME and Kings. It values your loyalty data at $4.13 a shopper.. The disclosures are unusually detailed, and most sit in a financial-incentive notice almost no shopper ever opens.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the policy text.

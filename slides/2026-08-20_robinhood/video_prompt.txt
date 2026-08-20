@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Robinhood)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Robinhood just updated its privacy policy and there are some real AI-related changes you should know about. Starting August 18th, Robinhood explicitly says it collects your data even when an external AI agent is using the app on your behalf. And those AI agents can now connect to your account the same way Google or Apple sign-in does. That's a new data-collection scenario for your financial account. Our verdict: worth knowing, especially if you're using any AI trading tools. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #00C805 accent lighting looks at the
+camera and says: 'Robinhood updated its privacy policy for AI. AI agents accessing your financial account is a meaningful new data-collection scenario ordinary users should understand before enabling.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

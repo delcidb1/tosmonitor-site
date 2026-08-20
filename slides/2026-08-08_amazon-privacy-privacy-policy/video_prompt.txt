@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Amazon Privacy)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Most people know Amazon tracks what you buy online. But here is what the policy you already agreed to actually says. Their physical stores use cameras, sensors, and computer vision to track your movements and which products you touch. When you update your address or profile, they keep the old version on file. And they share an advertising identifier plus an estimate of your value as a customer with ad companies — who can then use it to target you for other brands. No specific timeframe is given for how long any of this is stored. Full breakdown in the carousel — follow at tos underscore monitor.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'What Amazon already collects, keeps, and shares about you.. Most practices here are industry-standard. The physical store surveillance and the ad-value data sharing with third-party ad networks are the details most users would not expect.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the policy text.

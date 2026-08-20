@@ -35,7 +35,7 @@
     "accent": "#9146FF",
     "headline": "Twitch now uses your data to train AI",
     "subhead": "Your activity feeds Twitch and Amazon's generative AI.",
-    "effective": "2026-08-19",
+    "effective": "2026-08-20",
     "changes": [
       "Twitch explicitly added AI and machine learning training as a use of your data.",
       "Your data may now be used to develop or deploy Amazon's generative AI models.",
@@ -53,6 +53,37 @@
       {
         "tag": "AI Training",
         "explanation": "Twitch added explicit language permitting user data to be used for machine learning and generative AI model development across Twitch and Amazon's products, a use not previously stated in the policy."
+      }
+    ],
+    "source_doc": "Policy"
+  },
+  {
+    "app": "Robinhood",
+    "accent": "#00C805",
+    "headline": "Robinhood updated its privacy policy for AI",
+    "subhead": "AI agents can now interact with your account and data",
+    "effective": "2026-08-18",
+    "changes": [
+      "Robinhood now collects your data when external AI agents use its services on your behalf.",
+      "Third-party AI agents can connect to your account like Google or Apple sign-in.",
+      "Robinhood Ventures Fund II replaces Fund I across affiliate data-sharing notices.",
+      "A new Customer Agreement covers 'agentic trading' by external AI on your account."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "AI agents accessing your financial account is a meaningful new data-collection scenario ordinary users should understand before enabling.",
+    "actions": [
+      "Check if any third-party AI tools are connected to your Robinhood account.",
+      "Review the updated Customer Agreement for agentic trading rules.",
+      "Revisit your GLBA affiliate-sharing opt-out under the updated entity list."
+    ],
+    "categories": [
+      {
+        "tag": "AI Training",
+        "explanation": "Robinhood already had AI training language, but now explicitly includes data generated when external AI agents use your account as potential training input."
+      },
+      {
+        "tag": "Third-Party Sharing",
+        "explanation": "Third-party AI agents are newly named alongside Google and Apple as external services that can connect to your account and share your profile data with Robinhood."
       }
     ],
     "source_doc": "Policy"

@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Amazon)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, quick heads-up if you shop on Amazon. As of August 14, 2026, Amazon rewrote its dispute rules — and it's a big deal. They've added mandatory binding arbitration, which means if you have a problem with Amazon, you can no longer take them to a regular court with a jury. You also can't join a class-action lawsuit — every complaint has to be handled individually. You'll even need to go through a 60-day negotiation process before you can file for arbitration. This one is important. Full breakdown in the carousel — follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #FF9900 accent lighting looks at the
+camera and says: 'Amazon now requires arbitration, drops jury trials. Amazon replaced a simple court clause with extensive mandatory arbitration and a class-action waiver, significantly limiting how users can seek legal relief.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

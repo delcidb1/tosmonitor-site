@@ -1,0 +1,28 @@
+VIDEO SCRIPT + PROMPTS for this post (Amazon Terms)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Every review you've ever posted on Amazon - photos, written content, all of it - Amazon holds a permanent, royalty-free license to use however they want, forever. They can modify it, distribute it, and hand it to other companies. That's already in the terms you agreed to. And if you ever have a legal dispute with Amazon, you've already waived your right to a jury trial. Full breakdown in the carousel - follow at tos underscore monitor.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'What Amazon's terms already let them do with your content. The perpetual content license and jury-trial waiver are standard in big-tech terms but broader than most users realize. No evidence of data sale in these excerpts.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+(Veo clips are ~8 seconds - only the short line above fits, not the
+full script. Use HeyGen for the full-length version.)
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the policy text.
