@@ -35,7 +35,7 @@
     "accent": "#9146FF",
     "headline": "Twitch now uses your data to train AI",
     "subhead": "Your activity feeds Twitch and Amazon's generative AI.",
-    "effective": "2026-08-20",
+    "effective": "2026-08-21",
     "changes": [
       "Twitch explicitly added AI and machine learning training as a use of your data.",
       "Your data may now be used to develop or deploy Amazon's generative AI models.",
@@ -114,6 +114,32 @@
       }
     ],
     "source_doc": "Policy"
+  },
+  {
+    "app": "Flock Safety",
+    "doc": "Privacy & Security Update",
+    "post_type": "change",
+    "accent": "#C2452D",
+    "headline": "Flock just changed its surveillance rules",
+    "subhead": "The license plate camera network cut how long it stores your movements \u2014 with a catch.",
+    "effective": "2026-08-13",
+    "changes": [
+      "Default data retention drops from 30 days to 7 days.",
+      "But existing agencies keep their current period unless they opt in.",
+      "Cities can now block outside agencies from searching their cameras for immigration enforcement.",
+      "Misuse detection becomes mandatory for all police customers by the end of 2026.",
+      "Abnormal search patterns will trigger an automatic lockout pending administrator review.",
+      "Every search will require a case number, and multi-factor login is now mandatory."
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "The audit requirements are real. But the 7-day retention is a recommendation, not a switch. How long your movements are stored still depends on your city council, not on Flock.",
+    "actions": [
+      "Look up your police department's Flock Transparency Portal.",
+      "Ask your city council: 7-day retention, or still 30?",
+      "Check deflock.org for cameras mapped near you."
+    ],
+    "categories": [],
+    "source_doc": "Privacy & Security Update"
   },
   {
     "app": "Steam",
