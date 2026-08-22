@@ -372,8 +372,44 @@
       "slide_folder": "slides/2026-08-20_flock-safety-privacy-security-update",
       "source": "manual",
       "status": "queued"
+    },
+    {
+      "app": "Facebook",
+      "caption": "Facebook has expanded and restructured its Privacy Policy, adding new sections that are more explicit about several data practices that previously received less attention. Most notably, the updated policy now openly states that publicly available datasets \u2014 including from data providers, research institutions, and academic groups \u2014 are used to improve Meta's AI technologies, including computer vision and natural language processing. It also adds a dedicated section on data collected when you use Meta's generative AI features, such as prompts, responses, and information from third-party apps you connect to those features. Additionally, the policy now explains in more detail how your data is combined across Facebook, Instagram, and WhatsApp when accounts are linked in the Accounts Center. If you use multiple Meta apps and have ever interacted with Meta AI...\n\n#Facebook #meta #privacypolicy #aitraining #dataprivacy #metaai #accountscenter #tosmonitor",
+      "detected_at": "2026-08-22T15:12:10.465674+00:00",
+      "id": "2026-08-22_facebook",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/05_action.png"
+      ],
+      "post_source": "diffs/2026-08-22_facebook-privacy_post.json",
+      "priority": 100,
+      "slide_folder": "slides/2026-08-22_facebook",
+      "source": "monitor",
+      "status": "queued"
+    },
+    {
+      "app": "Telegram",
+      "caption": "Telegram updated its Privacy Policy on August 21, 2026, quietly narrowing its long-standing no-ads pledge. Previously, Telegram said it never used 'your data' to show ads. Now, the protection applies only to the contents of private chats and contact lists. Separately, a new section reveals that ads can be targeted to your approximate country or city, estimated from your phone number's area code or your IP address. The channels you follow can also place you into ad categories that follow you across other large channels and bots. No data is handed to advertisers, and Telegram Premium users are exempt. If this concerns you, review your Data Settings and consider whether a Premium subscription makes sense.\n\n#Telegram #privacypolicy #dataprivacy #adtargeting #tosupdate #messaging #digitalrights #privacy",
+      "detected_at": "2026-08-22T15:12:10.466116+00:00",
+      "id": "2026-08-22_telegram",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/05_action.png"
+      ],
+      "post_source": "diffs/2026-08-22_telegram-privacy_post.json",
+      "priority": 100,
+      "slide_folder": "slides/2026-08-22_telegram",
+      "source": "monitor",
+      "status": "queued"
     }
   ],
-  "updated_at": "2026-08-21T15:24:03.939143+00:00",
+  "updated_at": "2026-08-22T15:12:10.466197+00:00",
   "version": 1
 }
