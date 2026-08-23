@@ -1,50 +1,6 @@
 {
   "posts": [
     {
-      "id": "2026-08-23_amazon",
-      "app": "Amazon",
-      "service": "amazon",
-      "headline": "Amazon Policy Update",
-      "date": "2026-08-23",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 6
-    },
-    {
-      "id": "2026-08-22_telegram",
-      "app": "Telegram",
-      "service": "telegram",
-      "headline": "Telegram Policy Update",
-      "date": "2026-08-22",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 6
-    },
-    {
-      "id": "2026-08-22_facebook",
-      "app": "Facebook",
-      "service": "facebook",
-      "headline": "Facebook Policy Update",
-      "date": "2026-08-22",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 6
-    },
-    {
-      "id": "2026-08-20_robinhood",
-      "app": "Robinhood",
-      "service": "robinhood",
-      "headline": "Robinhood Policy Update",
-      "date": "2026-08-20",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 6
-    },
-    {
       "id": "2026-08-20_flock-safety-privacy-security-update",
       "app": "Flock Safety Privacy Security Update",
       "service": "flock safety privacy security update",
@@ -53,18 +9,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 7
-    },
-    {
-      "id": "2026-08-15_amazon",
-      "app": "Amazon",
-      "service": "amazon",
-      "headline": "Amazon Policy Update",
-      "date": "2026-08-15",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 6
+      "slide_count": 7,
+      "slide_folder": "2026-08-20_flock-safety-privacy-security-update"
     },
     {
       "id": "2026-08-15_whatsapp",
@@ -75,29 +21,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 6
-    },
-    {
-      "id": "2026-08-13_twitch",
-      "app": "Twitch",
-      "service": "twitch",
-      "headline": "Twitch Policy Update",
-      "date": "2026-08-13",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
-    },
-    {
-      "id": "2026-08-10_steam",
-      "app": "Steam",
-      "service": "steam",
-      "headline": "Steam Policy Update",
-      "date": "2026-08-10",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
+      "slide_count": 6,
+      "slide_folder": "2026-08-15_whatsapp"
     },
     {
       "id": "2026-08-08_whatsapp",
@@ -108,7 +33,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 5
+      "slide_count": 5,
+      "slide_folder": "2026-08-08_whatsapp"
     },
     {
       "id": "2026-08-08_amazon-privacy-privacy-policy",
@@ -119,18 +45,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 5
-    },
-    {
-      "id": "2026-08-08_amazon-terms-privacy-policy",
-      "app": "Amazon Terms Privacy Policy",
-      "service": "amazon terms privacy policy",
-      "headline": "Amazon Terms Privacy Policy Policy Update",
-      "date": "2026-08-08",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
+      "slide_count": 5,
+      "slide_folder": "2026-08-08_amazon-privacy-privacy-policy"
     },
     {
       "id": "2026-08-08_shoprite-price-plus-club",
@@ -141,7 +57,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 5
+      "slide_count": 5,
+      "slide_folder": "2026-08-08_shoprite-price-plus-club"
     },
     {
       "id": "2026-08-08_best-buy-privacy-policy",
@@ -152,7 +69,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 5
+      "slide_count": 5,
+      "slide_folder": "2026-08-08_best-buy-privacy-policy"
     },
     {
       "id": "2026-08-08_grubhub",
@@ -163,7 +81,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 5
+      "slide_count": 5,
+      "slide_folder": "2026-08-08_grubhub"
     },
     {
       "id": "2026-08-08_albertsons-privacy-policy",
@@ -174,7 +93,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 5
+      "slide_count": 5,
+      "slide_folder": "2026-08-08_albertsons-privacy-policy"
     },
     {
       "id": "2026-08-08_kroger-loyalty-data",
@@ -185,29 +105,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 5
-    },
-    {
-      "id": "2026-08-05_snapchat",
-      "app": "Snapchat",
-      "service": "snapchat",
-      "headline": "Snapchat Policy Update",
-      "date": "2026-08-05",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
-    },
-    {
-      "id": "2026-08-04_google",
-      "app": "Google",
-      "service": "google",
-      "headline": "Google Policy Update",
-      "date": "2026-08-04",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
+      "slide_count": 5,
+      "slide_folder": "2026-08-08_kroger-loyalty-data"
     },
     {
       "id": "2026-07-30_discord",
@@ -218,62 +117,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 5
-    },
-    {
-      "id": "2026-07-28_instagram",
-      "app": "Instagram",
-      "service": "instagram",
-      "headline": "Instagram Policy Update",
-      "date": "2026-07-28",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
-    },
-    {
-      "id": "2026-07-24_facebook",
-      "app": "Facebook",
-      "service": "facebook",
-      "headline": "Facebook Policy Update",
-      "date": "2026-07-24",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
-    },
-    {
-      "id": "2026-07-24_discord",
-      "app": "Discord",
-      "service": "discord",
-      "headline": "Discord Policy Update",
-      "date": "2026-07-24",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
-    },
-    {
-      "id": "2026-07-22_robinhood",
-      "app": "Robinhood",
-      "service": "robinhood",
-      "headline": "Robinhood Policy Update",
-      "date": "2026-07-22",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
-    },
-    {
-      "id": "2026-07-20_netflix",
-      "app": "Netflix",
-      "service": "netflix",
-      "headline": "Netflix Policy Update",
-      "date": "2026-07-20",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5
+      "slide_count": 5,
+      "slide_folder": "2026-07-30_discord"
     },
     {
       "id": "2026-07-19_whatsapp",
@@ -284,7 +129,8 @@
       "published": false,
       "source_type": "slides_auto",
       "has_slides": true,
-      "slide_count": 5
+      "slide_count": 5,
+      "slide_folder": "2026-07-19_whatsapp"
     },
     {
       "app": "Flock Safety",
@@ -491,8 +337,9 @@
       "published": false,
       "date": "",
       "service": "discord-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 5,
+      "slide_folder": "2026-07-24_discord"
     },
     {
       "app": "Twitch",
@@ -537,8 +384,9 @@
       "published": false,
       "date": "",
       "service": "twitch-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 5,
+      "slide_folder": "2026-08-13_twitch"
     },
     {
       "app": "Robinhood",
@@ -587,8 +435,9 @@
       "published": false,
       "date": "",
       "service": "robinhood-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 6,
+      "slide_folder": "2026-08-20_robinhood"
     },
     {
       "app": "Robinhood",
@@ -613,8 +462,9 @@
       "published": false,
       "date": "",
       "service": "robinhood-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 5,
+      "slide_folder": "2026-07-22_robinhood"
     },
     {
       "app": "Facebook",
@@ -640,8 +490,9 @@
       "published": false,
       "date": "",
       "service": "facebook-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 5,
+      "slide_folder": "2026-07-24_facebook"
     },
     {
       "app": "Facebook",
@@ -690,8 +541,9 @@
       "published": false,
       "date": "",
       "service": "facebook-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 6,
+      "slide_folder": "2026-08-22_facebook"
     },
     {
       "app": "Google",
@@ -718,8 +570,9 @@
       "published": false,
       "date": "",
       "service": "google-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 5,
+      "slide_folder": "2026-08-04_google"
     },
     {
       "app": "Telegram",
@@ -767,8 +620,9 @@
       "published": false,
       "date": "",
       "service": "telegram-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 6,
+      "slide_folder": "2026-08-22_telegram"
     },
     {
       "app": "Snapchat",
@@ -805,8 +659,9 @@
       "published": false,
       "date": "",
       "service": "snapchat-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 5,
+      "slide_folder": "2026-08-05_snapchat"
     },
     {
       "app": "Instagram",
@@ -833,8 +688,9 @@
       "published": false,
       "date": "",
       "service": "instagram-terms",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 5,
+      "slide_folder": "2026-07-28_instagram"
     },
     {
       "app": "Netflix",
@@ -860,8 +716,9 @@
       "published": false,
       "date": "",
       "service": "netflix-terms",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 5,
+      "slide_folder": "2026-07-20_netflix"
     },
     {
       "app": "Amazon",
@@ -906,8 +763,9 @@
       "published": false,
       "date": "",
       "service": "amazon-terms",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 6,
+      "slide_folder": "2026-08-15_amazon"
     },
     {
       "app": "Steam",
@@ -945,8 +803,9 @@
       "published": false,
       "date": "",
       "service": "steam-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 5,
+      "slide_folder": "2026-08-10_steam"
     },
     {
       "app": "Amazon",
@@ -995,9 +854,10 @@
       "published": false,
       "date": "",
       "service": "amazon-privacy",
-      "has_slides": false,
-      "slide_count": 0
+      "has_slides": true,
+      "slide_count": 6,
+      "slide_folder": "2026-08-23_amazon"
     }
   ],
-  "total": 45
+  "total": 30
 }
