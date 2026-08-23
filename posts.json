@@ -35,7 +35,7 @@
     "accent": "#9146FF",
     "headline": "Twitch now uses your data to train AI",
     "subhead": "Your activity feeds Twitch and Amazon's generative AI.",
-    "effective": "2026-08-22",
+    "effective": "2026-08-21",
     "changes": [
       "Twitch explicitly added AI and machine learning training as a use of your data.",
       "Your data may now be used to develop or deploy Amazon's generative AI models.",
@@ -53,68 +53,6 @@
       {
         "tag": "AI Training",
         "explanation": "Twitch added explicit language permitting user data to be used for machine learning and generative AI model development across Twitch and Amazon's products, a use not previously stated in the policy."
-      }
-    ],
-    "source_doc": "Policy"
-  },
-  {
-    "app": "Facebook",
-    "accent": "#1877F2",
-    "headline": "Facebook rewrote its privacy policy structure",
-    "subhead": "Bigger, more detailed \u2014 but what actually changed for you?",
-    "effective": "2026-08-22",
-    "changes": [
-      "Meta now explicitly lists publicly available datasets used to improve AI and ML models.",
-      "New section details data collected when you interact with Meta's generative AI features.",
-      "Policy now spells out cross-account data combining when WhatsApp is linked via Accounts Center.",
-      "Expanded detail on third-party data sources: data brokers, marketing vendors, academic institutions."
-    ],
-    "verdict": "WORTH_KNOWING",
-    "verdict_text": "The restructured policy surfaces AI training and cross-app data merging more explicitly, giving users clearer \u2014 but broader \u2014 disclosure of how their data is used.",
-    "actions": [
-      "Review your Accounts Center to see which Meta apps share your data.",
-      "Check 'Off-Facebook Activity' settings to limit third-party data flowing in.",
-      "Audit your AI feature interactions and connected third-party apps in Facebook settings."
-    ],
-    "categories": [
-      {
-        "tag": "AI Training",
-        "explanation": "The updated policy explicitly states that publicly available datasets from data providers and research institutions are used to improve Meta's AI and ML technologies, including natural language processing and computer vision."
-      },
-      {
-        "tag": "Third-Party Sharing",
-        "explanation": "The policy now provides an expanded and explicit list of third-party sources supplying user data to Meta, including marketing and advertising vendors, data providers, industry peers, and public institutions."
-      }
-    ],
-    "source_doc": "Policy"
-  },
-  {
-    "app": "Telegram",
-    "accent": "#2AABEE",
-    "headline": "Telegram expands how it targets ads to you",
-    "subhead": "Your location and followed channels now shape ads.",
-    "effective": "2026-08-21",
-    "changes": [
-      "Ad-free pledge narrowed: only chat contents and contact lists are protected.",
-      "Ads can now be targeted by country or city, estimated from your phone number or IP.",
-      "Channels you follow can determine which ad categories you see across Telegram.",
-      "Ads now run in bots, stories, and public search \u2014 not just large channels."
-    ],
-    "verdict": "WORTH_KNOWING",
-    "verdict_text": "Telegram's privacy promise got narrower. Location-based and interest-based ad targeting is now explicit, though no data is passed to advertisers.",
-    "actions": [
-      "Check Settings > Privacy & Security > Data Settings to limit ad data.",
-      "Consider Telegram Premium if you want to opt out of all ads.",
-      "Review which public channels you follow, as they now influence ad targeting."
-    ],
-    "categories": [
-      {
-        "tag": "Third-Party Sharing",
-        "explanation": "The updated policy clarifies that location estimates derived from phone number area codes or IP addresses are used for ad targeting, though Telegram states this data is never passed directly to advertisers."
-      },
-      {
-        "tag": "Permissions",
-        "explanation": "Telegram now explicitly uses IP address and phone number area code to approximate a user's country and city for ad-targeting purposes, a previously undisclosed use of this data."
       }
     ],
     "source_doc": "Policy"
