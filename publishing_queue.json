@@ -1,137 +1,7 @@
 {
+  "schema_version": 2,
+  "generated_at": "2026-08-28T22:56:15Z",
   "posts": [
-    {
-      "id": "2026-08-20_flock-safety-privacy-security-update",
-      "app": "Flock Safety Privacy Security Update",
-      "service": "flock safety privacy security update",
-      "headline": "Flock Safety Privacy Security Update Policy Update",
-      "date": "2026-08-20",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 7,
-      "slide_folder": "2026-08-20_flock-safety-privacy-security-update"
-    },
-    {
-      "id": "2026-08-15_whatsapp",
-      "app": "Whatsapp",
-      "service": "whatsapp",
-      "headline": "Whatsapp Policy Update",
-      "date": "2026-08-15",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 6,
-      "slide_folder": "2026-08-15_whatsapp"
-    },
-    {
-      "id": "2026-08-08_whatsapp",
-      "app": "Whatsapp",
-      "service": "whatsapp",
-      "headline": "Whatsapp Policy Update",
-      "date": "2026-08-08",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-08_whatsapp"
-    },
-    {
-      "id": "2026-08-08_amazon-privacy-privacy-policy",
-      "app": "Amazon Privacy Privacy Policy",
-      "service": "amazon privacy privacy policy",
-      "headline": "Amazon Privacy Privacy Policy Policy Update",
-      "date": "2026-08-08",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-08_amazon-privacy-privacy-policy"
-    },
-    {
-      "id": "2026-08-08_shoprite-price-plus-club",
-      "app": "Shoprite Price Plus Club",
-      "service": "shoprite price plus club",
-      "headline": "Shoprite Price Plus Club Policy Update",
-      "date": "2026-08-08",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-08_shoprite-price-plus-club"
-    },
-    {
-      "id": "2026-08-08_best-buy-privacy-policy",
-      "app": "Best Buy Privacy Policy",
-      "service": "best buy privacy policy",
-      "headline": "Best Buy Privacy Policy Policy Update",
-      "date": "2026-08-08",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-08_best-buy-privacy-policy"
-    },
-    {
-      "id": "2026-08-08_grubhub",
-      "app": "Grubhub",
-      "service": "grubhub",
-      "headline": "Grubhub Policy Update",
-      "date": "2026-08-08",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-08_grubhub"
-    },
-    {
-      "id": "2026-08-08_albertsons-privacy-policy",
-      "app": "Albertsons Privacy Policy",
-      "service": "albertsons privacy policy",
-      "headline": "Albertsons Privacy Policy Policy Update",
-      "date": "2026-08-08",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-08_albertsons-privacy-policy"
-    },
-    {
-      "id": "2026-08-08_kroger-loyalty-data",
-      "app": "Kroger Loyalty Data",
-      "service": "kroger loyalty data",
-      "headline": "Kroger Loyalty Data Policy Update",
-      "date": "2026-08-08",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-08_kroger-loyalty-data"
-    },
-    {
-      "id": "2026-07-30_discord",
-      "app": "Discord",
-      "service": "discord",
-      "headline": "Discord Policy Update",
-      "date": "2026-07-30",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-07-30_discord"
-    },
-    {
-      "id": "2026-07-19_whatsapp",
-      "app": "Whatsapp",
-      "service": "whatsapp",
-      "headline": "Whatsapp Policy Update",
-      "date": "2026-07-19",
-      "published": false,
-      "source_type": "slides_auto",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-07-19_whatsapp"
-    },
     {
       "app": "Flock Safety",
       "doc": "Privacy & Security Update",
@@ -164,13 +34,44 @@
       "caption_rendered": "Flock Safety runs one of the largest license plate camera networks in the country — tens of thousands of readers logging where cars go. After a year of reporting on officers misusing the system, the company just announced a package of changes.\n\nWhat's new: default data retention drops from 30 days to 7. Misuse detection becomes mandatory for every law enforcement customer by the end of 2026, with automatic lockouts for abnormal search patterns. Case codes become required on every search. Multi-factor authentication is now mandatory. An outside firm, Bishop Fox, is auditing the products with findings promised in September.\n\nThe catch: the 7-day retention is a recommendation, not a default that flips for everyone. Existing agencies keep their current period unless they opt in. Civil liberties groups have called the package an improvement wrapped around the same underlying \"trust us\" model.\n\nSo the useful move isn't watching Flock — it's checking your own city. Most agencies publish a Flock Transparency Portal showing retention, sharing partners, and search volume. Worth asking whether yours has turned on offense filtering, too — that's the setting that limits what outside departments can search your cameras for.\n\nSource: Flock Safety, Aug 13, 2026.\n\n#privacy #surveillance #flocksafety #alpr #dataprivacy #licenseplatereader #digitalrights #tosmonitor",
       "video_script": "You've probably driven past one without noticing. Flock Safety cameras read license plates and log where cars go — and this week the company changed its rules. Default storage drops from thirty days to seven. Misuse detection becomes mandatory. Every search now needs a case number. But here's the part that matters: the seven-day limit is a recommendation. Cities already using Flock keep their current setting unless they opt in. So how long your car's movements sit in a database isn't up to Flock. It's up to your city council. Look up your department's Flock transparency portal — most publish one.",
       "draft": true,
-      "id": "flock",
+      "id": "2026-08-20_flock-safety-privacy-security-update",
       "source_type": "manual",
-      "published": false,
-      "date": "",
-      "service": "flock",
-      "has_slides": false,
-      "slide_count": 0
+      "post_source": "manual/flock_post.json",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 1,
+      "caption_field": "caption_rendered",
+      "configured_slide_folder": "2026-08-20_flock-safety-privacy-security-update",
+      "slide_folder": "2026-08-20_flock-safety-privacy-security-update",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_flock-safety-privacy-security-update/07_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_verdict.png",
+        "06_action.png",
+        "07_outro.png"
+      ],
+      "slide_count": 7,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-08-20",
+      "instagram_caption": "Flock Safety runs one of the largest license plate camera networks in the country — tens of thousands of readers logging where cars go. After a year of reporting on officers misusing the system, the company just announced a package of changes.\n\nWhat's new: default data retention drops from 30 days to 7. Misuse detection becomes mandatory for every law enforcement customer by the end of 2026, with automatic lockouts for abnormal search patterns. Case codes become required on every search. Multi-factor authentication is now mandatory. An outside firm, Bishop Fox, is auditing the products with findings promised in September.\n\nThe catch: the 7-day retention is a recommendation, not a default that flips for everyone. Existing agencies keep their current period unless they opt in. Civil liberties groups have called the package an improvement wrapped around the same underlying \"trust us\" model.\n\nSo the useful move isn't watching Flock — it's checking your own city. Most agencies publish a Flock Transparency Portal showing retention, sharing partners, and search volume. Worth asking whether yours has turned on offense filtering, too — that's the setting that limits what outside departments can search your cameras for.\n\nSource: Flock Safety, Aug 13, 2026.\n\n#privacy #surveillance #flocksafety #alpr #dataprivacy #licenseplatereader #digitalrights #tosmonitor",
+      "caption_sha256": "aa125a79d9295af9860bae3b6565d0bdc454fd50dd13756a3b686367e4a203e1",
+      "published": true,
+      "published_at": "2026-08-20T15:18:19Z",
+      "instagram_permalink": "https://www.instagram.com/p/DcRESOdGxxE/",
+      "publishable": false,
+      "status": "published"
     },
     {
       "app": "Albertsons",
@@ -204,11 +105,20 @@
       ],
       "id": "albertsons",
       "source_type": "manual",
-      "published": false,
-      "date": "",
-      "service": "albertsons",
+      "post_source": "manual/albertsons_post.json",
+      "slide_folder": "",
+      "media_urls": [],
+      "media_files": [],
+      "slide_count": 0,
       "has_slides": false,
-      "slide_count": 0
+      "media_error": "no rendered slide folder",
+      "date": "",
+      "priority": 100,
+      "instagram_caption": "📋 ALBERTSONS POLICY BREAKDOWN (TL;DR)\n\nOwner of ACME and Kings. It values your loyalty data at $4.13 a shopper.\n\nWHAT THEY CAN DO:\n• Albertsons estimates your data is worth about $4.13 per shopper\n• Cameras may infer race, religion, and disability as demographic data\n• Loyalty data is an enumerated input for training AI models\n• Store Wi-Fi ties your device ID and location to your account\n\nOUR VERDICT: IMPORTANT\nThe disclosures are unusually detailed, and most sit in a financial-incentive notice almost no shopper ever opens.\n\nWHAT YOU CAN DO:\n→ Delete shopping history only - keeps your account and points\n→ Opt out of sale and targeted ads: (877) 251-6559\n→ Turn on Global Privacy Control in your browser\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#Albertsons #AlbertsonsPrivacy #PrivacyPolicy #TermsOfService #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "515980ab520e2b96574fa833108ba759d74bb6b5665b424899d5cdc8139ebe1f",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
     },
     {
       "app": "Best Buy",
@@ -238,45 +148,20 @@
       ],
       "id": "bestbuy",
       "source_type": "manual",
-      "published": false,
-      "date": "",
-      "service": "bestbuy",
+      "post_source": "manual/bestbuy_post.json",
+      "slide_folder": "",
+      "media_urls": [],
+      "media_files": [],
+      "slide_count": 0,
       "has_slides": false,
-      "slide_count": 0
-    },
-    {
-      "app": "ShopRite",
-      "doc": "Price Plus Club",
-      "post_type": "tldr",
-      "accent": "#E4002B",
-      "headline": "You can opt out of Price Plus data sharing. It says that may cost you deals.",
-      "effective": "Policy reviewed August 2026",
-      "changes": [
-        "Price Plus links your name, address, phone and purchase history",
-        "Check cashing adds your license and checking account numbers",
-        "You can refuse sharing by phone, in store, or online",
-        "But some Price Plus promotions require individual-level data to qualify"
-      ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "Tamer than the national chains, and recall alerts are a real benefit. But the opt-out has a stated price.",
-      "actions": [
-        "Opt out of sharing at 1-800-SHOPRITE or customer service",
-        "Keep the card for product recall alerts",
-        "NJ residents can request their data under NJDPA"
-      ],
-      "categories": [
-        {
-          "tag": "third_party_sharing",
-          "explanation": "Policy describes sharing personal information with engaged third parties and states that opting out may disqualify members from promotions requiring individual-level data."
-        }
-      ],
-      "id": "shoprite",
-      "source_type": "manual",
-      "published": false,
+      "media_error": "no rendered slide folder",
       "date": "",
-      "service": "shoprite",
-      "has_slides": false,
-      "slide_count": 0
+      "priority": 100,
+      "instagram_caption": "📋 BEST BUY POLICY BREAKDOWN (TL;DR)\n\nIts limits on how partners use your data carve out advertising.\n\nWHAT THEY CAN DO:\n• Contract limits on data sharing exclude some advertising uses\n• Best Buy says it doesn't trade your data for money\n• It still lists data sold under New Jersey's broader definition\n• Joining My Best Buy requires name, address, email and phone\n\nOUR VERDICT: WORTH KNOWING\nBoth statements are accurate. State law counts ad targeting as a sale even when no money changes hands.\n\nWHAT YOU CAN DO:\n→ Use Best Buy's advertising opt-out on its privacy page\n→ Cancel membership by phone: 1-888-237-8289\n→ Opting out cannot legally get you worse treatment\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#BestBuy #BestBuyPrivacy #PrivacyPolicy #TermsOfService #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "6e4c8e06ae5d0adf02197e0e51fb9fafbe8f640f9b6c7335d4422c6ec3862bce",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
     },
     {
       "app": "Kroger",
@@ -306,11 +191,182 @@
       ],
       "id": "kroger",
       "source_type": "manual",
-      "published": false,
-      "date": "",
-      "service": "kroger",
+      "post_source": "manual/kroger_post.json",
+      "slide_folder": "",
+      "media_urls": [],
+      "media_files": [],
+      "slide_count": 0,
       "has_slides": false,
-      "slide_count": 0
+      "media_error": "no rendered slide folder",
+      "date": "",
+      "priority": 100,
+      "instagram_caption": "📋 KROGER POLICY BREAKDOWN (TL;DR)\n\n63 million loyalty members. One income predictor. It can be wrong.\n\nWHAT THEY CAN DO:\n• An income predictor estimates your earnings from loyalty card purchases\n• Consumer Reports found profiles wrong on income, education and age\n• One shopper's profile may have reached over 50 companies\n• Precision marketing brought in an estimated $527 million in 2024\n\nOUR VERDICT: IMPORTANT\nKroger says demographic data helps target relevant coupons. Consumer Reports argues inaccurate guesses can quietly cost you the best deals.\n\nWHAT YOU CAN DO:\n→ Ask Kroger to correct your shopper profile\n→ Request your data - many states now guarantee access\n→ Check advertised shelf prices against your receipt\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#Kroger #KrogerPrivacy #LoyaltyData #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "800e2b6d07979df5b8a32d4943955eb3a9887af46b4c5dfd82ab524c784f94ec",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "app": "ShopRite",
+      "doc": "Price Plus Club",
+      "post_type": "tldr",
+      "accent": "#E4002B",
+      "headline": "You can opt out of Price Plus data sharing. It says that may cost you deals.",
+      "effective": "Policy reviewed August 2026",
+      "changes": [
+        "Price Plus links your name, address, phone and purchase history",
+        "Check cashing adds your license and checking account numbers",
+        "You can refuse sharing by phone, in store, or online",
+        "But some Price Plus promotions require individual-level data to qualify"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Tamer than the national chains, and recall alerts are a real benefit. But the opt-out has a stated price.",
+      "actions": [
+        "Opt out of sharing at 1-800-SHOPRITE or customer service",
+        "Keep the card for product recall alerts",
+        "NJ residents can request their data under NJDPA"
+      ],
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Policy describes sharing personal information with engaged third parties and states that opting out may disqualify members from promotions requiring individual-level data."
+        }
+      ],
+      "id": "shoprite",
+      "source_type": "manual",
+      "post_source": "manual/shoprite_post.json",
+      "slide_folder": "",
+      "media_urls": [],
+      "media_files": [],
+      "slide_count": 0,
+      "has_slides": false,
+      "media_error": "no rendered slide folder",
+      "date": "",
+      "priority": 100,
+      "instagram_caption": "📋 SHOPRITE POLICY BREAKDOWN (TL;DR)\n\nYou can opt out of Price Plus data sharing. It says that may cost you deals.\n\nWHAT THEY CAN DO:\n• Price Plus links your name, address, phone and purchase history\n• Check cashing adds your license and checking account numbers\n• You can refuse sharing by phone, in store, or online\n• But some Price Plus promotions require individual-level data to qualify\n\nOUR VERDICT: WORTH KNOWING\nTamer than the national chains, and recall alerts are a real benefit. But the opt-out has a stated price.\n\nWHAT YOU CAN DO:\n→ Opt out of sharing at 1-800-SHOPRITE or customer service\n→ Keep the card for product recall alerts\n→ NJ residents can request their data under NJDPA\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#Shoprite #ShopritePrivacy #PricePlusClub #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "3851ba2e25e238fc49f2a0f43ee6e2b9e81ae99a778b037d53ac483a87b955da",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "id": "2026-07-19_whatsapp",
+      "app": "Whatsapp",
+      "date": "2026-07-19",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-07-19_whatsapp",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "app": "Netflix",
+      "accent": "#E50914",
+      "headline": "Netflix quietly removed advertiser data-sharing disclosure",
+      "subhead": "One line about your viewing history just vanished",
+      "effective": "Updated July 20, 2026",
+      "changes": [
+        "Netflix deleted the line saying it shares your viewing history with advertisers",
+        "The removal makes data-sharing practices less transparent to users",
+        "It's unclear if the practice stopped or just the disclosure was removed",
+        "Ad-supported plan subscribers may still have viewing data shared"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Removing an explicit disclosure about advertiser data-sharing raises transparency concerns, especially for users on Netflix's ad-supported tier.",
+      "actions": [
+        "Check your Netflix privacy settings and limit ad personalization if possible",
+        "Review Netflix's full Privacy Statement for current data-sharing details",
+        "Consider whether the ad-supported plan aligns with your privacy comfort level"
+      ],
+      "id": "2026-07-20_netflix-terms",
+      "source_type": "diff",
+      "post_source": "diffs/2026-07-20_netflix-terms_post.json",
+      "slide_folder": "2026-07-20_netflix",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/05_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-07-20",
+      "priority": 100,
+      "instagram_caption": "🚨 NETFLIX POLICY UPDATE\n\nNetflix quietly removed advertiser data-sharing disclosure\n\nWHAT CHANGED:\n• Netflix deleted the line saying it shares your viewing history with advertisers\n• The removal makes data-sharing practices less transparent to users\n• It's unclear if the practice stopped or just the disclosure was removed\n• Ad-supported plan subscribers may still have viewing data shared\n\nOUR VERDICT: WORTH KNOWING\nRemoving an explicit disclosure about advertiser data-sharing raises transparency concerns, especially for users on Netflix's ad-supported tier.\n\nWHAT YOU CAN DO:\n→ Check your Netflix privacy settings and limit ad personalization if possible\n→ Review Netflix's full Privacy Statement for current data-sharing details\n→ Consider whether the ad-supported plan aligns with your privacy comfort level\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Netflix #NetflixPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "ab7ca5b4dd26fd47862bb2641af0452641f1efdc0b6298b6395a88729f0a4ceb",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
+    },
+    {
+      "app": "Robinhood",
+      "accent": "#00C805",
+      "headline": "Robinhood adds Platinum Credit Card to privacy policy",
+      "subhead": "New card product means new data collection scope.",
+      "effective": "Updated July 22, 2026",
+      "changes": [
+        "Robinhood Platinum Credit Card now listed as a covered product",
+        "Credit card usage data likely collected under existing policy terms",
+        "Expanded product scope may mean more financial data sharing with partners"
+      ],
+      "verdict": "MINOR",
+      "verdict_text": "Only a new product name was added to the policy scope. No changes to data use, sharing, or user rights detected.",
+      "actions": [
+        "Review what data Robinhood collects for credit card products",
+        "Check if you hold or plan to get the Platinum Credit Card",
+        "Visit Robinhood's privacy policy page for full data-sharing details"
+      ],
+      "id": "2026-07-22_robinhood-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-07-22_robinhood-privacy_post.json",
+      "slide_folder": "2026-07-22_robinhood",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/05_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-07-22",
+      "priority": 100,
+      "instagram_caption": "🚨 ROBINHOOD POLICY UPDATE\n\nRobinhood adds Platinum Credit Card to privacy policy\n\nWHAT CHANGED:\n• Robinhood Platinum Credit Card now listed as a covered product\n• Credit card usage data likely collected under existing policy terms\n• Expanded product scope may mean more financial data sharing with partners\n\nOUR VERDICT: MINOR\nOnly a new product name was added to the policy scope. No changes to data use, sharing, or user rights detected.\n\nWHAT YOU CAN DO:\n→ Review what data Robinhood collects for credit card products\n→ Check if you hold or plan to get the Platinum Credit Card\n→ Visit Robinhood's privacy policy page for full data-sharing details\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Robinhood #RobinhoodPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "2ad929a959954a5cef09aa5beb7c0b1d15a8ee37558f3e13dba2a98cebe1a954",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
     },
     {
       "app": "Discord",
@@ -334,12 +390,513 @@
       "video_script": "Hey, Discord just quietly updated its privacy policy — but before you panic, this one's actually fine. They rewrote a single line about screen sharing to make it clearer: Discord does NOT store the content of your screen shares. The old wording was honestly a bit ambiguous. Your thumbnail image? Still kept briefly. But the actual stream content? Not stored. Verdict: minor — this is a clarification, not a new data grab. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
       "id": "2026-07-24_discord-privacy",
       "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "discord-privacy",
-      "has_slides": true,
+      "post_source": "diffs/2026-07-24_discord-privacy_post.json",
+      "slide_folder": "2026-07-24_discord",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/05_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
       "slide_count": 5,
-      "slide_folder": "2026-07-24_discord"
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-07-24",
+      "priority": 100,
+      "instagram_caption": "🚨 DISCORD POLICY UPDATE\n\nDiscord clarifies it never stores your screen shares\n\nWHAT CHANGED:\n• Discord now explicitly states it does NOT store your screen-share content\n• Previous wording was ambiguous; new version clearly separates screen content from thumbnails\n• Thumbnail cover image from your stream is still retained for a short time\n• No new data is collected — this is a clarification, not an expansion\n\nOUR VERDICT: MINOR\nThis is a wording clarification, not a new data practice. Users gain slightly more transparency about screen-share storage.\n\nWHAT YOU CAN DO:\n→ No action needed — your screen-share content was never stored under old policy either\n→ Review Discord's privacy settings if you regularly screen-share sensitive content\n→ Follow @tos_monitor to catch any future changes that do expand data collection\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Discord #DiscordPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "7da88bb2c2e93fd66ab9c9584a627c5badaaf61bbdaa581945a94ca3c80dc5af",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
+    },
+    {
+      "app": "Facebook",
+      "accent": "#1877F2",
+      "headline": "Facebook rewrites how Meta AI uses your data",
+      "subhead": "Your interests and location now feed Meta AI responses",
+      "effective": "Effective July 23, 2026",
+      "changes": [
+        "Meta AI now uses your interests, location, friends, and partner data to personalize responses",
+        "New policy section explicitly describes how your profile fuels Meta AI recommendations",
+        "'AI at Meta' rebranded to 'Meta AI features' throughout, clarifying scope of data use",
+        "Large sections of explanatory annotations removed, making the policy shorter but less detailed"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "A new explicit section confirms your full profile—interests, location, third-party data—is used to personalize Meta AI. Users should know this.",
+      "actions": [
+        "Review your Meta AI data settings at facebook.com/privacy/genai",
+        "Check Ad Preferences and limit data used for personalization in Accounts Center",
+        "Use 'Your activity off Meta technologies' tool to restrict third-party data sharing"
+      ],
+      "id": "2026-07-24_facebook-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-07-24_facebook-privacy_post.json",
+      "slide_folder": "2026-07-24_facebook",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/05_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-07-24",
+      "priority": 100,
+      "instagram_caption": "🚨 FACEBOOK POLICY UPDATE\n\nFacebook rewrites how Meta AI uses your data\n\nWHAT CHANGED:\n• Meta AI now uses your interests, location, friends, and partner data to personalize responses\n• New policy section explicitly describes how your profile fuels Meta AI recommendations\n• 'AI at Meta' rebranded to 'Meta AI features' throughout, clarifying scope of data use\n• Large sections of explanatory annotations removed, making the policy shorter but less detailed\n\nOUR VERDICT: WORTH KNOWING\nA new explicit section confirms your full profile—interests, location, third-party data—is used to personalize Meta AI. Users should know this.\n\nWHAT YOU CAN DO:\n→ Review your Meta AI data settings at facebook.com/privacy/genai\n→ Check Ad Preferences and limit data used for personalization in Accounts Center\n→ Use 'Your activity off Meta technologies' tool to restrict third-party data sharing\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Facebook #FacebookPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "08558ed7292c547399a681199dc810deded5a3194b5efbc9d727daebfa73f007",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
+    },
+    {
+      "app": "Instagram",
+      "accent": "#E1306C",
+      "headline": "Instagram tightens rules on automated data collection",
+      "subhead": "New terms govern bots, scrapers, and data harvesting",
+      "effective": "Updated July 28, 2026",
+      "changes": [
+        "Automated scraping now governed by a formal 'Automated Data Collection Terms' document",
+        "Instagram can revoke permission for any automated data collection at any time",
+        "Bots and scrapers must comply with the new terms even if previously allowed",
+        "Clarifies that automated access rules apply whether or not you're logged in"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This formalises and expands restrictions on scraping and bots, and gives Instagram broader power to revoke access without notice.",
+      "actions": [
+        "If you use any automation tools on Instagram, review the new Automated Data Collection Terms",
+        "Developers or businesses using the API should audit their current data practices now",
+        "Regular users: no action needed, but know Instagram is cracking down on scrapers"
+      ],
+      "video_script": "Hey, Instagram just quietly updated its Terms of Service — and if you use any kind of automation, bot, or scraping tool, you need to pay attention. They've introduced something called the 'Automated Data Collection Terms' — a whole new document that anyone collecting data from Instagram must now follow. And here's the kicker: Instagram can revoke permission for that automated access at any time, for any reason. Regular users? Probably fine. But developers and businesses should check their tools now. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "id": "2026-07-28_instagram-terms",
+      "source_type": "diff",
+      "post_source": "diffs/2026-07-28_instagram-terms_post.json",
+      "slide_folder": "2026-07-28_instagram",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/05_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-07-28",
+      "priority": 100,
+      "instagram_caption": "🚨 INSTAGRAM POLICY UPDATE\n\nInstagram tightens rules on automated data collection\n\nWHAT CHANGED:\n• Automated scraping now governed by a formal 'Automated Data Collection Terms' document\n• Instagram can revoke permission for any automated data collection at any time\n• Bots and scrapers must comply with the new terms even if previously allowed\n• Clarifies that automated access rules apply whether or not you're logged in\n\nOUR VERDICT: WORTH KNOWING\nThis formalises and expands restrictions on scraping and bots, and gives Instagram broader power to revoke access without notice.\n\nWHAT YOU CAN DO:\n→ If you use any automation tools on Instagram, review the new Automated Data Collection Terms\n→ Developers or businesses using the API should audit their current data practices now\n→ Regular users: no action needed, but know Instagram is cracking down on scrapers\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Instagram #InstagramPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "94463a65462aa1f6a365477aec43a17b846358ad699a3e8fbda094979ad56897",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
+    },
+    {
+      "id": "2026-07-30_discord",
+      "app": "Discord",
+      "date": "2026-07-30",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-07-30_discord",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "app": "Google",
+      "accent": "#4285F4",
+      "headline": "Google quietly trimmed its privacy policy navigation",
+      "subhead": "Navigation links removed — but what else changed?",
+      "effective": "Updated August 04, 2026",
+      "changes": [
+        "Only navigation menu links were removed from the policy page",
+        "No substantive data collection or sharing rules appear changed",
+        "Policy text body and user-facing terms remain intact"
+      ],
+      "verdict": "MINOR",
+      "verdict_text": "The diff shows only duplicate navigation links removed. No actual policy language affecting user data was changed.",
+      "actions": [
+        "Re-read Google's full privacy policy at policies.google.com/privacy",
+        "Check your Google Account data settings at myaccount.google.com",
+        "Follow @tos_monitor for alerts if substantive changes appear"
+      ],
+      "video_script": "Hey, quick one from tos underscore monitor — Google's privacy policy page just got updated, but before you panic, here's the deal: from what we can see, only some duplicate navigation menu links were removed. No changes to how your data is collected, shared, or used. This looks like a housekeeping edit, not a policy shift. Verdict? Minor. But we're watching closely for anything bigger. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "categories": [],
+      "id": "2026-08-04_google-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-08-04_google-privacy_post.json",
+      "slide_folder": "2026-08-04_google",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/05_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-08-04",
+      "priority": 100,
+      "instagram_caption": "🚨 GOOGLE POLICY UPDATE\n\nGoogle quietly trimmed its privacy policy navigation\n\nWHAT CHANGED:\n• Only navigation menu links were removed from the policy page\n• No substantive data collection or sharing rules appear changed\n• Policy text body and user-facing terms remain intact\n\nOUR VERDICT: MINOR\nThe diff shows only duplicate navigation links removed. No actual policy language affecting user data was changed.\n\nWHAT YOU CAN DO:\n→ Re-read Google's full privacy policy at policies.google.com/privacy\n→ Check your Google Account data settings at myaccount.google.com\n→ Follow @tos_monitor for alerts if substantive changes appear\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Google #GooglePrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "f87a7c4d9cefe44d36b7434c015056cc6cf291a254bc8187ebbefd8dda52129e",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
+    },
+    {
+      "app": "Snapchat",
+      "accent": "#FFFC00",
+      "headline": "Snapchat's privacy policy just got updated",
+      "subhead": "Face data, age inference, and AI changes explained",
+      "effective": "Effective 21 September 2026",
+      "changes": [
+        "Snapchat may now scan faces in your Memories for grouping and search features.",
+        "Snap can infer or verify your age from content and activity you provide.",
+        "Automated tools now explicitly scan content to detect policy violations and check age.",
+        "AI Features section clarified: your My AI chats help train Snap's AI models."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "New face-grouping data use and age-inference language are meaningful expansions of how Snap processes your personal content.",
+      "actions": [
+        "Check Memories settings and disable face grouping features if unwanted.",
+        "Review My AI chat history and delete anything you don't want used for training.",
+        "Visit Snapchat's Privacy Center to audit what data Snap holds about you."
+      ],
+      "video_script": "Hey — Snapchat just quietly updated its privacy policy, effective September 21st, and there are a few things worth knowing. First, if you use Memories, Snap may now use face detection data to group and search your Snaps — that's new. Second, Snap says it can now infer or verify your age from your content and activity. And automated tools will scan content to check for policy violations. Our verdict? Worth knowing — especially the face data stuff. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "The updated policy clarifies that content shared with My AI, including text, images, and location, is used as input to generate outputs and improve AI model responses, making the AI training use more explicit than before."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "Snapchat added new language allowing it to use face detection information from your Memories for grouping, search, and personalisation features, representing an expanded use of biometric-adjacent data from your camera roll."
+        }
+      ],
+      "id": "2026-08-05_snapchat-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-08-05_snapchat-privacy_post.json",
+      "slide_folder": "2026-08-05_snapchat",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/05_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-08-05",
+      "priority": 100,
+      "instagram_caption": "🚨 SNAPCHAT POLICY UPDATE\n\nSnapchat's privacy policy just got updated\n\nWHAT CHANGED:\n• Snapchat may now scan faces in your Memories for grouping and search features.\n• Snap can infer or verify your age from content and activity you provide.\n• Automated tools now explicitly scan content to detect policy violations and check age.\n• AI Features section clarified: your My AI chats help train Snap's AI models.\n\nOUR VERDICT: WORTH KNOWING\nNew face-grouping data use and age-inference language are meaningful expansions of how Snap processes your personal content.\n\nWHAT YOU CAN DO:\n→ Check Memories settings and disable face grouping features if unwanted.\n→ Review My AI chat history and delete anything you don't want used for training.\n→ Visit Snapchat's Privacy Center to audit what data Snap holds about you.\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Snapchat #SnapchatPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "8a63adb764476537fbec50aa0799e2ba3cad74a2587818c5e475fd889ebc4b65",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
+    },
+    {
+      "id": "2026-08-08_albertsons-privacy-policy",
+      "app": "Albertsons Privacy Policy",
+      "date": "2026-08-08",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-08-08_albertsons-privacy-policy",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "id": "2026-08-08_amazon-privacy-privacy-policy",
+      "app": "Amazon Privacy Privacy Policy",
+      "date": "2026-08-08",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-08-08_amazon-privacy-privacy-policy",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "id": "2026-08-08_amazon-terms-privacy-policy",
+      "app": "Amazon Terms Privacy Policy",
+      "date": "2026-08-08",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-08-08_amazon-terms-privacy-policy",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "id": "2026-08-08_best-buy-privacy-policy",
+      "app": "Best Buy Privacy Policy",
+      "date": "2026-08-08",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-08-08_best-buy-privacy-policy",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "id": "2026-08-08_grubhub",
+      "app": "Grubhub",
+      "date": "2026-08-08",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-08-08_grubhub",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "id": "2026-08-08_kroger-loyalty-data",
+      "app": "Kroger Loyalty Data",
+      "date": "2026-08-08",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-08-08_kroger-loyalty-data",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "id": "2026-08-08_shoprite-price-plus-club",
+      "app": "Shoprite Price Plus Club",
+      "date": "2026-08-08",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-08-08_shoprite-price-plus-club",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "id": "2026-08-08_whatsapp",
+      "app": "Whatsapp",
+      "date": "2026-08-08",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-08-08_whatsapp",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "media_urls": [],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
+    },
+    {
+      "app": "Steam",
+      "accent": "#1b2838",
+      "headline": "Steam quietly swapped its EU privacy contact",
+      "subhead": "A new company now handles your EU data questions",
+      "effective": "Updated August 10, 2026",
+      "changes": [
+        "Steam replaced its EU data-protection representative with a new firm.",
+        "Old rep: Valve GmbH i.L. — New rep: RIVACY GmbH in Hamburg.",
+        "The contact address for EU privacy questions has changed."
+      ],
+      "verdict": "MINOR",
+      "verdict_text": "Only the EU representative contact details changed. No data practices, retention rules, or sharing policies were altered.",
+      "actions": [
+        "If you have a pending EU data request, use the new RIVACY GmbH address.",
+        "Check Steam's privacy page for updated contact details before submitting requests.",
+        "No action needed if you are outside the EU or have no active requests."
+      ],
+      "caption": "Steam recently updated its Privacy Policy to swap out its EU data-protection representative. The old representative, Valve GmbH i.L., has been replaced by RIVACY GmbH, located at Mexikoring 33, 22297 Hamburg, Germany. For most users this changes nothing about how Steam collects, uses, or shares your data. However, if you are an EU resident who needs to submit a data-access, correction, or deletion request under GDPR, you should make sure you are directing those inquiries to the new representative. Check Steam's current privacy policy for the updated contact before sending any formal requests.",
+      "hashtags": [
+        "steam",
+        "valve",
+        "privacypolicy",
+        "GDPR",
+        "gamingprivacy",
+        "dataprotection",
+        "EUprivacy"
+      ],
+      "video_script": "Hey, quick Steam privacy heads-up. Valve just swapped out the company that acts as its official EU data-protection representative. The old entity, Valve GmbH i.L., is gone — replaced by a firm called RIVACY GmbH in Hamburg. If you are an EU user with an active GDPR request, you need to use the new contact. For everyone else, nothing about how Steam handles your data actually changed. Verdict: minor. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "categories": [],
+      "caption_rendered": "Steam recently updated its Privacy Policy to swap out its EU data-protection representative. The old representative, Valve GmbH i.L., has been replaced by RIVACY GmbH, located at Mexikoring 33, 22297 Hamburg, Germany. For most users this changes nothing about how Steam collects, uses, or shares your data. However, if you are an EU resident who needs to submit a data-access, correction, or deletion request under GDPR, you should make sure you are directing those inquiries to the new representative. Check Steam's current privacy policy for the updated contact before sending any formal requests.\n\n#Steam #valve #privacypolicy #GDPR #gamingprivacy #dataprotection #EUprivacy #privacy",
+      "id": "2026-08-10_steam-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-08-10_steam-privacy_post.json",
+      "slide_folder": "2026-08-10_steam",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/05_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-08-10",
+      "priority": 100,
+      "instagram_caption": "Steam recently updated its Privacy Policy to swap out its EU data-protection representative. The old representative, Valve GmbH i.L., has been replaced by RIVACY GmbH, located at Mexikoring 33, 22297 Hamburg, Germany. For most users this changes nothing about how Steam collects, uses, or shares your data. However, if you are an EU resident who needs to submit a data-access, correction, or deletion request under GDPR, you should make sure you are directing those inquiries to the new representative. Check Steam's current privacy policy for the updated contact before sending any formal requests.\n\n#Steam #valve #privacypolicy #GDPR #gamingprivacy #dataprotection #EUprivacy #privacy",
+      "caption_sha256": "bd3905fbac6394926d82d3bf272e98172dfebf022dc7c5d1508b41dad48cfb1a",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
     },
     {
       "app": "Twitch",
@@ -381,12 +938,126 @@
       "caption_rendered": "Twitch updated its Privacy Notice on August 12, 2026, and added new language explicitly allowing your data to be used for machine learning and artificial intelligence development, including training generative AI models across Twitch and Amazon's products and services. Previously, the policy described data use for recommendations, advertising, and general service improvement. Now it goes further, stating Twitch may use data to develop or deploy generative AI. Because Twitch is an Amazon subsidiary, this extends your data's reach into Amazon's broader AI ecosystem. No opt-out mechanism is mentioned in this update. You should visit Twitch's Privacy Choices page and review Amazon's Generative AI Development Disclosure to understand your current options.\n\n#Twitch #amazon #privacypolicy #aitraining #generativeai #dataprivacy #streamers #userdata",
       "id": "2026-08-13_twitch-privacy",
       "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "twitch-privacy",
-      "has_slides": true,
+      "post_source": "diffs/2026-08-13_twitch-privacy_post.json",
+      "slide_folder": "2026-08-13_twitch",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch/05_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png"
+      ],
       "slide_count": 5,
-      "slide_folder": "2026-08-13_twitch"
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-08-13",
+      "priority": 100,
+      "instagram_caption": "Twitch updated its Privacy Notice on August 12, 2026, and added new language explicitly allowing your data to be used for machine learning and artificial intelligence development, including training generative AI models across Twitch and Amazon's products and services. Previously, the policy described data use for recommendations, advertising, and general service improvement. Now it goes further, stating Twitch may use data to develop or deploy generative AI. Because Twitch is an Amazon subsidiary, this extends your data's reach into Amazon's broader AI ecosystem. No opt-out mechanism is mentioned in this update. You should visit Twitch's Privacy Choices page and review Amazon's Generative AI Development Disclosure to understand your current options.\n\n#Twitch #amazon #privacypolicy #aitraining #generativeai #dataprivacy #streamers #userdata",
+      "caption_sha256": "f76e865dc7d5380475afd72c4be3ac86969e36ed932aa156f7a23981630c457d",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
+    },
+    {
+      "app": "Amazon",
+      "accent": "#FF9900",
+      "headline": "Amazon now requires arbitration, drops jury trials",
+      "subhead": "Big dispute-resolution overhaul affects every US shopper.",
+      "effective": "Effective August 14, 2026",
+      "changes": [
+        "Disputes must now go to binding arbitration, not court",
+        "Class-action lawsuits against Amazon are now banned",
+        "You must contact customer service and wait 60 days before arbitrating",
+        "Personal injury claims from products now governed by your state's law"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Amazon replaced a simple court clause with extensive mandatory arbitration and a class-action waiver, significantly limiting how users can seek legal relief.",
+      "actions": [
+        "Read the new arbitration section at amazon.com/conditions",
+        "Note the 60-day pre-arbitration step before filing any claim",
+        "For product-injury claims, check which state law applies to you"
+      ],
+      "caption": "Amazon updated its Conditions of Use on August 14, 2026, replacing a straightforward court-dispute clause with a detailed mandatory arbitration system. Under the new terms, if you have a complaint about Amazon — a bad charge, a faulty product, a policy dispute — you can no longer take it to a regular court with a judge or jury. Instead, you must first contact customer service and negotiate for up to 60 days, then go through a JAMS arbitration process. A new class-action waiver means you cannot join other customers in a lawsuit against Amazon; each person must fight their case alone. The only notable carve-out is for personal injury or property damage from a product, which will now be governed by the law of the state where the harm occurred. If you ever need to dispute something with Amazon, know that your legal options have narrowed considerably.",
+      "hashtags": [
+        "amazon",
+        "arbitration",
+        "consumerrights",
+        "termsofservice",
+        "privacyrights",
+        "classaction",
+        "onlineshopping",
+        "toschange"
+      ],
+      "video_script": "Hey, quick heads-up if you shop on Amazon. As of August 14, 2026, Amazon rewrote its dispute rules — and it's a big deal. They've added mandatory binding arbitration, which means if you have a problem with Amazon, you can no longer take them to a regular court with a jury. You also can't join a class-action lawsuit — every complaint has to be handled individually. You'll even need to go through a 60-day negotiation process before you can file for arbitration. This one is important. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "arbitration_waiver",
+          "explanation": "Amazon replaced a simple court-jurisdiction clause with extensive mandatory binding arbitration and an explicit class-action waiver, removing users' right to jury trials and collective legal action."
+        }
+      ],
+      "caption_rendered": "Amazon updated its Conditions of Use on August 14, 2026, replacing a straightforward court-dispute clause with a detailed mandatory arbitration system. Under the new terms, if you have a complaint about Amazon — a bad charge, a faulty product, a policy dispute — you can no longer take it to a regular court with a judge or jury. Instead, you must first contact customer service and negotiate for up to 60 days, then go through a JAMS arbitration process. A new class-action waiver means you cannot join other customers in a lawsuit against Amazon; each person must fight their case alone. The only notable carve-out is for personal injury or property damage from a product, which will now be governed by the law of the state where the harm occurred....\n\n#Amazon #arbitration #consumerrights #termsofservice #privacyrights #classaction #onlineshopping #toschange",
+      "id": "2026-08-15_amazon-terms",
+      "source_type": "diff",
+      "post_source": "diffs/2026-08-15_amazon-terms_post.json",
+      "slide_folder": "2026-08-15_amazon",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-08-15",
+      "priority": 100,
+      "instagram_caption": "Amazon updated its Conditions of Use on August 14, 2026, replacing a straightforward court-dispute clause with a detailed mandatory arbitration system. Under the new terms, if you have a complaint about Amazon — a bad charge, a faulty product, a policy dispute — you can no longer take it to a regular court with a judge or jury. Instead, you must first contact customer service and negotiate for up to 60 days, then go through a JAMS arbitration process. A new class-action waiver means you cannot join other customers in a lawsuit against Amazon; each person must fight their case alone. The only notable carve-out is for personal injury or property damage from a product, which will now be governed by the law of the state where the harm occurred....\n\n#Amazon #arbitration #consumerrights #termsofservice #privacyrights #classaction #onlineshopping #toschange",
+      "caption_sha256": "e0193727f00fdaa866fac85739a554b802a3ae5484c06df58ffe9fed5e178afc",
+      "published": false,
+      "publishable": false,
+      "status": "baseline"
+    },
+    {
+      "id": "2026-08-15_whatsapp",
+      "app": "Whatsapp",
+      "date": "2026-08-15",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-08-15_whatsapp",
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "media_urls": [],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
+      "priority": 100,
+      "published": false,
+      "publishable": false,
+      "status": "requires_review"
     },
     {
       "app": "Robinhood",
@@ -432,67 +1103,36 @@
       "caption_rendered": "Robinhood updated its privacy policy on August 18, 2026, with changes focused on artificial intelligence agents. The policy now explicitly states that Robinhood collects your usage data whether you access the app directly or through an external AI agent acting on your behalf. It also names third-party AI agents alongside Google and Apple as services that can connect to your account and send Robinhood your profile information. This matters because an AI agent operating on your account could generate data Robinhood collects and potentially uses to train its own AI features. If you use or plan to use any AI tool that links to Robinhood, review the updated Customer Agreement and check which services have access to your account.\n\n#Robinhood #privacypolicy #AIagents #fintech #dataprivacy #agenticAI #investingapp #tosmonitor",
       "id": "2026-08-20_robinhood-privacy",
       "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "robinhood-privacy",
-      "has_slides": true,
+      "post_source": "diffs/2026-08-20_robinhood-privacy_post.json",
+      "slide_folder": "2026-08-20_robinhood",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
       "slide_count": 6,
-      "slide_folder": "2026-08-20_robinhood"
-    },
-    {
-      "app": "Robinhood",
-      "accent": "#00C805",
-      "headline": "Robinhood adds Platinum Credit Card to privacy policy",
-      "subhead": "New card product means new data collection scope.",
-      "effective": "Updated July 22, 2026",
-      "changes": [
-        "Robinhood Platinum Credit Card now listed as a covered product",
-        "Credit card usage data likely collected under existing policy terms",
-        "Expanded product scope may mean more financial data sharing with partners"
-      ],
-      "verdict": "MINOR",
-      "verdict_text": "Only a new product name was added to the policy scope. No changes to data use, sharing, or user rights detected.",
-      "actions": [
-        "Review what data Robinhood collects for credit card products",
-        "Check if you hold or plan to get the Platinum Credit Card",
-        "Visit Robinhood's privacy policy page for full data-sharing details"
-      ],
-      "id": "2026-07-22_robinhood-privacy",
-      "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "robinhood-privacy",
       "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-07-22_robinhood"
-    },
-    {
-      "app": "Facebook",
-      "accent": "#1877F2",
-      "headline": "Facebook rewrites how Meta AI uses your data",
-      "subhead": "Your interests and location now feed Meta AI responses",
-      "effective": "Effective July 23, 2026",
-      "changes": [
-        "Meta AI now uses your interests, location, friends, and partner data to personalize responses",
-        "New policy section explicitly describes how your profile fuels Meta AI recommendations",
-        "'AI at Meta' rebranded to 'Meta AI features' throughout, clarifying scope of data use",
-        "Large sections of explanatory annotations removed, making the policy shorter but less detailed"
-      ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "A new explicit section confirms your full profile—interests, location, third-party data—is used to personalize Meta AI. Users should know this.",
-      "actions": [
-        "Review your Meta AI data settings at facebook.com/privacy/genai",
-        "Check Ad Preferences and limit data used for personalization in Accounts Center",
-        "Use 'Your activity off Meta technologies' tool to restrict third-party data sharing"
-      ],
-      "id": "2026-07-24_facebook-privacy",
-      "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "facebook-privacy",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-07-24_facebook"
+      "media_error": "",
+      "date": "2026-08-20",
+      "priority": 100,
+      "instagram_caption": "Robinhood updated its privacy policy on August 18, 2026, with changes focused on artificial intelligence agents. The policy now explicitly states that Robinhood collects your usage data whether you access the app directly or through an external AI agent acting on your behalf. It also names third-party AI agents alongside Google and Apple as services that can connect to your account and send Robinhood your profile information. This matters because an AI agent operating on your account could generate data Robinhood collects and potentially uses to train its own AI features. If you use or plan to use any AI tool that links to Robinhood, review the updated Customer Agreement and check which services have access to your account.\n\n#Robinhood #privacypolicy #AIagents #fintech #dataprivacy #agenticAI #investingapp #tosmonitor",
+      "caption_sha256": "ae8dd91d2ef111ea5efbc77bf9314acd365db30fccb55a9937551d3d530380f6",
+      "published": true,
+      "published_at": "2026-08-21T15:15:00Z",
+      "instagram_permalink": "https://www.instagram.com/p/DcTpQa6kcdu/",
+      "publishable": false,
+      "status": "published"
     },
     {
       "app": "Facebook",
@@ -538,41 +1178,34 @@
       "caption_rendered": "Facebook has expanded and restructured its Privacy Policy, adding new sections that are more explicit about several data practices that previously received less attention. Most notably, the updated policy now openly states that publicly available datasets — including from data providers, research institutions, and academic groups — are used to improve Meta's AI technologies, including computer vision and natural language processing. It also adds a dedicated section on data collected when you use Meta's generative AI features, such as prompts, responses, and information from third-party apps you connect to those features. Additionally, the policy now explains in more detail how your data is combined across Facebook, Instagram, and WhatsApp when accounts are linked in the Accounts Center. If you use multiple Meta apps and have ever interacted with Meta AI...\n\n#Facebook #meta #privacypolicy #aitraining #dataprivacy #metaai #accountscenter #tosmonitor",
       "id": "2026-08-22_facebook-privacy",
       "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "facebook-privacy",
-      "has_slides": true,
+      "post_source": "diffs/2026-08-22_facebook-privacy_post.json",
+      "slide_folder": "2026-08-22_facebook",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
       "slide_count": 6,
-      "slide_folder": "2026-08-22_facebook"
-    },
-    {
-      "app": "Google",
-      "accent": "#4285F4",
-      "headline": "Google quietly trimmed its privacy policy navigation",
-      "subhead": "Navigation links removed — but what else changed?",
-      "effective": "Updated August 04, 2026",
-      "changes": [
-        "Only navigation menu links were removed from the policy page",
-        "No substantive data collection or sharing rules appear changed",
-        "Policy text body and user-facing terms remain intact"
-      ],
-      "verdict": "MINOR",
-      "verdict_text": "The diff shows only duplicate navigation links removed. No actual policy language affecting user data was changed.",
-      "actions": [
-        "Re-read Google's full privacy policy at policies.google.com/privacy",
-        "Check your Google Account data settings at myaccount.google.com",
-        "Follow @tos_monitor for alerts if substantive changes appear"
-      ],
-      "video_script": "Hey, quick one from tos underscore monitor — Google's privacy policy page just got updated, but before you panic, here's the deal: from what we can see, only some duplicate navigation menu links were removed. No changes to how your data is collected, shared, or used. This looks like a housekeeping edit, not a policy shift. Verdict? Minor. But we're watching closely for anything bigger. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
-      "categories": [],
-      "id": "2026-08-04_google-privacy",
-      "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "google-privacy",
       "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-04_google"
+      "media_error": "",
+      "date": "2026-08-22",
+      "priority": 100,
+      "instagram_caption": "Facebook has expanded and restructured its Privacy Policy, adding new sections that are more explicit about several data practices that previously received less attention. Most notably, the updated policy now openly states that publicly available datasets — including from data providers, research institutions, and academic groups — are used to improve Meta's AI technologies, including computer vision and natural language processing. It also adds a dedicated section on data collected when you use Meta's generative AI features, such as prompts, responses, and information from third-party apps you connect to those features. Additionally, the policy now explains in more detail how your data is combined across Facebook, Instagram, and WhatsApp when accounts are linked in the Accounts Center. If you use multiple Meta apps and have ever interacted with Meta AI...\n\n#Facebook #meta #privacypolicy #aitraining #dataprivacy #metaai #accountscenter #tosmonitor",
+      "caption_sha256": "8d9f0913299cd40fcdb4422820e23d5838efcb3a7bf7b3af52642f2f35f85c59",
+      "published": false,
+      "publishable": true,
+      "status": "queued"
     },
     {
       "app": "Telegram",
@@ -617,195 +1250,34 @@
       "caption_rendered": "Telegram updated its Privacy Policy on August 21, 2026, quietly narrowing its long-standing no-ads pledge. Previously, Telegram said it never used 'your data' to show ads. Now, the protection applies only to the contents of private chats and contact lists. Separately, a new section reveals that ads can be targeted to your approximate country or city, estimated from your phone number's area code or your IP address. The channels you follow can also place you into ad categories that follow you across other large channels and bots. No data is handed to advertisers, and Telegram Premium users are exempt. If this concerns you, review your Data Settings and consider whether a Premium subscription makes sense.\n\n#Telegram #privacypolicy #dataprivacy #adtargeting #tosupdate #messaging #digitalrights #privacy",
       "id": "2026-08-22_telegram-privacy",
       "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "telegram-privacy",
-      "has_slides": true,
+      "post_source": "diffs/2026-08-22_telegram-privacy_post.json",
+      "slide_folder": "2026-08-22_telegram",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
       "slide_count": 6,
-      "slide_folder": "2026-08-22_telegram"
-    },
-    {
-      "app": "Snapchat",
-      "accent": "#FFFC00",
-      "headline": "Snapchat's privacy policy just got updated",
-      "subhead": "Face data, age inference, and AI changes explained",
-      "effective": "Effective 21 September 2026",
-      "changes": [
-        "Snapchat may now scan faces in your Memories for grouping and search features.",
-        "Snap can infer or verify your age from content and activity you provide.",
-        "Automated tools now explicitly scan content to detect policy violations and check age.",
-        "AI Features section clarified: your My AI chats help train Snap's AI models."
-      ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "New face-grouping data use and age-inference language are meaningful expansions of how Snap processes your personal content.",
-      "actions": [
-        "Check Memories settings and disable face grouping features if unwanted.",
-        "Review My AI chat history and delete anything you don't want used for training.",
-        "Visit Snapchat's Privacy Center to audit what data Snap holds about you."
-      ],
-      "video_script": "Hey — Snapchat just quietly updated its privacy policy, effective September 21st, and there are a few things worth knowing. First, if you use Memories, Snap may now use face detection data to group and search your Snaps — that's new. Second, Snap says it can now infer or verify your age from your content and activity. And automated tools will scan content to check for policy violations. Our verdict? Worth knowing — especially the face data stuff. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
-      "categories": [
-        {
-          "tag": "ai_training",
-          "explanation": "The updated policy clarifies that content shared with My AI, including text, images, and location, is used as input to generate outputs and improve AI model responses, making the AI training use more explicit than before."
-        },
-        {
-          "tag": "permissions",
-          "explanation": "Snapchat added new language allowing it to use face detection information from your Memories for grouping, search, and personalisation features, representing an expanded use of biometric-adjacent data from your camera roll."
-        }
-      ],
-      "id": "2026-08-05_snapchat-privacy",
-      "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "snapchat-privacy",
       "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-05_snapchat"
-    },
-    {
-      "app": "Instagram",
-      "accent": "#E1306C",
-      "headline": "Instagram tightens rules on automated data collection",
-      "subhead": "New terms govern bots, scrapers, and data harvesting",
-      "effective": "Updated July 28, 2026",
-      "changes": [
-        "Automated scraping now governed by a formal 'Automated Data Collection Terms' document",
-        "Instagram can revoke permission for any automated data collection at any time",
-        "Bots and scrapers must comply with the new terms even if previously allowed",
-        "Clarifies that automated access rules apply whether or not you're logged in"
-      ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "This formalises and expands restrictions on scraping and bots, and gives Instagram broader power to revoke access without notice.",
-      "actions": [
-        "If you use any automation tools on Instagram, review the new Automated Data Collection Terms",
-        "Developers or businesses using the API should audit their current data practices now",
-        "Regular users: no action needed, but know Instagram is cracking down on scrapers"
-      ],
-      "video_script": "Hey, Instagram just quietly updated its Terms of Service — and if you use any kind of automation, bot, or scraping tool, you need to pay attention. They've introduced something called the 'Automated Data Collection Terms' — a whole new document that anyone collecting data from Instagram must now follow. And here's the kicker: Instagram can revoke permission for that automated access at any time, for any reason. Regular users? Probably fine. But developers and businesses should check their tools now. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
-      "id": "2026-07-28_instagram-terms",
-      "source_type": "diff",
+      "media_error": "",
+      "date": "2026-08-22",
+      "priority": 100,
+      "instagram_caption": "Telegram updated its Privacy Policy on August 21, 2026, quietly narrowing its long-standing no-ads pledge. Previously, Telegram said it never used 'your data' to show ads. Now, the protection applies only to the contents of private chats and contact lists. Separately, a new section reveals that ads can be targeted to your approximate country or city, estimated from your phone number's area code or your IP address. The channels you follow can also place you into ad categories that follow you across other large channels and bots. No data is handed to advertisers, and Telegram Premium users are exempt. If this concerns you, review your Data Settings and consider whether a Premium subscription makes sense.\n\n#Telegram #privacypolicy #dataprivacy #adtargeting #tosupdate #messaging #digitalrights #privacy",
+      "caption_sha256": "60ba5212cdc4fd043213315aa4ad7197edb37d999ed909abd3adada8bbf74c82",
       "published": false,
-      "date": "",
-      "service": "instagram-terms",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-07-28_instagram"
-    },
-    {
-      "app": "Netflix",
-      "accent": "#E50914",
-      "headline": "Netflix quietly removed advertiser data-sharing disclosure",
-      "subhead": "One line about your viewing history just vanished",
-      "effective": "Updated July 20, 2026",
-      "changes": [
-        "Netflix deleted the line saying it shares your viewing history with advertisers",
-        "The removal makes data-sharing practices less transparent to users",
-        "It's unclear if the practice stopped or just the disclosure was removed",
-        "Ad-supported plan subscribers may still have viewing data shared"
-      ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "Removing an explicit disclosure about advertiser data-sharing raises transparency concerns, especially for users on Netflix's ad-supported tier.",
-      "actions": [
-        "Check your Netflix privacy settings and limit ad personalization if possible",
-        "Review Netflix's full Privacy Statement for current data-sharing details",
-        "Consider whether the ad-supported plan aligns with your privacy comfort level"
-      ],
-      "id": "2026-07-20_netflix-terms",
-      "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "netflix-terms",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-07-20_netflix"
-    },
-    {
-      "app": "Amazon",
-      "accent": "#FF9900",
-      "headline": "Amazon now requires arbitration, drops jury trials",
-      "subhead": "Big dispute-resolution overhaul affects every US shopper.",
-      "effective": "Effective August 14, 2026",
-      "changes": [
-        "Disputes must now go to binding arbitration, not court",
-        "Class-action lawsuits against Amazon are now banned",
-        "You must contact customer service and wait 60 days before arbitrating",
-        "Personal injury claims from products now governed by your state's law"
-      ],
-      "verdict": "IMPORTANT",
-      "verdict_text": "Amazon replaced a simple court clause with extensive mandatory arbitration and a class-action waiver, significantly limiting how users can seek legal relief.",
-      "actions": [
-        "Read the new arbitration section at amazon.com/conditions",
-        "Note the 60-day pre-arbitration step before filing any claim",
-        "For product-injury claims, check which state law applies to you"
-      ],
-      "caption": "Amazon updated its Conditions of Use on August 14, 2026, replacing a straightforward court-dispute clause with a detailed mandatory arbitration system. Under the new terms, if you have a complaint about Amazon — a bad charge, a faulty product, a policy dispute — you can no longer take it to a regular court with a judge or jury. Instead, you must first contact customer service and negotiate for up to 60 days, then go through a JAMS arbitration process. A new class-action waiver means you cannot join other customers in a lawsuit against Amazon; each person must fight their case alone. The only notable carve-out is for personal injury or property damage from a product, which will now be governed by the law of the state where the harm occurred. If you ever need to dispute something with Amazon, know that your legal options have narrowed considerably.",
-      "hashtags": [
-        "amazon",
-        "arbitration",
-        "consumerrights",
-        "termsofservice",
-        "privacyrights",
-        "classaction",
-        "onlineshopping",
-        "toschange"
-      ],
-      "video_script": "Hey, quick heads-up if you shop on Amazon. As of August 14, 2026, Amazon rewrote its dispute rules — and it's a big deal. They've added mandatory binding arbitration, which means if you have a problem with Amazon, you can no longer take them to a regular court with a jury. You also can't join a class-action lawsuit — every complaint has to be handled individually. You'll even need to go through a 60-day negotiation process before you can file for arbitration. This one is important. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
-      "categories": [
-        {
-          "tag": "arbitration_waiver",
-          "explanation": "Amazon replaced a simple court-jurisdiction clause with extensive mandatory binding arbitration and an explicit class-action waiver, removing users' right to jury trials and collective legal action."
-        }
-      ],
-      "caption_rendered": "Amazon updated its Conditions of Use on August 14, 2026, replacing a straightforward court-dispute clause with a detailed mandatory arbitration system. Under the new terms, if you have a complaint about Amazon — a bad charge, a faulty product, a policy dispute — you can no longer take it to a regular court with a judge or jury. Instead, you must first contact customer service and negotiate for up to 60 days, then go through a JAMS arbitration process. A new class-action waiver means you cannot join other customers in a lawsuit against Amazon; each person must fight their case alone. The only notable carve-out is for personal injury or property damage from a product, which will now be governed by the law of the state where the harm occurred....\n\n#Amazon #arbitration #consumerrights #termsofservice #privacyrights #classaction #onlineshopping #toschange",
-      "id": "2026-08-15_amazon-terms",
-      "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "amazon-terms",
-      "has_slides": true,
-      "slide_count": 6,
-      "slide_folder": "2026-08-15_amazon"
-    },
-    {
-      "app": "Steam",
-      "accent": "#1b2838",
-      "headline": "Steam quietly swapped its EU privacy contact",
-      "subhead": "A new company now handles your EU data questions",
-      "effective": "Updated August 10, 2026",
-      "changes": [
-        "Steam replaced its EU data-protection representative with a new firm.",
-        "Old rep: Valve GmbH i.L. — New rep: RIVACY GmbH in Hamburg.",
-        "The contact address for EU privacy questions has changed."
-      ],
-      "verdict": "MINOR",
-      "verdict_text": "Only the EU representative contact details changed. No data practices, retention rules, or sharing policies were altered.",
-      "actions": [
-        "If you have a pending EU data request, use the new RIVACY GmbH address.",
-        "Check Steam's privacy page for updated contact details before submitting requests.",
-        "No action needed if you are outside the EU or have no active requests."
-      ],
-      "caption": "Steam recently updated its Privacy Policy to swap out its EU data-protection representative. The old representative, Valve GmbH i.L., has been replaced by RIVACY GmbH, located at Mexikoring 33, 22297 Hamburg, Germany. For most users this changes nothing about how Steam collects, uses, or shares your data. However, if you are an EU resident who needs to submit a data-access, correction, or deletion request under GDPR, you should make sure you are directing those inquiries to the new representative. Check Steam's current privacy policy for the updated contact before sending any formal requests.",
-      "hashtags": [
-        "steam",
-        "valve",
-        "privacypolicy",
-        "GDPR",
-        "gamingprivacy",
-        "dataprotection",
-        "EUprivacy"
-      ],
-      "video_script": "Hey, quick Steam privacy heads-up. Valve just swapped out the company that acts as its official EU data-protection representative. The old entity, Valve GmbH i.L., is gone — replaced by a firm called RIVACY GmbH in Hamburg. If you are an EU user with an active GDPR request, you need to use the new contact. For everyone else, nothing about how Steam handles your data actually changed. Verdict: minor. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
-      "categories": [],
-      "caption_rendered": "Steam recently updated its Privacy Policy to swap out its EU data-protection representative. The old representative, Valve GmbH i.L., has been replaced by RIVACY GmbH, located at Mexikoring 33, 22297 Hamburg, Germany. For most users this changes nothing about how Steam collects, uses, or shares your data. However, if you are an EU resident who needs to submit a data-access, correction, or deletion request under GDPR, you should make sure you are directing those inquiries to the new representative. Check Steam's current privacy policy for the updated contact before sending any formal requests.\n\n#Steam #valve #privacypolicy #GDPR #gamingprivacy #dataprotection #EUprivacy #privacy",
-      "id": "2026-08-10_steam-privacy",
-      "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "steam-privacy",
-      "has_slides": true,
-      "slide_count": 5,
-      "slide_folder": "2026-08-10_steam"
+      "publishable": true,
+      "status": "queued"
     },
     {
       "app": "Amazon",
@@ -851,13 +1323,38 @@
       "caption_rendered": "🚨 AMAZON POLICY UPDATE\n\nAmazon now uses your data to train AI\n\nWHAT CHANGED:\n• Amazon now explicitly uses your data to develop and deploy generative AI models.\n• Linking your Amazon account to a third-party via Login with Amazon is now listed as a data source.\n• Amazon replaced 'search results and Sponsored Links' with broader ad-interaction tracking on third-party sites and apps.\n• Amazon now collects advertising identifiers and data from third parties to improve its services.\n\nOUR VERDICT: IMPORTANT\nThe new AI training clause and expanded ad-tracking language meaningfully broaden how Amazon can use your personal data.\n\nWHAT YOU CAN DO:\n→ Review Amazon's Generative AI Development Disclosure linked in the policy.\n→ Check your ad preferences and opt out of interest-based ads at amazon.com/ibanotice.\n→ Avoid linking your Amazon account to third-party apps unless necessary.\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Amazon #AmazonPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "id": "2026-08-23_amazon-privacy",
       "source_type": "diff",
-      "published": false,
-      "date": "",
-      "service": "amazon-privacy",
-      "has_slides": true,
+      "post_source": "diffs/2026-08-23_amazon-privacy_post.json",
+      "slide_folder": "2026-08-23_amazon",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-23_amazon/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-23_amazon/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-23_amazon/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-23_amazon/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-23_amazon/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-23_amazon/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
       "slide_count": 6,
-      "slide_folder": "2026-08-23_amazon"
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-08-23",
+      "priority": 100,
+      "instagram_caption": "🚨 AMAZON POLICY UPDATE\n\nAmazon now uses your data to train AI\n\nWHAT CHANGED:\n• Amazon now explicitly uses your data to develop and deploy generative AI models.\n• Linking your Amazon account to a third-party via Login with Amazon is now listed as a data source.\n• Amazon replaced 'search results and Sponsored Links' with broader ad-interaction tracking on third-party sites and apps.\n• Amazon now collects advertising identifiers and data from third parties to improve its services.\n\nOUR VERDICT: IMPORTANT\nThe new AI training clause and expanded ad-tracking language meaningfully broaden how Amazon can use your personal data.\n\nWHAT YOU CAN DO:\n→ Review Amazon's Generative AI Development Disclosure linked in the policy.\n→ Check your ad preferences and opt out of interest-based ads at amazon.com/ibanotice.\n→ Avoid linking your Amazon account to third-party apps unless necessary.\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Amazon #AmazonPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "6b8d35e43bac8c528ebb769b4221a99758ac7b99c9f16ba6e45e07399cca1333",
+      "published": false,
+      "publishable": true,
+      "status": "queued"
     }
   ],
-  "total": 30
+  "total": 30,
+  "queued_count": 3,
+  "published_count": 2,
+  "baseline_count": 10
 }
