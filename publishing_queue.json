@@ -1,6 +1,6 @@
 {
-  "schema_version": 2,
-  "generated_at": "2026-08-28T23:46:34Z",
+  "schema_version": 3,
+  "generated_at": "2026-08-29T15:51:59Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -70,8 +70,11 @@
       "published": true,
       "published_at": "2026-08-20T15:18:19Z",
       "instagram_permalink": "https://www.instagram.com/p/DcRESOdGxxE/",
+      "instagram_post_id": "18421968541146583",
       "publishable": false,
-      "status": "published"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "app": "Albertsons",
@@ -116,9 +119,14 @@
       "priority": 100,
       "instagram_caption": "📋 ALBERTSONS POLICY BREAKDOWN (TL;DR)\n\nOwner of ACME and Kings. It values your loyalty data at $4.13 a shopper.\n\nWHAT THEY CAN DO:\n• Albertsons estimates your data is worth about $4.13 per shopper\n• Cameras may infer race, religion, and disability as demographic data\n• Loyalty data is an enumerated input for training AI models\n• Store Wi-Fi ties your device ID and location to your account\n\nOUR VERDICT: IMPORTANT\nThe disclosures are unusually detailed, and most sit in a financial-incentive notice almost no shopper ever opens.\n\nWHAT YOU CAN DO:\n→ Delete shopping history only - keeps your account and points\n→ Opt out of sale and targeted ads: (877) 251-6559\n→ Turn on Global Privacy Control in your browser\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#Albertsons #AlbertsonsPrivacy #PrivacyPolicy #TermsOfService #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "caption_sha256": "515980ab520e2b96574fa833108ba759d74bb6b5665b424899d5cdc8139ebe1f",
-      "published": false,
+      "published": true,
+      "published_at": "2026-08-14T21:32:01Z",
+      "instagram_permalink": "https://www.instagram.com/p/DcCSJ1zlPiI/",
+      "instagram_post_id": "18120563579510441",
       "publishable": false,
-      "status": "requires_review"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "app": "Best Buy",
@@ -159,9 +167,14 @@
       "priority": 100,
       "instagram_caption": "📋 BEST BUY POLICY BREAKDOWN (TL;DR)\n\nIts limits on how partners use your data carve out advertising.\n\nWHAT THEY CAN DO:\n• Contract limits on data sharing exclude some advertising uses\n• Best Buy says it doesn't trade your data for money\n• It still lists data sold under New Jersey's broader definition\n• Joining My Best Buy requires name, address, email and phone\n\nOUR VERDICT: WORTH KNOWING\nBoth statements are accurate. State law counts ad targeting as a sale even when no money changes hands.\n\nWHAT YOU CAN DO:\n→ Use Best Buy's advertising opt-out on its privacy page\n→ Cancel membership by phone: 1-888-237-8289\n→ Opting out cannot legally get you worse treatment\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#BestBuy #BestBuyPrivacy #PrivacyPolicy #TermsOfService #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "caption_sha256": "6e4c8e06ae5d0adf02197e0e51fb9fafbe8f640f9b6c7335d4422c6ec3862bce",
-      "published": false,
+      "published": true,
+      "published_at": "2026-08-09T12:27:53Z",
+      "instagram_permalink": "https://www.instagram.com/p/Db0a477Eb0-/",
+      "instagram_post_id": "17959319222984863",
       "publishable": false,
-      "status": "requires_review"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "app": "Kroger",
@@ -202,9 +215,14 @@
       "priority": 100,
       "instagram_caption": "📋 KROGER POLICY BREAKDOWN (TL;DR)\n\n63 million loyalty members. One income predictor. It can be wrong.\n\nWHAT THEY CAN DO:\n• An income predictor estimates your earnings from loyalty card purchases\n• Consumer Reports found profiles wrong on income, education and age\n• One shopper's profile may have reached over 50 companies\n• Precision marketing brought in an estimated $527 million in 2024\n\nOUR VERDICT: IMPORTANT\nKroger says demographic data helps target relevant coupons. Consumer Reports argues inaccurate guesses can quietly cost you the best deals.\n\nWHAT YOU CAN DO:\n→ Ask Kroger to correct your shopper profile\n→ Request your data - many states now guarantee access\n→ Check advertised shelf prices against your receipt\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#Kroger #KrogerPrivacy #LoyaltyData #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "caption_sha256": "800e2b6d07979df5b8a32d4943955eb3a9887af46b4c5dfd82ab524c784f94ec",
-      "published": false,
+      "published": true,
+      "published_at": "2026-08-17T14:05:42Z",
+      "instagram_permalink": "https://www.instagram.com/p/DcJNlydFCFV/",
+      "instagram_post_id": "17931237357373112",
       "publishable": false,
-      "status": "requires_review"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "app": "ShopRite",
@@ -245,9 +263,14 @@
       "priority": 100,
       "instagram_caption": "📋 SHOPRITE POLICY BREAKDOWN (TL;DR)\n\nYou can opt out of Price Plus data sharing. It says that may cost you deals.\n\nWHAT THEY CAN DO:\n• Price Plus links your name, address, phone and purchase history\n• Check cashing adds your license and checking account numbers\n• You can refuse sharing by phone, in store, or online\n• But some Price Plus promotions require individual-level data to qualify\n\nOUR VERDICT: WORTH KNOWING\nTamer than the national chains, and recall alerts are a real benefit. But the opt-out has a stated price.\n\nWHAT YOU CAN DO:\n→ Opt out of sharing at 1-800-SHOPRITE or customer service\n→ Keep the card for product recall alerts\n→ NJ residents can request their data under NJDPA\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#Shoprite #ShopritePrivacy #PricePlusClub #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "caption_sha256": "3851ba2e25e238fc49f2a0f43ee6e2b9e81ae99a778b037d53ac483a87b955da",
-      "published": false,
+      "published": true,
+      "published_at": "2026-08-18T14:03:16Z",
+      "instagram_permalink": "https://www.instagram.com/p/DcLyGrCkWGs/",
+      "instagram_post_id": "17897243034372322",
       "publishable": false,
-      "status": "requires_review"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "id": "2026-07-19_whatsapp",
@@ -271,7 +294,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "app": "Netflix",
@@ -319,7 +344,9 @@
       "caption_sha256": "ab7ca5b4dd26fd47862bb2641af0452641f1efdc0b6298b6395a88729f0a4ceb",
       "published": false,
       "publishable": false,
-      "status": "baseline"
+      "status": "baseline",
+      "instagram_status": "baseline",
+      "site_status": "approved"
     },
     {
       "app": "Robinhood",
@@ -366,7 +393,9 @@
       "caption_sha256": "2ad929a959954a5cef09aa5beb7c0b1d15a8ee37558f3e13dba2a98cebe1a954",
       "published": false,
       "publishable": false,
-      "status": "baseline"
+      "status": "baseline",
+      "instagram_status": "baseline",
+      "site_status": "approved"
     },
     {
       "app": "Discord",
@@ -415,7 +444,9 @@
       "caption_sha256": "7da88bb2c2e93fd66ab9c9584a627c5badaaf61bbdaa581945a94ca3c80dc5af",
       "published": false,
       "publishable": false,
-      "status": "baseline"
+      "status": "baseline",
+      "instagram_status": "baseline",
+      "site_status": "approved"
     },
     {
       "app": "Facebook",
@@ -463,7 +494,9 @@
       "caption_sha256": "08558ed7292c547399a681199dc810deded5a3194b5efbc9d727daebfa73f007",
       "published": false,
       "publishable": false,
-      "status": "baseline"
+      "status": "baseline",
+      "instagram_status": "baseline",
+      "site_status": "approved"
     },
     {
       "app": "Instagram",
@@ -510,9 +543,14 @@
       "priority": 100,
       "instagram_caption": "🚨 INSTAGRAM POLICY UPDATE\n\nInstagram tightens rules on automated data collection\n\nWHAT CHANGED:\n• Automated scraping now governed by a formal 'Automated Data Collection Terms' document\n• Instagram can revoke permission for any automated data collection at any time\n• Bots and scrapers must comply with the new terms even if previously allowed\n• Clarifies that automated access rules apply whether or not you're logged in\n\nOUR VERDICT: WORTH KNOWING\nThis formalises and expands restrictions on scraping and bots, and gives Instagram broader power to revoke access without notice.\n\nWHAT YOU CAN DO:\n→ If you use any automation tools on Instagram, review the new Automated Data Collection Terms\n→ Developers or businesses using the API should audit their current data practices now\n→ Regular users: no action needed, but know Instagram is cracking down on scrapers\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Instagram #InstagramPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "caption_sha256": "94463a65462aa1f6a365477aec43a17b846358ad699a3e8fbda094979ad56897",
-      "published": false,
+      "published": true,
+      "published_at": "2026-07-28T18:53:00Z",
+      "instagram_permalink": "https://www.instagram.com/p/DbWOk3TFi8m/",
+      "instagram_post_id": "17924137233162890",
       "publishable": false,
-      "status": "baseline"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "id": "2026-07-30_discord",
@@ -536,7 +574,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "app": "Google",
@@ -585,7 +625,9 @@
       "caption_sha256": "f87a7c4d9cefe44d36b7434c015056cc6cf291a254bc8187ebbefd8dda52129e",
       "published": false,
       "publishable": false,
-      "status": "baseline"
+      "status": "baseline",
+      "instagram_status": "baseline",
+      "site_status": "approved"
     },
     {
       "app": "Snapchat",
@@ -642,9 +684,14 @@
       "priority": 100,
       "instagram_caption": "🚨 SNAPCHAT POLICY UPDATE\n\nSnapchat's privacy policy just got updated\n\nWHAT CHANGED:\n• Snapchat may now scan faces in your Memories for grouping and search features.\n• Snap can infer or verify your age from content and activity you provide.\n• Automated tools now explicitly scan content to detect policy violations and check age.\n• AI Features section clarified: your My AI chats help train Snap's AI models.\n\nOUR VERDICT: WORTH KNOWING\nNew face-grouping data use and age-inference language are meaningful expansions of how Snap processes your personal content.\n\nWHAT YOU CAN DO:\n→ Check Memories settings and disable face grouping features if unwanted.\n→ Review My AI chat history and delete anything you don't want used for training.\n→ Visit Snapchat's Privacy Center to audit what data Snap holds about you.\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Snapchat #SnapchatPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "caption_sha256": "8a63adb764476537fbec50aa0799e2ba3cad74a2587818c5e475fd889ebc4b65",
-      "published": false,
+      "published": true,
+      "published_at": "2026-08-07T01:58:30Z",
+      "instagram_permalink": "https://www.instagram.com/p/DbuKbOGFvrR/",
+      "instagram_post_id": "18028101170665078",
       "publishable": false,
-      "status": "baseline"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "id": "2026-08-08_albertsons-privacy-policy",
@@ -668,7 +715,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "id": "2026-08-08_amazon-privacy-privacy-policy",
@@ -692,7 +741,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "id": "2026-08-08_amazon-terms-privacy-policy",
@@ -716,7 +767,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "id": "2026-08-08_best-buy-privacy-policy",
@@ -740,7 +793,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "id": "2026-08-08_grubhub",
@@ -764,7 +819,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "id": "2026-08-08_kroger-loyalty-data",
@@ -788,7 +845,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "id": "2026-08-08_shoprite-price-plus-club",
@@ -812,7 +871,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "id": "2026-08-08_whatsapp",
@@ -836,7 +897,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "app": "Steam",
@@ -894,9 +957,14 @@
       "priority": 100,
       "instagram_caption": "Steam recently updated its Privacy Policy to swap out its EU data-protection representative. The old representative, Valve GmbH i.L., has been replaced by RIVACY GmbH, located at Mexikoring 33, 22297 Hamburg, Germany. For most users this changes nothing about how Steam collects, uses, or shares your data. However, if you are an EU resident who needs to submit a data-access, correction, or deletion request under GDPR, you should make sure you are directing those inquiries to the new representative. Check Steam's current privacy policy for the updated contact before sending any formal requests.\n\n#Steam #valve #privacypolicy #GDPR #gamingprivacy #dataprotection #EUprivacy #privacy",
       "caption_sha256": "bd3905fbac6394926d82d3bf272e98172dfebf022dc7c5d1508b41dad48cfb1a",
-      "published": false,
+      "published": true,
+      "published_at": "2026-08-11T22:17:19Z",
+      "instagram_permalink": "https://www.instagram.com/p/Db6orKjFFBZ/",
+      "instagram_post_id": "18141521014564273",
       "publishable": false,
-      "status": "baseline"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "app": "Twitch",
@@ -961,9 +1029,14 @@
       "priority": 100,
       "instagram_caption": "Twitch updated its Privacy Notice on August 12, 2026, and added new language explicitly allowing your data to be used for machine learning and artificial intelligence development, including training generative AI models across Twitch and Amazon's products and services. Previously, the policy described data use for recommendations, advertising, and general service improvement. Now it goes further, stating Twitch may use data to develop or deploy generative AI. Because Twitch is an Amazon subsidiary, this extends your data's reach into Amazon's broader AI ecosystem. No opt-out mechanism is mentioned in this update. You should visit Twitch's Privacy Choices page and review Amazon's Generative AI Development Disclosure to understand your current options.\n\n#Twitch #amazon #privacypolicy #aitraining #generativeai #dataprivacy #streamers #userdata",
       "caption_sha256": "f76e865dc7d5380475afd72c4be3ac86969e36ed932aa156f7a23981630c457d",
-      "published": false,
+      "published": true,
+      "published_at": "2026-08-13T23:03:42Z",
+      "instagram_permalink": "https://www.instagram.com/p/Db_3_DimWq5/",
+      "instagram_post_id": "18119518246914784",
       "publishable": false,
-      "status": "baseline"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "app": "Amazon",
@@ -1032,7 +1105,9 @@
       "caption_sha256": "e0193727f00fdaa866fac85739a554b802a3ae5484c06df58ffe9fed5e178afc",
       "published": false,
       "publishable": false,
-      "status": "baseline"
+      "status": "baseline",
+      "instagram_status": "baseline",
+      "site_status": "approved"
     },
     {
       "id": "2026-08-15_whatsapp",
@@ -1057,7 +1132,9 @@
       "priority": 100,
       "published": false,
       "publishable": false,
-      "status": "requires_review"
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     },
     {
       "app": "Robinhood",
@@ -1129,10 +1206,13 @@
       "instagram_caption": "Robinhood updated its privacy policy on August 18, 2026, with changes focused on artificial intelligence agents. The policy now explicitly states that Robinhood collects your usage data whether you access the app directly or through an external AI agent acting on your behalf. It also names third-party AI agents alongside Google and Apple as services that can connect to your account and send Robinhood your profile information. This matters because an AI agent operating on your account could generate data Robinhood collects and potentially uses to train its own AI features. If you use or plan to use any AI tool that links to Robinhood, review the updated Customer Agreement and check which services have access to your account.\n\n#Robinhood #privacypolicy #AIagents #fintech #dataprivacy #agenticAI #investingapp #tosmonitor",
       "caption_sha256": "ae8dd91d2ef111ea5efbc77bf9314acd365db30fccb55a9937551d3d530380f6",
       "published": true,
-      "published_at": "2026-08-21T15:15:00Z",
+      "published_at": "2026-08-21T15:19:58Z",
       "instagram_permalink": "https://www.instagram.com/p/DcTpQa6kcdu/",
+      "instagram_post_id": "18091163369374827",
       "publishable": false,
-      "status": "published"
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "app": "Facebook",
@@ -1203,9 +1283,14 @@
       "priority": 100,
       "instagram_caption": "Facebook has expanded and restructured its Privacy Policy, adding new sections that are more explicit about several data practices that previously received less attention. Most notably, the updated policy now openly states that publicly available datasets — including from data providers, research institutions, and academic groups — are used to improve Meta's AI technologies, including computer vision and natural language processing. It also adds a dedicated section on data collected when you use Meta's generative AI features, such as prompts, responses, and information from third-party apps you connect to those features. Additionally, the policy now explains in more detail how your data is combined across Facebook, Instagram, and WhatsApp when accounts are linked in the Accounts Center. If you use multiple Meta apps and have ever interacted with Meta AI...\n\n#Facebook #meta #privacypolicy #aitraining #dataprivacy #metaai #accountscenter #tosmonitor",
       "caption_sha256": "8d9f0913299cd40fcdb4422820e23d5838efcb3a7bf7b3af52642f2f35f85c59",
-      "published": false,
-      "publishable": true,
-      "status": "queued"
+      "published": true,
+      "published_at": "2026-08-22T15:19:45Z",
+      "instagram_permalink": "https://www.instagram.com/p/DcWOCkBlHEL/",
+      "instagram_post_id": "18120516334871037",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "app": "Telegram",
@@ -1275,9 +1360,14 @@
       "priority": 100,
       "instagram_caption": "Telegram updated its Privacy Policy on August 21, 2026, quietly narrowing its long-standing no-ads pledge. Previously, Telegram said it never used 'your data' to show ads. Now, the protection applies only to the contents of private chats and contact lists. Separately, a new section reveals that ads can be targeted to your approximate country or city, estimated from your phone number's area code or your IP address. The channels you follow can also place you into ad categories that follow you across other large channels and bots. No data is handed to advertisers, and Telegram Premium users are exempt. If this concerns you, review your Data Settings and consider whether a Premium subscription makes sense.\n\n#Telegram #privacypolicy #dataprivacy #adtargeting #tosupdate #messaging #digitalrights #privacy",
       "caption_sha256": "60ba5212cdc4fd043213315aa4ad7197edb37d999ed909abd3adada8bbf74c82",
-      "published": false,
-      "publishable": true,
-      "status": "queued"
+      "published": true,
+      "published_at": "2026-08-29T12:53:32Z",
+      "instagram_permalink": "https://www.instagram.com/p/Dcn9eZgG-3a/",
+      "instagram_post_id": "18132184270725301",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     },
     {
       "app": "Amazon",
@@ -1348,13 +1438,18 @@
       "priority": 100,
       "instagram_caption": "🚨 AMAZON POLICY UPDATE\n\nAmazon now uses your data to train AI\n\nWHAT CHANGED:\n• Amazon now explicitly uses your data to develop and deploy generative AI models.\n• Linking your Amazon account to a third-party via Login with Amazon is now listed as a data source.\n• Amazon replaced 'search results and Sponsored Links' with broader ad-interaction tracking on third-party sites and apps.\n• Amazon now collects advertising identifiers and data from third parties to improve its services.\n\nOUR VERDICT: IMPORTANT\nThe new AI training clause and expanded ad-tracking language meaningfully broaden how Amazon can use your personal data.\n\nWHAT YOU CAN DO:\n→ Review Amazon's Generative AI Development Disclosure linked in the policy.\n→ Check your ad preferences and opt out of interest-based ads at amazon.com/ibanotice.\n→ Avoid linking your Amazon account to third-party apps unless necessary.\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Amazon #AmazonPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "caption_sha256": "6b8d35e43bac8c528ebb769b4221a99758ac7b99c9f16ba6e45e07399cca1333",
-      "published": false,
-      "publishable": true,
-      "status": "queued"
+      "published": true,
+      "published_at": "2026-08-29T15:18:49Z",
+      "instagram_permalink": "https://www.instagram.com/p/DcoPfNwFDBa/",
+      "instagram_post_id": "18094459982430342",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
+      "site_status": "approved"
     }
   ],
   "total": 30,
-  "queued_count": 3,
-  "published_count": 2,
-  "baseline_count": 10
+  "queued_count": 0,
+  "published_count": 13,
+  "baseline_count": 6
 }
