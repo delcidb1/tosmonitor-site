@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Instagram)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Instagram just quietly edited its Terms of Service, and this one is worth paying attention to. They removed a specific reference to their Automated Data Collection Terms - that was the rulebook that scrapers and bots were explicitly required to follow. The prohibition on unauthorized scraping is still there, but it is now noticeably vaguer, with fewer named obligations for the people collecting your data. Our verdict: worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #E1306C accent lighting looks at the
+camera and says: 'Instagram quietly rewrites its scraping rules. The change strips out a specific compliance framework for scrapers, making the prohibition vaguer and harder for users and researchers to enforce or interpret.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

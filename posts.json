@@ -264,6 +264,48 @@
     "published_at": "2026-08-14T21:32:01Z"
   },
   {
+    "id": "2026-08-29_instagram-terms",
+    "app": "Instagram",
+    "accent": "#E1306C",
+    "headline": "Instagram quietly rewrites its scraping rules",
+    "subhead": "A key reference to automated data terms just vanished",
+    "effective": "Updated August 29, 2026",
+    "changes": [
+      "Instagram removed the explicit reference to its Automated Data Collection Terms.",
+      "Scrapers no longer must comply with a named, separate ruleset for bots.",
+      "The rule against unauthorized automated access still stands, but is now vaguer.",
+      "Instagram can still restrict or revoke permission, but that reminder was deleted."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "The change strips out a specific compliance framework for scrapers, making the prohibition vaguer and harder for users and researchers to enforce or interpret.",
+    "actions": [
+      "If you use any third-party apps that pull your Instagram data, review their permissions.",
+      "Check which apps have access to your account under Settings and remove unused ones.",
+      "Follow @tos_monitor so you catch any follow-up changes to the scraping rules."
+    ],
+    "categories": [],
+    "date": "2026-08-29",
+    "slide_folder": "2026-08-29_instagram",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://raw.githubusercontent.com/OpenTermsArchive/pga-versions/main/Instagram/Terms%20of%20Service.md",
+    "key_changes": []
+  },
+  {
     "id": "2026-08-23_amazon-privacy",
     "app": "Amazon",
     "accent": "#FF9900",
