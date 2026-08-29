@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-08-29T15:54:43Z",
+  "generated_at": "2026-08-29T18:02:38Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1446,10 +1446,75 @@
       "status": "published",
       "instagram_status": "published",
       "site_status": "approved"
+    },
+    {
+      "app": "Instagram",
+      "accent": "#E1306C",
+      "headline": "Instagram quietly rewrites its scraping rules",
+      "subhead": "A key reference to automated data terms just vanished",
+      "effective": "Updated August 29, 2026",
+      "changes": [
+        "Instagram removed the explicit reference to its Automated Data Collection Terms.",
+        "Scrapers no longer must comply with a named, separate ruleset for bots.",
+        "The rule against unauthorized automated access still stands, but is now vaguer.",
+        "Instagram can still restrict or revoke permission, but that reminder was deleted."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "The change strips out a specific compliance framework for scrapers, making the prohibition vaguer and harder for users and researchers to enforce or interpret.",
+      "actions": [
+        "If you use any third-party apps that pull your Instagram data, review their permissions.",
+        "Check which apps have access to your account under Settings and remove unused ones.",
+        "Follow @tos_monitor so you catch any follow-up changes to the scraping rules."
+      ],
+      "caption": "Instagram just quietly updated its Terms of Service, removing a specific reference to its Automated Data Collection Terms from the section on unauthorized scraping. Previously, the rule explicitly named a separate document that automated scrapers had to comply with, and reminded Instagram that it could revoke permission at any time. Both of those details are now gone. The core ban on unauthorized automated access remains, but the language is noticeably vaguer. For ordinary users this matters because third-party apps and data brokers that scrape Instagram data are now operating under a less precisely defined rulebook, which can affect how your public posts and profile information are collected and used. Review which third-party apps are connected to your Instagram account and remove any you no longer recognize or trust.",
+      "hashtags": [
+        "instagram",
+        "privacypolicy",
+        "termsofservice",
+        "datascraping",
+        "digitalrights",
+        "privacymatters",
+        "socialmediaprivacy"
+      ],
+      "video_script": "Hey, Instagram just quietly edited its Terms of Service, and this one is worth paying attention to. They removed a specific reference to their Automated Data Collection Terms - that was the rulebook that scrapers and bots were explicitly required to follow. The prohibition on unauthorized scraping is still there, but it is now noticeably vaguer, with fewer named obligations for the people collecting your data. Our verdict: worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [],
+      "caption_rendered": "🚨 INSTAGRAM POLICY UPDATE\n\nInstagram quietly rewrites its scraping rules\n\nWHAT CHANGED:\n• Instagram removed the explicit reference to its Automated Data Collection Terms.\n• Scrapers no longer must comply with a named, separate ruleset for bots.\n• The rule against unauthorized automated access still stands, but is now vaguer.\n• Instagram can still restrict or revoke permission, but that reminder was deleted.\n\nOUR VERDICT: WORTH KNOWING\nThe change strips out a specific compliance framework for scrapers, making the prohibition vaguer and harder for users and researchers to enforce or interpret.\n\nWHAT YOU CAN DO:\n→ If you use any third-party apps that pull your Instagram data, review their permissions.\n→ Check which apps have access to your account under Settings and remove unused ones.\n→ Follow @tos_monitor so you catch any follow-up changes to the scraping rules.\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Instagram #InstagramPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "id": "2026-08-29_instagram-terms",
+      "source_type": "diff",
+      "post_source": "diffs/2026-08-29_instagram-terms_post.json",
+      "slide_folder": "2026-08-29_instagram",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-29_instagram/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-29_instagram/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-29_instagram/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-29_instagram/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-29_instagram/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-29_instagram/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-08-29",
+      "priority": 100,
+      "instagram_caption": "🚨 INSTAGRAM POLICY UPDATE\n\nInstagram quietly rewrites its scraping rules\n\nWHAT CHANGED:\n• Instagram removed the explicit reference to its Automated Data Collection Terms.\n• Scrapers no longer must comply with a named, separate ruleset for bots.\n• The rule against unauthorized automated access still stands, but is now vaguer.\n• Instagram can still restrict or revoke permission, but that reminder was deleted.\n\nOUR VERDICT: WORTH KNOWING\nThe change strips out a specific compliance framework for scrapers, making the prohibition vaguer and harder for users and researchers to enforce or interpret.\n\nWHAT YOU CAN DO:\n→ If you use any third-party apps that pull your Instagram data, review their permissions.\n→ Check which apps have access to your account under Settings and remove unused ones.\n→ Follow @tos_monitor so you catch any follow-up changes to the scraping rules.\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Instagram #InstagramPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
+      "caption_sha256": "07b48a9b1439d982255b95659c7ccf876e02230e7b4d6ba0f5728463b22523ff",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 30,
-  "queued_count": 0,
+  "total": 31,
+  "queued_count": 1,
   "published_count": 13,
   "baseline_count": 6
 }
