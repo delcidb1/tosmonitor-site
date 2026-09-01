@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-01T03:31:04Z",
+  "generated_at": "2026-09-01T17:54:04Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1513,6 +1513,76 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
+      "date": "2026-09-01",
+      "app": "Amazon",
+      "doc": "The 2-Minute Fix",
+      "post_type": "series",
+      "accent": "#FF9900",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "Amazon added explicit language stating it uses customer data, including browsing and purchase behavior, to develop and deploy its generative AI models and services."
+        },
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Amazon replaced a narrow reference to sponsored search links with broader language about collecting ad-interaction data and advertising identifiers from third-party websites and apps."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-23_amazon-privacy",
+      "source_post_id": "2026-08-23_amazon-privacy",
+      "series_id": "two-minute-fix",
+      "series_title": "The 2-Minute Fix",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "The 2-minute privacy check for Amazon",
+      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+      "changes": [
+        "Review Amazon's Generative AI Development Disclosure linked in the policy.",
+        "Check your ad preferences and opt out of interest-based ads at amazon.com/ibanotice.",
+        "Avoid linking your Amazon account to third-party apps unless necessary."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "You do not need to reread Amazon's full policy to start. These are the most useful actions already identified in the monitored update.",
+      "actions": [
+        "Open the relevant account settings now.",
+        "Complete the first action before moving to the next one.",
+        "Save this post so you can finish the remaining checks later."
+      ],
+      "caption_rendered": "THE 2-MINUTE FIX · Amazon\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Amazon update we tracked:\n• Review Amazon's Generative AI Development Disclosure linked in the policy.\n• Check your ad preferences and opt out of interest-based ads at amazon.com/ibanotice.\n• Avoid linking your Amazon account to third-party apps unless necessary.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy_post.json",
+      "slide_folder": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THE 2-MINUTE FIX · Amazon\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Amazon update we tracked:\n• Review Amazon's Generative AI Development Disclosure linked in the policy.\n• Check your ad preferences and opt out of interest-based ads at amazon.com/ibanotice.\n• Avoid linking your Amazon account to third-party apps unless necessary.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_sha256": "8371787c08a2315db02d1b4a813e8f1a0607bf7764f20132aff1fd4bb3c79585",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy",
       "date": "2026-09-02",
       "app": "Snapchat",
@@ -1710,8 +1780,8 @@
       "site_status": "approved"
     }
   ],
-  "total": 34,
-  "queued_count": 4,
+  "total": 35,
+  "queued_count": 5,
   "published_count": 13,
   "baseline_count": 6
 }
