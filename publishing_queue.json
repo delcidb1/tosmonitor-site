@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-08-31T20:30:46Z",
+  "generated_at": "2026-09-01T02:34:17Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1511,10 +1511,207 @@
       "status": "queued",
       "instagram_status": "queued",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy",
+      "date": "2026-09-02",
+      "app": "Snapchat",
+      "doc": "The 2-Minute Fix",
+      "post_type": "series",
+      "accent": "#FFFC00",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "The updated policy clarifies that content shared with My AI, including text, images, and location, is used as input to generate outputs and improve AI model responses, making the AI training use more explicit than before."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "Snapchat added new language allowing it to use face detection information from your Memories for grouping, search, and personalisation features, representing an expanded use of biometric-adjacent data from your camera roll."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-05_snapchat-privacy",
+      "source_post_id": "2026-08-05_snapchat-privacy",
+      "series_id": "two-minute-fix",
+      "series_title": "The 2-Minute Fix",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "The 2-minute privacy check for Snapchat",
+      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+      "changes": [
+        "Check Memories settings and disable face grouping features if unwanted.",
+        "Review My AI chat history and delete anything you don't want used for training.",
+        "Visit Snapchat's Privacy Center to audit what data Snap holds about you."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "You do not need to reread Snapchat's full policy to start. These are the most useful actions already identified in the monitored update.",
+      "actions": [
+        "Open the relevant account settings now.",
+        "Complete the first action before moving to the next one.",
+        "Save this post so you can finish the remaining checks later."
+      ],
+      "caption_rendered": "THE 2-MINUTE FIX · Snapchat\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Snapchat update we tracked:\n• Check Memories settings and disable face grouping features if unwanted.\n• Review My AI chat history and delete anything you don't want used for training.\n• Visit Snapchat's Privacy Center to audit what data Snap holds about you.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy_post.json",
+      "slide_folder": "2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THE 2-MINUTE FIX · Snapchat\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Snapchat update we tracked:\n• Check Memories settings and disable face grouping features if unwanted.\n• Review My AI chat history and delete anything you don't want used for training.\n• Visit Snapchat's Privacy Center to audit what data Snap holds about you.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_sha256": "a07ba402a6b9defdea54ac96a7d1aea43adbbe93520655d9ee46536381252343",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "id": "2026-09-04_clause-really-means_2026-08-10_steam-privacy",
+      "date": "2026-09-04",
+      "app": "Steam",
+      "doc": "What This Clause Really Means",
+      "post_type": "series",
+      "accent": "#1b2838",
+      "categories": [],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-10_steam-privacy",
+      "source_post_id": "2026-08-10_steam-privacy",
+      "series_id": "clause-really-means",
+      "series_title": "What This Clause Really Means",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "What Steam's policy change really means",
+      "subhead": "Plain English for the part most people would otherwise skip.",
+      "changes": [
+        "Steam replaced its EU data-protection representative with a new firm.",
+        "Old rep: Valve GmbH i.L. — New rep: RIVACY GmbH in Hamburg.",
+        "The contact address for EU privacy questions has changed."
+      ],
+      "verdict": "MINOR",
+      "verdict_text": "Only the EU representative contact details changed. No data practices, retention rules, or sharing policies were altered.",
+      "actions": [
+        "If you have a pending EU data request, use the new RIVACY GmbH address.",
+        "Check Steam's privacy page for updated contact details before submitting requests.",
+        "No action needed if you are outside the EU or have no active requests."
+      ],
+      "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Steam\n\nSteam quietly swapped its EU privacy contact\n\nIn plain English:\n• Steam replaced its EU data-protection representative with a new firm.\n• Old rep: Valve GmbH i.L. — New rep: RIVACY GmbH in Hamburg.\n• The contact address for EU privacy questions has changed.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-04_clause-really-means_2026-08-10_steam-privacy_post.json",
+      "slide_folder": "2026-09-04_clause-really-means_2026-08-10_steam-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_clause-really-means_2026-08-10_steam-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_clause-really-means_2026-08-10_steam-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_clause-really-means_2026-08-10_steam-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_clause-really-means_2026-08-10_steam-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_clause-really-means_2026-08-10_steam-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_clause-really-means_2026-08-10_steam-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · Steam\n\nSteam quietly swapped its EU privacy contact\n\nIn plain English:\n• Steam replaced its EU data-protection representative with a new firm.\n• Old rep: Valve GmbH i.L. — New rep: RIVACY GmbH in Hamburg.\n• The contact address for EU privacy questions has changed.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "caption_sha256": "93bc9f01f1f2d4a4863f926d2755ffc64a8122202c33f907cf40a498263d74dc",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "id": "2026-09-06_privacy-receipt_2026-08-13_twitch-privacy",
+      "date": "2026-09-06",
+      "app": "Twitch",
+      "doc": "Privacy Receipt",
+      "post_type": "series",
+      "accent": "#9146FF",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "Twitch added explicit language permitting user data to be used for machine learning and generative AI model development across Twitch and Amazon's products, a use not previously stated in the policy."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-13_twitch-privacy",
+      "source_post_id": "2026-08-13_twitch-privacy",
+      "series_id": "privacy-receipt",
+      "series_title": "Privacy Receipt",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "Your Twitch privacy receipt",
+      "subhead": "The data points this policy change puts on the record.",
+      "changes": [
+        "Twitch explicitly added AI and machine learning training as a use of your data.",
+        "Your data may now be used to develop or deploy Amazon's generative AI models.",
+        "This applies across Twitch products and Amazon's broader services ecosystem."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Think of these policy details as the data receipt that rarely appears after you use Twitch. The policy—not speculation—is the source for each item.",
+      "actions": [
+        "Visit Twitch's Privacy Choices page to review your current data options.",
+        "Check Amazon's Generative AI Development Disclosure linked in the policy.",
+        "Consider what activity you share publicly on Twitch going forward."
+      ],
+      "caption_rendered": "PRIVACY RECEIPT · Twitch\n\nHere is what the monitored policy change puts on the record:\n• Twitch explicitly added AI and machine learning training as a use of your data.\n• Your data may now be used to develop or deploy Amazon's generative AI models.\n• This applies across Twitch products and Amazon's broader services ecosystem.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy_post.json",
+      "slide_folder": "2026-09-06_privacy-receipt_2026-08-13_twitch-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "PRIVACY RECEIPT · Twitch\n\nHere is what the monitored policy change puts on the record:\n• Twitch explicitly added AI and machine learning training as a use of your data.\n• Your data may now be used to develop or deploy Amazon's generative AI models.\n• This applies across Twitch products and Amazon's broader services ecosystem.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "caption_sha256": "9f990ea345415d18771a739efddcb00141e264580f02ea5d23fe98bfd33a7a44",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 31,
-  "queued_count": 1,
+  "total": 34,
+  "queued_count": 4,
   "published_count": 13,
   "baseline_count": 6
 }

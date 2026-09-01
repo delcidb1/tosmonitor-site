@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Steam)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+What Steam's policy change really means. Steam replaced its EU data-protection representative with a new firm. Old rep: Valve GmbH i.L. — New rep: RIVACY GmbH in Hamburg. The contact address for EU privacy questions has changed. Our verdict: minor. Only the EU representative contact details changed. No data practices, retention rules, or sharing policies were altered. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #1b2838 accent lighting looks at the
+camera and says: 'What Steam's policy change really means. Only the EU representative contact details changed. No data practices, retention rules, or sharing policies were altered.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
