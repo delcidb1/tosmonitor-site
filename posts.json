@@ -89,6 +89,48 @@
     "published_at": ""
   },
   {
+    "id": "2026-09-03_clause-really-means_2026-08-04_google-privacy",
+    "app": "Google",
+    "doc": "What This Clause Really Means",
+    "post_type": "series",
+    "accent": "#4285F4",
+    "headline": "What Google's policy change really means",
+    "subhead": "Plain English for the part most people would otherwise skip.",
+    "changes": [
+      "Only navigation menu links were removed from the policy page",
+      "No substantive data collection or sharing rules appear changed",
+      "Policy text body and user-facing terms remain intact"
+    ],
+    "verdict": "MINOR",
+    "verdict_text": "The diff shows only duplicate navigation links removed. No actual policy language affecting user data was changed.",
+    "actions": [
+      "Re-read Google's full privacy policy at policies.google.com/privacy",
+      "Check your Google Account data settings at myaccount.google.com",
+      "Follow @tos_monitor for alerts if substantive changes appear"
+    ],
+    "categories": [],
+    "source_doc": "TOSMonitor series based on a monitored policy \u00b7 2026-08-04_google-privacy",
+    "date": "2026-09-03",
+    "slide_folder": "2026-09-03_clause-really-means_2026-08-04_google-privacy",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "effective": "2026-09-03",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy",
     "app": "Snapchat",
     "doc": "The 2-Minute Fix",

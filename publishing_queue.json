@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-02T18:15:23Z",
+  "generated_at": "2026-09-03T17:56:41Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1653,6 +1653,67 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-09-03_clause-really-means_2026-08-04_google-privacy",
+      "date": "2026-09-03",
+      "app": "Google",
+      "doc": "What This Clause Really Means",
+      "post_type": "series",
+      "accent": "#4285F4",
+      "categories": [],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-04_google-privacy",
+      "source_post_id": "2026-08-04_google-privacy",
+      "series_id": "clause-really-means",
+      "series_title": "What This Clause Really Means",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "What Google's policy change really means",
+      "subhead": "Plain English for the part most people would otherwise skip.",
+      "changes": [
+        "Only navigation menu links were removed from the policy page",
+        "No substantive data collection or sharing rules appear changed",
+        "Policy text body and user-facing terms remain intact"
+      ],
+      "verdict": "MINOR",
+      "verdict_text": "The diff shows only duplicate navigation links removed. No actual policy language affecting user data was changed.",
+      "actions": [
+        "Re-read Google's full privacy policy at policies.google.com/privacy",
+        "Check your Google Account data settings at myaccount.google.com",
+        "Follow @tos_monitor for alerts if substantive changes appear"
+      ],
+      "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Google\n\nGoogle quietly trimmed its privacy policy navigation\n\nIn plain English:\n• Only navigation menu links were removed from the policy page\n• No substantive data collection or sharing rules appear changed\n• Policy text body and user-facing terms remain intact\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-03_clause-really-means_2026-08-04_google-privacy_post.json",
+      "slide_folder": "2026-09-03_clause-really-means_2026-08-04_google-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-03_clause-really-means_2026-08-04_google-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-03_clause-really-means_2026-08-04_google-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-03_clause-really-means_2026-08-04_google-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-03_clause-really-means_2026-08-04_google-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-03_clause-really-means_2026-08-04_google-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-03_clause-really-means_2026-08-04_google-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · Google\n\nGoogle quietly trimmed its privacy policy navigation\n\nIn plain English:\n• Only navigation menu links were removed from the policy page\n• No substantive data collection or sharing rules appear changed\n• Policy text body and user-facing terms remain intact\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "caption_sha256": "b0e3abcfe54c947d0789bdb4beba27e73a40d6e5a932d762d3ff5002776f5b48",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-04_clause-really-means_2026-08-10_steam-privacy",
       "date": "2026-09-04",
       "app": "Steam",
@@ -1780,8 +1841,8 @@
       "site_status": "approved"
     }
   ],
-  "total": 35,
-  "queued_count": 5,
+  "total": 36,
+  "queued_count": 6,
   "published_count": 13,
   "baseline_count": 6
 }
