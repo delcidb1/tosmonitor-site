@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-03T18:15:19Z",
+  "generated_at": "2026-09-04T17:54:48Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1513,6 +1513,70 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-09-04_release-notes_chatgpt",
+      "app": "ChatGPT",
+      "doc": "App Release Notes",
+      "post_type": "release_note",
+      "source_doc": "https://learn.chatgpt.com/docs/whats-new",
+      "accent": "#0EA5E9",
+      "headline": "ChatGPT updated a privacy-relevant feature",
+      "subhead": "The app update includes a data or privacy signal.",
+      "effective": "Update detected 2026-09-04",
+      "changes": [
+        "produce a document, spreadsheet, or presentation that fits your templates and",
+        "Once Astra is available to your account, choose it from the model selector."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+      "actions": [
+        "Read the update notes before installing.",
+        "Review relevant app permissions in settings.",
+        "Check the service privacy controls after updating."
+      ],
+      "caption": "ChatGPT just changed an app feature with a privacy or data signal. The update notes now say: produce a document, spreadsheet, or presentation that fits your templates and Before updating, read the release notes and check the permissions and privacy controls that apply to your account.",
+      "hashtags": [
+        "chatgpt",
+        "appupdate",
+        "dataprivacy",
+        "privacy",
+        "tosmonitor"
+      ],
+      "categories": [],
+      "release_note_evidence": [
+        "produce a document, spreadsheet, or presentation that fits your templates and",
+        "Once Astra is available to your account, choose it from the model selector."
+      ],
+      "source_type": "release_note",
+      "post_source": "release_notes/2026-09-04_release-notes_chatgpt_post.json",
+      "slide_folder": "2026-09-04_release-notes_chatgpt",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_release-notes_chatgpt/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_release-notes_chatgpt/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_release-notes_chatgpt/03_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_release-notes_chatgpt/04_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_release-notes_chatgpt/05_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_verdict.png",
+        "04_action.png",
+        "05_outro.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-04",
+      "priority": 100,
+      "instagram_caption": "ChatGPT just changed an app feature with a privacy or data signal. The update notes now say: produce a document, spreadsheet, or presentation that fits your templates and Before updating, read the release notes and check the permissions and privacy controls that apply to your account.\n\n#chatgpt #appupdate #dataprivacy #privacy #tosmonitor",
+      "caption_sha256": "4df17227fb505aefba9e873bfdeb617705dd32eaeaabdbe2d320f091767bf80f",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -1841,8 +1905,8 @@
       "site_status": "approved"
     }
   ],
-  "total": 36,
-  "queued_count": 6,
+  "total": 37,
+  "queued_count": 7,
   "published_count": 13,
   "baseline_count": 6
 }

@@ -47,6 +47,46 @@
     "published_at": ""
   },
   {
+    "id": "2026-09-04_release-notes_chatgpt",
+    "app": "ChatGPT",
+    "doc": "App Release Notes",
+    "post_type": "release_note",
+    "accent": "#0EA5E9",
+    "headline": "ChatGPT updated a privacy-relevant feature",
+    "subhead": "The app update includes a data or privacy signal.",
+    "effective": "Update detected 2026-09-04",
+    "changes": [
+      "produce a document, spreadsheet, or presentation that fits your templates and",
+      "Once Astra is available to your account, choose it from the model selector."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+    "actions": [
+      "Read the update notes before installing.",
+      "Review relevant app permissions in settings.",
+      "Check the service privacy controls after updating."
+    ],
+    "categories": [],
+    "source_doc": "https://learn.chatgpt.com/docs/whats-new",
+    "date": "2026-09-04",
+    "slide_folder": "2026-09-04_release-notes_chatgpt",
+    "slide_count": 5,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_verdict.png",
+      "04_action.png",
+      "05_outro.png"
+    ],
+    "published": false,
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-09-04_clause-really-means_2026-08-10_steam-privacy",
     "app": "Steam",
     "doc": "What This Clause Really Means",
