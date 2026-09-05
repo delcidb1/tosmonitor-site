@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-04T17:54:48Z",
+  "generated_at": "2026-09-05T16:53:24Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1577,6 +1577,68 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-09-05_release-notes_temu",
+      "app": "Temu",
+      "doc": "App Release Notes",
+      "post_type": "release_note",
+      "source_doc": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558",
+      "accent": "#0EA5E9",
+      "headline": "Temu updated a privacy-relevant feature",
+      "subhead": "The app update includes a data or privacy signal.",
+      "effective": "Update detected 2026-09-05",
+      "changes": [
+        "Save your vehicle details. Get compatibility filters for vehicle part searches. Add up to 20 cars…"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+      "actions": [
+        "Read the update notes before installing.",
+        "Review relevant app permissions in settings.",
+        "Check the service privacy controls after updating."
+      ],
+      "caption": "Temu just changed an app feature with a privacy or data signal. The update notes now say: Save your vehicle details. Get compatibility filters for vehicle part searches. Add up to 20 cars and switch with a tap. Before updating, read the release notes and check the permissions and privacy controls that apply to your account.",
+      "hashtags": [
+        "temu",
+        "appupdate",
+        "dataprivacy",
+        "privacy",
+        "tosmonitor"
+      ],
+      "categories": [],
+      "release_note_evidence": [
+        "Save your vehicle details. Get compatibility filters for vehicle part searches. Add up to 20 cars and switch with a tap."
+      ],
+      "source_type": "release_note",
+      "post_source": "release_notes/2026-09-05_release-notes_temu_post.json",
+      "slide_folder": "2026-09-05_release-notes_temu",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_release-notes_temu/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_release-notes_temu/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_release-notes_temu/03_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_release-notes_temu/04_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_release-notes_temu/05_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_verdict.png",
+        "04_action.png",
+        "05_outro.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-05",
+      "priority": 100,
+      "instagram_caption": "Temu just changed an app feature with a privacy or data signal. The update notes now say: Save your vehicle details. Get compatibility filters for vehicle part searches. Add up to 20 cars and switch with a tap. Before updating, read the release notes and check the permissions and privacy controls that apply to your account.\n\n#temu #appupdate #dataprivacy #privacy #tosmonitor",
+      "caption_sha256": "0ef796580e7387e942ec8a7a06dfc4a69db54bb5c0498473bbe6d8beac1cc95b",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -1839,6 +1901,76 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-09-05_privacy-receipt_2026-08-22_facebook-privacy",
+      "date": "2026-09-05",
+      "app": "Facebook",
+      "doc": "Privacy Receipt",
+      "post_type": "series",
+      "accent": "#1877F2",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "The updated policy explicitly states that publicly available datasets from data providers and research institutions are used to improve Meta's AI and ML technologies, including natural language processing and computer vision."
+        },
+        {
+          "tag": "third_party_sharing",
+          "explanation": "The policy now provides an expanded and explicit list of third-party sources supplying user data to Meta, including marketing and advertising vendors, data providers, industry peers, and public institutions."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-22_facebook-privacy",
+      "source_post_id": "2026-08-22_facebook-privacy",
+      "series_id": "privacy-receipt",
+      "series_title": "Privacy Receipt",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "Your Facebook privacy receipt",
+      "subhead": "The data points this policy change puts on the record.",
+      "changes": [
+        "Meta now explicitly lists publicly available datasets used to improve AI and ML models.",
+        "New section details data collected when you interact with Meta's generative AI features.",
+        "Policy now spells out cross-account data combining when WhatsApp is linked via Accounts Center."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Think of these policy details as the data receipt that rarely appears after you use Facebook. The policy—not speculation—is the source for each item.",
+      "actions": [
+        "Review your Accounts Center to see which Meta apps share your data.",
+        "Check 'Off-Facebook Activity' settings to limit third-party data flowing in.",
+        "Audit your AI feature interactions and connected third-party apps in Facebook settings."
+      ],
+      "caption_rendered": "PRIVACY RECEIPT · Facebook\n\nHere is what the monitored policy change puts on the record:\n• Meta now explicitly lists publicly available datasets used to improve AI and ML models.\n• New section details data collected when you interact with Meta's generative AI features.\n• Policy now spells out cross-account data combining when WhatsApp is linked via Accounts Center.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy_post.json",
+      "slide_folder": "2026-09-05_privacy-receipt_2026-08-22_facebook-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "PRIVACY RECEIPT · Facebook\n\nHere is what the monitored policy change puts on the record:\n• Meta now explicitly lists publicly available datasets used to improve AI and ML models.\n• New section details data collected when you interact with Meta's generative AI features.\n• Policy now spells out cross-account data combining when WhatsApp is linked via Accounts Center.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "caption_sha256": "7a10d336dc4fa1206ad7f490fcc5be4d248e9a42169c02f72f90719f039abf70",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-06_privacy-receipt_2026-08-13_twitch-privacy",
       "date": "2026-09-06",
       "app": "Twitch",
@@ -1905,8 +2037,8 @@
       "site_status": "approved"
     }
   ],
-  "total": 37,
-  "queued_count": 7,
+  "total": 39,
+  "queued_count": 9,
   "published_count": 13,
   "baseline_count": 6
 }

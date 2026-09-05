@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Temu)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Temu updated a privacy-relevant feature. Save your vehicle details. Get compatibility filters for vehicle part searches. Add up to 20 cars… Our verdict: worth knowing. This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #0EA5E9 accent lighting looks at the
+camera and says: 'Temu updated a privacy-relevant feature. This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

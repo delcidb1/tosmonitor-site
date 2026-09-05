@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Facebook)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Your Facebook privacy receipt. Meta now explicitly lists publicly available datasets used to improve AI and ML models. New section details data collected when you interact with Meta's generative AI features. Policy now spells out cross-account data combining when WhatsApp is linked via Accounts Center. Our verdict: worth knowing. Think of these policy details as the data receipt that rarely appears after you use Facebook. The policy—not speculation—is the source for each item. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #1877F2 accent lighting looks at the
+camera and says: 'Your Facebook privacy receipt. Think of these policy details as the data receipt that rarely appears after you use Facebook. The policy—not speculation—is the source for each item.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
