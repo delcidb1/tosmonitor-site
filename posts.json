@@ -39,6 +39,7 @@
       "06_outro.png"
     ],
     "published": false,
+    "post_source": "evergreen/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy_post.json",
     "effective": "2026-09-06",
     "site_status": "approved",
     "instagram_status": "queued",
@@ -79,6 +80,7 @@
       "05_outro.png"
     ],
     "published": false,
+    "post_source": "release_notes/2026-09-05_release-notes_temu_post.json",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
@@ -129,6 +131,7 @@
       "06_outro.png"
     ],
     "published": false,
+    "post_source": "evergreen/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy_post.json",
     "effective": "2026-09-05",
     "site_status": "approved",
     "instagram_status": "queued",
@@ -170,6 +173,7 @@
       "05_outro.png"
     ],
     "published": false,
+    "post_source": "release_notes/2026-09-04_release-notes_chatgpt_post.json",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
@@ -211,6 +215,7 @@
       "06_outro.png"
     ],
     "published": false,
+    "post_source": "evergreen/2026-09-04_clause-really-means_2026-08-10_steam-privacy_post.json",
     "effective": "2026-09-04",
     "site_status": "approved",
     "instagram_status": "queued",
@@ -253,6 +258,7 @@
       "06_outro.png"
     ],
     "published": false,
+    "post_source": "evergreen/2026-09-03_clause-really-means_2026-08-04_google-privacy_post.json",
     "effective": "2026-09-03",
     "site_status": "approved",
     "instagram_status": "queued",
@@ -304,6 +310,7 @@
       "06_outro.png"
     ],
     "published": false,
+    "post_source": "evergreen/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy_post.json",
     "effective": "2026-09-02",
     "site_status": "approved",
     "instagram_status": "queued",
@@ -355,6 +362,7 @@
       "06_outro.png"
     ],
     "published": false,
+    "post_source": "evergreen/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy_post.json",
     "effective": "2026-09-01",
     "site_status": "approved",
     "instagram_status": "queued",
@@ -499,6 +507,7 @@
     "has_slides": false,
     "media_files": [],
     "published": true,
+    "post_source": "manual/shoprite_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcLyGrCkWGs/",
@@ -538,6 +547,7 @@
     "has_slides": false,
     "media_files": [],
     "published": true,
+    "post_source": "manual/kroger_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcJNlydFCFV/",
@@ -572,11 +582,18 @@
       }
     ],
     "date": "",
-    "slide_folder": "",
-    "slide_count": 0,
-    "has_slides": false,
-    "media_files": [],
+    "slide_folder": "2026-08-08_best-buy-privacy-policy",
+    "slide_count": 5,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png"
+    ],
     "published": true,
+    "post_source": "manual/bestbuy_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/Db0a477Eb0-/",
@@ -615,11 +632,18 @@
       }
     ],
     "date": "",
-    "slide_folder": "",
-    "slide_count": 0,
-    "has_slides": false,
-    "media_files": [],
+    "slide_folder": "2026-08-08_albertsons-privacy-policy",
+    "slide_count": 5,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png"
+    ],
     "published": true,
+    "post_source": "manual/albertsons_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcCSJ1zlPiI/",
@@ -660,6 +684,7 @@
       "06_outro.png"
     ],
     "published": false,
+    "post_source": "diffs/2026-08-29_instagram-terms_post.json",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
@@ -711,6 +736,7 @@
       "06_outro.png"
     ],
     "published": true,
+    "post_source": "diffs/2026-08-23_amazon-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcoPfNwFDBa/",
@@ -762,6 +788,7 @@
       "06_outro.png"
     ],
     "published": true,
+    "post_source": "diffs/2026-08-22_telegram-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/Dcn9eZgG-3a/",
@@ -813,6 +840,7 @@
       "06_outro.png"
     ],
     "published": true,
+    "post_source": "diffs/2026-08-22_facebook-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcWOCkBlHEL/",
@@ -864,6 +892,7 @@
       "06_outro.png"
     ],
     "published": true,
+    "post_source": "diffs/2026-08-20_robinhood-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcTpQa6kcdu/",
@@ -915,6 +944,7 @@
       "07_outro.png"
     ],
     "published": true,
+    "post_source": "manual/flock_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcRESOdGxxE/",
@@ -960,6 +990,7 @@
       "06_outro.png"
     ],
     "published": false,
+    "post_source": "diffs/2026-08-15_amazon-terms_post.json",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1008,6 +1039,7 @@
       "05_action.png"
     ],
     "published": true,
+    "post_source": "diffs/2026-08-13_twitch-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/Db_3_DimWq5/",
@@ -1048,6 +1080,7 @@
       "05_action.png"
     ],
     "published": true,
+    "post_source": "diffs/2026-08-10_steam-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/Db6orKjFFBZ/",
@@ -1098,6 +1131,7 @@
       "05_action.png"
     ],
     "published": true,
+    "post_source": "diffs/2026-08-05_snapchat-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DbuKbOGFvrR/",
@@ -1138,6 +1172,7 @@
       "05_action.png"
     ],
     "published": false,
+    "post_source": "diffs/2026-08-04_google-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1178,6 +1213,7 @@
       "05_action.png"
     ],
     "published": true,
+    "post_source": "diffs/2026-07-28_instagram-terms_post.json",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DbWOk3TFi8m/",
@@ -1222,6 +1258,7 @@
       "05_action.png"
     ],
     "published": false,
+    "post_source": "diffs/2026-07-24_facebook-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1262,6 +1299,7 @@
       "05_action.png"
     ],
     "published": false,
+    "post_source": "diffs/2026-07-24_discord-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1301,6 +1339,7 @@
       "05_action.png"
     ],
     "published": false,
+    "post_source": "diffs/2026-07-22_robinhood-privacy_post.json",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1341,6 +1380,7 @@
       "05_action.png"
     ],
     "published": false,
+    "post_source": "diffs/2026-07-20_netflix-terms_post.json",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
