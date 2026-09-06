@@ -623,10 +623,16 @@
       }
     ],
     "date": "",
-    "slide_folder": "",
-    "slide_count": 0,
-    "has_slides": false,
-    "media_files": [],
+    "slide_folder": "2026-08-08_shoprite-price-plus-club",
+    "slide_count": 5,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png"
+    ],
     "published": true,
     "post_source": "manual/shoprite_post.json",
     "effective_date": "2026-08-18",
@@ -664,10 +670,16 @@
       }
     ],
     "date": "",
-    "slide_folder": "",
-    "slide_count": 0,
-    "has_slides": false,
-    "media_files": [],
+    "slide_folder": "2026-08-08_kroger-loyalty-data",
+    "slide_count": 5,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png"
+    ],
     "published": true,
     "post_source": "manual/kroger_post.json",
     "effective_date": "2026-08-17",
