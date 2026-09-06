@@ -381,6 +381,33 @@ const fmtDate = iso => {
     : t.toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
 };
 
+/* ------------------------------------------------------------
+   `effective` is display prose, not a date: "Announced August
+   13, 2026", "Policy reviewed August 2026", "Effective
+   08/12/2026". Sorting it as a string groups posts by their
+   first letter, which put a July post at the top of the page
+   and the newest ones at the bottom. sortDate() pulls a real
+   ISO date instead, preferring the effective_date the build
+   script now emits and falling back for any older posts.json.
+   ------------------------------------------------------------ */
+const ISO = /\d{4}-\d{2}-\d{2}/;
+const sortDate = p => {
+  for(const v of [p.effective_date, p.date, p.effective, p.published_at, p.id]){
+    const m = ISO.exec(String(v ?? ""));
+    if(m) return m[0];
+  }
+  return "";
+};
+
+/* Undated posts sort last rather than first. */
+const cmpDate = (a,b) => {
+  const x = sortDate(a), y = sortDate(b);
+  if(!x && !y) return String(a.app ?? "").localeCompare(String(b.app ?? ""));
+  if(!x) return 1;
+  if(!y) return -1;
+  return y.localeCompare(x);
+};
+
 const vkey = p => VCFG[p.verdict] ? p.verdict : "MINOR";
 const isTldr = p => p.post_type === "tldr";
 
@@ -400,7 +427,7 @@ async function boot(){
     }
   }catch(e){ /* fallback stands in */ }
 
-  POSTS = POSTS.slice().sort((a,b)=> String(b.effective).localeCompare(String(a.effective)));
+  POSTS = POSTS.slice().sort(cmpDate);
 
   const urgent = POSTS.filter(p => p.verdict === "IMPORTANT").length;
   $("#sPosts").textContent = POSTS.length;
