@@ -41,6 +41,7 @@
     "published": false,
     "post_source": "evergreen/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy_post.json",
     "effective": "2026-09-06",
+    "effective_date": "2026-09-06",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
@@ -93,6 +94,7 @@
     "published": false,
     "post_source": "evergreen/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy_post.json",
     "effective": "2026-09-05",
+    "effective_date": "2026-09-05",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
@@ -136,6 +138,7 @@
     "published": false,
     "post_source": "evergreen/2026-09-04_clause-really-means_2026-08-10_steam-privacy_post.json",
     "effective": "2026-09-04",
+    "effective_date": "2026-09-04",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
@@ -172,6 +175,7 @@
     "published": false,
     "post_source": "evergreen/2026-09-03_clause-really-means_2026-08-04_google-privacy_post.json",
     "effective": "2026-09-03",
+    "effective_date": "2026-09-03",
     "site_status": "approved",
     "instagram_status": "requires_review",
     "instagram_permalink": "",
@@ -224,6 +228,7 @@
     "published": false,
     "post_source": "evergreen/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy_post.json",
     "effective": "2026-09-02",
+    "effective_date": "2026-09-02",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
@@ -276,291 +281,12 @@
     "published": false,
     "post_source": "evergreen/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy_post.json",
     "effective": "2026-09-01",
+    "effective_date": "2026-09-01",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
     "instagram_post_id": "",
     "published_at": ""
-  },
-  {
-    "post_type": "tldr",
-    "app": "Amazon Privacy",
-    "doc": "Privacy Policy",
-    "headline": "What Amazon already collects, keeps, and shares about you.",
-    "subhead": "The policy you agreed to by using Amazon \u2014 explained plainly.",
-    "effective": "2026-08-01",
-    "changes": [
-      "In-store cameras, sensors, and computer vision track your physical movements and product interactions.",
-      "Amazon shares your advertising identifier and ad-value estimates with ad companies, who may then use it to target you for other advertisers.",
-      "In a sale or acquisition, your personal data transfers to the new owner as a business asset.",
-      "When you update personal info, Amazon keeps a copy of the old version in its records \u2014 indefinitely."
-    ],
-    "verdict": "WORTH_KNOWING",
-    "verdict_text": "Most practices here are industry-standard. The physical store surveillance and the ad-value data sharing with third-party ad networks are the details most users would not expect.",
-    "actions": [
-      "Visit Your Ads Privacy Choices at amazon.com to limit ad targeting.",
-      "Go to Data Privacy Queries to request access to or deletion of your data.",
-      "Review and edit your browsing history at amazon.com/gp/history to reduce recommendation tracking."
-    ],
-    "categories": [
-      {
-        "tag": "Third-Party Sharing",
-        "explanation": "Amazon shares your advertising identifier and an estimate of your ad value with external ad companies, who may use it to serve you ads from other advertisers entirely."
-      },
-      {
-        "tag": "Data Retention",
-        "explanation": "When you update personal information such as your address or profile details, Amazon retains a copy of the previous version in its records with no stated time limit."
-      },
-      {
-        "tag": "Permissions",
-        "explanation": "Amazon's physical stores use cameras, computer vision, and sensors to record your movements and which products you interact with while shopping in person."
-      }
-    ],
-    "accent": "#16181D",
-    "source_doc": "Privacy Policy",
-    "id": "legacy-e2d9f7b3c551",
-    "site_status": "legacy",
-    "instagram_status": "unknown",
-    "instagram_permalink": ""
-  },
-  {
-    "post_type": "tldr",
-    "app": "Amazon Terms",
-    "doc": "Privacy Policy",
-    "headline": "What Amazon's terms already let them do with your content",
-    "subhead": "Reviews, posts, and content you submit belong to Amazon forever.",
-    "effective": "2026-08-01",
-    "changes": [
-      "Any review or photo you post grants Amazon a permanent, royalty-free, worldwide license.",
-      "That license is irrevocable and sublicensable - Amazon can pass your content to others.",
-      "Disputes go to King County, Washington courts only - jury trial waived by both sides.",
-      "App permissions for Amazon apps are acknowledged but details are not listed in this document."
-    ],
-    "verdict": "WORTH_KNOWING",
-    "verdict_text": "The perpetual content license and jury-trial waiver are standard in big-tech terms but broader than most users realize. No evidence of data sale in these excerpts.",
-    "actions": [
-      "Avoid posting original creative content in Amazon reviews.",
-      "Note that disputes must be filed in Washington state courts, not locally.",
-      "Check Amazon's separate app permissions page before installing Amazon apps."
-    ],
-    "categories": [
-      {
-        "tag": "Arbitration",
-        "explanation": "You agreed that any dispute with Amazon must be settled in Washington state courts and that neither side gets a jury trial."
-      },
-      {
-        "tag": "Permissions",
-        "explanation": "Amazon apps request device permissions, but the actual list of those permissions is not described in this document - only linked externally."
-      }
-    ],
-    "accent": "#16181D",
-    "source_doc": "Privacy Policy",
-    "id": "legacy-4e3e9a8c228f",
-    "site_status": "legacy",
-    "instagram_status": "unknown",
-    "instagram_permalink": ""
-  },
-  {
-    "app": "WhatsApp",
-    "accent": "#25D366",
-    "headline": "WhatsApp just updated its privacy policy",
-    "subhead": "A video selfie may be involved. Here's the TL;DR",
-    "effective": "2026-07-02",
-    "changes": [
-      "A third-party service can now estimate your age from a video selfie",
-      "Usernames are here \u2014 people can reach you without your phone number",
-      "Meta can now store your encrypted chat backups on its servers",
-      "New parental controls give parents insights into linked teen accounts"
-    ],
-    "verdict": "WORTH_KNOWING",
-    "verdict_text": "Your chats stay end-to-end encrypted. But video-selfie age checks are new territory \u2014 know your options before you're asked.",
-    "actions": [
-      "Set a username when it rolls out \u2014 stop sharing your number",
-      "Review Settings \u2192 Privacy: who sees your photo and info",
-      "Read the full policy and the exact changes \u2014 link in bio"
-    ],
-    "source_doc": "Policy",
-    "categories": [],
-    "id": "legacy-1d2bad693070",
-    "site_status": "legacy",
-    "instagram_status": "unknown",
-    "instagram_permalink": ""
-  },
-  {
-    "id": "shoprite",
-    "app": "ShopRite",
-    "doc": "Price Plus Club",
-    "post_type": "tldr",
-    "accent": "#E4002B",
-    "headline": "You can opt out of Price Plus data sharing. It says that may cost you deals.",
-    "effective": "Policy reviewed August 2026",
-    "changes": [
-      "Price Plus links your name, address, phone and purchase history",
-      "Check cashing adds your license and checking account numbers",
-      "You can refuse sharing by phone, in store, or online",
-      "But some Price Plus promotions require individual-level data to qualify"
-    ],
-    "verdict": "WORTH_KNOWING",
-    "verdict_text": "Tamer than the national chains, and recall alerts are a real benefit. But the opt-out has a stated price.",
-    "actions": [
-      "Opt out of sharing at 1-800-SHOPRITE or customer service",
-      "Keep the card for product recall alerts",
-      "NJ residents can request their data under NJDPA"
-    ],
-    "categories": [
-      {
-        "tag": "third_party_sharing",
-        "explanation": "Policy describes sharing personal information with engaged third parties and states that opting out may disqualify members from promotions requiring individual-level data."
-      }
-    ],
-    "date": "",
-    "slide_folder": "",
-    "slide_count": 0,
-    "has_slides": false,
-    "media_files": [],
-    "published": true,
-    "post_source": "manual/shoprite_post.json",
-    "site_status": "approved",
-    "instagram_status": "published",
-    "instagram_permalink": "https://www.instagram.com/p/DcLyGrCkWGs/",
-    "instagram_post_id": "17897243034372322",
-    "published_at": "2026-08-18T14:03:16Z"
-  },
-  {
-    "id": "kroger",
-    "app": "Kroger",
-    "doc": "Loyalty Data",
-    "post_type": "tldr",
-    "accent": "#0055B8",
-    "headline": "63 million loyalty members. One income predictor. It can be wrong.",
-    "effective": "Consumer Reports investigation, May 2025",
-    "changes": [
-      "An income predictor estimates your earnings from loyalty card purchases",
-      "Consumer Reports found profiles wrong on income, education and age",
-      "One shopper's profile may have reached over 50 companies",
-      "Precision marketing brought in an estimated $527 million in 2024"
-    ],
-    "verdict": "IMPORTANT",
-    "verdict_text": "Kroger says demographic data helps target relevant coupons. Consumer Reports argues inaccurate guesses can quietly cost you the best deals.",
-    "actions": [
-      "Ask Kroger to correct your shopper profile",
-      "Request your data - many states now guarantee access",
-      "Check advertised shelf prices against your receipt"
-    ],
-    "categories": [
-      {
-        "tag": "third_party_sharing",
-        "explanation": "Consumer Reports reported one loyalty profile may have been shared with more than 50 U.S. companies including data brokers, tobacco companies and financial institutions."
-      }
-    ],
-    "date": "",
-    "slide_folder": "",
-    "slide_count": 0,
-    "has_slides": false,
-    "media_files": [],
-    "published": true,
-    "post_source": "manual/kroger_post.json",
-    "site_status": "approved",
-    "instagram_status": "published",
-    "instagram_permalink": "https://www.instagram.com/p/DcJNlydFCFV/",
-    "instagram_post_id": "17931237357373112",
-    "published_at": "2026-08-17T14:05:42Z"
-  },
-  {
-    "id": "bestbuy",
-    "app": "Best Buy",
-    "doc": "Privacy Policy",
-    "post_type": "tldr",
-    "accent": "#FFE000",
-    "headline": "Its limits on how partners use your data carve out advertising.",
-    "effective": "Policy reviewed August 2026",
-    "changes": [
-      "Contract limits on data sharing exclude some advertising uses",
-      "Best Buy says it doesn't trade your data for money",
-      "It still lists data sold under New Jersey's broader definition",
-      "Joining My Best Buy requires name, address, email and phone"
-    ],
-    "verdict": "WORTH_KNOWING",
-    "verdict_text": "Both statements are accurate. State law counts ad targeting as a sale even when no money changes hands.",
-    "actions": [
-      "Use Best Buy's advertising opt-out on its privacy page",
-      "Cancel membership by phone: 1-888-237-8289",
-      "Opting out cannot legally get you worse treatment"
-    ],
-    "categories": [
-      {
-        "tag": "third_party_sharing",
-        "explanation": "Policy states the general contractual limits on recipient use do not apply to some sharing for advertising purposes, including cross-context behavioral advertising."
-      }
-    ],
-    "date": "",
-    "slide_folder": "2026-08-08_best-buy-privacy-policy",
-    "slide_count": 5,
-    "has_slides": true,
-    "media_files": [
-      "01_hook.png",
-      "02_changes.png",
-      "03_changes.png",
-      "04_verdict.png",
-      "05_action.png"
-    ],
-    "published": true,
-    "post_source": "manual/bestbuy_post.json",
-    "site_status": "approved",
-    "instagram_status": "published",
-    "instagram_permalink": "https://www.instagram.com/p/Db0a477Eb0-/",
-    "instagram_post_id": "17959319222984863",
-    "published_at": "2026-08-09T12:27:53Z"
-  },
-  {
-    "id": "albertsons",
-    "app": "Albertsons",
-    "doc": "Privacy Policy",
-    "post_type": "tldr",
-    "accent": "#1B6AC9",
-    "headline": "Owner of ACME and Kings. It values your loyalty data at $4.13 a shopper.",
-    "effective": "Policy updated December 9, 2025",
-    "changes": [
-      "Albertsons estimates your data is worth about $4.13 per shopper",
-      "Cameras may infer race, religion, and disability as demographic data",
-      "Loyalty data is an enumerated input for training AI models",
-      "Store Wi-Fi ties your device ID and location to your account"
-    ],
-    "verdict": "IMPORTANT",
-    "verdict_text": "The disclosures are unusually detailed, and most sit in a financial-incentive notice almost no shopper ever opens.",
-    "actions": [
-      "Delete shopping history only - keeps your account and points",
-      "Opt out of sale and targeted ads: (877) 251-6559",
-      "Turn on Global Privacy Control in your browser"
-    ],
-    "categories": [
-      {
-        "tag": "third_party_sharing",
-        "explanation": "Policy discloses sharing identifiers, device data, geolocation, loyalty information and commercial data with advertisers, ad tech companies, marketing platforms and data analytics providers."
-      },
-      {
-        "tag": "ai_training",
-        "explanation": "Data Use section lists training artificial intelligence or machine learning models, including those provided by service providers, as an enumerated purpose."
-      }
-    ],
-    "date": "",
-    "slide_folder": "2026-08-08_albertsons-privacy-policy",
-    "slide_count": 5,
-    "has_slides": true,
-    "media_files": [
-      "01_hook.png",
-      "02_changes.png",
-      "03_changes.png",
-      "04_verdict.png",
-      "05_action.png"
-    ],
-    "published": true,
-    "post_source": "manual/albertsons_post.json",
-    "site_status": "approved",
-    "instagram_status": "published",
-    "instagram_permalink": "https://www.instagram.com/p/DcCSJ1zlPiI/",
-    "instagram_post_id": "18120563579510441",
-    "published_at": "2026-08-14T21:32:01Z"
   },
   {
     "id": "2026-08-29_instagram-terms",
@@ -597,6 +323,7 @@
     ],
     "published": false,
     "post_source": "diffs/2026-08-29_instagram-terms_post.json",
+    "effective_date": "2026-08-29",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
@@ -649,6 +376,7 @@
     ],
     "published": true,
     "post_source": "diffs/2026-08-23_amazon-privacy_post.json",
+    "effective_date": "2026-08-23",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcoPfNwFDBa/",
@@ -701,6 +429,7 @@
     ],
     "published": true,
     "post_source": "diffs/2026-08-22_telegram-privacy_post.json",
+    "effective_date": "2026-08-22",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/Dcn9eZgG-3a/",
@@ -753,6 +482,7 @@
     ],
     "published": true,
     "post_source": "diffs/2026-08-22_facebook-privacy_post.json",
+    "effective_date": "2026-08-22",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcWOCkBlHEL/",
@@ -805,6 +535,7 @@
     ],
     "published": true,
     "post_source": "diffs/2026-08-20_robinhood-privacy_post.json",
+    "effective_date": "2026-08-20",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcTpQa6kcdu/",
@@ -857,11 +588,94 @@
     ],
     "published": true,
     "post_source": "manual/flock_post.json",
+    "effective_date": "2026-08-20",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DcRESOdGxxE/",
     "instagram_post_id": "18421968541146583",
     "published_at": "2026-08-20T15:18:19Z"
+  },
+  {
+    "id": "shoprite",
+    "app": "ShopRite",
+    "doc": "Price Plus Club",
+    "post_type": "tldr",
+    "accent": "#E4002B",
+    "headline": "You can opt out of Price Plus data sharing. It says that may cost you deals.",
+    "effective": "Policy reviewed August 2026",
+    "changes": [
+      "Price Plus links your name, address, phone and purchase history",
+      "Check cashing adds your license and checking account numbers",
+      "You can refuse sharing by phone, in store, or online",
+      "But some Price Plus promotions require individual-level data to qualify"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Tamer than the national chains, and recall alerts are a real benefit. But the opt-out has a stated price.",
+    "actions": [
+      "Opt out of sharing at 1-800-SHOPRITE or customer service",
+      "Keep the card for product recall alerts",
+      "NJ residents can request their data under NJDPA"
+    ],
+    "categories": [
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Policy describes sharing personal information with engaged third parties and states that opting out may disqualify members from promotions requiring individual-level data."
+      }
+    ],
+    "date": "",
+    "slide_folder": "",
+    "slide_count": 0,
+    "has_slides": false,
+    "media_files": [],
+    "published": true,
+    "post_source": "manual/shoprite_post.json",
+    "effective_date": "2026-08-18",
+    "site_status": "approved",
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DcLyGrCkWGs/",
+    "instagram_post_id": "17897243034372322",
+    "published_at": "2026-08-18T14:03:16Z"
+  },
+  {
+    "id": "kroger",
+    "app": "Kroger",
+    "doc": "Loyalty Data",
+    "post_type": "tldr",
+    "accent": "#0055B8",
+    "headline": "63 million loyalty members. One income predictor. It can be wrong.",
+    "effective": "Consumer Reports investigation, May 2025",
+    "changes": [
+      "An income predictor estimates your earnings from loyalty card purchases",
+      "Consumer Reports found profiles wrong on income, education and age",
+      "One shopper's profile may have reached over 50 companies",
+      "Precision marketing brought in an estimated $527 million in 2024"
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "Kroger says demographic data helps target relevant coupons. Consumer Reports argues inaccurate guesses can quietly cost you the best deals.",
+    "actions": [
+      "Ask Kroger to correct your shopper profile",
+      "Request your data - many states now guarantee access",
+      "Check advertised shelf prices against your receipt"
+    ],
+    "categories": [
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Consumer Reports reported one loyalty profile may have been shared with more than 50 U.S. companies including data brokers, tobacco companies and financial institutions."
+      }
+    ],
+    "date": "",
+    "slide_folder": "",
+    "slide_count": 0,
+    "has_slides": false,
+    "media_files": [],
+    "published": true,
+    "post_source": "manual/kroger_post.json",
+    "effective_date": "2026-08-17",
+    "site_status": "approved",
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DcJNlydFCFV/",
+    "instagram_post_id": "17931237357373112",
+    "published_at": "2026-08-17T14:05:42Z"
   },
   {
     "id": "2026-08-15_amazon-terms",
@@ -903,6 +717,7 @@
     ],
     "published": false,
     "post_source": "diffs/2026-08-15_amazon-terms_post.json",
+    "effective_date": "2026-08-15",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -912,6 +727,57 @@
     "key_changes": [
       "Alexa now called out specifically:** The service terms intro now explicitly names Alexa (and links to its Terms of Use) as a service with additional terms, where it previously was not listed. This appears to be a transparency update, though it signals Amazon wants users clearly bound by Alexa-specific terms."
     ]
+  },
+  {
+    "id": "albertsons",
+    "app": "Albertsons",
+    "doc": "Privacy Policy",
+    "post_type": "tldr",
+    "accent": "#1B6AC9",
+    "headline": "Owner of ACME and Kings. It values your loyalty data at $4.13 a shopper.",
+    "effective": "Policy updated December 9, 2025",
+    "changes": [
+      "Albertsons estimates your data is worth about $4.13 per shopper",
+      "Cameras may infer race, religion, and disability as demographic data",
+      "Loyalty data is an enumerated input for training AI models",
+      "Store Wi-Fi ties your device ID and location to your account"
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "The disclosures are unusually detailed, and most sit in a financial-incentive notice almost no shopper ever opens.",
+    "actions": [
+      "Delete shopping history only - keeps your account and points",
+      "Opt out of sale and targeted ads: (877) 251-6559",
+      "Turn on Global Privacy Control in your browser"
+    ],
+    "categories": [
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Policy discloses sharing identifiers, device data, geolocation, loyalty information and commercial data with advertisers, ad tech companies, marketing platforms and data analytics providers."
+      },
+      {
+        "tag": "ai_training",
+        "explanation": "Data Use section lists training artificial intelligence or machine learning models, including those provided by service providers, as an enumerated purpose."
+      }
+    ],
+    "date": "",
+    "slide_folder": "2026-08-08_albertsons-privacy-policy",
+    "slide_count": 5,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png"
+    ],
+    "published": true,
+    "post_source": "manual/albertsons_post.json",
+    "effective_date": "2026-08-14",
+    "site_status": "approved",
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DcCSJ1zlPiI/",
+    "instagram_post_id": "18120563579510441",
+    "published_at": "2026-08-14T21:32:01Z"
   },
   {
     "id": "2026-08-13_twitch-privacy",
@@ -952,6 +818,7 @@
     ],
     "published": true,
     "post_source": "diffs/2026-08-13_twitch-privacy_post.json",
+    "effective_date": "2026-08-13",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/Db_3_DimWq5/",
@@ -993,6 +860,7 @@
     ],
     "published": true,
     "post_source": "diffs/2026-08-10_steam-privacy_post.json",
+    "effective_date": "2026-08-10",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/Db6orKjFFBZ/",
@@ -1000,6 +868,53 @@
     "published_at": "2026-08-11T22:17:19Z",
     "preview_hook": "Source: https://raw.githubusercontent.com/OpenTermsArchive/contrib-versions/main/Steam/Privacy%20Policy.md",
     "key_changes": []
+  },
+  {
+    "id": "bestbuy",
+    "app": "Best Buy",
+    "doc": "Privacy Policy",
+    "post_type": "tldr",
+    "accent": "#FFE000",
+    "headline": "Its limits on how partners use your data carve out advertising.",
+    "effective": "Policy reviewed August 2026",
+    "changes": [
+      "Contract limits on data sharing exclude some advertising uses",
+      "Best Buy says it doesn't trade your data for money",
+      "It still lists data sold under New Jersey's broader definition",
+      "Joining My Best Buy requires name, address, email and phone"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Both statements are accurate. State law counts ad targeting as a sale even when no money changes hands.",
+    "actions": [
+      "Use Best Buy's advertising opt-out on its privacy page",
+      "Cancel membership by phone: 1-888-237-8289",
+      "Opting out cannot legally get you worse treatment"
+    ],
+    "categories": [
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Policy states the general contractual limits on recipient use do not apply to some sharing for advertising purposes, including cross-context behavioral advertising."
+      }
+    ],
+    "date": "",
+    "slide_folder": "2026-08-08_best-buy-privacy-policy",
+    "slide_count": 5,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png"
+    ],
+    "published": true,
+    "post_source": "manual/bestbuy_post.json",
+    "effective_date": "2026-08-09",
+    "site_status": "approved",
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/Db0a477Eb0-/",
+    "instagram_post_id": "17959319222984863",
+    "published_at": "2026-08-09T12:27:53Z"
   },
   {
     "id": "2026-08-05_snapchat-privacy",
@@ -1044,6 +959,7 @@
     ],
     "published": true,
     "post_source": "diffs/2026-08-05_snapchat-privacy_post.json",
+    "effective_date": "2026-08-05",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DbuKbOGFvrR/",
@@ -1085,6 +1001,7 @@
     ],
     "published": false,
     "post_source": "diffs/2026-08-04_google-privacy_post.json",
+    "effective_date": "2026-08-04",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1092,6 +1009,86 @@
     "published_at": "",
     "preview_hook": "Source: https://policies.google.com/privacy",
     "key_changes": []
+  },
+  {
+    "post_type": "tldr",
+    "app": "Amazon Privacy",
+    "doc": "Privacy Policy",
+    "headline": "What Amazon already collects, keeps, and shares about you.",
+    "subhead": "The policy you agreed to by using Amazon \u2014 explained plainly.",
+    "effective": "2026-08-01",
+    "changes": [
+      "In-store cameras, sensors, and computer vision track your physical movements and product interactions.",
+      "Amazon shares your advertising identifier and ad-value estimates with ad companies, who may then use it to target you for other advertisers.",
+      "In a sale or acquisition, your personal data transfers to the new owner as a business asset.",
+      "When you update personal info, Amazon keeps a copy of the old version in its records \u2014 indefinitely."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Most practices here are industry-standard. The physical store surveillance and the ad-value data sharing with third-party ad networks are the details most users would not expect.",
+    "actions": [
+      "Visit Your Ads Privacy Choices at amazon.com to limit ad targeting.",
+      "Go to Data Privacy Queries to request access to or deletion of your data.",
+      "Review and edit your browsing history at amazon.com/gp/history to reduce recommendation tracking."
+    ],
+    "categories": [
+      {
+        "tag": "Third-Party Sharing",
+        "explanation": "Amazon shares your advertising identifier and an estimate of your ad value with external ad companies, who may use it to serve you ads from other advertisers entirely."
+      },
+      {
+        "tag": "Data Retention",
+        "explanation": "When you update personal information such as your address or profile details, Amazon retains a copy of the previous version in its records with no stated time limit."
+      },
+      {
+        "tag": "Permissions",
+        "explanation": "Amazon's physical stores use cameras, computer vision, and sensors to record your movements and which products you interact with while shopping in person."
+      }
+    ],
+    "accent": "#16181D",
+    "source_doc": "Privacy Policy",
+    "id": "legacy-e2d9f7b3c551",
+    "site_status": "legacy",
+    "instagram_status": "unknown",
+    "instagram_permalink": "",
+    "effective_date": "2026-08-01"
+  },
+  {
+    "post_type": "tldr",
+    "app": "Amazon Terms",
+    "doc": "Privacy Policy",
+    "headline": "What Amazon's terms already let them do with your content",
+    "subhead": "Reviews, posts, and content you submit belong to Amazon forever.",
+    "effective": "2026-08-01",
+    "changes": [
+      "Any review or photo you post grants Amazon a permanent, royalty-free, worldwide license.",
+      "That license is irrevocable and sublicensable - Amazon can pass your content to others.",
+      "Disputes go to King County, Washington courts only - jury trial waived by both sides.",
+      "App permissions for Amazon apps are acknowledged but details are not listed in this document."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "The perpetual content license and jury-trial waiver are standard in big-tech terms but broader than most users realize. No evidence of data sale in these excerpts.",
+    "actions": [
+      "Avoid posting original creative content in Amazon reviews.",
+      "Note that disputes must be filed in Washington state courts, not locally.",
+      "Check Amazon's separate app permissions page before installing Amazon apps."
+    ],
+    "categories": [
+      {
+        "tag": "Arbitration",
+        "explanation": "You agreed that any dispute with Amazon must be settled in Washington state courts and that neither side gets a jury trial."
+      },
+      {
+        "tag": "Permissions",
+        "explanation": "Amazon apps request device permissions, but the actual list of those permissions is not described in this document - only linked externally."
+      }
+    ],
+    "accent": "#16181D",
+    "source_doc": "Privacy Policy",
+    "id": "legacy-4e3e9a8c228f",
+    "site_status": "legacy",
+    "instagram_status": "unknown",
+    "instagram_permalink": "",
+    "effective_date": "2026-08-01"
   },
   {
     "id": "2026-07-28_instagram-terms",
@@ -1126,6 +1123,7 @@
     ],
     "published": true,
     "post_source": "diffs/2026-07-28_instagram-terms_post.json",
+    "effective_date": "2026-07-28",
     "site_status": "approved",
     "instagram_status": "published",
     "instagram_permalink": "https://www.instagram.com/p/DbWOk3TFi8m/",
@@ -1171,6 +1169,7 @@
     ],
     "published": false,
     "post_source": "diffs/2026-07-24_facebook-privacy_post.json",
+    "effective_date": "2026-07-24",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1212,6 +1211,7 @@
     ],
     "published": false,
     "post_source": "diffs/2026-07-24_discord-privacy_post.json",
+    "effective_date": "2026-07-24",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1252,6 +1252,7 @@
     ],
     "published": false,
     "post_source": "diffs/2026-07-22_robinhood-privacy_post.json",
+    "effective_date": "2026-07-22",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1293,6 +1294,7 @@
     ],
     "published": false,
     "post_source": "diffs/2026-07-20_netflix-terms_post.json",
+    "effective_date": "2026-07-20",
     "site_status": "approved",
     "instagram_status": "baseline",
     "instagram_permalink": "",
@@ -1302,5 +1304,32 @@
     "key_changes": [
       "Removed:** Netflix previously stated *\"We may share your viewing history with third-party advertisers\"* \u2014 this line has been deleted from the Terms."
     ]
+  },
+  {
+    "app": "WhatsApp",
+    "accent": "#25D366",
+    "headline": "WhatsApp just updated its privacy policy",
+    "subhead": "A video selfie may be involved. Here's the TL;DR",
+    "effective": "2026-07-02",
+    "changes": [
+      "A third-party service can now estimate your age from a video selfie",
+      "Usernames are here \u2014 people can reach you without your phone number",
+      "Meta can now store your encrypted chat backups on its servers",
+      "New parental controls give parents insights into linked teen accounts"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Your chats stay end-to-end encrypted. But video-selfie age checks are new territory \u2014 know your options before you're asked.",
+    "actions": [
+      "Set a username when it rolls out \u2014 stop sharing your number",
+      "Review Settings \u2192 Privacy: who sees your photo and info",
+      "Read the full policy and the exact changes \u2014 link in bio"
+    ],
+    "source_doc": "Policy",
+    "categories": [],
+    "id": "legacy-1d2bad693070",
+    "site_status": "legacy",
+    "instagram_status": "unknown",
+    "instagram_permalink": "",
+    "effective_date": "2026-07-02"
   }
 ]
