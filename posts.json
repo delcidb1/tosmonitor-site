@@ -225,15 +225,15 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "evergreen/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy_post.json",
     "effective": "2026-09-02",
     "effective_date": "2026-09-02",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/Dc1Fz9_kcjh/",
+    "instagram_post_id": "18135825052552331",
+    "published_at": "2026-09-03T15:04:20Z"
   },
   {
     "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -278,15 +278,15 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "evergreen/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy_post.json",
     "effective": "2026-09-01",
     "effective_date": "2026-09-01",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DcyhUvokQ3r/",
+    "instagram_post_id": "18087373898656540",
+    "published_at": "2026-09-02T15:07:00Z"
   },
   {
     "id": "2026-08-29_instagram-terms",
@@ -321,14 +321,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "diffs/2026-08-29_instagram-terms_post.json",
     "effective_date": "2026-08-29",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": "",
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/Dcq0RPhoP1F/",
+    "instagram_post_id": "18172894042438999",
+    "published_at": "2026-08-30T15:18:43Z",
     "preview_hook": "Source: https://raw.githubusercontent.com/OpenTermsArchive/pga-versions/main/Instagram/Terms%20of%20Service.md",
     "key_changes": []
   },
