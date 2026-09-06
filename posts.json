@@ -48,46 +48,6 @@
     "published_at": ""
   },
   {
-    "id": "2026-09-05_release-notes_temu",
-    "app": "Temu",
-    "doc": "App Release Notes",
-    "post_type": "release_note",
-    "accent": "#0EA5E9",
-    "headline": "Temu updated a privacy-relevant feature",
-    "subhead": "The app update includes a data or privacy signal.",
-    "effective": "Update detected 2026-09-05",
-    "changes": [
-      "Save your vehicle details. Get compatibility filters for vehicle part searches. Add up to 20 cars\u2026"
-    ],
-    "verdict": "WORTH_KNOWING",
-    "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
-    "actions": [
-      "Read the update notes before installing.",
-      "Review relevant app permissions in settings.",
-      "Check the service privacy controls after updating."
-    ],
-    "categories": [],
-    "source_doc": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558",
-    "date": "2026-09-05",
-    "slide_folder": "2026-09-05_release-notes_temu",
-    "slide_count": 5,
-    "has_slides": true,
-    "media_files": [
-      "01_hook.png",
-      "02_changes.png",
-      "03_verdict.png",
-      "04_action.png",
-      "05_outro.png"
-    ],
-    "published": false,
-    "post_source": "release_notes/2026-09-05_release-notes_temu_post.json",
-    "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
-  },
-  {
     "id": "2026-09-05_privacy-receipt_2026-08-22_facebook-privacy",
     "app": "Facebook",
     "doc": "Privacy Receipt",
@@ -133,47 +93,6 @@
     "published": false,
     "post_source": "evergreen/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy_post.json",
     "effective": "2026-09-05",
-    "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
-  },
-  {
-    "id": "2026-09-04_release-notes_chatgpt",
-    "app": "ChatGPT",
-    "doc": "App Release Notes",
-    "post_type": "release_note",
-    "accent": "#0EA5E9",
-    "headline": "ChatGPT updated a privacy-relevant feature",
-    "subhead": "The app update includes a data or privacy signal.",
-    "effective": "Update detected 2026-09-04",
-    "changes": [
-      "produce a document, spreadsheet, or presentation that fits your templates and",
-      "Once Astra is available to your account, choose it from the model selector."
-    ],
-    "verdict": "WORTH_KNOWING",
-    "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
-    "actions": [
-      "Read the update notes before installing.",
-      "Review relevant app permissions in settings.",
-      "Check the service privacy controls after updating."
-    ],
-    "categories": [],
-    "source_doc": "https://learn.chatgpt.com/docs/whats-new",
-    "date": "2026-09-04",
-    "slide_folder": "2026-09-04_release-notes_chatgpt",
-    "slide_count": 5,
-    "has_slides": true,
-    "media_files": [
-      "01_hook.png",
-      "02_changes.png",
-      "03_verdict.png",
-      "04_action.png",
-      "05_outro.png"
-    ],
-    "published": false,
-    "post_source": "release_notes/2026-09-04_release-notes_chatgpt_post.json",
     "site_status": "approved",
     "instagram_status": "queued",
     "instagram_permalink": "",
@@ -246,22 +165,15 @@
     "categories": [],
     "source_doc": "TOSMonitor series based on a monitored policy \u00b7 2026-08-04_google-privacy",
     "date": "2026-09-03",
-    "slide_folder": "2026-09-03_clause-really-means_2026-08-04_google-privacy",
-    "slide_count": 6,
-    "has_slides": true,
-    "media_files": [
-      "01_hook.png",
-      "02_changes.png",
-      "03_changes.png",
-      "04_verdict.png",
-      "05_action.png",
-      "06_outro.png"
-    ],
+    "slide_folder": "",
+    "slide_count": 0,
+    "has_slides": false,
+    "media_files": [],
     "published": false,
     "post_source": "evergreen/2026-09-03_clause-really-means_2026-08-04_google-privacy_post.json",
     "effective": "2026-09-03",
     "site_status": "approved",
-    "instagram_status": "queued",
+    "instagram_status": "requires_review",
     "instagram_permalink": "",
     "instagram_post_id": "",
     "published_at": ""
