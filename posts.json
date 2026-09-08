@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-09-08_two-minute-fix_2026-08-29_instagram-terms",
+    "app": "Instagram",
+    "doc": "The 2-Minute Fix",
+    "post_type": "series",
+    "accent": "#E1306C",
+    "headline": "The 2-minute privacy check for Instagram",
+    "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+    "effective": "Updated September 08, 2026",
+    "changes": [
+      "If you use any third-party apps that pull your Instagram data, review their permissions.",
+      "Check which apps have access to your account under Settings and remove unused ones.",
+      "Follow @tos_monitor so you catch any follow-up changes to the scraping rules."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "You do not need to reread Instagram's full policy to start. These are the most useful actions already identified in the monitored update.",
+    "actions": [
+      "Open the relevant account settings now.",
+      "Complete the first action before moving to the next one.",
+      "Save this post so you can finish the remaining checks later."
+    ],
+    "categories": [],
+    "source_doc": "TOSMonitor series based on a monitored policy \u00b7 2026-08-29_instagram-terms",
+    "date": "2026-09-08",
+    "slide_folder": "2026-09-08_two-minute-fix_2026-08-29_instagram-terms",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "evergreen/2026-09-08_two-minute-fix_2026-08-29_instagram-terms_post.json",
+    "effective_date": "2026-09-08",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-09-06_privacy-receipt_2026-08-13_twitch-privacy",
     "app": "Twitch",
     "doc": "Privacy Receipt",
