@@ -1,5 +1,115 @@
 [
   {
+    "id": "2026-09-10_x-terms",
+    "app": "X (Twitter)",
+    "accent": "#000000",
+    "headline": "X Terms of Service updated, effective October 2026",
+    "subhead": "Bigger AI training rights, new arbitration rules, class-action waiver",
+    "effective": "Effective October 9, 2026",
+    "changes": [
+      "X can use your posts to train AI and machine learning models.",
+      "Disputes go to Texas courts first; arbitration applies if that fails.",
+      "You waive the right to join a class-action lawsuit against X.",
+      "X can terminate your account for prolonged inactivity or commercial reasons."
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "The AI training grant and class-action waiver directly affect how your content is used and what legal recourse you have.",
+    "actions": [
+      "Review your content-sharing settings in X Privacy settings now.",
+      "Note you cannot opt out of the class-action waiver under these terms.",
+      "Consider whether you want to keep posting given the AI training license."
+    ],
+    "categories": [
+      {
+        "tag": "ai_training",
+        "explanation": "The new terms explicitly grant X the right to use any content you post to train its machine learning and generative AI models, language that was not clearly present before."
+      },
+      {
+        "tag": "arbitration_waiver",
+        "explanation": "The updated terms introduce a mandatory Texas court forum selection clause, a fallback binding arbitration clause, and an explicit class-action and jury-trial waiver covering X and named corporate affiliates like SpaceX and Cursor."
+      }
+    ],
+    "date": "2026-09-10",
+    "slide_folder": "2026-09-10_x-terms",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "diffs/2026-09-10_x-terms_post.json",
+    "effective_date": "2026-09-10",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://raw.githubusercontent.com/OpenTermsArchive/contrib-versions/main/Twitter/Terms%20of%20Service.md",
+    "key_changes": []
+  },
+  {
+    "id": "2026-09-10_microsoft-privacy",
+    "app": "Microsoft",
+    "accent": "#00A4EF",
+    "headline": "Microsoft Privacy Policy updated September 2026",
+    "subhead": "Copilot data rules quietly rewritten \u2014 here's what changed",
+    "effective": "Effective September 2026",
+    "changes": [
+      "Copilot can now personalize using your activity across Bing, Edge, and MSN",
+      "Explicit language about AI model training from conversation data quietly removed",
+      "Copilot removed from list of services available to children with parental consent",
+      "Xbox required diagnostic data now explicitly includes game activity and app usage"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "AI training language was softened and cross-product personalization expanded, warranting a closer look at your Copilot settings.",
+    "actions": [
+      "Review and adjust personalization settings inside Microsoft Copilot now",
+      "Check your Microsoft Privacy Dashboard to manage Copilot prompt history",
+      "If you have a child account, confirm which Microsoft services they can access"
+    ],
+    "categories": [
+      {
+        "tag": "ai_training",
+        "explanation": "The previous policy explicitly stated Microsoft may use conversation data to train AI models in some markets; that language has been removed, making the current data use commitments less transparent."
+      },
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Copilot personalization now extends to pulling in data from other Microsoft products like Bing, Edge, and MSN, broadening the internal data flows used to tailor your experience."
+      },
+      {
+        "tag": "permissions",
+        "explanation": "Xbox required diagnostic data collection now explicitly includes game activity and app and service usage, expanding the stated scope of data collected from console users."
+      }
+    ],
+    "date": "2026-09-10",
+    "slide_folder": "2026-09-10_microsoft-privacy",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "diffs/2026-09-10_microsoft-privacy_post.json",
+    "effective_date": "2026-09-10",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://privacy.microsoft.com/en-us/privacystatement",
+    "key_changes": []
+  },
+  {
     "id": "2026-09-08_two-minute-fix_2026-08-29_instagram-terms",
     "app": "Instagram",
     "doc": "The 2-Minute Fix",

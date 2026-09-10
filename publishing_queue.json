@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-09T18:11:58Z",
+  "generated_at": "2026-09-10T17:37:21Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1598,6 +1598,160 @@
       "site_status": "requires_review"
     },
     {
+      "app": "Microsoft",
+      "accent": "#00A4EF",
+      "headline": "Microsoft Privacy Policy updated September 2026",
+      "subhead": "Copilot data rules quietly rewritten — here's what changed",
+      "effective": "Effective September 2026",
+      "changes": [
+        "Copilot can now personalize using your activity across Bing, Edge, and MSN",
+        "Explicit language about AI model training from conversation data quietly removed",
+        "Copilot removed from list of services available to children with parental consent",
+        "Xbox required diagnostic data now explicitly includes game activity and app usage"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "AI training language was softened and cross-product personalization expanded, warranting a closer look at your Copilot settings.",
+      "actions": [
+        "Review and adjust personalization settings inside Microsoft Copilot now",
+        "Check your Microsoft Privacy Dashboard to manage Copilot prompt history",
+        "If you have a child account, confirm which Microsoft services they can access"
+      ],
+      "caption": "Microsoft updated its Privacy Statement in September 2026, making several notable changes to how Copilot handles your data. The policy now allows Copilot to personalize your experience using your activity across other Microsoft products like Bing, Edge, and MSN — not just your Copilot conversations. At the same time, the earlier explicit statement that Microsoft may use conversation data to train AI models in some markets has been removed, replaced with softer language about improving the service. Copilot has also been quietly removed from the list of services children can access with parental consent. Xbox's required diagnostic data collection is now spelled out more clearly, including game activity and app usage. Open your Copilot settings and privacy dashboard to review what personalization is turned on.",
+      "hashtags": [
+        "microsoft",
+        "copilot",
+        "privacypolicy",
+        "dataprotection",
+        "AIprivacy",
+        "xbox",
+        "techprivacy",
+        "tosmonitor"
+      ],
+      "video_script": "Hey, Microsoft just updated its privacy policy and there are a few things worth knowing. First, Copilot can now personalize your experience using your activity across Bing, Edge, and MSN — not just what you say to Copilot directly. Second, the earlier language explicitly saying Microsoft might use your chats to train AI models has been removed — it's now vaguer. Our verdict: worth knowing. Head into your Copilot settings and check what personalization is switched on. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "The previous policy explicitly stated Microsoft may use conversation data to train AI models in some markets; that language has been removed, making the current data use commitments less transparent."
+        },
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Copilot personalization now extends to pulling in data from other Microsoft products like Bing, Edge, and MSN, broadening the internal data flows used to tailor your experience."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "Xbox required diagnostic data collection now explicitly includes game activity and app and service usage, expanding the stated scope of data collected from console users."
+        }
+      ],
+      "caption_rendered": "Microsoft updated its Privacy Statement in September 2026, making several notable changes to how Copilot handles your data. The policy now allows Copilot to personalize your experience using your activity across other Microsoft products like Bing, Edge, and MSN — not just your Copilot conversations. At the same time, the earlier explicit statement that Microsoft may use conversation data to train AI models in some markets has been removed, replaced with softer language about improving the service. Copilot has also been quietly removed from the list of services children can access with parental consent. Xbox's required diagnostic data collection is now spelled out more clearly, including game activity and app usage. Open your Copilot settings and privacy dashboard to review what personalization is turned on.\n\n#microsoft #copilot #privacypolicy #dataprotection #AIprivacy #xbox #techprivacy #tosmonitor #TOSMonitor",
+      "id": "2026-09-10_microsoft-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-09-10_microsoft-privacy_post.json",
+      "slide_folder": "2026-09-10_microsoft-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_microsoft-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_microsoft-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_microsoft-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_microsoft-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_microsoft-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_microsoft-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-10",
+      "priority": 100,
+      "instagram_caption": "Microsoft updated its Privacy Statement in September 2026, making several notable changes to how Copilot handles your data. The policy now allows Copilot to personalize your experience using your activity across other Microsoft products like Bing, Edge, and MSN — not just your Copilot conversations. At the same time, the earlier explicit statement that Microsoft may use conversation data to train AI models in some markets has been removed, replaced with softer language about improving the service. Copilot has also been quietly removed from the list of services children can access with parental consent. Xbox's required diagnostic data collection is now spelled out more clearly, including game activity and app usage. Open your Copilot settings and privacy dashboard to review what personalization is turned on.\n\n#microsoft #copilot #privacypolicy #dataprotection #AIprivacy #xbox #techprivacy #tosmonitor #TOSMonitor",
+      "caption_sha256": "ee17caa8d4651072081b3fbf56f844571e195ee30a71ad46eaed3df7096ef53e",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "app": "X (Twitter)",
+      "accent": "#000000",
+      "headline": "X Terms of Service updated, effective October 2026",
+      "subhead": "Bigger AI training rights, new arbitration rules, class-action waiver",
+      "effective": "Effective October 9, 2026",
+      "changes": [
+        "X can use your posts to train AI and machine learning models.",
+        "Disputes go to Texas courts first; arbitration applies if that fails.",
+        "You waive the right to join a class-action lawsuit against X.",
+        "X can terminate your account for prolonged inactivity or commercial reasons."
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "The AI training grant and class-action waiver directly affect how your content is used and what legal recourse you have.",
+      "actions": [
+        "Review your content-sharing settings in X Privacy settings now.",
+        "Note you cannot opt out of the class-action waiver under these terms.",
+        "Consider whether you want to keep posting given the AI training license."
+      ],
+      "caption": "X updated its Terms of Service, effective October 9, 2026. The new terms explicitly state that X can use everything you post — text, images, videos — to train its AI and machine learning models, with no compensation to you. The updated terms also consolidate dispute rules: any legal dispute must first go to a Texas court, and if that is unenforceable, it moves to binding arbitration. Critically, you are waiving your right to join a class-action lawsuit against X or its corporate affiliates, including SpaceX and Cursor entities. X can also suspend or terminate your account for prolonged inactivity or if continuing to serve you is no longer commercially viable. Read the full terms at x.com/tos before October 9.",
+      "hashtags": [
+        "XTerms",
+        "TwitterPolicy",
+        "AITraining",
+        "PrivacyRights",
+        "ClassAction",
+        "TermsOfService",
+        "DataRights",
+        "SocialMedia"
+      ],
+      "video_script": "Heads up — X just rewrote its Terms of Service and they kick in October 9, 2026. Here are the two biggest things to know. First, X now explicitly says it can use your posts to train its AI models — no opt-out, no payment. Second, you're waiving your right to a class-action lawsuit. Disputes go to a Texas court, or binding arbitration if that fails. Our verdict: this one is important. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "The new terms explicitly grant X the right to use any content you post to train its machine learning and generative AI models, language that was not clearly present before."
+        },
+        {
+          "tag": "arbitration_waiver",
+          "explanation": "The updated terms introduce a mandatory Texas court forum selection clause, a fallback binding arbitration clause, and an explicit class-action and jury-trial waiver covering X and named corporate affiliates like SpaceX and Cursor."
+        }
+      ],
+      "caption_rendered": "X updated its Terms of Service, effective October 9, 2026. The new terms explicitly state that X can use everything you post — text, images, videos — to train its AI and machine learning models, with no compensation to you. The updated terms also consolidate dispute rules: any legal dispute must first go to a Texas court, and if that is unenforceable, it moves to binding arbitration. Critically, you are waiving your right to join a class-action lawsuit against X or its corporate affiliates, including SpaceX and Cursor entities. X can also suspend or terminate your account for prolonged inactivity or if continuing to serve you is no longer commercially viable. Read the full terms at x.com/tos before October 9.\n\n#XTerms #TwitterPolicy #AITraining #PrivacyRights #ClassAction #TermsOfService #DataRights #SocialMedia #TOSMonitor",
+      "id": "2026-09-10_x-terms",
+      "source_type": "diff",
+      "post_source": "diffs/2026-09-10_x-terms_post.json",
+      "slide_folder": "2026-09-10_x-terms",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_x-terms/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_x-terms/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_x-terms/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_x-terms/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_x-terms/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_x-terms/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-10",
+      "priority": 100,
+      "instagram_caption": "X updated its Terms of Service, effective October 9, 2026. The new terms explicitly state that X can use everything you post — text, images, videos — to train its AI and machine learning models, with no compensation to you. The updated terms also consolidate dispute rules: any legal dispute must first go to a Texas court, and if that is unenforceable, it moves to binding arbitration. Critically, you are waiving your right to join a class-action lawsuit against X or its corporate affiliates, including SpaceX and Cursor entities. X can also suspend or terminate your account for prolonged inactivity or if continuing to serve you is no longer commercially viable. Read the full terms at x.com/tos before October 9.\n\n#XTerms #TwitterPolicy #AITraining #PrivacyRights #ClassAction #TermsOfService #DataRights #SocialMedia #TOSMonitor",
+      "caption_sha256": "4eca481f0546ca5099e2cb8c46c0505bd42ef61ea972321eb8417e12526e9255",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -2050,8 +2204,8 @@
       "site_status": "approved"
     }
   ],
-  "total": 36,
-  "queued_count": 4,
+  "total": 38,
+  "queued_count": 6,
   "published_count": 16,
   "baseline_count": 6
 }
