@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-10T17:37:21Z",
+  "generated_at": "2026-09-10T17:46:35Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1677,6 +1677,87 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-09-10_release-notes_chatgpt",
+      "app": "ChatGPT",
+      "doc": "App Release Notes",
+      "post_type": "release_note",
+      "source_doc": "https://learn.chatgpt.com/docs/whats-new",
+      "accent": "#0EA5E9",
+      "headline": "ChatGPT updated a privacy-relevant feature",
+      "subhead": "The app update includes a data or privacy signal.",
+      "effective": "Update detected 2026-09-10",
+      "changes": [
+        "Audio & voice",
+        "Partner integrations",
+        "Build with voice",
+        "Voice agents"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+      "actions": [
+        "Read the update notes before installing.",
+        "Review relevant app permissions in settings.",
+        "Check the service privacy controls after updating."
+      ],
+      "caption": "ChatGPT just changed an app feature with a privacy or data signal. The update notes now say: Audio & voice Before updating, read the release notes and check the permissions and privacy controls that apply to your account.",
+      "hashtags": [
+        "chatgpt",
+        "appupdate",
+        "dataprivacy",
+        "privacy",
+        "tosmonitor"
+      ],
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "The update refers to tracking, advertising, sharing, or outside parties."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "The update refers to device permissions, identifiers, location, or sensitive account information."
+        }
+      ],
+      "release_note_evidence": [
+        "Audio & voice",
+        "Partner integrations",
+        "Build with voice",
+        "Voice agents"
+      ],
+      "approved": false,
+      "draft": true,
+      "source_type": "release_note",
+      "post_source": "release_notes/2026-09-10_release-notes_chatgpt_post.json",
+      "slide_folder": "2026-09-10_release-notes_chatgpt",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_release-notes_chatgpt/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_release-notes_chatgpt/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_release-notes_chatgpt/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_release-notes_chatgpt/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_release-notes_chatgpt/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_release-notes_chatgpt/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-10",
+      "priority": 100,
+      "instagram_caption": "ChatGPT just changed an app feature with a privacy or data signal. The update notes now say: Audio & voice Before updating, read the release notes and check the permissions and privacy controls that apply to your account.\n\n#chatgpt #appupdate #dataprivacy #privacy #tosmonitor #TOSMonitor",
+      "caption_sha256": "5ef94a30bb52dbd136159d05efe94314caacb80acfcd89260849acc82850d8c6",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
+    },
+    {
       "app": "X (Twitter)",
       "accent": "#000000",
       "headline": "X Terms of Service updated, effective October 2026",
@@ -2202,10 +2283,81 @@
       "status": "queued",
       "instagram_status": "queued",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-09-10_clause-really-means_2026-09-10_x-terms",
+      "date": "2026-09-10",
+      "effective": "Updated September 10, 2026",
+      "app": "X (Twitter)",
+      "doc": "What This Clause Really Means",
+      "post_type": "series",
+      "accent": "#000000",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "The new terms explicitly grant X the right to use any content you post to train its machine learning and generative AI models, language that was not clearly present before."
+        },
+        {
+          "tag": "arbitration_waiver",
+          "explanation": "The updated terms introduce a mandatory Texas court forum selection clause, a fallback binding arbitration clause, and an explicit class-action and jury-trial waiver covering X and named corporate affiliates like SpaceX and Cursor."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-09-10_x-terms",
+      "source_post_id": "2026-09-10_x-terms",
+      "series_id": "clause-really-means",
+      "series_title": "What This Clause Really Means",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "What X (Twitter)'s policy change really means",
+      "subhead": "Plain English for the part most people would otherwise skip.",
+      "changes": [
+        "X can use your posts to train AI and machine learning models.",
+        "Disputes go to Texas courts first; arbitration applies if that fails.",
+        "You waive the right to join a class-action lawsuit against X."
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "The AI training grant and class-action waiver directly affect how your content is used and what legal recourse you have.",
+      "actions": [
+        "Review your content-sharing settings in X Privacy settings now.",
+        "Note you cannot opt out of the class-action waiver under these terms.",
+        "Consider whether you want to keep posting given the AI training license."
+      ],
+      "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · X (Twitter)\n\nX Terms of Service updated, effective October 2026\n\nIn plain English:\n• X can use your posts to train AI and machine learning models.\n• Disputes go to Texas courts first; arbitration applies if that fails.\n• You waive the right to join a class-action lawsuit against X.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-10_clause-really-means_2026-09-10_x-terms_post.json",
+      "slide_folder": "2026-09-10_clause-really-means_2026-09-10_x-terms",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_clause-really-means_2026-09-10_x-terms/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_clause-really-means_2026-09-10_x-terms/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_clause-really-means_2026-09-10_x-terms/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_clause-really-means_2026-09-10_x-terms/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_clause-really-means_2026-09-10_x-terms/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_clause-really-means_2026-09-10_x-terms/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · X (Twitter)\n\nX Terms of Service updated, effective October 2026\n\nIn plain English:\n• X can use your posts to train AI and machine learning models.\n• Disputes go to Texas courts first; arbitration applies if that fails.\n• You waive the right to join a class-action lawsuit against X.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "caption_sha256": "507dd8ff72d44d14ecbdb73a0ad6ceaafa76f79c8249132758ae835f296726df",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 38,
-  "queued_count": 6,
+  "total": 40,
+  "queued_count": 7,
   "published_count": 16,
   "baseline_count": 6
 }
