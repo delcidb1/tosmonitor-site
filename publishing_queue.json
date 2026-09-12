@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-12T16:52:16Z",
+  "generated_at": "2026-09-12T17:20:09Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1833,6 +1833,87 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-09-12_release-notes_chatgpt",
+      "app": "ChatGPT",
+      "doc": "App Release Notes",
+      "post_type": "release_note",
+      "source_doc": "https://learn.chatgpt.com/docs/whats-new",
+      "accent": "#0EA5E9",
+      "headline": "ChatGPT changed how data is used",
+      "subhead": "The app update includes a data or privacy signal.",
+      "effective": "Update detected 2026-09-12",
+      "changes": [
+        "Conversion Tracking",
+        "Type a request or start a voice conversation from the floating",
+        "Share an app window on Windows",
+        "and authorize Appshots permissions"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+      "actions": [
+        "Read the update notes before installing.",
+        "Review relevant app permissions in settings.",
+        "Check the service privacy controls after updating."
+      ],
+      "caption": "ChatGPT just changed an app feature with a privacy or data signal. The update notes now say: Conversion Tracking Before updating, read the release notes and check the permissions and privacy controls that apply to your account.",
+      "hashtags": [
+        "chatgpt",
+        "appupdate",
+        "dataprivacy",
+        "privacy",
+        "tosmonitor"
+      ],
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "The update refers to tracking, advertising, sharing, or outside parties."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "The update refers to device permissions, identifiers, location, or sensitive account information."
+        }
+      ],
+      "release_note_evidence": [
+        "Conversion Tracking",
+        "Type a request or start a voice conversation from the floating",
+        "Share an app window on Windows",
+        "and authorize Appshots permissions"
+      ],
+      "approved": false,
+      "draft": true,
+      "source_type": "release_note",
+      "post_source": "release_notes/2026-09-12_release-notes_chatgpt_post.json",
+      "slide_folder": "2026-09-12_release-notes_chatgpt",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_release-notes_chatgpt/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_release-notes_chatgpt/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_release-notes_chatgpt/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_release-notes_chatgpt/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_release-notes_chatgpt/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_release-notes_chatgpt/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-12",
+      "priority": 100,
+      "instagram_caption": "ChatGPT just changed an app feature with a privacy or data signal. The update notes now say: Conversion Tracking Before updating, read the release notes and check the permissions and privacy controls that apply to your account.\n\n#chatgpt #appupdate #dataprivacy #privacy #tosmonitor #TOSMonitor",
+      "caption_sha256": "09cc0f97dc45068c0d351d41f413986a5b1dfcfa95c9ab9ff4b920f90a53e1a4",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -2354,10 +2435,81 @@
       "status": "queued",
       "instagram_status": "queued",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-09-12_privacy-receipt_2026-09-10_x-terms",
+      "date": "2026-09-12",
+      "effective": "Updated September 12, 2026",
+      "app": "X (Twitter)",
+      "doc": "Privacy Receipt",
+      "post_type": "series",
+      "accent": "#000000",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "The new terms explicitly grant X the right to use any content you post to train its machine learning and generative AI models, language that was not clearly present before."
+        },
+        {
+          "tag": "arbitration_waiver",
+          "explanation": "The updated terms introduce a mandatory Texas court forum selection clause, a fallback binding arbitration clause, and an explicit class-action and jury-trial waiver covering X and named corporate affiliates like SpaceX and Cursor."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-09-10_x-terms",
+      "source_post_id": "2026-09-10_x-terms",
+      "series_id": "privacy-receipt",
+      "series_title": "Privacy Receipt",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "Your X (Twitter) privacy receipt",
+      "subhead": "The data points this policy change puts on the record.",
+      "changes": [
+        "X can use your posts to train AI and machine learning models.",
+        "Disputes go to Texas courts first; arbitration applies if that fails.",
+        "You waive the right to join a class-action lawsuit against X."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Think of these policy details as the data receipt that rarely appears after you use X (Twitter). The policy—not speculation—is the source for each item.",
+      "actions": [
+        "Review your content-sharing settings in X Privacy settings now.",
+        "Note you cannot opt out of the class-action waiver under these terms.",
+        "Consider whether you want to keep posting given the AI training license."
+      ],
+      "caption_rendered": "PRIVACY RECEIPT · X (Twitter)\n\nHere is what the monitored policy change puts on the record:\n• X can use your posts to train AI and machine learning models.\n• Disputes go to Texas courts first; arbitration applies if that fails.\n• You waive the right to join a class-action lawsuit against X.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-12_privacy-receipt_2026-09-10_x-terms_post.json",
+      "slide_folder": "2026-09-12_privacy-receipt_2026-09-10_x-terms",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_privacy-receipt_2026-09-10_x-terms/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_privacy-receipt_2026-09-10_x-terms/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_privacy-receipt_2026-09-10_x-terms/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_privacy-receipt_2026-09-10_x-terms/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_privacy-receipt_2026-09-10_x-terms/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_privacy-receipt_2026-09-10_x-terms/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "PRIVACY RECEIPT · X (Twitter)\n\nHere is what the monitored policy change puts on the record:\n• X can use your posts to train AI and machine learning models.\n• Disputes go to Texas courts first; arbitration applies if that fails.\n• You waive the right to join a class-action lawsuit against X.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "caption_sha256": "7bf8bf7e574dfc11bd201bef78a661b077abe2d3758a42028e37e1d85b6400b3",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 40,
-  "queued_count": 7,
+  "total": 42,
+  "queued_count": 8,
   "published_count": 16,
   "baseline_count": 6
 }

@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-09-12_privacy-receipt_2026-09-10_x-terms",
+    "app": "X (Twitter)",
+    "doc": "Privacy Receipt",
+    "post_type": "series",
+    "accent": "#000000",
+    "headline": "Your X (Twitter) privacy receipt",
+    "subhead": "The data points this policy change puts on the record.",
+    "effective": "Updated September 12, 2026",
+    "changes": [
+      "X can use your posts to train AI and machine learning models.",
+      "Disputes go to Texas courts first; arbitration applies if that fails.",
+      "You waive the right to join a class-action lawsuit against X."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Think of these policy details as the data receipt that rarely appears after you use X (Twitter). The policy\u2014not speculation\u2014is the source for each item.",
+    "actions": [
+      "Review your content-sharing settings in X Privacy settings now.",
+      "Note you cannot opt out of the class-action waiver under these terms.",
+      "Consider whether you want to keep posting given the AI training license."
+    ],
+    "categories": [
+      {
+        "tag": "ai_training",
+        "explanation": "The new terms explicitly grant X the right to use any content you post to train its machine learning and generative AI models, language that was not clearly present before."
+      },
+      {
+        "tag": "arbitration_waiver",
+        "explanation": "The updated terms introduce a mandatory Texas court forum selection clause, a fallback binding arbitration clause, and an explicit class-action and jury-trial waiver covering X and named corporate affiliates like SpaceX and Cursor."
+      }
+    ],
+    "source_doc": "TOSMonitor series based on a monitored policy \u00b7 2026-09-10_x-terms",
+    "date": "2026-09-12",
+    "slide_folder": "2026-09-12_privacy-receipt_2026-09-10_x-terms",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "evergreen/2026-09-12_privacy-receipt_2026-09-10_x-terms_post.json",
+    "effective_date": "2026-09-12",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-09-10_x-terms",
     "app": "X (Twitter)",
     "accent": "#000000",
