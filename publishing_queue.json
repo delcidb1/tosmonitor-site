@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-12T17:32:54Z",
+  "generated_at": "2026-09-13T14:49:15Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1670,10 +1670,13 @@
       "priority": 100,
       "instagram_caption": "Microsoft updated its Privacy Statement in September 2026, making several notable changes to how Copilot handles your data. The policy now allows Copilot to personalize your experience using your activity across other Microsoft products like Bing, Edge, and MSN — not just your Copilot conversations. At the same time, the earlier explicit statement that Microsoft may use conversation data to train AI models in some markets has been removed, replaced with softer language about improving the service. Copilot has also been quietly removed from the list of services children can access with parental consent. Xbox's required diagnostic data collection is now spelled out more clearly, including game activity and app usage. Open your Copilot settings and privacy dashboard to review what personalization is turned on.\n\n#microsoft #copilot #privacypolicy #dataprotection #AIprivacy #xbox #techprivacy #tosmonitor #TOSMonitor",
       "caption_sha256": "ee17caa8d4651072081b3fbf56f844571e195ee30a71ad46eaed3df7096ef53e",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-11T15:06:35Z",
+      "instagram_post_id": "17945778393309621",
+      "instagram_permalink": "https://www.instagram.com/p/DdJsbkokYTs/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -1826,10 +1829,13 @@
       "priority": 100,
       "instagram_caption": "X updated its Terms of Service, effective October 9, 2026. The new terms explicitly state that X can use everything you post — text, images, videos — to train its AI and machine learning models, with no compensation to you. The updated terms also consolidate dispute rules: any legal dispute must first go to a Texas court, and if that is unenforceable, it moves to binding arbitration. Critically, you are waiving your right to join a class-action lawsuit against X or its corporate affiliates, including SpaceX and Cursor entities. X can also suspend or terminate your account for prolonged inactivity or if continuing to serve you is no longer commercially viable. Read the full terms at x.com/tos before October 9.\n\n#XTerms #TwitterPolicy #AITraining #PrivacyRights #ClassAction #TermsOfService #DataRights #SocialMedia #TOSMonitor",
       "caption_sha256": "4eca481f0546ca5099e2cb8c46c0505bd42ef61ea972321eb8417e12526e9255",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-12T15:04:08Z",
+      "instagram_post_id": "18092087225330260",
+      "instagram_permalink": "https://www.instagram.com/p/DdMQ76omyZm/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -2231,10 +2237,13 @@
       "media_error": "",
       "instagram_caption": "PRIVACY RECEIPT · Facebook\n\nHere is what the monitored policy change puts on the record:\n• Meta now explicitly lists publicly available datasets used to improve AI and ML models.\n• New section details data collected when you interact with Meta's generative AI features.\n• Policy now spells out cross-account data combining when WhatsApp is linked via Accounts Center.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
       "caption_sha256": "7a10d336dc4fa1206ad7f490fcc5be4d248e9a42169c02f72f90719f039abf70",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-08T15:03:27Z",
+      "instagram_post_id": "18125640817825158",
+      "instagram_permalink": "https://www.instagram.com/p/DdB9rRVIMXI/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -2297,10 +2306,13 @@
       "media_error": "",
       "instagram_caption": "PRIVACY RECEIPT · Twitch\n\nHere is what the monitored policy change puts on the record:\n• Twitch explicitly added AI and machine learning training as a use of your data.\n• Your data may now be used to develop or deploy Amazon's generative AI models.\n• This applies across Twitch products and Amazon's broader services ecosystem.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
       "caption_sha256": "9f990ea345415d18771a739efddcb00141e264580f02ea5d23fe98bfd33a7a44",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-09T15:02:44Z",
+      "instagram_post_id": "18102317252621270",
+      "instagram_permalink": "https://www.instagram.com/p/DdEiZqNEbUC/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -2359,10 +2371,13 @@
       "media_error": "",
       "instagram_caption": "THE 2-MINUTE FIX · Instagram\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Instagram update we tracked:\n• If you use any third-party apps that pull your Instagram data, review their permissions.\n• Check which apps have access to your account under Settings and remove unused ones.\n• Follow @tos_monitor so you catch any follow-up changes to the scraping rules.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "caption_sha256": "2a0c03cf7f699059f098eaec60deb580e8bcbff7e109e46bea9102db34ee5a08",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-10T15:04:24Z",
+      "instagram_post_id": "18128130148684375",
+      "instagram_permalink": "https://www.instagram.com/p/DdHHYIaETFh/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -2509,7 +2524,7 @@
     }
   ],
   "total": 42,
-  "queued_count": 8,
-  "published_count": 16,
+  "queued_count": 3,
+  "published_count": 21,
   "baseline_count": 6
 }
