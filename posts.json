@@ -43,14 +43,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "evergreen/2026-09-12_privacy-receipt_2026-09-10_x-terms_post.json",
     "effective_date": "2026-09-12",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DdRahJUmzMu/",
+    "instagram_post_id": "18050731352799955",
+    "published_at": "2026-09-14T15:04:04Z"
   },
   {
     "id": "2026-09-10_x-terms",

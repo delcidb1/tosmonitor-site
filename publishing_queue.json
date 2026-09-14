@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-14T19:41:26Z",
+  "generated_at": "2026-09-14T19:56:28Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2519,15 +2519,18 @@
       "media_error": "",
       "instagram_caption": "PRIVACY RECEIPT · X (Twitter)\n\nHere is what the monitored policy change puts on the record:\n• X can use your posts to train AI and machine learning models.\n• Disputes go to Texas courts first; arbitration applies if that fails.\n• You waive the right to join a class-action lawsuit against X.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
       "caption_sha256": "7bf8bf7e574dfc11bd201bef78a661b077abe2d3758a42028e37e1d85b6400b3",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-14T15:04:04Z",
+      "instagram_post_id": "18050731352799955",
+      "instagram_permalink": "https://www.instagram.com/p/DdRahJUmzMu/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     }
   ],
   "total": 42,
-  "queued_count": 2,
-  "published_count": 22,
+  "queued_count": 1,
+  "published_count": 23,
   "baseline_count": 6
 }
