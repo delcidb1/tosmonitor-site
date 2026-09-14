@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-13T17:47:50Z",
+  "generated_at": "2026-09-14T19:08:09Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2445,10 +2445,13 @@
       "media_error": "",
       "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · X (Twitter)\n\nX Terms of Service updated, effective October 2026\n\nIn plain English:\n• X can use your posts to train AI and machine learning models.\n• Disputes go to Texas courts first; arbitration applies if that fails.\n• You waive the right to join a class-action lawsuit against X.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "caption_sha256": "507dd8ff72d44d14ecbdb73a0ad6ceaafa76f79c8249132758ae835f296726df",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-13T15:04:53Z",
+      "instagram_post_id": "18080481689359513",
+      "instagram_permalink": "https://www.instagram.com/p/DdO10WIFInL/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -2524,7 +2527,7 @@
     }
   ],
   "total": 42,
-  "queued_count": 3,
-  "published_count": 21,
+  "queued_count": 2,
+  "published_count": 22,
   "baseline_count": 6
 }

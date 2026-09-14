@@ -206,14 +206,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "evergreen/2026-09-10_clause-really-means_2026-09-10_x-terms_post.json",
     "effective_date": "2026-09-10",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DdO10WIFInL/",
+    "instagram_post_id": "18080481689359513",
+    "published_at": "2026-09-13T15:04:53Z"
   },
   {
     "id": "2026-09-08_two-minute-fix_2026-08-29_instagram-terms",
