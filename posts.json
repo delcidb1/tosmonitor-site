@@ -43,14 +43,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "evergreen/2026-09-15_two-minute-fix_2026-09-10_x-terms_post.json",
     "effective_date": "2026-09-15",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DdWkQMhlDRQ/",
+    "instagram_post_id": "18621582388002474",
+    "published_at": "2026-09-16T15:05:20Z"
   },
   {
     "id": "2026-09-12_privacy-receipt_2026-09-10_x-terms",

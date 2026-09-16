@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-16T18:34:00Z",
+  "generated_at": "2026-09-16T19:05:14Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2593,15 +2593,18 @@
       "media_error": "",
       "instagram_caption": "THE 2-MINUTE FIX · X (Twitter)\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the X (Twitter) update we tracked:\n• Review your content-sharing settings in X Privacy settings now.\n• Note you cannot opt out of the class-action waiver under these terms.\n• Consider whether you want to keep posting given the AI training license.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "caption_sha256": "fc3a4bb6a1b5a8e0f493f5de8199e939f24c663388a7c1a034bc7e9e5d97bbde",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-16T15:05:20Z",
+      "instagram_post_id": "18621582388002474",
+      "instagram_permalink": "https://www.instagram.com/p/DdWkQMhlDRQ/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     }
   ],
   "total": 43,
-  "queued_count": 2,
-  "published_count": 23,
+  "queued_count": 1,
+  "published_count": 24,
   "baseline_count": 6
 }
