@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-17T18:41:43Z",
+  "generated_at": "2026-09-18T17:36:55Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1920,6 +1920,144 @@
       "site_status": "requires_review"
     },
     {
+      "app": "Uber",
+      "accent": "#000000",
+      "headline": "Uber tightens its phone number privacy promise",
+      "subhead": "Your SMS opt-in data now explicitly stays private.",
+      "effective": "Effective September 17, 2026",
+      "changes": [
+        "Uber now explicitly says your SMS opt-in and consent data won't be shared with third parties.",
+        "Phone number protection language got more specific, not just 'no marketing texts' but no consent data sharing either."
+      ],
+      "verdict": "MINOR",
+      "verdict_text": "A clarification that strengthens an existing protection. No new data collection or sharing; just more precise language around SMS consent.",
+      "actions": [
+        "No action needed, but review your Uber notification settings for peace of mind.",
+        "If you received unwanted texts, report them to Uber support.",
+        "Check your carrier's spam filters as an extra layer of protection."
+      ],
+      "caption": "On September 17, 2026, Uber updated its driver and delivery privacy notice with one concrete clarification: your SMS opt-in and consent data will not be shared with any third parties. Previously, the policy said Uber wouldn't share your phone number for marketing texts, but it didn't spell out what happens to the consent record itself, the data that proves you agreed to receive texts. That record is now explicitly protected too. For drivers and delivery people, this means the paper trail of your text-message consent cannot be passed along to outside companies. No action is required on your part, but it is a good reminder to review your notification preferences in the Uber Driver app.",
+      "hashtags": [
+        "uber",
+        "privacypolicy",
+        "smsprivacy",
+        "textmessaging",
+        "rideshare",
+        "deliverydriver",
+        "tosupdate",
+        "dataprotection"
+      ],
+      "video_script": "Hey, quick heads-up for Uber drivers and delivery people. Uber just updated its privacy notice on September 17th, and there is one real change worth knowing. They have clarified that not only will they not share your phone number for marketing texts, but your SMS opt-in and consent data, the record of you agreeing to those texts, also cannot be shared with third parties. It is a minor but meaningful tightening of an existing protection. Our verdict: minor, but in the right direction. Full breakdown in the carousel, follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Uber added explicit language barring the sharing of SMS opt-in and consent data with third parties, making an existing phone-number protection more precise and enforceable."
+        }
+      ],
+      "caption_rendered": "On September 17, 2026, Uber updated its driver and delivery privacy notice with one concrete clarification: your SMS opt-in and consent data will not be shared with any third parties. Previously, the policy said Uber wouldn't share your phone number for marketing texts, but it didn't spell out what happens to the consent record itself, the data that proves you agreed to receive texts. That record is now explicitly protected too. For drivers and delivery people, this means the paper trail of your text-message consent cannot be passed along to outside companies. No action is required on your part, but it is a good reminder to review your notification preferences in the Uber Driver app.\n\n#uber #privacypolicy #smsprivacy #textmessaging #rideshare #deliverydriver #tosupdate #dataprotection #TOSMonitor",
+      "id": "2026-09-18_uber-privacy-drivers",
+      "source_type": "diff",
+      "post_source": "diffs/2026-09-18_uber-privacy-drivers_post.json",
+      "slide_folder": "2026-09-18_uber-privacy-drivers",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-drivers/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-drivers/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-drivers/03_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-drivers/04_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-drivers/05_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_verdict.png",
+        "04_action.png",
+        "05_outro.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-18",
+      "priority": 100,
+      "instagram_caption": "On September 17, 2026, Uber updated its driver and delivery privacy notice with one concrete clarification: your SMS opt-in and consent data will not be shared with any third parties. Previously, the policy said Uber wouldn't share your phone number for marketing texts, but it didn't spell out what happens to the consent record itself, the data that proves you agreed to receive texts. That record is now explicitly protected too. For drivers and delivery people, this means the paper trail of your text-message consent cannot be passed along to outside companies. No action is required on your part, but it is a good reminder to review your notification preferences in the Uber Driver app.\n\n#uber #privacypolicy #smsprivacy #textmessaging #rideshare #deliverydriver #tosupdate #dataprotection #TOSMonitor",
+      "caption_sha256": "611857b2f403e746822588f1e0d7f4a7576ad3e8d4b0d9aef8cf8f4730918a05",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "app": "Uber",
+      "accent": "#000000",
+      "headline": "Uber clarifies how your phone number is protected",
+      "subhead": "New language shields your SMS opt-in data from third parties.",
+      "effective": "Effective September 17, 2026",
+      "changes": [
+        "Uber now explicitly states SMS opt-in and consent data won't be shared with third parties",
+        "Phone number protection language got more specific, not broader in scope",
+        "Existing service-provider exemption for text delivery remains unchanged",
+        "No new data sharing added; this is a clarification of existing protections"
+      ],
+      "verdict": "MINOR",
+      "verdict_text": "This tightens existing language around phone number sharing but does not introduce new protections or remove existing ones.",
+      "actions": [
+        "Review your Uber notification and marketing preferences in the app",
+        "Check that your phone number is listed correctly under account settings",
+        "No action required if you never opted into Uber SMS marketing"
+      ],
+      "caption": "Uber updated its privacy notice on September 17, 2026, adding one clarifying sentence about how your phone number and SMS opt-in data are handled. The new language states that not just your phone number, but also your text messaging opt-in status and consent records, will not be shared with third parties for marketing purposes. In practice, this does not change what Uber was already doing, but it makes the commitment more explicit and aligns with telecom industry standards around consent data. If you have opted into Uber text alerts, your consent information stays with Uber and its delivery partners only. No action is needed, but it is a good moment to review your notification settings if you want to limit how Uber contacts you.",
+      "hashtags": [
+        "uber",
+        "privacypolicy",
+        "smsprivacy",
+        "dataprivacy",
+        "textmessaging",
+        "tosmonitor",
+        "privacyupdate",
+        "consumerrights"
+      ],
+      "video_script": "Hey, Uber just updated its privacy notice, and there is one change worth knowing about. They added language saying that your SMS opt-in data, meaning the fact that you agreed to receive text messages, will not be shared with third parties. That is a clarification, not a brand new protection, but it does make the commitment more specific and harder to walk back. Our verdict is Minor, because nothing actually got worse here. Still, it is a good reminder to check your notification settings in the app. Full breakdown in the carousel, follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Uber added explicit language confirming that SMS opt-in and consent data will not be shared with third parties, narrowing and clarifying the existing phone number protection commitment."
+        }
+      ],
+      "caption_rendered": "Uber updated its privacy notice on September 17, 2026, adding one clarifying sentence about how your phone number and SMS opt-in data are handled. The new language states that not just your phone number, but also your text messaging opt-in status and consent records, will not be shared with third parties for marketing purposes. In practice, this does not change what Uber was already doing, but it makes the commitment more explicit and aligns with telecom industry standards around consent data. If you have opted into Uber text alerts, your consent information stays with Uber and its delivery partners only. No action is needed, but it is a good moment to review your notification settings if you want to limit how Uber contacts you.\n\n#uber #privacypolicy #smsprivacy #dataprivacy #textmessaging #tosmonitor #privacyupdate #consumerrights #TOSMonitor",
+      "id": "2026-09-18_uber-privacy-riders",
+      "source_type": "diff",
+      "post_source": "diffs/2026-09-18_uber-privacy-riders_post.json",
+      "slide_folder": "2026-09-18_uber-privacy-riders",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-riders/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-riders/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-riders/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-riders/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-riders/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-riders/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-18",
+      "priority": 100,
+      "instagram_caption": "Uber updated its privacy notice on September 17, 2026, adding one clarifying sentence about how your phone number and SMS opt-in data are handled. The new language states that not just your phone number, but also your text messaging opt-in status and consent records, will not be shared with third parties for marketing purposes. In practice, this does not change what Uber was already doing, but it makes the commitment more explicit and aligns with telecom industry standards around consent data. If you have opted into Uber text alerts, your consent information stays with Uber and its delivery partners only. No action is needed, but it is a good moment to review your notification settings if you want to limit how Uber contacts you.\n\n#uber #privacypolicy #smsprivacy #dataprivacy #textmessaging #tosmonitor #privacyupdate #consumerrights #TOSMonitor",
+      "caption_sha256": "776a6550faa6e4f591d334d71bd847e41227e5907ce2faf2dbf69fbcf088f243",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -2678,8 +2816,8 @@
       "site_status": "approved"
     }
   ],
-  "total": 44,
-  "queued_count": 2,
+  "total": 46,
+  "queued_count": 4,
   "published_count": 24,
   "baseline_count": 6
 }
