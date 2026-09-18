@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-18T17:58:11Z",
+  "generated_at": "2026-09-18T18:38:22Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2809,15 +2809,18 @@
       "media_error": "",
       "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · Microsoft\n\nMicrosoft Privacy Policy updated September 2026\n\nIn plain English:\n• Copilot can now personalize using your activity across Bing, Edge, and MSN\n• Explicit language about AI model training from conversation data quietly removed\n• Copilot removed from list of services available to children with parental consent\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "caption_sha256": "5ac3178564429bd6f3bcca15a1214350acf6dbced69cf786f28295422cbb8108",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-18T15:04:08Z",
+      "instagram_post_id": "18120412987927511",
+      "instagram_permalink": "https://www.instagram.com/p/DdbttEDoK1n/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     }
   ],
   "total": 46,
-  "queued_count": 4,
-  "published_count": 24,
+  "queued_count": 3,
+  "published_count": 25,
   "baseline_count": 6
 }
