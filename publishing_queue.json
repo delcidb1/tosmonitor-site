@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-19T17:36:17Z",
+  "generated_at": "2026-09-19T18:12:47Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1980,10 +1980,13 @@
       "priority": 100,
       "instagram_caption": "On September 17, 2026, Uber updated its driver and delivery privacy notice with one concrete clarification: your SMS opt-in and consent data will not be shared with any third parties. Previously, the policy said Uber wouldn't share your phone number for marketing texts, but it didn't spell out what happens to the consent record itself, the data that proves you agreed to receive texts. That record is now explicitly protected too. For drivers and delivery people, this means the paper trail of your text-message consent cannot be passed along to outside companies. No action is required on your part, but it is a good reminder to review your notification preferences in the Uber Driver app.\n\n#uber #privacypolicy #smsprivacy #textmessaging #rideshare #deliverydriver #tosupdate #dataprotection #TOSMonitor",
       "caption_sha256": "611857b2f403e746822588f1e0d7f4a7576ad3e8d4b0d9aef8cf8f4730918a05",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-19T15:06:29Z",
+      "instagram_post_id": "18564063808079891",
+      "instagram_permalink": "https://www.instagram.com/p/DdeSx6nlBsN/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -2895,7 +2898,7 @@
     }
   ],
   "total": 47,
-  "queued_count": 4,
-  "published_count": 25,
+  "queued_count": 3,
+  "published_count": 26,
   "baseline_count": 6
 }
