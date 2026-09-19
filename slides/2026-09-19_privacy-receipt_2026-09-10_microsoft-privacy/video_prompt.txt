@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Microsoft)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Your Microsoft privacy receipt. Copilot can now personalize using your activity across Bing, Edge, and MSN Explicit language about AI model training from conversation data quietly removed Copilot removed from list of services available to children with parental consent Our verdict: worth knowing. Think of these policy details as the data receipt that rarely appears after you use Microsoft. The policy—not speculation—is the source for each item. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #00A4EF accent lighting looks at the
+camera and says: 'Your Microsoft privacy receipt. Think of these policy details as the data receipt that rarely appears after you use Microsoft. The policy—not speculation—is the source for each item.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
