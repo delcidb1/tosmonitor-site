@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-20T17:48:30Z",
+  "generated_at": "2026-09-20T18:18:06Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2054,10 +2054,13 @@
       "priority": 100,
       "instagram_caption": "Uber updated its privacy notice on September 17, 2026, adding one clarifying sentence about how your phone number and SMS opt-in data are handled. The new language states that not just your phone number, but also your text messaging opt-in status and consent records, will not be shared with third parties for marketing purposes. In practice, this does not change what Uber was already doing, but it makes the commitment more explicit and aligns with telecom industry standards around consent data. If you have opted into Uber text alerts, your consent information stays with Uber and its delivery partners only. No action is needed, but it is a good moment to review your notification settings if you want to limit how Uber contacts you.\n\n#uber #privacypolicy #smsprivacy #dataprivacy #textmessaging #tosmonitor #privacyupdate #consumerrights #TOSMonitor",
       "caption_sha256": "776a6550faa6e4f591d334d71bd847e41227e5907ce2faf2dbf69fbcf088f243",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-20T15:05:50Z",
+      "instagram_post_id": "17897960847670386",
+      "instagram_permalink": "https://www.instagram.com/p/Ddg3fWkmy6Y/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -2898,7 +2901,7 @@
     }
   ],
   "total": 47,
-  "queued_count": 3,
-  "published_count": 26,
+  "queued_count": 2,
+  "published_count": 27,
   "baseline_count": 6
 }
