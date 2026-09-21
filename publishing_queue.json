@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-21T19:49:03Z",
+  "generated_at": "2026-09-21T20:08:00Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3055,15 +3055,18 @@
       "media_error": "",
       "instagram_caption": "PRIVACY RECEIPT · Microsoft\n\nHere is what the monitored policy change puts on the record:\n• Copilot can now personalize using your activity across Bing, Edge, and MSN\n• Explicit language about AI model training from conversation data quietly removed\n• Copilot removed from list of services available to children with parental consent\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
       "caption_sha256": "466fb1380b279f1a9f6aec61e822a9a7f621bd2545e99e83853dc9541b7d05f7",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-21T15:05:46Z",
+      "instagram_post_id": "18103194632348843",
+      "instagram_permalink": "https://www.instagram.com/p/DdjcRowoPJb/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     }
   ],
   "total": 49,
-  "queued_count": 2,
-  "published_count": 27,
+  "queued_count": 1,
+  "published_count": 28,
   "baseline_count": 6
 }

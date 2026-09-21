@@ -47,14 +47,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "evergreen/2026-09-19_privacy-receipt_2026-09-10_microsoft-privacy_post.json",
     "effective_date": "2026-09-19",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DdjcRowoPJb/",
+    "instagram_post_id": "18103194632348843",
+    "published_at": "2026-09-21T15:05:46Z"
   },
   {
     "id": "2026-09-18_uber-privacy-riders",
