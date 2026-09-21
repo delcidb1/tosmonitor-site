@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-21T19:10:42Z",
+  "generated_at": "2026-09-21T19:49:03Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2064,6 +2064,168 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-09-21_release-notes_life360",
+      "app": "Life360",
+      "doc": "App Release Notes",
+      "post_type": "release_note",
+      "source_doc": "https://apps.apple.com/us/app/life360-stay-connected-safe/id384830320",
+      "accent": "#0EA5E9",
+      "headline": "Life360 changed a location feature",
+      "subhead": "The app update includes a data or privacy signal.",
+      "effective": "Update detected 2026-09-21",
+      "changes": [
+        "iSharing: GPS Location Tracker",
+        "Family Tracking & Phone Finder",
+        "TikWatch - Video For Watch",
+        "#1 TokWatch Trend Video Watch"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+      "actions": [
+        "Read the update notes before installing.",
+        "Review relevant app permissions in settings.",
+        "Check the service privacy controls after updating."
+      ],
+      "caption": "Life360 just changed an app feature with a privacy or data signal. The update notes now say: iSharing: GPS Location Tracker Before updating, read the release notes and check the permissions and privacy controls that apply to your account.",
+      "hashtags": [
+        "life360",
+        "appupdate",
+        "dataprivacy",
+        "privacy",
+        "tosmonitor"
+      ],
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "The update refers to tracking, advertising, sharing, or outside parties."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "The update refers to device permissions, identifiers, location, or sensitive account information."
+        }
+      ],
+      "release_note_evidence": [
+        "iSharing: GPS Location Tracker",
+        "Family Tracking & Phone Finder",
+        "TikWatch - Video For Watch",
+        "#1 TokWatch Trend Video Watch"
+      ],
+      "approved": false,
+      "draft": true,
+      "source_type": "release_note",
+      "post_source": "release_notes/2026-09-21_release-notes_life360_post.json",
+      "slide_folder": "2026-09-21_release-notes_life360",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_life360/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_life360/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_life360/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_life360/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_life360/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_life360/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-21",
+      "priority": 100,
+      "instagram_caption": "Life360 just changed an app feature with a privacy or data signal. The update notes now say: iSharing: GPS Location Tracker Before updating, read the release notes and check the permissions and privacy controls that apply to your account.\n\n#life360 #appupdate #dataprivacy #privacy #tosmonitor #TOSMonitor",
+      "caption_sha256": "24214bc05af69f6a83a227a898bd4b1e29e5c5de960fe138d6c559848c551ec9",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
+    },
+    {
+      "id": "2026-09-21_release-notes_snapchat",
+      "app": "Snapchat",
+      "doc": "App Release Notes",
+      "post_type": "release_note",
+      "source_doc": "https://apps.apple.com/us/app/snapchat/id447188370",
+      "accent": "#0EA5E9",
+      "headline": "Snapchat changed an AI feature",
+      "subhead": "The app update includes a data or privacy signal.",
+      "effective": "Update detected 2026-09-21",
+      "changes": [
+        "Picsart AI Photo Editor, Video",
+        "Retouch, Video, Collage Maker",
+        "Citrus 1 Tap Photo Enhancer AI",
+        "Funimate Video & Motion Editor"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+      "actions": [
+        "Read the update notes before installing.",
+        "Review relevant app permissions in settings.",
+        "Check the service privacy controls after updating."
+      ],
+      "caption": "Snapchat just changed an app feature with a privacy or data signal. The update notes now say: Picsart AI Photo Editor, Video Before updating, read the release notes and check the permissions and privacy controls that apply to your account.",
+      "hashtags": [
+        "snapchat",
+        "appupdate",
+        "dataprivacy",
+        "privacy",
+        "tosmonitor"
+      ],
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "The update refers to AI features or data uses that may affect how people understand the service."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "The update refers to device permissions, identifiers, location, or sensitive account information."
+        }
+      ],
+      "release_note_evidence": [
+        "Picsart AI Photo Editor, Video",
+        "Retouch, Video, Collage Maker",
+        "Citrus 1 Tap Photo Enhancer AI",
+        "Funimate Video & Motion Editor"
+      ],
+      "approved": false,
+      "draft": true,
+      "source_type": "release_note",
+      "post_source": "release_notes/2026-09-21_release-notes_snapchat_post.json",
+      "slide_folder": "2026-09-21_release-notes_snapchat",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_snapchat/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_snapchat/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_snapchat/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_snapchat/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_snapchat/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-21_release-notes_snapchat/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-21",
+      "priority": 100,
+      "instagram_caption": "Snapchat just changed an app feature with a privacy or data signal. The update notes now say: Picsart AI Photo Editor, Video Before updating, read the release notes and check the permissions and privacy controls that apply to your account.\n\n#snapchat #appupdate #dataprivacy #privacy #tosmonitor #TOSMonitor",
+      "caption_sha256": "a06ed0a708efcdea785833c59e2e3444b9d95b90c272020f6ace08cc7d26c872",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -2900,7 +3062,7 @@
       "site_status": "approved"
     }
   ],
-  "total": 47,
+  "total": 49,
   "queued_count": 2,
   "published_count": 27,
   "baseline_count": 6
