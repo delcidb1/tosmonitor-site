@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Microsoft)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+The 2-minute privacy check for Microsoft. Review and adjust personalization settings inside Microsoft Copilot now Check your Microsoft Privacy Dashboard to manage Copilot prompt history If you have a child account, confirm which Microsoft services they can access Our verdict: worth knowing. You do not need to reread Microsoft's full policy to start. These are the most useful actions already identified in the monitored update. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #00A4EF accent lighting looks at the
+camera and says: 'The 2-minute privacy check for Microsoft. You do not need to reread Microsoft's full policy to start. These are the most useful actions already identified in the monitored update.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

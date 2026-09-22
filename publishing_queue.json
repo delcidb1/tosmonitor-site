@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-22T18:01:03Z",
+  "generated_at": "2026-09-22T18:11:18Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2226,6 +2226,227 @@
       "site_status": "requires_review"
     },
     {
+      "id": "2026-09-22_release-notes_chatgpt",
+      "app": "ChatGPT",
+      "doc": "App Release Notes",
+      "post_type": "release_note",
+      "source_doc": "https://learn.chatgpt.com/docs/whats-new",
+      "accent": "#0EA5E9",
+      "headline": "ChatGPT updated a privacy-relevant feature",
+      "subhead": "The app update includes a data or privacy signal.",
+      "effective": "Update detected 2026-09-22",
+      "changes": [
+        "API Partner Setup"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+      "actions": [
+        "Read the update notes before installing.",
+        "Review relevant app permissions in settings.",
+        "Check the service privacy controls after updating."
+      ],
+      "caption": "ChatGPT just changed an app feature with a privacy or data signal. The update notes now say: API Partner Setup Before updating, read the release notes and check the permissions and privacy controls that apply to your account.",
+      "hashtags": [
+        "chatgpt",
+        "appupdate",
+        "dataprivacy",
+        "privacy",
+        "tosmonitor"
+      ],
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "The update refers to tracking, advertising, sharing, or outside parties."
+        }
+      ],
+      "release_note_evidence": [
+        "API Partner Setup"
+      ],
+      "approved": false,
+      "draft": true,
+      "source_type": "release_note",
+      "post_source": "release_notes/2026-09-22_release-notes_chatgpt_post.json",
+      "slide_folder": "2026-09-22_release-notes_chatgpt",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_chatgpt/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_chatgpt/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_chatgpt/03_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_chatgpt/04_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_chatgpt/05_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_verdict.png",
+        "04_action.png",
+        "05_outro.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-22",
+      "priority": 100,
+      "instagram_caption": "ChatGPT just changed an app feature with a privacy or data signal. The update notes now say: API Partner Setup Before updating, read the release notes and check the permissions and privacy controls that apply to your account.\n\n#chatgpt #appupdate #dataprivacy #privacy #tosmonitor #TOSMonitor",
+      "caption_sha256": "e144e6049871d6350656af4505777bdca000e1b0f8198712207eb9f0e5d0222f",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
+    },
+    {
+      "id": "2026-09-22_release-notes_life360",
+      "app": "Life360",
+      "doc": "App Release Notes",
+      "post_type": "release_note",
+      "source_doc": "https://apps.apple.com/us/app/life360-stay-connected-safe/id384830320",
+      "accent": "#0EA5E9",
+      "headline": "Life360 changed how data is used",
+      "subhead": "The app update includes a data or privacy signal.",
+      "effective": "Update detected 2026-09-22",
+      "changes": [
+        "Share Whatever on BFF's Screen",
+        "Voice chat rooms with friends"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+      "actions": [
+        "Read the update notes before installing.",
+        "Review relevant app permissions in settings.",
+        "Check the service privacy controls after updating."
+      ],
+      "caption": "Life360 just changed an app feature with a privacy or data signal. The update notes now say: Share Whatever on BFF's Screen Before updating, read the release notes and check the permissions and privacy controls that apply to your account.",
+      "hashtags": [
+        "life360",
+        "appupdate",
+        "dataprivacy",
+        "privacy",
+        "tosmonitor"
+      ],
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "The update refers to tracking, advertising, sharing, or outside parties."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "The update refers to device permissions, identifiers, location, or sensitive account information."
+        }
+      ],
+      "release_note_evidence": [
+        "Share Whatever on BFF's Screen",
+        "Voice chat rooms with friends"
+      ],
+      "approved": false,
+      "draft": true,
+      "source_type": "release_note",
+      "post_source": "release_notes/2026-09-22_release-notes_life360_post.json",
+      "slide_folder": "2026-09-22_release-notes_life360",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_life360/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_life360/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_life360/03_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_life360/04_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_life360/05_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_verdict.png",
+        "04_action.png",
+        "05_outro.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-22",
+      "priority": 100,
+      "instagram_caption": "Life360 just changed an app feature with a privacy or data signal. The update notes now say: Share Whatever on BFF's Screen Before updating, read the release notes and check the permissions and privacy controls that apply to your account.\n\n#life360 #appupdate #dataprivacy #privacy #tosmonitor #TOSMonitor",
+      "caption_sha256": "79f4dc7193ab57ef3da835cd64ad3748461799003af59a17d03f67085759b54f",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
+    },
+    {
+      "id": "2026-09-22_release-notes_snapchat",
+      "app": "Snapchat",
+      "doc": "App Release Notes",
+      "post_type": "release_note",
+      "source_doc": "https://apps.apple.com/us/app/snapchat/id447188370",
+      "accent": "#0EA5E9",
+      "headline": "Snapchat updated a privacy-relevant feature",
+      "subhead": "The app update includes a data or privacy signal.",
+      "effective": "Update detected 2026-09-22",
+      "changes": [
+        "Funimate Video & Motion Editor",
+        "Music Video Maker with Effects",
+        "Likee - Video, Live, Chat",
+        "Short Video & Live Streams"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This change involves an app feature connected to privacy, data, tracking, permissions, or controls. Review it before updating.",
+      "actions": [
+        "Read the update notes before installing.",
+        "Review relevant app permissions in settings.",
+        "Check the service privacy controls after updating."
+      ],
+      "caption": "Snapchat just changed an app feature with a privacy or data signal. The update notes now say: Funimate Video & Motion Editor Before updating, read the release notes and check the permissions and privacy controls that apply to your account.",
+      "hashtags": [
+        "snapchat",
+        "appupdate",
+        "dataprivacy",
+        "privacy",
+        "tosmonitor"
+      ],
+      "categories": [
+        {
+          "tag": "permissions",
+          "explanation": "The update refers to device permissions, identifiers, location, or sensitive account information."
+        }
+      ],
+      "release_note_evidence": [
+        "Funimate Video & Motion Editor",
+        "Music Video Maker with Effects",
+        "Likee - Video, Live, Chat",
+        "Short Video & Live Streams"
+      ],
+      "approved": false,
+      "draft": true,
+      "source_type": "release_note",
+      "post_source": "release_notes/2026-09-22_release-notes_snapchat_post.json",
+      "slide_folder": "2026-09-22_release-notes_snapchat",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_snapchat/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_snapchat/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_snapchat/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_snapchat/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_snapchat/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_release-notes_snapchat/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-22",
+      "priority": 100,
+      "instagram_caption": "Snapchat just changed an app feature with a privacy or data signal. The update notes now say: Funimate Video & Motion Editor Before updating, read the release notes and check the permissions and privacy controls that apply to your account.\n\n#snapchat #appupdate #dataprivacy #privacy #tosmonitor #TOSMonitor",
+      "caption_sha256": "3a71320ee86f6c7ce6ded331a61754ee799b0ced9b857626ca92736021597652",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -3063,10 +3284,85 @@
       "status": "published",
       "instagram_status": "published",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy",
+      "date": "2026-09-22",
+      "effective": "Updated September 22, 2026",
+      "app": "Microsoft",
+      "doc": "The 2-Minute Fix",
+      "post_type": "series",
+      "accent": "#00A4EF",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "The previous policy explicitly stated Microsoft may use conversation data to train AI models in some markets; that language has been removed, making the current data use commitments less transparent."
+        },
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Copilot personalization now extends to pulling in data from other Microsoft products like Bing, Edge, and MSN, broadening the internal data flows used to tailor your experience."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "Xbox required diagnostic data collection now explicitly includes game activity and app and service usage, expanding the stated scope of data collected from console users."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-09-10_microsoft-privacy",
+      "source_post_id": "2026-09-10_microsoft-privacy",
+      "series_id": "two-minute-fix",
+      "series_title": "The 2-Minute Fix",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "The 2-minute privacy check for Microsoft",
+      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+      "changes": [
+        "Review and adjust personalization settings inside Microsoft Copilot now",
+        "Check your Microsoft Privacy Dashboard to manage Copilot prompt history",
+        "If you have a child account, confirm which Microsoft services they can access"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "You do not need to reread Microsoft's full policy to start. These are the most useful actions already identified in the monitored update.",
+      "actions": [
+        "Open the relevant account settings now.",
+        "Complete the first action before moving to the next one.",
+        "Save this post so you can finish the remaining checks later."
+      ],
+      "caption_rendered": "THE 2-MINUTE FIX · Microsoft\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Microsoft update we tracked:\n• Review and adjust personalization settings inside Microsoft Copilot now\n• Check your Microsoft Privacy Dashboard to manage Copilot prompt history\n• If you have a child account, confirm which Microsoft services they can access\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy_post.json",
+      "slide_folder": "2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THE 2-MINUTE FIX · Microsoft\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Microsoft update we tracked:\n• Review and adjust personalization settings inside Microsoft Copilot now\n• Check your Microsoft Privacy Dashboard to manage Copilot prompt history\n• If you have a child account, confirm which Microsoft services they can access\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_sha256": "17e7f42a4b5eba1a9c5acb7e09e98e5e4da690fff9d6fb6ceb8469361313fc61",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 49,
-  "queued_count": 1,
+  "total": 53,
+  "queued_count": 2,
   "published_count": 28,
   "baseline_count": 6
 }
