@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-23T18:44:33Z",
+  "generated_at": "2026-09-23T19:14:10Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3354,15 +3354,18 @@
       "media_error": "",
       "instagram_caption": "THE 2-MINUTE FIX · Microsoft\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Microsoft update we tracked:\n• Review and adjust personalization settings inside Microsoft Copilot now\n• Check your Microsoft Privacy Dashboard to manage Copilot prompt history\n• If you have a child account, confirm which Microsoft services they can access\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "caption_sha256": "17e7f42a4b5eba1a9c5acb7e09e98e5e4da690fff9d6fb6ceb8469361313fc61",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-23T15:02:08Z",
+      "instagram_post_id": "17961269367220266",
+      "instagram_permalink": "https://www.instagram.com/p/DdolcyIkSuW/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     }
   ],
   "total": 53,
-  "queued_count": 2,
-  "published_count": 28,
+  "queued_count": 1,
+  "published_count": 29,
   "baseline_count": 6
 }
