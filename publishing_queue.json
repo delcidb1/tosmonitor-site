@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-24T18:20:52Z",
+  "generated_at": "2026-09-24T18:30:46Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3362,10 +3362,72 @@
       "status": "published",
       "instagram_status": "published",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-09-24_clause-really-means_2026-08-29_instagram-terms",
+      "date": "2026-09-24",
+      "effective": "Updated September 24, 2026",
+      "app": "Instagram",
+      "doc": "What This Clause Really Means",
+      "post_type": "series",
+      "accent": "#E1306C",
+      "categories": [],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-29_instagram-terms",
+      "source_post_id": "2026-08-29_instagram-terms",
+      "series_id": "clause-really-means",
+      "series_title": "What This Clause Really Means",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "What Instagram's policy change really means",
+      "subhead": "Plain English for the part most people would otherwise skip.",
+      "changes": [
+        "Instagram removed the explicit reference to its Automated Data Collection Terms.",
+        "Scrapers no longer must comply with a named, separate ruleset for bots.",
+        "The rule against unauthorized automated access still stands, but is now vaguer."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "The change strips out a specific compliance framework for scrapers, making the prohibition vaguer and harder for users and researchers to enforce or interpret.",
+      "actions": [
+        "If you use any third-party apps that pull your Instagram data, review their permissions.",
+        "Check which apps have access to your account under Settings and remove unused ones.",
+        "Follow @tos_monitor so you catch any follow-up changes to the scraping rules."
+      ],
+      "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Instagram\n\nInstagram quietly rewrites its scraping rules\n\nIn plain English:\n• Instagram removed the explicit reference to its Automated Data Collection Terms.\n• Scrapers no longer must comply with a named, separate ruleset for bots.\n• The rule against unauthorized automated access still stands, but is now vaguer.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-24_clause-really-means_2026-08-29_instagram-terms_post.json",
+      "slide_folder": "2026-09-24_clause-really-means_2026-08-29_instagram-terms",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-24_clause-really-means_2026-08-29_instagram-terms/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-24_clause-really-means_2026-08-29_instagram-terms/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-24_clause-really-means_2026-08-29_instagram-terms/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-24_clause-really-means_2026-08-29_instagram-terms/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-24_clause-really-means_2026-08-29_instagram-terms/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-24_clause-really-means_2026-08-29_instagram-terms/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · Instagram\n\nInstagram quietly rewrites its scraping rules\n\nIn plain English:\n• Instagram removed the explicit reference to its Automated Data Collection Terms.\n• Scrapers no longer must comply with a named, separate ruleset for bots.\n• The rule against unauthorized automated access still stands, but is now vaguer.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "caption_sha256": "b2e389e5be2836ae73d85e092b815ceef4a40aa303faec7d235297636a8b7886",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 53,
-  "queued_count": 1,
+  "total": 54,
+  "queued_count": 2,
   "published_count": 29,
   "baseline_count": 6
 }

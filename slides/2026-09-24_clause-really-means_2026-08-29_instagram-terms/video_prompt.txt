@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Instagram)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+What Instagram's policy change really means. Instagram removed the explicit reference to its Automated Data Collection Terms. Scrapers no longer must comply with a named, separate ruleset for bots. The rule against unauthorized automated access still stands, but is now vaguer. Our verdict: worth knowing. The change strips out a specific compliance framework for scrapers, making the prohibition vaguer and harder for users and researchers to enforce or interpret. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #E1306C accent lighting looks at the
+camera and says: 'What Instagram's policy change really means. The change strips out a specific compliance framework for scrapers, making the prohibition vaguer and harder for users and researchers to enforce or interpret.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
