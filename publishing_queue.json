@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-25T19:02:47Z",
+  "generated_at": "2026-09-25T19:33:33Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3585,15 +3585,18 @@
       "media_error": "",
       "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · Instagram\n\nInstagram quietly rewrites its scraping rules\n\nIn plain English:\n• Instagram removed the explicit reference to its Automated Data Collection Terms.\n• Scrapers no longer must comply with a named, separate ruleset for bots.\n• The rule against unauthorized automated access still stands, but is now vaguer.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "caption_sha256": "b2e389e5be2836ae73d85e092b815ceef4a40aa303faec7d235297636a8b7886",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-25T15:02:55Z",
+      "instagram_post_id": "18102335510365875",
+      "instagram_permalink": "https://www.instagram.com/p/DdtvI9hEcVO/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     }
   ],
   "total": 56,
-  "queued_count": 2,
-  "published_count": 29,
+  "queued_count": 1,
+  "published_count": 30,
   "baseline_count": 6
 }
