@@ -864,15 +864,15 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "evergreen/2026-09-04_clause-really-means_2026-08-10_steam-privacy_post.json",
     "effective": "2026-09-04",
     "effective_date": "2026-09-04",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DdwUCr0kaBi/",
+    "instagram_post_id": "17871993129649914",
+    "published_at": "2026-09-26T15:03:56Z"
   },
   {
     "id": "2026-09-03_clause-really-means_2026-08-04_google-privacy",

@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-26T18:10:31Z",
+  "generated_at": "2026-09-26T18:43:16Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2935,10 +2935,13 @@
       "media_error": "",
       "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · Steam\n\nSteam quietly swapped its EU privacy contact\n\nIn plain English:\n• Steam replaced its EU data-protection representative with a new firm.\n• Old rep: Valve GmbH i.L. — New rep: RIVACY GmbH in Hamburg.\n• The contact address for EU privacy questions has changed.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "caption_sha256": "93bc9f01f1f2d4a4863f926d2755ffc64a8122202c33f907cf40a498263d74dc",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-09-26T15:03:56Z",
+      "instagram_post_id": "17871993129649914",
+      "instagram_permalink": "https://www.instagram.com/p/DdwUCr0kaBi/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -3742,7 +3745,7 @@
     }
   ],
   "total": 58,
-  "queued_count": 3,
-  "published_count": 30,
+  "queued_count": 2,
+  "published_count": 31,
   "baseline_count": 6
 }
