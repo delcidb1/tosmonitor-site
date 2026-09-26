@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Uber)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Uber just rewrote its Cookie Notice, and there is a lot to unpack. First, they have added over a dozen new advertising partners, including names like Viant, StackAdapt, and OGURY, meaning more third parties can track your activity. Second, Uber now openly states that in some US states, sharing your data with these ad partners may legally qualify as a sale of your personal data. European users get a better deal, with consent required before any non-essential cookies are placed. Our verdict? Worth knowing. Full breakdown in the carousel, follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #000000 accent lighting looks at the
+camera and says: 'Uber's cookie notice just got a major overhaul. The ad partner list expanded significantly and new legal disclosures clarify your data may be sold or shared under applicable law.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

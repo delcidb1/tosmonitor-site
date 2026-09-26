@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-25T19:33:33Z",
+  "generated_at": "2026-09-26T17:41:48Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2613,6 +2613,81 @@
       "site_status": "requires_review"
     },
     {
+      "app": "Uber",
+      "accent": "#000000",
+      "headline": "Uber's cookie notice just got a major overhaul",
+      "subhead": "More ad partners, new consent rules, expiry timelines added",
+      "effective": "Effective 9/26/2026",
+      "changes": [
+        "Uber first-party cookies now expire after 12 months, explicitly stated",
+        "Roughly a dozen new ad partners added, including Awin, Viant, and StackAdapt",
+        "Ad data sharing now labeled 'sale' or 'sharing' under law in some regions",
+        "New in-app privacy controls added under Settings > Privacy in the Uber app"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "The ad partner list expanded significantly and new legal disclosures clarify your data may be sold or shared under applicable law.",
+      "actions": [
+        "Check Uber app: Settings > Privacy to review in-app tracking choices",
+        "Opt out of personalized ads via Uber's privacy settings page",
+        "Use Global Privacy Control in your browser if you are in the US"
+      ],
+      "caption": "Uber updated its Cookie Notice on September 26, 2026. The biggest changes affect how your data is used for advertising and who receives it. Uber added more than ten new advertising partners to its list, including Awin, Viant, StackAdapt, OGURY, and Inmarket, meaning more companies can track your behavior across the web. The notice now explicitly states that in some US states this data sharing may legally count as a sale of your personal data. For users in Europe, personalized ad cookies now require your active consent before being placed. Uber also added a new section on email pixel tracking, letting you opt out via Communications Preferences. Check your in-app privacy settings and opt out of ad data sharing if you are concerned.",
+      "hashtags": [
+        "uber",
+        "cookiepolicy",
+        "privacypolicy",
+        "adtracking",
+        "dataprivacy",
+        "personalizedads",
+        "tosmonitor",
+        "privacyrights"
+      ],
+      "video_script": "Uber just rewrote its Cookie Notice, and there is a lot to unpack. First, they have added over a dozen new advertising partners, including names like Viant, StackAdapt, and OGURY, meaning more third parties can track your activity. Second, Uber now openly states that in some US states, sharing your data with these ad partners may legally qualify as a sale of your personal data. European users get a better deal, with consent required before any non-essential cookies are placed. Our verdict? Worth knowing. Full breakdown in the carousel, follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Uber added over ten new advertising and data partners, including Awin, Viant, StackAdapt, OGURY, and Inmarket, expanding the number of third parties that receive your tracking data."
+        },
+        {
+          "tag": "data_retention",
+          "explanation": "Uber now explicitly states that first-party cookies on its Online Properties expire after 12 months, a retention timeline not previously disclosed in this notice."
+        }
+      ],
+      "caption_rendered": "Uber updated its Cookie Notice on September 26, 2026. The biggest changes affect how your data is used for advertising and who receives it. Uber added more than ten new advertising partners to its list, including Awin, Viant, StackAdapt, OGURY, and Inmarket, meaning more companies can track your behavior across the web. The notice now explicitly states that in some US states this data sharing may legally count as a sale of your personal data. For users in Europe, personalized ad cookies now require your active consent before being placed. Uber also added a new section on email pixel tracking, letting you opt out via Communications Preferences. Check your in-app privacy settings and opt out of ad data sharing if you are concerned.\n\n#uber #cookiepolicy #privacypolicy #adtracking #dataprivacy #personalizedads #tosmonitor #privacyrights #TOSMonitor",
+      "id": "2026-09-26_uber-cookie-notice",
+      "source_type": "diff",
+      "post_source": "diffs/2026-09-26_uber-cookie-notice_post.json",
+      "slide_folder": "2026-09-26_uber-cookie-notice",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_uber-cookie-notice/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_uber-cookie-notice/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_uber-cookie-notice/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_uber-cookie-notice/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_uber-cookie-notice/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_uber-cookie-notice/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-09-26",
+      "priority": 100,
+      "instagram_caption": "Uber updated its Cookie Notice on September 26, 2026. The biggest changes affect how your data is used for advertising and who receives it. Uber added more than ten new advertising partners to its list, including Awin, Viant, StackAdapt, OGURY, and Inmarket, meaning more companies can track your behavior across the web. The notice now explicitly states that in some US states this data sharing may legally count as a sale of your personal data. For users in Europe, personalized ad cookies now require your active consent before being placed. Uber also added a new section on email pixel tracking, letting you opt out via Communications Preferences. Check your in-app privacy settings and opt out of ad data sharing if you are concerned.\n\n#uber #cookiepolicy #privacypolicy #adtracking #dataprivacy #personalizedads #tosmonitor #privacyrights #TOSMonitor",
+      "caption_sha256": "7b302717a2befe8cd0ebce08e9eb9ca8a293ff7cb82427fc5da002a7b09aab71",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -3587,16 +3662,16 @@
       "caption_sha256": "b2e389e5be2836ae73d85e092b815ceef4a40aa303faec7d235297636a8b7886",
       "published": true,
       "published_at": "2026-09-25T15:02:55Z",
-      "instagram_post_id": "18102335510365875",
       "instagram_permalink": "https://www.instagram.com/p/DdtvI9hEcVO/",
+      "instagram_post_id": "18102335510365875",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
       "site_status": "approved"
     }
   ],
-  "total": 56,
-  "queued_count": 1,
+  "total": 57,
+  "queued_count": 2,
   "published_count": 30,
   "baseline_count": 6
 }
