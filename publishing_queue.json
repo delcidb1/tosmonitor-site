@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-26T17:41:48Z",
+  "generated_at": "2026-09-26T17:51:36Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3668,10 +3668,81 @@
       "status": "published",
       "instagram_status": "published",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice",
+      "date": "2026-09-26",
+      "effective": "Updated September 26, 2026",
+      "app": "Uber",
+      "doc": "Privacy Receipt",
+      "post_type": "series",
+      "accent": "#000000",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Uber added over ten new advertising and data partners, including Awin, Viant, StackAdapt, OGURY, and Inmarket, expanding the number of third parties that receive your tracking data."
+        },
+        {
+          "tag": "data_retention",
+          "explanation": "Uber now explicitly states that first-party cookies on its Online Properties expire after 12 months, a retention timeline not previously disclosed in this notice."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-09-26_uber-cookie-notice",
+      "source_post_id": "2026-09-26_uber-cookie-notice",
+      "series_id": "privacy-receipt",
+      "series_title": "Privacy Receipt",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "Your Uber privacy receipt",
+      "subhead": "The data points this policy change puts on the record.",
+      "changes": [
+        "Uber first-party cookies now expire after 12 months, explicitly stated",
+        "Roughly a dozen new ad partners added, including Awin, Viant, and StackAdapt",
+        "Ad data sharing now labeled 'sale' or 'sharing' under law in some regions"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Think of these policy details as the data receipt that rarely appears after you use Uber. The policy—not speculation—is the source for each item.",
+      "actions": [
+        "Check Uber app: Settings > Privacy to review in-app tracking choices",
+        "Opt out of personalized ads via Uber's privacy settings page",
+        "Use Global Privacy Control in your browser if you are in the US"
+      ],
+      "caption_rendered": "PRIVACY RECEIPT · Uber\n\nHere is what the monitored policy change puts on the record:\n• Uber first-party cookies now expire after 12 months, explicitly stated\n• Roughly a dozen new ad partners added, including Awin, Viant, and StackAdapt\n• Ad data sharing now labeled 'sale' or 'sharing' under law in some regions\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice_post.json",
+      "slide_folder": "2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "PRIVACY RECEIPT · Uber\n\nHere is what the monitored policy change puts on the record:\n• Uber first-party cookies now expire after 12 months, explicitly stated\n• Roughly a dozen new ad partners added, including Awin, Viant, and StackAdapt\n• Ad data sharing now labeled 'sale' or 'sharing' under law in some regions\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "caption_sha256": "299615fa9531d3c258b27bad6581dfdac7a93c1f7c5c27c1e33b7db55a6f555d",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 57,
-  "queued_count": 2,
+  "total": 58,
+  "queued_count": 3,
   "published_count": 30,
   "baseline_count": 6
 }

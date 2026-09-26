@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Uber)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Your Uber privacy receipt. Uber first-party cookies now expire after 12 months, explicitly stated Roughly a dozen new ad partners added, including Awin, Viant, and StackAdapt Ad data sharing now labeled 'sale' or 'sharing' under law in some regions Our verdict: worth knowing. Think of these policy details as the data receipt that rarely appears after you use Uber. The policy—not speculation—is the source for each item. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #000000 accent lighting looks at the
+camera and says: 'Your Uber privacy receipt. Think of these policy details as the data receipt that rarely appears after you use Uber. The policy—not speculation—is the source for each item.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

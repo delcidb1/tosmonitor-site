@@ -53,6 +53,59 @@
     "key_changes": []
   },
   {
+    "id": "2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice",
+    "app": "Uber",
+    "doc": "Privacy Receipt",
+    "post_type": "series",
+    "accent": "#000000",
+    "headline": "Your Uber privacy receipt",
+    "subhead": "The data points this policy change puts on the record.",
+    "effective": "Updated September 26, 2026",
+    "changes": [
+      "Uber first-party cookies now expire after 12 months, explicitly stated",
+      "Roughly a dozen new ad partners added, including Awin, Viant, and StackAdapt",
+      "Ad data sharing now labeled 'sale' or 'sharing' under law in some regions"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Think of these policy details as the data receipt that rarely appears after you use Uber. The policy\u2014not speculation\u2014is the source for each item.",
+    "actions": [
+      "Check Uber app: Settings > Privacy to review in-app tracking choices",
+      "Opt out of personalized ads via Uber's privacy settings page",
+      "Use Global Privacy Control in your browser if you are in the US"
+    ],
+    "categories": [
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Uber added over ten new advertising and data partners, including Awin, Viant, StackAdapt, OGURY, and Inmarket, expanding the number of third parties that receive your tracking data."
+      },
+      {
+        "tag": "data_retention",
+        "explanation": "Uber now explicitly states that first-party cookies on its Online Properties expire after 12 months, a retention timeline not previously disclosed in this notice."
+      }
+    ],
+    "source_doc": "TOSMonitor series based on a monitored policy \u00b7 2026-09-26_uber-cookie-notice",
+    "date": "2026-09-26",
+    "slide_folder": "2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "evergreen/2026-09-26_privacy-receipt_2026-09-26_uber-cookie-notice_post.json",
+    "effective_date": "2026-09-26",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-09-24_clause-really-means_2026-08-29_instagram-terms",
     "app": "Instagram",
     "doc": "What This Clause Really Means",
