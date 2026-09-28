@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Grubhub)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Grubhub just quietly updated its privacy policy, and if you use their rewards program, you should pay attention. They've added language that lets them collect your actual payment card transaction data, straight from networks like Visa, Mastercard, and Amex. We're talking merchant names, transaction amounts, dates, and times. That data can be shared with participating merchants too. Our verdict? Worth knowing. It's a new data stream most users probably didn't sign up for knowingly. You can opt out through your account settings under The Drop. Full breakdown in the carousel, follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #F4722B accent lighting looks at the
+camera and says: 'Grubhub now tracks your card transactions for rewards. A new card-linking feature introduces payment transaction tracking and merchant data sharing, which many users may not expect.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
