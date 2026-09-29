@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-29T19:13:41Z",
+  "generated_at": "2026-09-29T19:31:23Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2901,10 +2901,76 @@
       "status": "published",
       "instagram_status": "published",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update",
+      "date": "2026-09-29",
+      "effective": "Updated September 29, 2026",
+      "app": "Flock Safety",
+      "doc": "The 2-Minute Fix",
+      "post_type": "series",
+      "accent": "#C2452D",
+      "categories": [
+        "data_retention",
+        "third_party_sharing",
+        "permissions"
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-20_flock-safety-privacy-security-update",
+      "source_post_id": "2026-08-20_flock-safety-privacy-security-update",
+      "series_id": "two-minute-fix",
+      "series_title": "The 2-Minute Fix",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "The 2-minute privacy check for Flock Safety",
+      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+      "changes": [
+        "Look up your police department's Flock Transparency Portal.",
+        "Ask your city council: 7-day retention, or still 30?",
+        "Check deflock.org for cameras mapped near you."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "You do not need to reread Flock Safety's full policy to start. These are the most useful actions already identified in the monitored update.",
+      "actions": [
+        "Open the relevant account settings now.",
+        "Complete the first action before moving to the next one.",
+        "Save this post so you can finish the remaining checks later."
+      ],
+      "caption_rendered": "THE 2-MINUTE FIX · Flock Safety\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Flock Safety update we tracked:\n• Look up your police department's Flock Transparency Portal.\n• Ask your city council: 7-day retention, or still 30?\n• Check deflock.org for cameras mapped near you.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update_post.json",
+      "slide_folder": "2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THE 2-MINUTE FIX · Flock Safety\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Flock Safety update we tracked:\n• Look up your police department's Flock Transparency Portal.\n• Ask your city council: 7-day retention, or still 30?\n• Check deflock.org for cameras mapped near you.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_sha256": "832899509ae2c2aac3ee9787138079a0a3d5e5a340b34071fe781ed0189cbf5f",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 47,
-  "queued_count": 2,
+  "total": 48,
+  "queued_count": 3,
   "published_count": 31,
   "baseline_count": 6,
   "held_count": 0

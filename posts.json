@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update",
+    "app": "Flock Safety",
+    "doc": "The 2-Minute Fix",
+    "post_type": "series",
+    "accent": "#C2452D",
+    "headline": "The 2-minute privacy check for Flock Safety",
+    "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+    "effective": "Updated September 29, 2026",
+    "changes": [
+      "Look up your police department's Flock Transparency Portal.",
+      "Ask your city council: 7-day retention, or still 30?",
+      "Check deflock.org for cameras mapped near you."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "You do not need to reread Flock Safety's full policy to start. These are the most useful actions already identified in the monitored update.",
+    "actions": [
+      "Open the relevant account settings now.",
+      "Complete the first action before moving to the next one.",
+      "Save this post so you can finish the remaining checks later."
+    ],
+    "categories": [
+      "data_retention",
+      "third_party_sharing",
+      "permissions"
+    ],
+    "source_doc": "TOSMonitor series based on a monitored policy \u00b7 2026-08-20_flock-safety-privacy-security-update",
+    "date": "2026-09-29",
+    "slide_folder": "2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "evergreen/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update_post.json",
+    "effective_date": "2026-09-29",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-09-28_grubhub-privacy",
     "app": "Grubhub",
     "accent": "#F4722B",
