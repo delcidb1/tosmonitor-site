@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-01T19:22:02Z",
+  "generated_at": "2026-10-01T19:39:39Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3033,10 +3033,77 @@
       "status": "queued",
       "instagram_status": "queued",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-10-01_clause-really-means_2026-08-15_amazon-terms",
+      "date": "2026-10-01",
+      "effective": "Updated October 01, 2026",
+      "app": "Amazon",
+      "doc": "What This Clause Really Means",
+      "post_type": "series",
+      "accent": "#FF9900",
+      "categories": [
+        {
+          "tag": "arbitration_waiver",
+          "explanation": "Amazon replaced a simple court-jurisdiction clause with extensive mandatory binding arbitration and an explicit class-action waiver, removing users' right to jury trials and collective legal action."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-15_amazon-terms",
+      "source_post_id": "2026-08-15_amazon-terms",
+      "series_id": "clause-really-means",
+      "series_title": "What This Clause Really Means",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "What Amazon's policy change really means",
+      "subhead": "Plain English for the part most people would otherwise skip.",
+      "changes": [
+        "Disputes must now go to binding arbitration, not court",
+        "Class-action lawsuits against Amazon are now banned",
+        "You must contact customer service and wait 60 days before arbitrating"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Amazon replaced a simple court clause with extensive mandatory arbitration and a class-action waiver, significantly limiting how users can seek legal relief.",
+      "actions": [
+        "Read the new arbitration section at amazon.com/conditions",
+        "Note the 60-day pre-arbitration step before filing any claim",
+        "For product-injury claims, check which state law applies to you"
+      ],
+      "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Amazon\n\nAmazon now requires arbitration, drops jury trials\n\nIn plain English:\n• Disputes must now go to binding arbitration, not court\n• Class-action lawsuits against Amazon are now banned\n• You must contact customer service and wait 60 days before arbitrating\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-10-01_clause-really-means_2026-08-15_amazon-terms_post.json",
+      "slide_folder": "2026-10-01_clause-really-means_2026-08-15_amazon-terms",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-01_clause-really-means_2026-08-15_amazon-terms/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-01_clause-really-means_2026-08-15_amazon-terms/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-01_clause-really-means_2026-08-15_amazon-terms/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-01_clause-really-means_2026-08-15_amazon-terms/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-01_clause-really-means_2026-08-15_amazon-terms/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-01_clause-really-means_2026-08-15_amazon-terms/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · Amazon\n\nAmazon now requires arbitration, drops jury trials\n\nIn plain English:\n• Disputes must now go to binding arbitration, not court\n• Class-action lawsuits against Amazon are now banned\n• You must contact customer service and wait 60 days before arbitrating\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "caption_sha256": "8c2eec584926ad3dd071b214241cc68b3074d44d2073ef0353ca434ded02e39b",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 49,
-  "queued_count": 3,
+  "total": 50,
+  "queued_count": 4,
   "published_count": 31,
   "baseline_count": 6,
   "held_count": 1
