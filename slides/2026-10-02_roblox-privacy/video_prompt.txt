@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Roblox)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Roblox just quietly updated its privacy policy, and the new effective date is November 1, 2026. Two things stand out: they have added language about collecting data from researchers, and they are now disclosing that certain features vary by region. The authority-sharing language from the previous version is still in there too. Our verdict is worth knowing, especially if you have kids on the platform. Check your account settings and read their change summary. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #E53935 accent lighting looks at the
+camera and says: 'Roblox updates privacy policy this November. The researcher data collection and regional feature access disclosures are new and affect what Roblox collects and from whom.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
