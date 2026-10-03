@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-10-03_privacy-receipt_2026-08-22_telegram-privacy",
+    "app": "Telegram",
+    "doc": "Privacy Receipt",
+    "post_type": "series",
+    "accent": "#2AABEE",
+    "headline": "Your Telegram privacy receipt",
+    "subhead": "The data points this policy change puts on the record.",
+    "effective": "Updated October 03, 2026",
+    "changes": [
+      "Ad-free pledge narrowed: only chat contents and contact lists are protected.",
+      "Ads can now be targeted by country or city, estimated from your phone number or IP.",
+      "Channels you follow can determine which ad categories you see across Telegram."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Think of these policy details as the data receipt that rarely appears after you use Telegram. The policy\u2014not speculation\u2014is the source for each item.",
+    "actions": [
+      "Check Settings > Privacy & Security > Data Settings to limit ad data.",
+      "Consider Telegram Premium if you want to opt out of all ads.",
+      "Review which public channels you follow, as they now influence ad targeting."
+    ],
+    "categories": [
+      {
+        "tag": "third_party_sharing",
+        "explanation": "The updated policy clarifies that location estimates derived from phone number area codes or IP addresses are used for ad targeting, though Telegram states this data is never passed directly to advertisers."
+      },
+      {
+        "tag": "permissions",
+        "explanation": "Telegram now explicitly uses IP address and phone number area code to approximate a user's country and city for ad-targeting purposes, a previously undisclosed use of this data."
+      }
+    ],
+    "source_doc": "TOSMonitor series based on a monitored policy \u00b7 2026-08-22_telegram-privacy",
+    "date": "2026-10-03",
+    "slide_folder": "2026-10-03_privacy-receipt_2026-08-22_telegram-privacy",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "evergreen/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy_post.json",
+    "effective_date": "2026-10-03",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-10-02_roblox-privacy",
     "app": "Roblox",
     "accent": "#E53935",

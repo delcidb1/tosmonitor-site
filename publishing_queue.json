@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-03T17:51:17Z",
+  "generated_at": "2026-10-03T18:05:00Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3232,10 +3232,81 @@
       "status": "queued",
       "instagram_status": "queued",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-10-03_privacy-receipt_2026-08-22_telegram-privacy",
+      "date": "2026-10-03",
+      "effective": "Updated October 03, 2026",
+      "app": "Telegram",
+      "doc": "Privacy Receipt",
+      "post_type": "series",
+      "accent": "#2AABEE",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "The updated policy clarifies that location estimates derived from phone number area codes or IP addresses are used for ad targeting, though Telegram states this data is never passed directly to advertisers."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "Telegram now explicitly uses IP address and phone number area code to approximate a user's country and city for ad-targeting purposes, a previously undisclosed use of this data."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-22_telegram-privacy",
+      "source_post_id": "2026-08-22_telegram-privacy",
+      "series_id": "privacy-receipt",
+      "series_title": "Privacy Receipt",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "Your Telegram privacy receipt",
+      "subhead": "The data points this policy change puts on the record.",
+      "changes": [
+        "Ad-free pledge narrowed: only chat contents and contact lists are protected.",
+        "Ads can now be targeted by country or city, estimated from your phone number or IP.",
+        "Channels you follow can determine which ad categories you see across Telegram."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Think of these policy details as the data receipt that rarely appears after you use Telegram. The policy—not speculation—is the source for each item.",
+      "actions": [
+        "Check Settings > Privacy & Security > Data Settings to limit ad data.",
+        "Consider Telegram Premium if you want to opt out of all ads.",
+        "Review which public channels you follow, as they now influence ad targeting."
+      ],
+      "caption_rendered": "PRIVACY RECEIPT · Telegram\n\nHere is what the monitored policy change puts on the record:\n• Ad-free pledge narrowed: only chat contents and contact lists are protected.\n• Ads can now be targeted by country or city, estimated from your phone number or IP.\n• Channels you follow can determine which ad categories you see across Telegram.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy_post.json",
+      "slide_folder": "2026-10-03_privacy-receipt_2026-08-22_telegram-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "PRIVACY RECEIPT · Telegram\n\nHere is what the monitored policy change puts on the record:\n• Ad-free pledge narrowed: only chat contents and contact lists are protected.\n• Ads can now be targeted by country or city, estimated from your phone number or IP.\n• Channels you follow can determine which ad categories you see across Telegram.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "caption_sha256": "d77b116270a484c332ddd0dd4bc85b6dc23784b3ee246b4ef6564126110e8e8b",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 52,
-  "queued_count": 6,
+  "total": 53,
+  "queued_count": 7,
   "published_count": 31,
   "baseline_count": 6,
   "held_count": 1
