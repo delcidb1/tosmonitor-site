@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-06T19:22:11Z",
+  "generated_at": "2026-10-06T19:38:26Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3303,10 +3303,81 @@
       "status": "queued",
       "instagram_status": "queued",
       "site_status": "approved"
+    },
+    {
+      "id": "2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy",
+      "date": "2026-10-06",
+      "effective": "Updated October 06, 2026",
+      "app": "Robinhood",
+      "doc": "The 2-Minute Fix",
+      "post_type": "series",
+      "accent": "#00C805",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "Robinhood already had AI training language, but now explicitly includes data generated when external AI agents use your account as potential training input."
+        },
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Third-party AI agents are newly named alongside Google and Apple as external services that can connect to your account and share your profile data with Robinhood."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-20_robinhood-privacy",
+      "source_post_id": "2026-08-20_robinhood-privacy",
+      "series_id": "two-minute-fix",
+      "series_title": "The 2-Minute Fix",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 300,
+      "draft": false,
+      "headline": "The 2-minute privacy check for Robinhood",
+      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+      "changes": [
+        "Check if any third-party AI tools are connected to your Robinhood account.",
+        "Review the updated Customer Agreement for agentic trading rules.",
+        "Revisit your GLBA affiliate-sharing opt-out under the updated entity list."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "You do not need to reread Robinhood's full policy to start. These are the most useful actions already identified in the monitored update.",
+      "actions": [
+        "Open the relevant account settings now.",
+        "Complete the first action before moving to the next one.",
+        "Save this post so you can finish the remaining checks later."
+      ],
+      "caption_rendered": "THE 2-MINUTE FIX · Robinhood\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Robinhood update we tracked:\n• Check if any third-party AI tools are connected to your Robinhood account.\n• Review the updated Customer Agreement for agentic trading rules.\n• Revisit your GLBA affiliate-sharing opt-out under the updated entity list.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy_post.json",
+      "slide_folder": "2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THE 2-MINUTE FIX · Robinhood\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Robinhood update we tracked:\n• Check if any third-party AI tools are connected to your Robinhood account.\n• Review the updated Customer Agreement for agentic trading rules.\n• Revisit your GLBA affiliate-sharing opt-out under the updated entity list.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_sha256": "81b51759cc4a4ab4bdfb4ce36388fc6ebe172181326351e16e9a50ba879dab3b",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
-  "total": 53,
-  "queued_count": 7,
+  "total": 54,
+  "queued_count": 8,
   "published_count": 31,
   "baseline_count": 6,
   "held_count": 1
