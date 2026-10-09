@@ -193,14 +193,14 @@
       "06_action.png",
       "07_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "manual/maryland-surveillance-pricing_post.json",
     "effective_date": "2026-10-02",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DeQWgGqGxtx/",
+    "instagram_post_id": "18068293997775617",
+    "published_at": "2026-10-09T01:41:08Z"
   },
   {
     "id": "2026-10-01_google-privacy",

@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-09T19:55:17Z",
+  "generated_at": "2026-10-09T20:19:38Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -132,10 +132,13 @@
       "media_error": "",
       "instagram_caption": "📋 MARYLAND POLICY BREAKDOWN (TL;DR)\n\nGrocers can't use your personal data to charge you more. Mostly.\n\nWHAT THE LAW SAYS:\n• Covers grocery stores of 15,000+ sq ft and grocery delivery services\n• They can't set a personalized grocery price based on your personal data\n• Applies even if the store bought your data instead of collecting it\n• Protected-class data can't be used to deny you deals others get\n• Exempt: loyalty and rewards pricing, promos, subscriptions, retention discounts\n\nOUR VERDICT: WORTH KNOWING\nThe first state law to ban surveillance pricing outright, not just require disclosure. But loyalty programs are exempt, only the Attorney General can enforce it, and companies get 45 days to fix a violation.\n\nWHAT YOU CAN DO:\n→ Compare app prices against a friend's account or a logged-out view\n→ Report suspected personalized pricing to the MD Attorney General\n→ Remember: loyalty-card deals are not covered by the ban\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#Maryland #MarylandPrivacy #SurveillancePricing #Groceries #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "caption_sha256": "1c830da84968acfb2dc34ff39a2b167e2386244e01b8688eb177b7adfa969050",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-10-09T01:41:08Z",
+      "instagram_post_id": "18068293997775617",
+      "instagram_permalink": "https://www.instagram.com/p/DeQWgGqGxtx/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -3377,8 +3380,8 @@
     }
   ],
   "total": 54,
-  "queued_count": 8,
-  "published_count": 31,
+  "queued_count": 7,
+  "published_count": 32,
   "baseline_count": 6,
   "held_count": 1
 }
