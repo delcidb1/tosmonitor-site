@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-10T19:03:50Z",
+  "generated_at": "2026-10-10T19:31:23Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1905,10 +1905,13 @@
       "priority": 100,
       "instagram_caption": "Uber updated its Cookie Notice on September 26, 2026. The biggest changes affect how your data is used for advertising and who receives it. Uber added more than ten new advertising partners to its list, including Awin, Viant, StackAdapt, OGURY, and Inmarket, meaning more companies can track your behavior across the web. The notice now explicitly states that in some US states this data sharing may legally count as a sale of your personal data. For users in Europe, personalized ad cookies now require your active consent before being placed. Uber also added a new section on email pixel tracking, letting you opt out via Communications Preferences. Check your in-app privacy settings and opt out of ad data sharing if you are concerned.\n\n#uber #cookiepolicy #privacypolicy #adtracking #dataprivacy #personalizedads #tosmonitor #privacyrights #TOSMonitor",
       "caption_sha256": "7b302717a2befe8cd0ebce08e9eb9ca8a293ff7cb82427fc5da002a7b09aab71",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-10-09T23:02:56Z",
+      "instagram_post_id": "18039066236837709",
+      "instagram_permalink": "https://www.instagram.com/p/DeSpMSlHxdL/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -3380,8 +3383,8 @@
     }
   ],
   "total": 54,
-  "queued_count": 7,
-  "published_count": 32,
+  "queued_count": 6,
+  "published_count": 33,
   "baseline_count": 6,
   "held_count": 1
 }
