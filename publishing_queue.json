@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-11T19:16:23Z",
+  "generated_at": "2026-10-11T19:43:08Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1979,10 +1979,13 @@
       "priority": 100,
       "instagram_caption": "Grubhub updated its privacy policy to cover a new Card-Linked Offers and In-Person Dining rewards program. If you enroll, Grubhub can collect transaction data directly from card networks like Visa, Mastercard, and American Express. This includes your registered card identifier, the merchant you visited, and the date, time, and amount of your transaction. That data may be shared with participating merchants to confirm qualifying purchases and report how rewards are used. Grubhub may also anonymize and aggregate it for broader purposes described in their policy. If you are not comfortable with this level of payment tracking, visit your account page, click on The Drop, and remove any linked cards to opt out.\n\n#grubhub #privacypolicy #fooddelivery #cardlinkedoffers #paymentdata #datasharing #consumerprivacy #tosupdate #TOSMonitor",
       "caption_sha256": "37d13ef050231a83dc3c9ed06275a0de753d8a422c02939bf33abf1d24fba44d",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-10-10T23:05:21Z",
+      "instagram_post_id": "18025577657920646",
+      "instagram_permalink": "https://www.instagram.com/p/DeVOQ9XIEly/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -3383,8 +3386,8 @@
     }
   ],
   "total": 54,
-  "queued_count": 6,
-  "published_count": 33,
+  "queued_count": 5,
+  "published_count": 34,
   "baseline_count": 6,
   "held_count": 1
 }
