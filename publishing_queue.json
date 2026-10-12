@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-11T19:43:08Z",
+  "generated_at": "2026-10-12T22:02:23Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -1981,8 +1981,8 @@
       "caption_sha256": "37d13ef050231a83dc3c9ed06275a0de753d8a422c02939bf33abf1d24fba44d",
       "published": true,
       "published_at": "2026-10-10T23:05:21Z",
-      "instagram_post_id": "18025577657920646",
       "instagram_permalink": "https://www.instagram.com/p/DeVOQ9XIEly/",
+      "instagram_post_id": "18025577657920646",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
@@ -2118,6 +2118,77 @@
       "priority": 100,
       "instagram_caption": "Roblox is updating its Privacy Policy effective November 1, 2026, replacing an earlier April 30 revision. The updated policy adds two new disclosures: one explaining that access to certain features varies by region, and another stating that Roblox now collects data from researchers. The policy also retains existing language about sharing information with authorities. For most users the day-to-day impact is limited, but the researcher data collection clause is new and worth understanding, especially for parents of younger players. Take a few minutes to read the change summary Roblox has linked in the updated policy, and check your account privacy settings to make sure they reflect your preferences.\n\n#roblox #privacypolicy #dataprivacy #kidsafety #tosupdate #onlineprivacy #gamingprivacy #TOSMonitor",
       "caption_sha256": "194cf8a46e04a6b8b0444519d4de397f43850840673eb24584ebac78b9d98291",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "app": "Uber",
+      "accent": "#000000",
+      "headline": "Uber updates terms: SMS rules and date change",
+      "subhead": "New SMS opt-in terms quietly added to your account",
+      "effective": "Effective 10/12/2026",
+      "changes": [
+        "New SMS opt-in section added for account setup text messages",
+        "Uber clarifies carriers aren't liable for delayed or undelivered texts",
+        "You can opt out of setup SMS by replying STOP, per new terms",
+        "Date bumped from August to October 2026; minor label tweak to 'US'"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "The new SMS section formalizes transactional text messaging consent and opt-out rules, which directly affects how Uber contacts you during signup.",
+      "actions": [
+        "Check your SMS opt-in status in Uber account Settings",
+        "Reply STOP to Uber texts if you want to opt out of setup messages",
+        "Review Uber's Privacy Notice linked in the new SMS section"
+      ],
+      "caption": "Uber updated its Terms of Use on October 12, 2026. The main change is a new SMS Terms and Conditions section that applies if you opt in to receive transactional text messages during account setup. It spells out what kinds of messages you may get, that message and data rates may apply, and how to opt out by replying STOP. It also notes that carriers are not liable for delayed or undelivered texts. For ordinary users, this matters because it formalizes consent to text messaging in a way that was not explicitly covered before. If you have already signed up, check whether you opted in to these messages and reply STOP if you no longer want them.",
+      "hashtags": [
+        "uber",
+        "termsofservice",
+        "privacypolicy",
+        "SMS",
+        "textmessages",
+        "digitalrights",
+        "tosupdate",
+        "consumerrights"
+      ],
+      "video_script": "Hey, Uber just quietly updated its Terms of Use, and there is one change worth knowing about. They added a brand new SMS Terms and Conditions section that covers transactional texts sent during account setup. It spells out that message and data rates may apply, and that you can opt out by replying STOP. Nothing alarming, but it does formalize how Uber can text you when you sign up. Our verdict: worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "permissions",
+          "explanation": "Uber added an explicit SMS opt-in section requesting consent to send transactional text messages to your mobile number during account setup, formalizing a permission not previously detailed in the Terms."
+        }
+      ],
+      "caption_rendered": "Uber updated its Terms of Use on October 12, 2026. The main change is a new SMS Terms and Conditions section that applies if you opt in to receive transactional text messages during account setup. It spells out what kinds of messages you may get, that message and data rates may apply, and how to opt out by replying STOP. It also notes that carriers are not liable for delayed or undelivered texts. For ordinary users, this matters because it formalizes consent to text messaging in a way that was not explicitly covered before. If you have already signed up, check whether you opted in to these messages and reply STOP if you no longer want them.\n\n#uber #termsofservice #privacypolicy #SMS #textmessages #digitalrights #tosupdate #consumerrights #TOSMonitor",
+      "id": "2026-10-12_uber-terms",
+      "source_type": "diff",
+      "post_source": "diffs/2026-10-12_uber-terms_post.json",
+      "slide_folder": "2026-10-12_uber-terms",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-12_uber-terms/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-12_uber-terms/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-12_uber-terms/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-12_uber-terms/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-12_uber-terms/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-12_uber-terms/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-10-12",
+      "priority": 100,
+      "instagram_caption": "Uber updated its Terms of Use on October 12, 2026. The main change is a new SMS Terms and Conditions section that applies if you opt in to receive transactional text messages during account setup. It spells out what kinds of messages you may get, that message and data rates may apply, and how to opt out by replying STOP. It also notes that carriers are not liable for delayed or undelivered texts. For ordinary users, this matters because it formalizes consent to text messaging in a way that was not explicitly covered before. If you have already signed up, check whether you opted in to these messages and reply STOP if you no longer want them.\n\n#uber #termsofservice #privacypolicy #SMS #textmessages #digitalrights #tosupdate #consumerrights #TOSMonitor",
+      "caption_sha256": "0943983beea73f6c6e3c6c23ad1573a37ec28198887a36258b3aca50c464f358",
       "published": false,
       "publishable": true,
       "status": "queued",
@@ -3385,8 +3456,8 @@
       "site_status": "approved"
     }
   ],
-  "total": 54,
-  "queued_count": 5,
+  "total": 55,
+  "queued_count": 6,
   "published_count": 34,
   "baseline_count": 6,
   "held_count": 1
