@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-12T22:19:24Z",
+  "generated_at": "2026-10-12T22:35:44Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2118,10 +2118,13 @@
       "priority": 100,
       "instagram_caption": "Roblox is updating its Privacy Policy effective November 1, 2026, replacing an earlier April 30 revision. The updated policy adds two new disclosures: one explaining that access to certain features varies by region, and another stating that Roblox now collects data from researchers. The policy also retains existing language about sharing information with authorities. For most users the day-to-day impact is limited, but the researcher data collection clause is new and worth understanding, especially for parents of younger players. Take a few minutes to read the change summary Roblox has linked in the updated policy, and check your account privacy settings to make sure they reflect your preferences.\n\n#roblox #privacypolicy #dataprivacy #kidsafety #tosupdate #onlineprivacy #gamingprivacy #TOSMonitor",
       "caption_sha256": "194cf8a46e04a6b8b0444519d4de397f43850840673eb24584ebac78b9d98291",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-10-11T23:04:25Z",
+      "instagram_post_id": "18076089596439306",
+      "instagram_permalink": "https://www.instagram.com/p/DeXy84SILR4/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -3457,8 +3460,8 @@
     }
   ],
   "total": 55,
-  "queued_count": 6,
-  "published_count": 34,
+  "queued_count": 5,
+  "published_count": 35,
   "baseline_count": 6,
   "held_count": 1
 }
