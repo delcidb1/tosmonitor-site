@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-12T22:35:44Z",
+  "generated_at": "2026-10-12T23:12:45Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2120,8 +2120,8 @@
       "caption_sha256": "194cf8a46e04a6b8b0444519d4de397f43850840673eb24584ebac78b9d98291",
       "published": true,
       "published_at": "2026-10-11T23:04:25Z",
-      "instagram_post_id": "18076089596439306",
       "instagram_permalink": "https://www.instagram.com/p/DeXy84SILR4/",
+      "instagram_post_id": "18076089596439306",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
@@ -2192,10 +2192,13 @@
       "priority": 100,
       "instagram_caption": "Uber updated its Terms of Use on October 12, 2026. The main change is a new SMS Terms and Conditions section that applies if you opt in to receive transactional text messages during account setup. It spells out what kinds of messages you may get, that message and data rates may apply, and how to opt out by replying STOP. It also notes that carriers are not liable for delayed or undelivered texts. For ordinary users, this matters because it formalizes consent to text messaging in a way that was not explicitly covered before. If you have already signed up, check whether you opted in to these messages and reply STOP if you no longer want them.\n\n#uber #termsofservice #privacypolicy #SMS #textmessages #digitalrights #tosupdate #consumerrights #TOSMonitor",
       "caption_sha256": "0943983beea73f6c6e3c6c23ad1573a37ec28198887a36258b3aca50c464f358",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-10-12T23:03:10Z",
+      "instagram_post_id": "17894631639614255",
+      "instagram_permalink": "https://www.instagram.com/p/DeaXmqhH71k/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -3460,8 +3463,8 @@
     }
   ],
   "total": 55,
-  "queued_count": 5,
-  "published_count": 35,
+  "queued_count": 4,
+  "published_count": 36,
   "baseline_count": 6,
   "held_count": 1
 }
