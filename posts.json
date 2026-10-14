@@ -386,14 +386,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "evergreen/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update_post.json",
     "effective_date": "2026-09-29",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/Dec8vGqkQab/",
+    "instagram_post_id": "18390444559228690",
+    "published_at": "2026-10-13T23:06:07Z"
   },
   {
     "id": "2026-09-28_grubhub-privacy",
