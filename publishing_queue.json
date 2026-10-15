@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-15T18:46:38Z",
+  "generated_at": "2026-10-15T19:22:55Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3316,10 +3316,13 @@
       "media_error": "",
       "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · Amazon\n\nAmazon now requires arbitration, drops jury trials\n\nIn plain English:\n• Disputes must now go to binding arbitration, not court\n• Class-action lawsuits against Amazon are now banned\n• You must contact customer service and wait 60 days before arbitrating\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "caption_sha256": "8c2eec584926ad3dd071b214241cc68b3074d44d2073ef0353ca434ded02e39b",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-10-14T23:05:45Z",
+      "instagram_post_id": "18060614258536299",
+      "instagram_permalink": "https://www.instagram.com/p/DefhfZHlE_l/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -3466,8 +3469,8 @@
     }
   ],
   "total": 55,
-  "queued_count": 3,
-  "published_count": 37,
+  "queued_count": 2,
+  "published_count": 38,
   "baseline_count": 6,
   "held_count": 1
 }
