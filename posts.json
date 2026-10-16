@@ -1,5 +1,62 @@
 [
   {
+    "id": "2026-10-16_google-privacy",
+    "app": "Google",
+    "accent": "#4285F4",
+    "headline": "Google now links your Gmail and Photos to ads",
+    "subhead": "Your Drive data could fuel personalized ads now.",
+    "effective": "Effective October 16, 2026",
+    "changes": [
+      "Google Search and Gemini can now access your Gmail, Photos, and Drive data",
+      "Drive, Gmail, and Photos content can inform personalized ads if you opt in",
+      "Personalized ads now based on 'personalized content,' not just activity and interests",
+      "New 'Personal Intelligence' feature lets Search use your emails to personalize answers"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "The opt-in framing limits immediate impact, but the door to ad targeting from Gmail and Photos is now officially open.",
+    "actions": [
+      "Review which Google services share data in your Google Account settings",
+      "Check My Ad Center to see and limit what drives your personalized ads",
+      "Audit Gemini and Search permissions under your account's data and privacy page"
+    ],
+    "categories": [
+      {
+        "tag": "ai_training",
+        "explanation": "Gemini Apps are now explicitly listed as services that can access your Gmail, Photos, and Drive data, expanding the scope of AI features processing personal content."
+      },
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Cross-service data sharing within Google is now formalized, allowing Gmail and Photos content to reach ad-serving systems under an opt-in model, a new pathway not previously disclosed."
+      },
+      {
+        "tag": "permissions",
+        "explanation": "A new opt-in permission layer lets Google Search and Gemini access data from Google Photos, Gmail, and Drive, permissions that previously had no advertised pathway."
+      }
+    ],
+    "date": "2026-10-16",
+    "slide_folder": "2026-10-16_google-privacy",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "diffs/2026-10-16_google-privacy_post.json",
+    "effective_date": "2026-10-16",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://policies.google.com/privacy",
+    "key_changes": []
+  },
+  {
     "id": "2026-10-12_uber-terms",
     "app": "Uber",
     "accent": "#000000",

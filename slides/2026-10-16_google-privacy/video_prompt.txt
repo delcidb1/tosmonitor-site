@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Google)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Google just updated its privacy policy and there are a couple of changes worth knowing about. First, Google Search and Gemini can now access your Gmail, Drive, and Photos data — if you allow it — and that same data can be used to personalize ads. Previously, Google promised your Gmail and Photos were off-limits for ad targeting. That promise now has an opt-in exception. Second, there's a new feature called Personal Intelligence that lets Search pull details from your emails to answer questions. Verdict: worth knowing, especially if you care about keeping your inbox private. Full breakdown in the carousel — follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #4285F4 accent lighting looks at the
+camera and says: 'Google now links your Gmail and Photos to ads. The opt-in framing limits immediate impact, but the door to ad targeting from Gmail and Photos is now officially open.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
