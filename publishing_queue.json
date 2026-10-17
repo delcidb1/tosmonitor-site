@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-17T17:38:45Z",
+  "generated_at": "2026-10-17T17:55:32Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2274,10 +2274,13 @@
       "priority": 100,
       "instagram_caption": "As of October 16, 2026, Google updated its Privacy Policy to allow services like Search and Gemini to access data from your Gmail, Google Photos, and Drive — with your permission — to personalize your experience and, importantly, your ads. Previously, Google explicitly promised it would never use Drive, Gmail, or Photos content for personalized ads, full stop. That promise now has an exception: if you choose to let one Google service access another, that data can feed ad targeting too. A new feature called Personal Intelligence is also introduced, letting Search pull from your emails to answer questions. Review your sharing settings and ad controls now.\n\n#googleprivacy #gmail #googlegemini #personalintelligence #privacypolicy #adtargeting #dataprivacy #googledrive #TOSMonitor",
       "caption_sha256": "4b49daa9ad21a2e795a8026c6f338441619d30c0ae091ed1eeef7ae52ec9635e",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-10-16T23:04:03Z",
+      "instagram_post_id": "18117012526808924",
+      "instagram_permalink": "https://www.instagram.com/p/Dekq4r7jivk/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -3551,8 +3554,8 @@
     }
   ],
   "total": 56,
-  "queued_count": 2,
-  "published_count": 39,
+  "queued_count": 1,
+  "published_count": 40,
   "baseline_count": 6,
   "held_count": 1
 }
