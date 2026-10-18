@@ -3,7 +3,7 @@ VIDEO SCRIPT + PROMPTS for this post (Robinhood)
 
 --- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
 
-The 2-minute privacy check for Robinhood. Check if any third-party AI tools are connected to your Robinhood account. Review the updated Customer Agreement for agentic trading rules. Revisit your GLBA affiliate-sharing opt-out under the updated entity list. Our verdict: worth knowing. You do not need to reread Robinhood's full policy to start. These are the most useful actions already identified in the monitored update. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+The 2-minute privacy check for Robinhood. Check if any third-party AI tools are connected to your Robinhood account. Review the updated Customer Agreement for agentic trading rules. Revisit your GLBA affiliate-sharing opt-out under the updated entity list. Our verdict: worth knowing. Under Robinhood's updated Customer Agreement, orders your AI agent sends are binding on you, even if the agent gets it wrong. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
 
 --- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
 1. heygen.com -> Create video -> AI Avatar
@@ -15,7 +15,7 @@ Paste this prompt into Gemini:
 
 "A friendly tech news presenter in a modern studio with dark navy
 background and #00C805 accent lighting looks at the
-camera and says: 'The 2-minute privacy check for Robinhood. You do not need to reread Robinhood's full policy to start. These are the most useful actions already identified in the monitored update.'
+camera and says: 'The 2-minute privacy check for Robinhood. Under Robinhood's updated Customer Agreement, orders your AI agent sends are binding on you, even if the agent gets it wrong.'
 Clean lighting, vertical 9:16 format, professional but approachable."
 
 --- OPTION C: Voiceover Reel (no AI person) ---

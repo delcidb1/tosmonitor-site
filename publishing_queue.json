@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-17T17:55:32Z",
+  "generated_at": "2026-10-18T17:11:21Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2276,8 +2276,8 @@
       "caption_sha256": "4b49daa9ad21a2e795a8026c6f338441619d30c0ae091ed1eeef7ae52ec9635e",
       "published": true,
       "published_at": "2026-10-16T23:04:03Z",
-      "instagram_post_id": "18117012526808924",
       "instagram_permalink": "https://www.instagram.com/p/Dekq4r7jivk/",
+      "instagram_post_id": "18117012526808924",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
@@ -3503,10 +3503,10 @@
       "source_post_id": "2026-08-20_robinhood-privacy",
       "series_id": "two-minute-fix",
       "series_title": "The 2-Minute Fix",
-      "approved": true,
-      "publish_to_site": true,
+      "approved": false,
+      "publish_to_site": false,
       "priority": 300,
-      "draft": false,
+      "draft": true,
       "headline": "The 2-minute privacy check for Robinhood",
       "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
       "changes": [
@@ -3515,13 +3515,18 @@
         "Revisit your GLBA affiliate-sharing opt-out under the updated entity list."
       ],
       "verdict": "WORTH_KNOWING",
-      "verdict_text": "You do not need to reread Robinhood's full policy to start. These are the most useful actions already identified in the monitored update.",
+      "verdict_text": "Under Robinhood's updated Customer Agreement, orders your AI agent sends are binding on you, even if the agent gets it wrong.",
       "actions": [
-        "Open the relevant account settings now.",
-        "Complete the first action before moving to the next one.",
-        "Save this post so you can finish the remaining checks later."
+        "Gear icon > Skills & subscriptions > Manage subscriptions: unsubscribe unused agent apps.",
+        "Agentic account > gear icon > General: keep Trade approvals on so you OK every order.",
+        "No in-app setting: email privacy@robinhood.com to limit affiliate data sharing."
       ],
-      "caption_rendered": "THE 2-MINUTE FIX · Robinhood\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Robinhood update we tracked:\n• Check if any third-party AI tools are connected to your Robinhood account.\n• Review the updated Customer Agreement for agentic trading rules.\n• Revisit your GLBA affiliate-sharing opt-out under the updated entity list.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_rendered": "THE 2-MINUTE FIX · Robinhood\n\nA policy update is only useful if it leads to an action. Three checks from the Robinhood update we tracked, and how to do each one:\n\n1. Gear icon > Skills & subscriptions > Manage subscriptions: unsubscribe unused agent apps.\n2. Agentic account > gear icon > General: keep Trade approvals on so you OK every order.\n3. No in-app setting: email privacy@robinhood.com to limit affiliate data sharing.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "how_to_sources": [
+        "https://robinhood.com/us/en/support/articles/agent-apps/",
+        "https://robinhood.com/us/en/support/articles/robinhood-agents-overview/",
+        "https://conductatlas.com/platform/robinhood/robinhood-privacy-policy/user-right-to-opt-out-of-affiliate-sharing/"
+      ],
       "source_type": "evergreen",
       "post_source": "evergreen/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy_post.json",
       "slide_folder": "2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy",
@@ -3544,17 +3549,17 @@
       "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "instagram_caption": "THE 2-MINUTE FIX · Robinhood\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Robinhood update we tracked:\n• Check if any third-party AI tools are connected to your Robinhood account.\n• Review the updated Customer Agreement for agentic trading rules.\n• Revisit your GLBA affiliate-sharing opt-out under the updated entity list.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
-      "caption_sha256": "81b51759cc4a4ab4bdfb4ce36388fc6ebe172181326351e16e9a50ba879dab3b",
+      "instagram_caption": "THE 2-MINUTE FIX · Robinhood\n\nA policy update is only useful if it leads to an action. Three checks from the Robinhood update we tracked, and how to do each one:\n\n1. Gear icon > Skills & subscriptions > Manage subscriptions: unsubscribe unused agent apps.\n2. Agentic account > gear icon > General: keep Trade approvals on so you OK every order.\n3. No in-app setting: email privacy@robinhood.com to limit affiliate data sharing.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_sha256": "a21f8a0ff57def70be332f5fb8cf9dc574fded58d3e9356107afd9c2dbdb2b03",
       "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
-      "site_status": "approved"
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     }
   ],
   "total": 56,
-  "queued_count": 1,
+  "queued_count": 0,
   "published_count": 40,
   "baseline_count": 6,
   "held_count": 1
