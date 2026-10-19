@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-18T17:40:45Z",
+  "generated_at": "2026-10-19T01:01:30Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3503,10 +3503,10 @@
       "source_post_id": "2026-08-20_robinhood-privacy",
       "series_id": "two-minute-fix",
       "series_title": "The 2-Minute Fix",
-      "approved": false,
-      "publish_to_site": false,
+      "approved": true,
+      "publish_to_site": true,
       "priority": 300,
-      "draft": true,
+      "draft": false,
       "headline": "The 2-minute privacy check for Robinhood",
       "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
       "changes": [
@@ -3527,6 +3527,8 @@
         "https://robinhood.com/us/en/support/articles/robinhood-agents-overview/",
         "https://conductatlas.com/platform/robinhood/robinhood-privacy-policy/user-right-to-opt-out-of-affiliate-sharing/"
       ],
+      "approved_at": "2026-10-19T01:01:30+00:00",
+      "approved_via": "email",
       "source_type": "evergreen",
       "post_source": "evergreen/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy_post.json",
       "slide_folder": "2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy",
@@ -3552,14 +3554,14 @@
       "instagram_caption": "THE 2-MINUTE FIX · Robinhood\n\nA policy update is only useful if it leads to an action. Three checks from the Robinhood update we tracked, and how to do each one:\n\n1. Gear icon > Skills & subscriptions > Manage subscriptions: unsubscribe unused agent apps.\n2. Agentic account > gear icon > General: keep Trade approvals on so you OK every order.\n3. No in-app setting: email privacy@robinhood.com to limit affiliate data sharing.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "caption_sha256": "a21f8a0ff57def70be332f5fb8cf9dc574fded58d3e9356107afd9c2dbdb2b03",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
   "total": 56,
-  "queued_count": 0,
+  "queued_count": 1,
   "published_count": 40,
   "baseline_count": 6,
   "held_count": 1
