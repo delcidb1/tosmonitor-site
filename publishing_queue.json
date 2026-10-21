@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-20T18:50:09Z",
+  "generated_at": "2026-10-21T18:31:32Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2284,6 +2284,73 @@
       "site_status": "approved"
     },
     {
+      "app": "Nanit",
+      "accent": "#1a1a2e",
+      "headline": "Nanit updates privacy policy contact details",
+      "subhead": "New EU and UK reps named — here's what changed",
+      "effective": "Effective October 21, 2026",
+      "changes": [
+        "Nanit now lists a formal EU Representative (MyEDPO Ltd, Ireland) for GDPR contacts",
+        "UK Representative (MyEDPO UK Ltd, London) explicitly added for UK data queries",
+        "DPO contact address reformatted and clarified — same address, cleaner presentation",
+        "Data Privacy Framework adherence statement moved and kept, no substance removed"
+      ],
+      "verdict": "MINOR",
+      "verdict_text": "Changes are administrative — new regional contacts for EU/UK users, no data collection or sharing practices altered.",
+      "actions": [
+        "EU/UK users: note the new regional contact for data requests or complaints",
+        "Check privacy@nanit.com still works if you have an active data access request",
+        "No account setting changes needed — your data practices are unchanged"
+      ],
+      "caption": "Nanit updated its privacy policy on October 21, 2026. The main changes are administrative: the company has now formally named an EU Representative (MyEDPO Limited in Cork, Ireland) and a UK Representative (MyEDPO UK Ltd in London) for data protection matters. The Data Privacy Framework compliance statement was also repositioned in the document but its content remains the same. No changes were made to what data Nanit collects, how it is used, how long it is kept, or who it is shared with. If you are a Nanit user based in the EU or UK and ever need to raise a data protection concern, you now have a clearly listed regional contact to reach out to.",
+      "hashtags": [
+        "nanit",
+        "babycam",
+        "privacypolicy",
+        "gdpr",
+        "dataprotection",
+        "parenttech",
+        "smarthome",
+        "privacyrights"
+      ],
+      "video_script": "Hey, Nanit just quietly updated its privacy policy — but before you panic, take a breath. The changes are actually administrative. They've added a formal EU Representative in Ireland and a UK Representative in London, so users in those regions now have a clear local contact for data protection questions. The Data Privacy Framework statement is still there, just moved around. Nothing changed about what data they collect or share. Verdict: Minor. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "categories": [],
+      "caption_rendered": "Nanit updated its privacy policy on October 21, 2026. The main changes are administrative: the company has now formally named an EU Representative (MyEDPO Limited in Cork, Ireland) and a UK Representative (MyEDPO UK Ltd in London) for data protection matters. The Data Privacy Framework compliance statement was also repositioned in the document but its content remains the same. No changes were made to what data Nanit collects, how it is used, how long it is kept, or who it is shared with. If you are a Nanit user based in the EU or UK and ever need to raise a data protection concern, you now have a clearly listed regional contact to reach out to.\n\n#nanit #babycam #privacypolicy #gdpr #dataprotection #parenttech #smarthome #privacyrights #TOSMonitor",
+      "id": "2026-10-21_nanit-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-10-21_nanit-privacy_post.json",
+      "slide_folder": "2026-10-21_nanit-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-21_nanit-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-21_nanit-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-21_nanit-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-21_nanit-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-21_nanit-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-21_nanit-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-10-21",
+      "priority": 100,
+      "instagram_caption": "Nanit updated its privacy policy on October 21, 2026. The main changes are administrative: the company has now formally named an EU Representative (MyEDPO Limited in Cork, Ireland) and a UK Representative (MyEDPO UK Ltd in London) for data protection matters. The Data Privacy Framework compliance statement was also repositioned in the document but its content remains the same. No changes were made to what data Nanit collects, how it is used, how long it is kept, or who it is shared with. If you are a Nanit user based in the EU or UK and ever need to raise a data protection concern, you now have a clearly listed regional contact to reach out to.\n\n#nanit #babycam #privacypolicy #gdpr #dataprotection #parenttech #smarthome #privacyrights #TOSMonitor",
+      "caption_sha256": "335828b238ab7a7664ab6fe1187afe663de91ff8f49ff00aaa3cc5bf9be6e54b",
+      "published": false,
+      "publishable": false,
+      "status": "held",
+      "instagram_status": "held",
+      "site_status": "approved",
+      "hold_reason": "minor_change"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -3632,9 +3699,9 @@
       "site_status": "requires_review"
     }
   ],
-  "total": 57,
+  "total": 58,
   "queued_count": 1,
   "published_count": 40,
   "baseline_count": 6,
-  "held_count": 1
+  "held_count": 2
 }
