@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-22T18:25:54Z",
+  "generated_at": "2026-10-22T18:40:56Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3697,9 +3697,76 @@
       "status": "requires_review",
       "instagram_status": "requires_review",
       "site_status": "requires_review"
+    },
+    {
+      "id": "2026-10-22_clause-really-means_2026-10-12_uber-terms",
+      "date": "2026-10-22",
+      "effective": "Updated October 22, 2026",
+      "app": "Uber",
+      "doc": "What This Clause Really Means",
+      "post_type": "series",
+      "accent": "#000000",
+      "categories": [
+        {
+          "tag": "permissions",
+          "explanation": "Uber added an explicit SMS opt-in section requesting consent to send transactional text messages to your mobile number during account setup, formalizing a permission not previously detailed in the Terms."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-10-12_uber-terms",
+      "source_post_id": "2026-10-12_uber-terms",
+      "series_id": "clause-really-means",
+      "series_title": "What This Clause Really Means",
+      "approved": false,
+      "publish_to_site": false,
+      "priority": 300,
+      "draft": true,
+      "headline": "What Uber's policy change really means",
+      "subhead": "Plain English for the part most people would otherwise skip.",
+      "changes": [
+        "New SMS opt-in section added for account setup text messages",
+        "Uber clarifies carriers aren't liable for delayed or undelivered texts",
+        "You can opt out of setup SMS by replying STOP, per new terms"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "The new SMS section formalizes transactional text messaging consent and opt-out rules, which directly affects how Uber contacts you during signup.",
+      "actions": [
+        "Check your SMS opt-in status in Uber account Settings",
+        "Reply STOP to Uber texts if you want to opt out of setup messages",
+        "Review Uber's Privacy Notice linked in the new SMS section"
+      ],
+      "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Uber\n\nUber updates terms: SMS rules and date change\n\nIn plain English:\n• New SMS opt-in section added for account setup text messages\n• Uber clarifies carriers aren't liable for delayed or undelivered texts\n• You can opt out of setup SMS by replying STOP, per new terms\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-10-22_clause-really-means_2026-10-12_uber-terms_post.json",
+      "slide_folder": "2026-10-22_clause-really-means_2026-10-12_uber-terms",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-22_clause-really-means_2026-10-12_uber-terms/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-22_clause-really-means_2026-10-12_uber-terms/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-22_clause-really-means_2026-10-12_uber-terms/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-22_clause-really-means_2026-10-12_uber-terms/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-22_clause-really-means_2026-10-12_uber-terms/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-22_clause-really-means_2026-10-12_uber-terms/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "WHAT THIS CLAUSE REALLY MEANS · Uber\n\nUber updates terms: SMS rules and date change\n\nIn plain English:\n• New SMS opt-in section added for account setup text messages\n• Uber clarifies carriers aren't liable for delayed or undelivered texts\n• You can opt out of setup SMS by replying STOP, per new terms\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
+      "caption_sha256": "2749751fd9a35a52f7725b13ffcfed3258aa50b187de87cdf427f95ea5cca3fb",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     }
   ],
-  "total": 58,
+  "total": 59,
   "queued_count": 1,
   "published_count": 40,
   "baseline_count": 6,
