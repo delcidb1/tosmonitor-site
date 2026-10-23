@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-22T18:58:11Z",
+  "generated_at": "2026-10-23T18:12:40Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2351,6 +2351,157 @@
       "hold_reason": "minor_change"
     },
     {
+      "app": "Uber",
+      "accent": "#000000",
+      "headline": "Uber adds AI subsidiary to EU data transfer pact",
+      "subhead": "A new Uber entity now handles your European data.",
+      "effective": "Effective October 22, 2026",
+      "changes": [
+        "Uber AI Solutions LLC is now jointly certified under EU-US Data Privacy Framework.",
+        "Both UTI and its AI subsidiary commit to EU, UK, and Swiss data-transfer rules.",
+        "The AI subsidiary can now lawfully receive driver data from Europe under this framework.",
+        "Policy update date moved from September 17 to October 22, 2026."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "A new Uber AI entity is now named in your EU data-transfer protections, meaning an AI-focused subsidiary can process your European data.",
+      "actions": [
+        "Check Uber's DPF certification page to confirm Uber AI Solutions LLC is listed.",
+        "If based in EEA, UK, or Switzerland, review what data Uber transfers internationally.",
+        "Contact Uber's privacy team if you want clarity on the AI subsidiary's data use."
+      ],
+      "caption": "As of October 22, 2026, Uber updated its driver and delivery privacy notice to name a new subsidiary, Uber AI Solutions LLC, as a co-certified entity under the EU-US Data Privacy Framework. Previously only Uber Technologies Inc. held this certification. This matters because the Data Privacy Framework is the legal mechanism that allows Uber to move personal data from Europe to the United States with certain protections attached. Adding an AI-named subsidiary to that certification means this entity can now formally receive and process European driver and delivery data under those same rules. If you drive or deliver for Uber and you are based in the EEA, the UK, or Switzerland, you should check what data is being transferred and consider asking Uber directly about the AI subsidiary's specific role.",
+      "hashtags": [
+        "uber",
+        "privacypolicy",
+        "dataprivacy",
+        "EUUSdataframework",
+        "driverdata",
+        "AIdata",
+        "tosmonitor",
+        "privacyrights"
+      ],
+      "video_script": "Hey, Uber just quietly updated its driver privacy policy, and there is one change worth knowing about. A new entity called Uber AI Solutions LLC has been added alongside Uber itself as a certified participant in the EU-US Data Privacy Framework. That is the legal mechanism that lets Uber move European driver data to the US. So now an AI-branded subsidiary is formally part of that pipeline. The verdict? Worth knowing, especially if you drive or deliver in Europe. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "A new Uber subsidiary, Uber AI Solutions LLC, has been added as a certified recipient of European driver and delivery data under the EU-US Data Privacy Framework, expanding the set of entities that can lawfully receive that data."
+        },
+        {
+          "tag": "ai_training",
+          "explanation": "The newly named entity is called Uber AI Solutions LLC, suggesting an AI or machine-learning function, and it is now certified to receive EU driver data, raising questions about potential AI-related data use."
+        }
+      ],
+      "caption_rendered": "As of October 22, 2026, Uber updated its driver and delivery privacy notice to name a new subsidiary, Uber AI Solutions LLC, as a co-certified entity under the EU-US Data Privacy Framework. Previously only Uber Technologies Inc. held this certification. This matters because the Data Privacy Framework is the legal mechanism that allows Uber to move personal data from Europe to the United States with certain protections attached. Adding an AI-named subsidiary to that certification means this entity can now formally receive and process European driver and delivery data under those same rules. If you drive or deliver for Uber and you are based in the EEA, the UK, or Switzerland, you should check what data is being transferred and consider asking Uber directly about the AI subsidiary's specific role.\n\n#uber #privacypolicy #dataprivacy #EUUSdataframework #driverdata #AIdata #tosmonitor #privacyrights #TOSMonitor",
+      "id": "2026-10-23_uber-privacy-drivers",
+      "source_type": "diff",
+      "post_source": "diffs/2026-10-23_uber-privacy-drivers_post.json",
+      "slide_folder": "2026-10-23_uber-privacy-drivers",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-drivers/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-drivers/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-drivers/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-drivers/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-drivers/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-drivers/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-10-23",
+      "priority": 100,
+      "instagram_caption": "As of October 22, 2026, Uber updated its driver and delivery privacy notice to name a new subsidiary, Uber AI Solutions LLC, as a co-certified entity under the EU-US Data Privacy Framework. Previously only Uber Technologies Inc. held this certification. This matters because the Data Privacy Framework is the legal mechanism that allows Uber to move personal data from Europe to the United States with certain protections attached. Adding an AI-named subsidiary to that certification means this entity can now formally receive and process European driver and delivery data under those same rules. If you drive or deliver for Uber and you are based in the EEA, the UK, or Switzerland, you should check what data is being transferred and consider asking Uber directly about the AI subsidiary's specific role.\n\n#uber #privacypolicy #dataprivacy #EUUSdataframework #driverdata #AIdata #tosmonitor #privacyrights #TOSMonitor",
+      "caption_sha256": "8d319053291d9c69f6f1aeef27aa8a85ef116a06b600136295fd1a9ba69ed6fd",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "app": "Uber",
+      "accent": "#000000",
+      "headline": "Uber adds AI subsidiary to EU data transfers",
+      "subhead": "A new Uber entity now handles your European data.",
+      "effective": "Effective October 22, 2026",
+      "changes": [
+        "Uber AI Solutions LLC added as a certified entity for EU/UK/Swiss data transfers.",
+        "Both UTI and Uber AI Solutions LLC now jointly handle international data transfers.",
+        "EU-US and Swiss-US Data Privacy Framework certifications now cover the AI subsidiary.",
+        "No other substantive policy terms appear to have changed in this update."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "A new Uber AI subsidiary is now certified to receive European user data, expanding the entities that process your information.",
+      "actions": [
+        "Check Uber's Data Privacy Framework certification at the Commerce Dept. website.",
+        "Review your Uber data settings under Privacy in the app.",
+        "If in EU/UK/Switzerland, note you now have rights against two certified entities."
+      ],
+      "caption": "Uber updated its privacy notice on October 22, 2026, and the key change affects users in Europe, the UK, and Switzerland. A new Uber subsidiary called Uber AI Solutions LLC has been added alongside Uber Technologies Inc. as a certified entity under the EU-US and Swiss-US Data Privacy Frameworks. In plain terms, this means a second Uber entity - one focused on AI - is now formally authorized to receive and process personal data transferred from Europe. If you are an Uber user based in the EEA, UK, or Switzerland, you should be aware that your data may flow to this additional entity. Check your Uber privacy settings and consider reviewing the updated certification details on the US Department of Commerce website.",
+      "hashtags": [
+        "uber",
+        "privacypolicy",
+        "dataprivacy",
+        "EUdataprivacy",
+        "AIdata",
+        "privacyframework",
+        "tosmonitor",
+        "dataprotection"
+      ],
+      "video_script": "Hey, Uber just quietly updated its privacy policy - and there is one change worth knowing about, especially if you are in Europe. Uber has added a brand new subsidiary called Uber AI Solutions LLC to its EU-US Data Privacy Framework certification. That means this AI-focused entity can now officially receive and process personal data transferred from Europe, the UK, and Switzerland. It does not appear to change your day-to-day experience, but it does expand who inside Uber handles your data internationally. Our verdict: worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "A new Uber subsidiary, Uber AI Solutions LLC, has been added as a certified recipient of EU, UK, and Swiss user data under international data transfer frameworks, expanding the entities that can process your personal information."
+        },
+        {
+          "tag": "ai_training",
+          "explanation": "The newly added entity is named Uber AI Solutions LLC, suggesting it is an AI-focused subsidiary now formally authorized to receive European users' personal data, which may have implications for AI-related data processing."
+        }
+      ],
+      "caption_rendered": "Uber updated its privacy notice on October 22, 2026, and the key change affects users in Europe, the UK, and Switzerland. A new Uber subsidiary called Uber AI Solutions LLC has been added alongside Uber Technologies Inc. as a certified entity under the EU-US and Swiss-US Data Privacy Frameworks. In plain terms, this means a second Uber entity - one focused on AI - is now formally authorized to receive and process personal data transferred from Europe. If you are an Uber user based in the EEA, UK, or Switzerland, you should be aware that your data may flow to this additional entity. Check your Uber privacy settings and consider reviewing the updated certification details on the US Department of Commerce website.\n\n#uber #privacypolicy #dataprivacy #EUdataprivacy #AIdata #privacyframework #tosmonitor #dataprotection #TOSMonitor",
+      "id": "2026-10-23_uber-privacy-riders",
+      "source_type": "diff",
+      "post_source": "diffs/2026-10-23_uber-privacy-riders_post.json",
+      "slide_folder": "2026-10-23_uber-privacy-riders",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-riders/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-riders/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-riders/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-riders/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-riders/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-riders/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-10-23",
+      "priority": 100,
+      "instagram_caption": "Uber updated its privacy notice on October 22, 2026, and the key change affects users in Europe, the UK, and Switzerland. A new Uber subsidiary called Uber AI Solutions LLC has been added alongside Uber Technologies Inc. as a certified entity under the EU-US and Swiss-US Data Privacy Frameworks. In plain terms, this means a second Uber entity - one focused on AI - is now formally authorized to receive and process personal data transferred from Europe. If you are an Uber user based in the EEA, UK, or Switzerland, you should be aware that your data may flow to this additional entity. Check your Uber privacy settings and consider reviewing the updated certification details on the US Department of Commerce website.\n\n#uber #privacypolicy #dataprivacy #EUdataprivacy #AIdata #privacyframework #tosmonitor #dataprotection #TOSMonitor",
+      "caption_sha256": "48b3a49a3e4f50ea8ce39db88ec27e1a33dbcc72da77489069b2b8b8f67ec189",
+      "published": false,
+      "publishable": false,
+      "status": "held",
+      "instagram_status": "held",
+      "site_status": "approved",
+      "hold_reason": "duplicate_of:2026-10-23_uber-privacy-drivers"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -3766,9 +3917,9 @@
       "site_status": "requires_review"
     }
   ],
-  "total": 59,
-  "queued_count": 1,
+  "total": 61,
+  "queued_count": 2,
   "published_count": 40,
   "baseline_count": 6,
-  "held_count": 2
+  "held_count": 3
 }

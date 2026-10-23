@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Uber)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Uber just quietly updated its privacy policy - and there is one change worth knowing about, especially if you are in Europe. Uber has added a brand new subsidiary called Uber AI Solutions LLC to its EU-US Data Privacy Framework certification. That means this AI-focused entity can now officially receive and process personal data transferred from Europe, the UK, and Switzerland. It does not appear to change your day-to-day experience, but it does expand who inside Uber handles your data internationally. Our verdict: worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #000000 accent lighting looks at the
+camera and says: 'Uber adds AI subsidiary to EU data transfers. A new Uber AI subsidiary is now certified to receive European user data, expanding the entities that process your information.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
