@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-24T17:43:47Z",
+  "generated_at": "2026-10-24T18:21:54Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2419,10 +2419,13 @@
       "priority": 100,
       "instagram_caption": "As of October 22, 2026, Uber updated its driver and delivery privacy notice to name a new subsidiary, Uber AI Solutions LLC, as a co-certified entity under the EU-US Data Privacy Framework. Previously only Uber Technologies Inc. held this certification. This matters because the Data Privacy Framework is the legal mechanism that allows Uber to move personal data from Europe to the United States with certain protections attached. Adding an AI-named subsidiary to that certification means this entity can now formally receive and process European driver and delivery data under those same rules. If you drive or deliver for Uber and you are based in the EEA, the UK, or Switzerland, you should check what data is being transferred and consider asking Uber directly about the AI subsidiary's specific role.\n\n#uber #privacypolicy #dataprivacy #EUUSdataframework #driverdata #AIdata #tosmonitor #privacyrights #TOSMonitor",
       "caption_sha256": "8d319053291d9c69f6f1aeef27aa8a85ef116a06b600136295fd1a9ba69ed6fd",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-10-23T23:05:57Z",
+      "instagram_post_id": "18097380044671975",
+      "instagram_permalink": "https://www.instagram.com/p/De2sqv5oLkp/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -2499,7 +2502,7 @@
       "status": "held",
       "instagram_status": "held",
       "site_status": "approved",
-      "hold_reason": "duplicate_of:2026-10-23_uber-privacy-drivers"
+      "hold_reason": "app_cooldown:last_published_2026-10-23"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -3985,8 +3988,8 @@
     }
   ],
   "total": 62,
-  "queued_count": 2,
-  "published_count": 40,
+  "queued_count": 1,
+  "published_count": 41,
   "baseline_count": 6,
   "held_count": 3
 }
