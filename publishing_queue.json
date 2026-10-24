@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-24T17:16:48Z",
+  "generated_at": "2026-10-24T17:31:09Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3915,9 +3915,76 @@
       "status": "requires_review",
       "instagram_status": "requires_review",
       "site_status": "requires_review"
+    },
+    {
+      "id": "2026-10-24_privacy-receipt_2026-10-02_roblox-privacy",
+      "date": "2026-10-24",
+      "effective": "Updated October 24, 2026",
+      "app": "Roblox",
+      "doc": "Privacy Receipt",
+      "post_type": "series",
+      "accent": "#E53935",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Roblox added new language describing data collection from researchers, introducing a new category of third-party data interaction not previously disclosed."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-10-02_roblox-privacy",
+      "source_post_id": "2026-10-02_roblox-privacy",
+      "series_id": "privacy-receipt",
+      "series_title": "Privacy Receipt",
+      "approved": false,
+      "publish_to_site": false,
+      "priority": 300,
+      "draft": true,
+      "headline": "Your Roblox privacy receipt",
+      "subhead": "The data points this policy change puts on the record.",
+      "changes": [
+        "Effective date pushed from April 30 to November 1, 2026.",
+        "New language on regional variation for access to certain features.",
+        "New disclosure about data collection from researchers."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Think of these policy details as the data receipt that rarely appears after you use Roblox. The policy—not speculation—is the source for each item.",
+      "actions": [
+        "Read Roblox's change summary linked in their updated policy.",
+        "Check your region's feature and data settings in your account.",
+        "Review parental controls if you manage a child's Roblox account."
+      ],
+      "caption_rendered": "PRIVACY RECEIPT · Roblox\n\nHere is what the monitored policy change puts on the record:\n• Effective date pushed from April 30 to November 1, 2026.\n• New language on regional variation for access to certain features.\n• New disclosure about data collection from researchers.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-10-24_privacy-receipt_2026-10-02_roblox-privacy_post.json",
+      "slide_folder": "2026-10-24_privacy-receipt_2026-10-02_roblox-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-24_privacy-receipt_2026-10-02_roblox-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-24_privacy-receipt_2026-10-02_roblox-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-24_privacy-receipt_2026-10-02_roblox-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-24_privacy-receipt_2026-10-02_roblox-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-24_privacy-receipt_2026-10-02_roblox-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-24_privacy-receipt_2026-10-02_roblox-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "PRIVACY RECEIPT · Roblox\n\nHere is what the monitored policy change puts on the record:\n• Effective date pushed from April 30 to November 1, 2026.\n• New language on regional variation for access to certain features.\n• New disclosure about data collection from researchers.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
+      "caption_sha256": "7ea1ead6362d2b01fbb782b9ede3a2c7023601a4128bc6497f1cfa797d875b79",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     }
   ],
-  "total": 61,
+  "total": 62,
   "queued_count": 2,
   "published_count": 40,
   "baseline_count": 6,
