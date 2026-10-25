@@ -2146,15 +2146,16 @@
       }
     ],
     "date": "2026-08-13",
-    "slide_folder": "2026-08-13_twitch",
-    "slide_count": 5,
+    "slide_folder": "2026-08-13_twitch-privacy",
+    "slide_count": 6,
     "has_slides": true,
     "media_files": [
       "01_hook.png",
       "02_changes.png",
       "03_changes.png",
       "04_verdict.png",
-      "05_action.png"
+      "05_action.png",
+      "06_outro.png"
     ],
     "published": true,
     "post_source": "diffs/2026-08-13_twitch-privacy_post.json",
