@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-25T17:59:32Z",
+  "generated_at": "2026-10-26T19:48:50Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2526,11 +2526,10 @@
       "instagram_caption": "Uber updated its privacy notice on October 22, 2026, and the key change affects users in Europe, the UK, and Switzerland. A new Uber subsidiary called Uber AI Solutions LLC has been added alongside Uber Technologies Inc. as a certified entity under the EU-US and Swiss-US Data Privacy Frameworks. In plain terms, this means a second Uber entity - one focused on AI - is now formally authorized to receive and process personal data transferred from Europe. If you are an Uber user based in the EEA, UK, or Switzerland, you should be aware that your data may flow to this additional entity. Check your Uber privacy settings and consider reviewing the updated certification details on the US Department of Commerce website.\n\n#uber #privacypolicy #dataprivacy #EUdataprivacy #AIdata #privacyframework #tosmonitor #dataprotection #TOSMonitor",
       "caption_sha256": "48b3a49a3e4f50ea8ce39db88ec27e1a33dbcc72da77489069b2b8b8f67ec189",
       "published": false,
-      "publishable": false,
-      "status": "held",
-      "instagram_status": "held",
-      "site_status": "approved",
-      "hold_reason": "app_cooldown:last_published_2026-10-23"
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -4016,8 +4015,8 @@
     }
   ],
   "total": 63,
-  "queued_count": 1,
+  "queued_count": 2,
   "published_count": 41,
   "baseline_count": 6,
-  "held_count": 3
+  "held_count": 2
 }
