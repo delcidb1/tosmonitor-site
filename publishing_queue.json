@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-27T20:15:01Z",
+  "generated_at": "2026-10-28T19:25:10Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2527,11 +2527,86 @@
       "caption_sha256": "48b3a49a3e4f50ea8ce39db88ec27e1a33dbcc72da77489069b2b8b8f67ec189",
       "published": true,
       "published_at": "2026-10-26T23:08:49Z",
-      "instagram_post_id": "18132141631757272",
       "instagram_permalink": "https://www.instagram.com/p/De-bWFtjhHB/",
+      "instagram_post_id": "18132141631757272",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
+      "site_status": "approved"
+    },
+    {
+      "app": "VIZIO",
+      "accent": "#000000",
+      "headline": "VIZIO expands WatchFree+ data collection and sharing",
+      "subhead": "Your streaming habits now feed more ad targeting pipelines.",
+      "effective": "Effective October 26, 2026",
+      "changes": [
+        "WatchFree+ on web, mobile, and non-VIZIO platforms now collects detailed viewing history for ads.",
+        "New data categories (WatchFree+ App Data, Streaming Data) added to Walmart account sharing scope.",
+        "Cookies definition expanded to include beacons, pixel tags, and trackers across VIZIO services.",
+        "WatchFree+ streaming data collection is now required if you use the service outside a VIZIO TV."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "New data categories and mandatory collection on non-TV WatchFree+ platforms meaningfully expand what VIZIO gathers and shares for ad targeting.",
+      "actions": [
+        "Go to VIZIO.com/account and review your data-sharing consent with Walmart.",
+        "Turn off Viewing Data in TV settings: All Settings > Privacy & Legal > Viewing Data.",
+        "Avoid using WatchFree+ on web or mobile if you don't want mandatory streaming-data collection."
+      ],
+      "caption": "VIZIO updated its privacy policy on October 26, 2026, with changes centered on its WatchFree+ streaming service. Two new data categories, WatchFree+ App Data and WatchFree+ Streaming Data, now formally cover what VIZIO collects when you use WatchFree+ outside your VIZIO TV, such as on a website, mobile app, or a third-party streaming device. Unlike your TV, where you can opt out of data collection, WatchFree+ on non-VIZIO platforms states that data collection is required to provide the service. This data, including your viewing history and content choices, can be linked to your Walmart account and shared with advertisers, Walmart Connect, and analytics partners for targeted ads. VIZIO also broadened its cookie definition to include beacons, pixel tags, and trackers. Review your data-sharing settings at VIZIO.com/account and consider whether you want to use WatchFree+ on non-TV platforms.",
+      "hashtags": [
+        "vizio",
+        "watchfreeplus",
+        "smarttv",
+        "privacypolicy",
+        "datatracking",
+        "streamingprivacy",
+        "walmart",
+        "adtargeting"
+      ],
+      "video_script": "Hey, VIZIO just quietly updated its privacy policy, and if you use WatchFree+ anywhere other than your VIZIO TV, you need to hear this. Two new data categories now cover what VIZIO collects from you on the WatchFree+ website, mobile app, and third-party streaming devices. And here's the kicker: on those non-TV platforms, data collection is required. You can't opt out and still use the service. That data can flow to Walmart and its advertising partners for targeted ads. Our verdict? Worth knowing. Full breakdown in the carousel, follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "New WatchFree+ App Data and WatchFree+ Streaming Data categories are explicitly added to the scope of data shared with Walmart, advertisers, Walmart Connect, and ad-tech vendors for targeting."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "WatchFree+ on non-VIZIO platforms (web, mobile app, third-party devices) now requires collection of viewing history and streaming activity as a condition of using the service, with no opt-out available."
+        }
+      ],
+      "caption_rendered": "VIZIO updated its privacy policy on October 26, 2026, with changes centered on its WatchFree+ streaming service. Two new data categories, WatchFree+ App Data and WatchFree+ Streaming Data, now formally cover what VIZIO collects when you use WatchFree+ outside your VIZIO TV, such as on a website, mobile app, or a third-party streaming device. Unlike your TV, where you can opt out of data collection, WatchFree+ on non-VIZIO platforms states that data collection is required to provide the service. This data, including your viewing history and content choices, can be linked to your Walmart account and shared with advertisers, Walmart Connect, and analytics partners for targeted ads. VIZIO also broadened its cookie definition to include beacons, pixel tags, and trackers. Review your data-sharing settings at VIZIO.com/account and consider whether you want to use WatchFree+ on non-TV platforms.\n\n#vizio #watchfreeplus #smarttv #privacypolicy #datatracking #streamingprivacy #walmart #adtargeting #TOSMonitor",
+      "id": "2026-10-28_vizio-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-10-28_vizio-privacy_post.json",
+      "slide_folder": "2026-10-28_vizio-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-28_vizio-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-28_vizio-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-28_vizio-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-28_vizio-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-28_vizio-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-28_vizio-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-10-28",
+      "priority": 100,
+      "instagram_caption": "VIZIO updated its privacy policy on October 26, 2026, with changes centered on its WatchFree+ streaming service. Two new data categories, WatchFree+ App Data and WatchFree+ Streaming Data, now formally cover what VIZIO collects when you use WatchFree+ outside your VIZIO TV, such as on a website, mobile app, or a third-party streaming device. Unlike your TV, where you can opt out of data collection, WatchFree+ on non-VIZIO platforms states that data collection is required to provide the service. This data, including your viewing history and content choices, can be linked to your Walmart account and shared with advertisers, Walmart Connect, and analytics partners for targeted ads. VIZIO also broadened its cookie definition to include beacons, pixel tags, and trackers. Review your data-sharing settings at VIZIO.com/account and consider whether you want to use WatchFree+ on non-TV platforms.\n\n#vizio #watchfreeplus #smarttv #privacypolicy #datatracking #streamingprivacy #walmart #adtargeting #TOSMonitor",
+      "caption_sha256": "7f0263e91d5b2e2941d54d89428b09c81652b7ae5bfb921b1eb138d76e0527c5",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
       "site_status": "approved"
     },
     {
@@ -4017,8 +4092,8 @@
       "site_status": "requires_review"
     }
   ],
-  "total": 63,
-  "queued_count": 1,
+  "total": 64,
+  "queued_count": 2,
   "published_count": 42,
   "baseline_count": 6,
   "held_count": 2
