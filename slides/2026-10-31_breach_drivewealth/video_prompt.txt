@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (DriveWealth)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Use Revolut, Stake or Hatch? Read this. The Washington Attorney General listed a DriveWealth breach on 10/13/2026. 358,104 Washington residents affected. Access began 09/04/2026. Exposed: names, Social Security numbers, banking info and birth dates. DriveWealth runs US stock trading for Revolut, Stake and Hatch. Our verdict: important. SSNs and bank details are high-value. No unauthorized trades were found, but expect targeted scams. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #E11D48 accent lighting looks at the
+camera and says: 'Use Revolut, Stake or Hatch? Read this. SSNs and bank details are high-value. No unauthorized trades were found, but expect targeted scams.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

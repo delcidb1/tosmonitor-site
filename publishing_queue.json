@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-31T18:23:05Z",
+  "generated_at": "2026-10-31T18:40:07Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2613,6 +2613,90 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-10-31_breach_drivewealth",
+      "date": "2026-10-31",
+      "app": "DriveWealth",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://www.atg.wa.gov/data-breach-notifications",
+      "breach_source": "Washington Attorney General",
+      "accent": "#E11D48",
+      "effective": "Reported 10/13/2026",
+      "categories": [],
+      "headline": "Use Revolut, Stake or Hatch? Read this",
+      "subhead": "The broker behind their US trading was hacked",
+      "changes": [
+        "The Washington Attorney General listed a DriveWealth breach on 10/13/2026.",
+        "358,104 Washington residents affected. Access began 09/04/2026.",
+        "Exposed: names, Social Security numbers, banking info and birth dates.",
+        "DriveWealth runs US stock trading for Revolut, Stake and Hatch."
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "SSNs and bank details are high-value. No unauthorized trades were found, but expect targeted scams.",
+      "actions": [
+        "Freeze your credit at Equifax, Experian and TransUnion.",
+        "Ignore calls or emails asking for account details.",
+        "Watch statements and turn on two-factor authentication."
+      ],
+      "caption": "If you've traded US stocks through Revolut, Stake or Hatch, your data may be involved. DriveWealth, the brokerage that handles those trades behind the scenes, reported a breach to the Washington Attorney General on October 13. The notice lists 358,104 Washington residents affected, with names, Social Security numbers, financial and banking information, and birth dates exposed. DriveWealth says an attacker got in through social engineering on September 4-5 and that it found no unauthorized trades, transfers or withdrawals. What exposed data varies by app. What to do: freeze your credit, treat any call or email about your account as a possible scam, and turn on two-factor authentication. Source: Washington Attorney General breach notices.",
+      "hashtags": [
+        "DriveWealth",
+        "Revolut",
+        "Stake",
+        "Hatch",
+        "DataBreach",
+        "IdentityTheft",
+        "InvestorAlert",
+        "PrivacyAlert"
+      ],
+      "breach_evidence": [
+        "Organisation: DriveWealth, LLC",
+        "Listed by: Washington Attorney General on 10/13/2026",
+        "Date of breach: 09/04/2026",
+        "Washingtonians affected: 358,104",
+        "Information compromised: Name; Social Security Number; Financial & Banking Information; Full Date of Birth",
+        "Context (Finance Magnates, 2026-09-24): access on Sept 4-5 via social engineering; Revolut, Stake and Hatch customers affected; DriveWealth found no unauthorized trades, transfers or withdrawals."
+      ],
+      "context_sources": [
+        "https://www.financemagnates.com/fintech/drivewealth-security-incident-exposes-revolut-stake-and-hatch-customer-data/"
+      ],
+      "materiality": "358,104 Washington residents; most recent notice on the WA AG list",
+      "approved": false,
+      "draft": true,
+      "approval_note": "Created on request from the most recent WA AG notice, with partner-app context from Finance Magnates. Check both links before approving.",
+      "caption_rendered": "If you've traded US stocks through Revolut, Stake or Hatch, your data may be involved. DriveWealth, the brokerage that handles those trades behind the scenes, reported a breach to the Washington Attorney General on October 13. The notice lists 358,104 Washington residents affected, with names, Social Security numbers, financial and banking information, and birth dates exposed. DriveWealth says an attacker got in through social engineering on September 4-5 and that it found no unauthorized trades, transfers or withdrawals. What exposed data varies by app. What to do: freeze your credit, treat any call or email about your account as a possible scam, and turn on two-factor authentication. Source: Washington Attorney General breach notices.\n\n#DriveWealth #Revolut #Stake #Hatch #DataBreach #IdentityTheft #InvestorAlert #PrivacyAlert #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-10-31_breach_drivewealth_post.json",
+      "slide_folder": "2026-10-31_breach_drivewealth",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-31_breach_drivewealth/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-31_breach_drivewealth/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-31_breach_drivewealth/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-31_breach_drivewealth/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-31_breach_drivewealth/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-31_breach_drivewealth/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "If you've traded US stocks through Revolut, Stake or Hatch, your data may be involved. DriveWealth, the brokerage that handles those trades behind the scenes, reported a breach to the Washington Attorney General on October 13. The notice lists 358,104 Washington residents affected, with names, Social Security numbers, financial and banking information, and birth dates exposed. DriveWealth says an attacker got in through social engineering on September 4-5 and that it found no unauthorized trades, transfers or withdrawals. What exposed data varies by app. What to do: freeze your credit, treat any call or email about your account as a possible scam, and turn on two-factor authentication. Source: Washington Attorney General breach notices.\n\n#DriveWealth #Revolut #Stake #Hatch #DataBreach #IdentityTheft #InvestorAlert #PrivacyAlert #TOSMonitor",
+      "caption_sha256": "772a1278dc9ab8f8a17abd11201646fa6720fefbd0b2f5c72ce75be3cb5f54c6",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -4095,7 +4179,7 @@
       "site_status": "requires_review"
     }
   ],
-  "total": 64,
+  "total": 65,
   "queued_count": 1,
   "published_count": 43,
   "baseline_count": 6,
