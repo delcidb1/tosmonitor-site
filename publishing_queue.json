@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-10-31T18:40:07Z",
+  "generated_at": "2026-10-31T18:53:20Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2661,10 +2661,13 @@
         "https://www.financemagnates.com/fintech/drivewealth-security-incident-exposes-revolut-stake-and-hatch-customer-data/"
       ],
       "materiality": "358,104 Washington residents; most recent notice on the WA AG list",
-      "approved": false,
-      "draft": true,
+      "approved": true,
+      "draft": false,
       "approval_note": "Created on request from the most recent WA AG notice, with partner-app context from Finance Magnates. Check both links before approving.",
       "caption_rendered": "If you've traded US stocks through Revolut, Stake or Hatch, your data may be involved. DriveWealth, the brokerage that handles those trades behind the scenes, reported a breach to the Washington Attorney General on October 13. The notice lists 358,104 Washington residents affected, with names, Social Security numbers, financial and banking information, and birth dates exposed. DriveWealth says an attacker got in through social engineering on September 4-5 and that it found no unauthorized trades, transfers or withdrawals. What exposed data varies by app. What to do: freeze your credit, treat any call or email about your account as a possible scam, and turn on two-factor authentication. Source: Washington Attorney General breach notices.\n\n#DriveWealth #Revolut #Stake #Hatch #DataBreach #IdentityTheft #InvestorAlert #PrivacyAlert #TOSMonitor",
+      "publish_to_site": true,
+      "approved_at": "2026-10-31T18:53:20+00:00",
+      "approved_via": "email",
       "source_type": "breach",
       "post_source": "breaches/2026-10-31_breach_drivewealth_post.json",
       "slide_folder": "2026-10-31_breach_drivewealth",
@@ -2691,10 +2694,10 @@
       "instagram_caption": "If you've traded US stocks through Revolut, Stake or Hatch, your data may be involved. DriveWealth, the brokerage that handles those trades behind the scenes, reported a breach to the Washington Attorney General on October 13. The notice lists 358,104 Washington residents affected, with names, Social Security numbers, financial and banking information, and birth dates exposed. DriveWealth says an attacker got in through social engineering on September 4-5 and that it found no unauthorized trades, transfers or withdrawals. What exposed data varies by app. What to do: freeze your credit, treat any call or email about your account as a possible scam, and turn on two-factor authentication. Source: Washington Attorney General breach notices.\n\n#DriveWealth #Revolut #Stake #Hatch #DataBreach #IdentityTheft #InvestorAlert #PrivacyAlert #TOSMonitor",
       "caption_sha256": "772a1278dc9ab8f8a17abd11201646fa6720fefbd0b2f5c72ce75be3cb5f54c6",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -4180,7 +4183,7 @@
     }
   ],
   "total": 65,
-  "queued_count": 1,
+  "queued_count": 2,
   "published_count": 43,
   "baseline_count": 6,
   "held_count": 2
