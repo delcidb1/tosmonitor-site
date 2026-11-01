@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-01T19:17:16Z",
+  "generated_at": "2026-11-01T19:53:57Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -2693,10 +2693,13 @@
       "priority": 100,
       "instagram_caption": "If you've traded US stocks through Revolut, Stake or Hatch, your data may be involved. DriveWealth, the brokerage that handles those trades behind the scenes, reported a breach to the Washington Attorney General on October 13. The notice lists 358,104 Washington residents affected, with names, Social Security numbers, financial and banking information, and birth dates exposed. DriveWealth says an attacker got in through social engineering on September 4-5 and that it found no unauthorized trades, transfers or withdrawals. What exposed data varies by app. What to do: freeze your credit, treat any call or email about your account as a possible scam, and turn on two-factor authentication. Source: Washington Attorney General breach notices.\n\n#DriveWealth #Revolut #Stake #Hatch #DataBreach #IdentityTheft #InvestorAlert #PrivacyAlert #TOSMonitor",
       "caption_sha256": "772a1278dc9ab8f8a17abd11201646fa6720fefbd0b2f5c72ce75be3cb5f54c6",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-01T18:02:48Z",
+      "instagram_post_id": "18418788868087258",
+      "instagram_permalink": "https://www.instagram.com/p/DfNVFP8iRs_/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -4183,8 +4186,8 @@
     }
   ],
   "total": 65,
-  "queued_count": 2,
-  "published_count": 43,
+  "queued_count": 1,
+  "published_count": 44,
   "baseline_count": 6,
   "held_count": 2
 }
