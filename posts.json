@@ -53,6 +53,249 @@
     "key_changes": []
   },
   {
+    "id": "2026-11-02_meta-muse-shared-chats",
+    "app": "Meta Muse",
+    "doc": "Shared Chat Links",
+    "post_type": "tldr",
+    "accent": "#0467DF",
+    "headline": "Shared Muse chats could be found by anyone.",
+    "effective": "Sharing paused October 20, 2026",
+    "changes": [
+      "Muse is Meta's personal AI agent, launched September 8 in its own app and WhatsApp",
+      "Share links put the chat's title right in the web address",
+      "Public DNS records logged those addresses. Researchers found 6,800+ of them",
+      "The pages opened with no login",
+      "Some held a loan application, a revenue review, and partial bank details",
+      "Meta paused sharing. The titles remain in DNS history"
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "Most exposed chats were harmless. But 'share' quietly worked like 'publish,' and the titles can't be pulled back out of public records. Meta hasn't said whether it will tell affected users.",
+    "actions": [
+      "Treat any shared AI chat link as public",
+      "Keep names, numbers and deals out of chat titles",
+      "Review any Muse chats you've shared"
+    ],
+    "categories": [
+      "third_party_sharing",
+      "data_retention"
+    ],
+    "date": "2026-11-02",
+    "slide_folder": "2026-11-02_meta-muse-shared-chats",
+    "slide_count": 7,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_verdict.png",
+      "06_action.png",
+      "07_outro.png"
+    ],
+    "published": false,
+    "post_source": "manual/meta-muse-shared-chats_post.json",
+    "effective_date": "2026-11-02",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
+    "id": "2026-11-02_meta-glasses-senate-inquiry",
+    "app": "Meta",
+    "doc": "Smart Glasses",
+    "post_type": "tldr",
+    "accent": "#0467DF",
+    "headline": "Two senators want to know who's being filmed, and what the footage trains.",
+    "effective": "Letter sent October 28, 2026",
+    "changes": [
+      "Sens. Wyden and Markey sent Meta a letter about its camera glasses",
+      "They asked what stops the glasses capturing intimate images without consent",
+      "They asked what footage trains Meta's AI, and if bystanders can get it deleted",
+      "In March, reporters found Kenyan contractors reviewing uncensored glasses footage",
+      "Dutch eyewear chain Hans Anders pulled the glasses from its stores on October 2"
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "The wearer agreed to Meta's terms. The people in the footage didn't. A small white LED is the only warning they get, and some footage can end up in front of human reviewers.",
+    "actions": [
+      "A white LED on the frame means it's recording",
+      "Ask venues and workplaces if camera glasses are allowed",
+      "Filmed and posted? Report it as non-consensual content"
+    ],
+    "categories": [
+      "ai_training",
+      "permissions"
+    ],
+    "date": "2026-11-02",
+    "slide_folder": "2026-11-02_meta-glasses-senate-inquiry",
+    "slide_count": 7,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_verdict.png",
+      "06_action.png",
+      "07_outro.png"
+    ],
+    "published": false,
+    "post_source": "manual/meta-glasses-senate-inquiry_post.json",
+    "effective_date": "2026-11-02",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
+    "id": "2026-11-02_google-privacy-gmail-ads",
+    "app": "Google",
+    "doc": "Privacy Policy",
+    "post_type": "tldr",
+    "accent": "#4285F4",
+    "headline": "Your Gmail and Photos can now shape ads, if they're connected.",
+    "effective": "Effective October 16, 2026",
+    "changes": [
+      "Applies if you let Search or Gemini access Gmail, Photos, Drive or other apps",
+      "Search can then use that data to personalize content, including ads",
+      "Google says ads won't be based directly on Gmail or Photos",
+      "But they can draw on summaries and inferences from them",
+      "Advertisers don't get access to your inbox or photos",
+      "Disconnecting an app doesn't delete what Search already has"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Connecting your apps is opt-in, but the policy describes no separate consent for the ad use. Since 2021, Google's policy said Gmail, Drive and Photos content stayed out of ads. That promise now has an exception.",
+    "actions": [
+      "Check if Gmail and Photos are connected to Search or Gemini",
+      "Review your ad settings in My Ad Center",
+      "Disconnecting stops new access, not what's already collected"
+    ],
+    "categories": [
+      "third_party_sharing",
+      "permissions"
+    ],
+    "date": "2026-11-02",
+    "slide_folder": "2026-11-02_google-privacy-gmail-ads",
+    "slide_count": 7,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_verdict.png",
+      "06_action.png",
+      "07_outro.png"
+    ],
+    "published": false,
+    "post_source": "manual/google-privacy-gmail-ads_post.json",
+    "effective_date": "2026-11-02",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
+    "id": "2026-11-02_flock-safety-court-ruling",
+    "app": "Flock Safety",
+    "doc": "Federal Court Ruling",
+    "post_type": "tldr",
+    "accent": "#C2452D",
+    "headline": "A federal judge just called Flock 'indiscriminate mass surveillance.'",
+    "effective": "Ruled October 2026",
+    "changes": [
+      "An Oklahoma deputy searched a driver's plate in Flock with no warrant",
+      "The judge found no apparent reason beyond her California plates",
+      "He used her Flock travel history to justify searching her car",
+      "Judge Sara Hill ruled the search violated the Fourth Amendment",
+      "Everything found after the Flock search was thrown out",
+      "Not binding precedent, but one of the first federal rulings of its kind"
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "Flock logs every car that passes its cameras, all the time. This ruling says pulling up someone's travel history without a warrant can cross a constitutional line. One court, but a real crack in the 'public road, no privacy' argument.",
+    "actions": [
+      "Check deflock.org for cameras mapped near you",
+      "Look up your police department's Flock Transparency Portal",
+      "Ask your city council if Flock searches need a warrant"
+    ],
+    "categories": [
+      "data_retention",
+      "third_party_sharing"
+    ],
+    "date": "2026-11-02",
+    "slide_folder": "2026-11-02_flock-safety-court-ruling",
+    "slide_count": 7,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_verdict.png",
+      "06_action.png",
+      "07_outro.png"
+    ],
+    "published": false,
+    "post_source": "manual/flock-safety-court-ruling_post.json",
+    "effective_date": "2026-11-02",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
+    "id": "2026-11-02_apple-ios-27-2-age-verification",
+    "app": "Apple",
+    "doc": "iOS 27.2 Age Verification",
+    "post_type": "tldr",
+    "accent": "#0071E3",
+    "headline": "Your iPhone can now check your age with a selfie.",
+    "effective": "Rolling out in iOS 27.2",
+    "changes": [
+      "iOS 27.2 adds a selfie option to prove you're an adult",
+      "An AI model estimates your age, on-device and in Apple's Private Cloud Compute",
+      "Apple says the selfie is deleted once your age is confirmed",
+      "Other options: account age, a credit card (not debit), or a government ID scan",
+      "Required where laws demand it: UK, Australia, Brazil, Singapore, South Korea, Texas"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Better than handing your passport to a third-party vendor: one used by Discord leaked about 70,000 IDs. But age estimation always gets some adults wrong, and age-check laws keep spreading.",
+    "actions": [
+      "Asked to verify? The selfie exposes less than an ID scan",
+      "Outside those regions, there's nothing to do yet",
+      "Be wary of apps that ask you to upload ID directly"
+    ],
+    "categories": [
+      "permissions",
+      "data_retention"
+    ],
+    "date": "2026-11-02",
+    "slide_folder": "2026-11-02_apple-ios-27-2-age-verification",
+    "slide_count": 7,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_verdict.png",
+      "06_action.png",
+      "07_outro.png"
+    ],
+    "published": false,
+    "post_source": "manual/apple-ios-27-2-age-verification_post.json",
+    "effective_date": "2026-11-02",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-10-31_breach_drivewealth",
     "app": "DriveWealth",
     "doc": "Data Breach",

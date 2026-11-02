@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Meta)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Two senators want to know who's being filmed, and what the footage trains.. Sens. Wyden and Markey sent Meta a letter about its camera glasses They asked what stops the glasses capturing intimate images without consent They asked what footage trains Meta's AI, and if bystanders can get it deleted In March, reporters found Kenyan contractors reviewing uncensored glasses footage Dutch eyewear chain Hans Anders pulled the glasses from its stores on October 2 Our verdict: important. The wearer agreed to Meta's terms. The people in the footage didn't. A small white LED is the only warning they get, and some footage can end up in front of human reviewers. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #0467DF accent lighting looks at the
+camera and says: 'Two senators want to know who's being filmed, and what the footage trains.. The wearer agreed to Meta's terms. The people in the footage didn't. A small white LED is the only warning they get, and some footage can end up in front of human reviewers.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the policy text.

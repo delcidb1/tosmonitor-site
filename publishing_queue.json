@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-02T22:40:16Z",
+  "generated_at": "2026-11-02T22:56:55Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -139,6 +139,338 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
+      "site_status": "approved"
+    },
+    {
+      "id": "2026-11-02_meta-glasses-senate-inquiry",
+      "date": "2026-11-02",
+      "app": "Meta",
+      "doc": "Smart Glasses",
+      "post_type": "tldr",
+      "accent": "#0467DF",
+      "headline": "Two senators want to know who's being filmed, and what the footage trains.",
+      "effective": "Letter sent October 28, 2026",
+      "changes": [
+        "Sens. Wyden and Markey sent Meta a letter about its camera glasses",
+        "They asked what stops the glasses capturing intimate images without consent",
+        "They asked what footage trains Meta's AI, and if bystanders can get it deleted",
+        "In March, reporters found Kenyan contractors reviewing uncensored glasses footage",
+        "Dutch eyewear chain Hans Anders pulled the glasses from its stores on October 2"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "The wearer agreed to Meta's terms. The people in the footage didn't. A small white LED is the only warning they get, and some footage can end up in front of human reviewers.",
+      "actions": [
+        "A white LED on the frame means it's recording",
+        "Ask venues and workplaces if camera glasses are allowed",
+        "Filmed and posted? Report it as non-consensual content"
+      ],
+      "categories": [
+        "ai_training",
+        "permissions"
+      ],
+      "caption_rendered": "Two U.S. senators, Ron Wyden and Ed Markey, have opened an inquiry into Meta's camera glasses.\n\nTheir letter asks what safeguards stop the glasses from capturing intimate images without consent, whether Meta studied their potential for voyeurism, what footage is used to train its AI, and whether people who get captured can ask for their data to be deleted.\n\nThe backdrop: months of reports of people filmed in public and at work without knowing, then finding themselves on TikTok or Instagram. Earlier this year, journalists found contract data labelers in Kenya reviewing uncensored footage from the glasses. Meta ended that contract. In October, Dutch eyewear chain Hans Anders stopped selling the glasses in the Netherlands and Belgium.\n\nThe gap is simple: the person wearing the glasses agreed to Meta's terms. Everyone in frame didn't.\n\nSource: 404 Media, Oct 29, 2026; RetailDetail, Oct 2, 2026.\n\n#privacy #dataprivacy #tosmonitor #meta #smartglasses #rayban #consent #surveillance",
+      "cover_query": "smart glasses",
+      "source_type": "manual",
+      "post_source": "manual/meta-glasses-senate-inquiry_post.json",
+      "approved": false,
+      "publish_to_site": true,
+      "priority": 1,
+      "caption_field": "caption_rendered",
+      "configured_slide_folder": "2026-11-02_meta-glasses-senate-inquiry",
+      "slide_folder": "2026-11-02_meta-glasses-senate-inquiry",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-glasses-senate-inquiry/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-glasses-senate-inquiry/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-glasses-senate-inquiry/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-glasses-senate-inquiry/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-glasses-senate-inquiry/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-glasses-senate-inquiry/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-glasses-senate-inquiry/07_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_verdict.png",
+        "06_action.png",
+        "07_outro.png"
+      ],
+      "slide_count": 7,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "Two U.S. senators, Ron Wyden and Ed Markey, have opened an inquiry into Meta's camera glasses.\n\nTheir letter asks what safeguards stop the glasses from capturing intimate images without consent, whether Meta studied their potential for voyeurism, what footage is used to train its AI, and whether people who get captured can ask for their data to be deleted.\n\nThe backdrop: months of reports of people filmed in public and at work without knowing, then finding themselves on TikTok or Instagram. Earlier this year, journalists found contract data labelers in Kenya reviewing uncensored footage from the glasses. Meta ended that contract. In October, Dutch eyewear chain Hans Anders stopped selling the glasses in the Netherlands and Belgium.\n\nThe gap is simple: the person wearing the glasses agreed to Meta's terms. Everyone in frame didn't.\n\nSource: 404 Media, Oct 29, 2026; RetailDetail, Oct 2, 2026.\n\n#privacy #dataprivacy #tosmonitor #meta #smartglasses #rayban #consent #surveillance",
+      "caption_sha256": "ddc7a2464336688465d1e680b27a888722c8203b4c767760e40b520eecd06d9d",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "id": "2026-11-02_flock-safety-court-ruling",
+      "date": "2026-11-02",
+      "app": "Flock Safety",
+      "doc": "Federal Court Ruling",
+      "post_type": "tldr",
+      "accent": "#C2452D",
+      "headline": "A federal judge just called Flock 'indiscriminate mass surveillance.'",
+      "effective": "Ruled October 2026",
+      "changes": [
+        "An Oklahoma deputy searched a driver's plate in Flock with no warrant",
+        "The judge found no apparent reason beyond her California plates",
+        "He used her Flock travel history to justify searching her car",
+        "Judge Sara Hill ruled the search violated the Fourth Amendment",
+        "Everything found after the Flock search was thrown out",
+        "Not binding precedent, but one of the first federal rulings of its kind"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Flock logs every car that passes its cameras, all the time. This ruling says pulling up someone's travel history without a warrant can cross a constitutional line. One court, but a real crack in the 'public road, no privacy' argument.",
+      "actions": [
+        "Check deflock.org for cameras mapped near you",
+        "Look up your police department's Flock Transparency Portal",
+        "Ask your city council if Flock searches need a warrant"
+      ],
+      "categories": [
+        "data_retention",
+        "third_party_sharing"
+      ],
+      "caption_rendered": "A federal judge in Oklahoma has ruled that a police search of the Flock license plate network was unconstitutional.\n\nA sheriff's deputy looked up a woman's plate in Flock without a warrant, with no apparent reason beyond the car's California plates. He then used her travel history from the camera network to help justify searching her car. Judge Sara Hill found that violated the Fourth Amendment, described Flock as indiscriminate mass surveillance, and suppressed everything found after the search.\n\nIt isn't binding precedent. But it's one of the first times a federal judge has called a Flock search unconstitutional, and it lands in a year of backlash: Florida and Texas have moved to stop using Flock, and Sen. Bernie Sanders has introduced the Block Flock Act to bar federal agencies from using plate readers.\n\nSource: TechCrunch, Oct 3, 2026.\n\n#privacy #dataprivacy #tosmonitor #flocksafety #alpr #licenseplatereader #fourthamendment #surveillance",
+      "source_type": "manual",
+      "post_source": "manual/flock-safety-court-ruling_post.json",
+      "approved": false,
+      "publish_to_site": true,
+      "priority": 2,
+      "caption_field": "caption_rendered",
+      "configured_slide_folder": "2026-11-02_flock-safety-court-ruling",
+      "slide_folder": "2026-11-02_flock-safety-court-ruling",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_flock-safety-court-ruling/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_flock-safety-court-ruling/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_flock-safety-court-ruling/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_flock-safety-court-ruling/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_flock-safety-court-ruling/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_flock-safety-court-ruling/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_flock-safety-court-ruling/07_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_verdict.png",
+        "06_action.png",
+        "07_outro.png"
+      ],
+      "slide_count": 7,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "A federal judge in Oklahoma has ruled that a police search of the Flock license plate network was unconstitutional.\n\nA sheriff's deputy looked up a woman's plate in Flock without a warrant, with no apparent reason beyond the car's California plates. He then used her travel history from the camera network to help justify searching her car. Judge Sara Hill found that violated the Fourth Amendment, described Flock as indiscriminate mass surveillance, and suppressed everything found after the search.\n\nIt isn't binding precedent. But it's one of the first times a federal judge has called a Flock search unconstitutional, and it lands in a year of backlash: Florida and Texas have moved to stop using Flock, and Sen. Bernie Sanders has introduced the Block Flock Act to bar federal agencies from using plate readers.\n\nSource: TechCrunch, Oct 3, 2026.\n\n#privacy #dataprivacy #tosmonitor #flocksafety #alpr #licenseplatereader #fourthamendment #surveillance",
+      "caption_sha256": "7e0e2d56c83a17f3281d20c6e490782bee10ff3e3132ae4ac2319c7bb02616e7",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "id": "2026-11-02_apple-ios-27-2-age-verification",
+      "date": "2026-11-02",
+      "app": "Apple",
+      "doc": "iOS 27.2 Age Verification",
+      "post_type": "tldr",
+      "accent": "#0071E3",
+      "headline": "Your iPhone can now check your age with a selfie.",
+      "effective": "Rolling out in iOS 27.2",
+      "changes": [
+        "iOS 27.2 adds a selfie option to prove you're an adult",
+        "An AI model estimates your age, on-device and in Apple's Private Cloud Compute",
+        "Apple says the selfie is deleted once your age is confirmed",
+        "Other options: account age, a credit card (not debit), or a government ID scan",
+        "Required where laws demand it: UK, Australia, Brazil, Singapore, South Korea, Texas"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Better than handing your passport to a third-party vendor: one used by Discord leaked about 70,000 IDs. But age estimation always gets some adults wrong, and age-check laws keep spreading.",
+      "actions": [
+        "Asked to verify? The selfie exposes less than an ID scan",
+        "Outside those regions, there's nothing to do yet",
+        "Be wary of apps that ask you to upload ID directly"
+      ],
+      "categories": [
+        "permissions",
+        "data_retention"
+      ],
+      "caption_rendered": "iOS 27.2 adds a new way to prove you're an adult on your Apple Account: take a selfie.\n\nAn AI model estimates your age, running on your device and on Apple's Private Cloud Compute, and Apple says the selfie is deleted once your age is confirmed. The older options are still there: an account that already meets the age bar, a credit card (debit cards don't count), or scanning a passport, driver's license or government ID.\n\nFor now, this only matters if you're somewhere that requires age checks: the UK, Australia, Brazil, Singapore, South Korea and Texas.\n\nWhy it matters: age verification is spreading, and the usual way of doing it means sending a copy of your ID to a vendor. One vendor Discord used leaked about 70,000 ID images. A check that never stores your face is the less risky option. It's still a model guessing your age, though, and every one of those gets some adults wrong.\n\nSource: Privacy Guides, Oct 29, 2026.\n\n#privacy #dataprivacy #tosmonitor #apple #ios #ageverification #biometrics #iphone",
+      "cover_query": "person taking selfie phone",
+      "source_type": "manual",
+      "post_source": "manual/apple-ios-27-2-age-verification_post.json",
+      "approved": false,
+      "publish_to_site": true,
+      "priority": 3,
+      "caption_field": "caption_rendered",
+      "configured_slide_folder": "2026-11-02_apple-ios-27-2-age-verification",
+      "slide_folder": "2026-11-02_apple-ios-27-2-age-verification",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_apple-ios-27-2-age-verification/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_apple-ios-27-2-age-verification/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_apple-ios-27-2-age-verification/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_apple-ios-27-2-age-verification/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_apple-ios-27-2-age-verification/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_apple-ios-27-2-age-verification/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_apple-ios-27-2-age-verification/07_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_verdict.png",
+        "06_action.png",
+        "07_outro.png"
+      ],
+      "slide_count": 7,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "iOS 27.2 adds a new way to prove you're an adult on your Apple Account: take a selfie.\n\nAn AI model estimates your age, running on your device and on Apple's Private Cloud Compute, and Apple says the selfie is deleted once your age is confirmed. The older options are still there: an account that already meets the age bar, a credit card (debit cards don't count), or scanning a passport, driver's license or government ID.\n\nFor now, this only matters if you're somewhere that requires age checks: the UK, Australia, Brazil, Singapore, South Korea and Texas.\n\nWhy it matters: age verification is spreading, and the usual way of doing it means sending a copy of your ID to a vendor. One vendor Discord used leaked about 70,000 ID images. A check that never stores your face is the less risky option. It's still a model guessing your age, though, and every one of those gets some adults wrong.\n\nSource: Privacy Guides, Oct 29, 2026.\n\n#privacy #dataprivacy #tosmonitor #apple #ios #ageverification #biometrics #iphone",
+      "caption_sha256": "636331529bc5ea4b9eee1abff37b951932cbb92a4eb4b22e57f80dbfda9e8988",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "id": "2026-11-02_meta-muse-shared-chats",
+      "date": "2026-11-02",
+      "app": "Meta Muse",
+      "doc": "Shared Chat Links",
+      "post_type": "tldr",
+      "accent": "#0467DF",
+      "headline": "Shared Muse chats could be found by anyone.",
+      "effective": "Sharing paused October 20, 2026",
+      "changes": [
+        "Muse is Meta's personal AI agent, launched September 8 in its own app and WhatsApp",
+        "Share links put the chat's title right in the web address",
+        "Public DNS records logged those addresses. Researchers found 6,800+ of them",
+        "The pages opened with no login",
+        "Some held a loan application, a revenue review, and partial bank details",
+        "Meta paused sharing. The titles remain in DNS history"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Most exposed chats were harmless. But 'share' quietly worked like 'publish,' and the titles can't be pulled back out of public records. Meta hasn't said whether it will tell affected users.",
+      "actions": [
+        "Treat any shared AI chat link as public",
+        "Keep names, numbers and deals out of chat titles",
+        "Review any Muse chats you've shared"
+      ],
+      "categories": [
+        "third_party_sharing",
+        "data_retention"
+      ],
+      "caption_rendered": "Meta has paused chat sharing in Muse, its personal AI agent, after researchers found shared conversations could be discovered by people who were never sent the link.\n\nHow it happened: each share link put the chat's title into the web address. Public DNS records logged those addresses whenever a link was opened, so security firm Claroc pulled up more than 6,800 of them with a single query. The pages opened without a login.\n\nMost were harmless. A few held prep notes for a confidential executive-search call, an internal revenue review, a small business loan application, and a to-do list with partial bank account details.\n\nMeta paused sharing on October 20 while it reviews the report. It hasn't said whether existing shares will be deleted or whether affected users will hear from it. The titles themselves stay in DNS history.\n\nSource: Ars Technica via PPC Land, Oct 20, 2026.\n\n#privacy #dataprivacy #tosmonitor #meta #muse #ai #aiprivacy #dataleak",
+      "cover_query": "person typing phone chat",
+      "source_type": "manual",
+      "post_source": "manual/meta-muse-shared-chats_post.json",
+      "approved": false,
+      "publish_to_site": true,
+      "priority": 4,
+      "caption_field": "caption_rendered",
+      "configured_slide_folder": "2026-11-02_meta-muse-shared-chats",
+      "slide_folder": "2026-11-02_meta-muse-shared-chats",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-muse-shared-chats/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-muse-shared-chats/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-muse-shared-chats/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-muse-shared-chats/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-muse-shared-chats/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-muse-shared-chats/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_meta-muse-shared-chats/07_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_verdict.png",
+        "06_action.png",
+        "07_outro.png"
+      ],
+      "slide_count": 7,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "Meta has paused chat sharing in Muse, its personal AI agent, after researchers found shared conversations could be discovered by people who were never sent the link.\n\nHow it happened: each share link put the chat's title into the web address. Public DNS records logged those addresses whenever a link was opened, so security firm Claroc pulled up more than 6,800 of them with a single query. The pages opened without a login.\n\nMost were harmless. A few held prep notes for a confidential executive-search call, an internal revenue review, a small business loan application, and a to-do list with partial bank account details.\n\nMeta paused sharing on October 20 while it reviews the report. It hasn't said whether existing shares will be deleted or whether affected users will hear from it. The titles themselves stay in DNS history.\n\nSource: Ars Technica via PPC Land, Oct 20, 2026.\n\n#privacy #dataprivacy #tosmonitor #meta #muse #ai #aiprivacy #dataleak",
+      "caption_sha256": "b6cbe11796e255a60ff01cec6e6ac75aefcca9e94484f77e0ce4cda9691dc356",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "id": "2026-11-02_google-privacy-gmail-ads",
+      "date": "2026-11-02",
+      "app": "Google",
+      "doc": "Privacy Policy",
+      "post_type": "tldr",
+      "accent": "#4285F4",
+      "headline": "Your Gmail and Photos can now shape ads, if they're connected.",
+      "effective": "Effective October 16, 2026",
+      "changes": [
+        "Applies if you let Search or Gemini access Gmail, Photos, Drive or other apps",
+        "Search can then use that data to personalize content, including ads",
+        "Google says ads won't be based directly on Gmail or Photos",
+        "But they can draw on summaries and inferences from them",
+        "Advertisers don't get access to your inbox or photos",
+        "Disconnecting an app doesn't delete what Search already has"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Connecting your apps is opt-in, but the policy describes no separate consent for the ad use. Since 2021, Google's policy said Gmail, Drive and Photos content stayed out of ads. That promise now has an exception.",
+      "actions": [
+        "Check if Gmail and Photos are connected to Search or Gemini",
+        "Review your ad settings in My Ad Center",
+        "Disconnecting stops new access, not what's already collected"
+      ],
+      "categories": [
+        "third_party_sharing",
+        "permissions"
+      ],
+      "caption_rendered": "Google's privacy policy changed on October 16, and one line matters for your inbox.\n\nIf you let Search or Gemini access other Google apps (Gmail, Photos, Drive and more), Search services can now use that data to personalize what you see, ads included. Google's help page says ads won't be based directly on your email or photos, but they can draw on summaries, excerpts and inferences from them. Advertisers don't see your inbox.\n\nWhy it stands out: since 2021, Google's policy said it doesn't personalize ads using content from Gmail, Drive or Photos. That's now carved out for connected apps.\n\nTwo details worth knowing. Connecting apps is opt-in, but the policy doesn't describe a separate yes for ads. And disconnecting an app doesn't delete data Search already holds.\n\nSource: Google Privacy Policy (Oct 16, 2026), via PPC Land.\n\n#privacy #dataprivacy #tosmonitor #google #gmail #googlephotos #gemini #ads",
+      "cover_query": "email inbox laptop",
+      "source_type": "manual",
+      "post_source": "manual/google-privacy-gmail-ads_post.json",
+      "approved": false,
+      "publish_to_site": true,
+      "priority": 5,
+      "caption_field": "caption_rendered",
+      "configured_slide_folder": "2026-11-02_google-privacy-gmail-ads",
+      "slide_folder": "2026-11-02_google-privacy-gmail-ads",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_google-privacy-gmail-ads/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_google-privacy-gmail-ads/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_google-privacy-gmail-ads/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_google-privacy-gmail-ads/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_google-privacy-gmail-ads/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_google-privacy-gmail-ads/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_google-privacy-gmail-ads/07_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_verdict.png",
+        "06_action.png",
+        "07_outro.png"
+      ],
+      "slide_count": 7,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "Google's privacy policy changed on October 16, and one line matters for your inbox.\n\nIf you let Search or Gemini access other Google apps (Gmail, Photos, Drive and more), Search services can now use that data to personalize what you see, ads included. Google's help page says ads won't be based directly on your email or photos, but they can draw on summaries, excerpts and inferences from them. Advertisers don't see your inbox.\n\nWhy it stands out: since 2021, Google's policy said it doesn't personalize ads using content from Gmail, Drive or Photos. That's now carved out for connected apps.\n\nTwo details worth knowing. Connecting apps is opt-in, but the policy doesn't describe a separate yes for ads. And disconnecting an app doesn't delete data Search already holds.\n\nSource: Google Privacy Policy (Oct 16, 2026), via PPC Land.\n\n#privacy #dataprivacy #tosmonitor #google #gmail #googlephotos #gemini #ads",
+      "caption_sha256": "25f7d06ad5ef8e0b080cea49a307b58d4aff646880494e3f63526fd1fe2136e5",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
       "site_status": "approved"
     },
     {
@@ -4260,8 +4592,8 @@
       "site_status": "requires_review"
     }
   ],
-  "total": 66,
-  "queued_count": 2,
+  "total": 71,
+  "queued_count": 7,
   "published_count": 44,
   "baseline_count": 6,
   "held_count": 2

@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Flock Safety)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+A federal judge just called Flock 'indiscriminate mass surveillance.'. An Oklahoma deputy searched a driver's plate in Flock with no warrant The judge found no apparent reason beyond her California plates He used her Flock travel history to justify searching her car Judge Sara Hill ruled the search violated the Fourth Amendment Everything found after the Flock search was thrown out Not binding precedent, but one of the first federal rulings of its kind Our verdict: important. Flock logs every car that passes its cameras, all the time. This ruling says pulling up someone's travel history without a warrant can cross a constitutional line. One court, but a real crack in the 'public road, no privacy' argument. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #C2452D accent lighting looks at the
+camera and says: 'A federal judge just called Flock 'indiscriminate mass surveillance.'. Flock logs every car that passes its cameras, all the time. This ruling says pulling up someone's travel history without a warrant can cross a constitutional line. One court, but a real crack in the 'public road, no privacy' argument.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the policy text.

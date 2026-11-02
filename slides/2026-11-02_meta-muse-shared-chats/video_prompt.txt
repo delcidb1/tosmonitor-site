@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Meta Muse)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Shared Muse chats could be found by anyone.. Muse is Meta's personal AI agent, launched September 8 in its own app and WhatsApp Share links put the chat's title right in the web address Public DNS records logged those addresses. Researchers found 6,800+ of them The pages opened with no login Some held a loan application, a revenue review, and partial bank details Meta paused sharing. The titles remain in DNS history Our verdict: important. Most exposed chats were harmless. But 'share' quietly worked like 'publish,' and the titles can't be pulled back out of public records. Meta hasn't said whether it will tell affected users. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #0467DF accent lighting looks at the
+camera and says: 'Shared Muse chats could be found by anyone.. Most exposed chats were harmless. But 'share' quietly worked like 'publish,' and the titles can't be pulled back out of public records. Meta hasn't said whether it will tell affected users.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the policy text.

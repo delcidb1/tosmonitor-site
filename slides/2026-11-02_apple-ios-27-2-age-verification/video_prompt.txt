@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Apple)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Your iPhone can now check your age with a selfie.. iOS 27.2 adds a selfie option to prove you're an adult An AI model estimates your age, on-device and in Apple's Private Cloud Compute Apple says the selfie is deleted once your age is confirmed Other options: account age, a credit card (not debit), or a government ID scan Required where laws demand it: UK, Australia, Brazil, Singapore, South Korea, Texas Our verdict: worth knowing. Better than handing your passport to a third-party vendor: one used by Discord leaked about 70,000 IDs. But age estimation always gets some adults wrong, and age-check laws keep spreading. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #0071E3 accent lighting looks at the
+camera and says: 'Your iPhone can now check your age with a selfie.. Better than handing your passport to a third-party vendor: one used by Discord leaked about 70,000 IDs. But age estimation always gets some adults wrong, and age-check laws keep spreading.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the policy text.

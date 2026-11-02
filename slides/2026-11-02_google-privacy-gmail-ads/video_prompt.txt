@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Google)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Your Gmail and Photos can now shape ads, if they're connected.. Applies if you let Search or Gemini access Gmail, Photos, Drive or other apps Search can then use that data to personalize content, including ads Google says ads won't be based directly on Gmail or Photos But they can draw on summaries and inferences from them Advertisers don't get access to your inbox or photos Disconnecting an app doesn't delete what Search already has Our verdict: worth knowing. Connecting your apps is opt-in, but the policy describes no separate consent for the ad use. Since 2021, Google's policy said Gmail, Drive and Photos content stayed out of ads. That promise now has an exception. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #4285F4 accent lighting looks at the
+camera and says: 'Your Gmail and Photos can now shape ads, if they're connected.. Connecting your apps is opt-in, but the policy describes no separate consent for the ad use. Since 2021, Google's policy said Gmail, Drive and Photos content stayed out of ads. That promise now has an exception.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the policy text.
