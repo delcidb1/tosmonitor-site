@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-02_roblox-privacy",
+    "app": "Roblox",
+    "accent": "#E8192C",
+    "headline": "Roblox rewrites its privacy policy for kids",
+    "subhead": "Parents get new rights, but data sharing expands",
+    "effective": "Effective November 1, 2026",
+    "changes": [
+      "Parents get explicit COPPA rights to access, delete, or stop use of kids' data",
+      "Facial age-estimation selfies explained in more detail; deleted after use",
+      "Parent email deletion window extended from 24 hours to 7 days if linking fails",
+      "Roblox can now share user data with researchers, potentially including personal info"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Several meaningful changes affect children's data and parental controls, plus a new researcher data-sharing pathway worth noting.",
+    "actions": [
+      "Parents: link your account to your child's to access new parental controls",
+      "Review Roblox privacy settings and check your ad personalization preferences",
+      "If concerned about researcher data sharing, submit a data request via Roblox support"
+    ],
+    "categories": [
+      {
+        "tag": "data_retention",
+        "explanation": "The window before Roblox deletes an unlinked parent email address was extended from 24 hours to 7 days, meaning parent contact details are held longer when the account-linking process is not completed."
+      },
+      {
+        "tag": "third_party_sharing",
+        "explanation": "A new section explicitly states Roblox may provide researchers with access to platform information that in some cases may include personal information, representing a new category of third-party data recipient."
+      }
+    ],
+    "date": "2026-11-02",
+    "slide_folder": "2026-11-02_roblox-privacy",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "diffs/2026-11-02_roblox-privacy_post.json",
+    "effective_date": "2026-11-02",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://raw.githubusercontent.com/OpenTermsArchive/contrib-versions/main/Roblox/Privacy%20Policy.md",
+    "key_changes": []
+  },
+  {
     "id": "2026-10-31_breach_drivewealth",
     "app": "DriveWealth",
     "doc": "Data Breach",
