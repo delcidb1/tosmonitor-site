@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-03T20:33:32Z",
+  "generated_at": "2026-11-03T20:42:54Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3110,6 +3110,89 @@
       "site_status": "approved"
     },
     {
+      "id": "2026-11-03_breach_harvard",
+      "date": "2026-11-03",
+      "app": "Harvard",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://haveibeenpwned.com/PwnedWebsites#Harvard",
+      "breach_source": "Have I Been Pwned",
+      "breach_record_id": "Harvard",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-03",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Harvard",
+        "Listed by: Have I Been Pwned on 2026-11-03",
+        "Website: harvard.edu",
+        "Date(s) of breach: 2025-11-18",
+        "People affected: 850,537 email addresses were in the leaked data",
+        "Data exposed: Charitable donations, Citizenship statuses, Dates of birth, Education levels, Email addresses, Employers, Ethnicities, Family members' names, Genders, Job titles, Marital statuses, Names, Occupations, Phone numbers, Physical addresses, Places of birth, Salutations, Social media profiles",
+        "Details: In November 2025, Harvard University suffered a data breach later linked to a ShinyHunters \"pay or leak\" extortion attempt . The data contained 851k unique email addresses relating to the university's alumni and fundraising systems, along with extensive profile information for donors, alumni, parents and some faculty, staff and students. In Harvard's disclosure notice , the university stated that the breach impacted \"personal information such as email addresses, telephone numbers, home and business addresses, event attendance, details of donations to the University, and other biographical information pertaining to University fundraising and alumni engagement activities\"."
+      ],
+      "materiality": "850,537 accounts in HIBP",
+      "headline": "Harvard data breach hits 850,000 people",
+      "subhead": "Alumni and donor profiles exposed in extortion attempt",
+      "changes": [
+        "850,537 email addresses appeared in the leaked data",
+        "Charitable donations, dates of birth, and ethnicities were exposed",
+        "Family members' names, physical addresses, and phone numbers included",
+        "Data linked to alumni, donors, parents, faculty, staff, and students"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Highly personal profile data — including donations, ethnicity, and family names — was exposed for over 850,000 people.",
+      "actions": [
+        "Check haveibeenpwned.com to see if your email was exposed",
+        "Watch for phishing emails targeting Harvard alumni or donors",
+        "Consider placing a fraud alert if you are an affected donor"
+      ],
+      "caption": "Harvard University suffered a data breach in November 2025 that exposed personal information for over 850,000 people connected to its alumni and fundraising systems. The leaked data included names, email addresses, phone numbers, home and business addresses, charitable donation details, dates of birth, ethnicities, family members' names, job titles, and social media profiles, among other biographical details. The breach was later linked to a ShinyHunters extortion attempt. Those affected include alumni, donors, parents, and some faculty, staff, and students. Harvard disclosed the breach and confirmed the exposure of fundraising and alumni engagement records. Source: Have I Been Pwned.",
+      "hashtags": [
+        "HarvardBreach",
+        "DataBreach",
+        "AlumniData",
+        "ShinyHunters",
+        "PersonalData",
+        "DataPrivacy",
+        "CyberSecurity",
+        "HigherEducation"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "Harvard University suffered a data breach in November 2025 that exposed personal information for over 850,000 people connected to its alumni and fundraising systems. The leaked data included names, email addresses, phone numbers, home and business addresses, charitable donation details, dates of birth, ethnicities, family members' names, job titles, and social media profiles, among other biographical details. The breach was later linked to a ShinyHunters extortion attempt. Those affected include alumni, donors, parents, and some faculty, staff, and students. Harvard disclosed the breach and confirmed the exposure of fundraising and alumni engagement records. Source: Have I Been Pwned.\n\n#HarvardBreach #DataBreach #AlumniData #ShinyHunters #PersonalData #DataPrivacy #CyberSecurity #HigherEducation #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-03_breach_harvard_post.json",
+      "slide_folder": "2026-11-03_breach_harvard",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-03_breach_harvard/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-03_breach_harvard/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-03_breach_harvard/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-03_breach_harvard/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-03_breach_harvard/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-03_breach_harvard/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "Harvard University suffered a data breach in November 2025 that exposed personal information for over 850,000 people connected to its alumni and fundraising systems. The leaked data included names, email addresses, phone numbers, home and business addresses, charitable donation details, dates of birth, ethnicities, family members' names, job titles, and social media profiles, among other biographical details. The breach was later linked to a ShinyHunters extortion attempt. Those affected include alumni, donors, parents, and some faculty, staff, and students. Harvard disclosed the breach and confirmed the exposure of fundraising and alumni engagement records. Source: Have I Been Pwned.\n\n#HarvardBreach #DataBreach #AlumniData #ShinyHunters #PersonalData #DataPrivacy #CyberSecurity #HigherEducation #TOSMonitor",
+      "caption_sha256": "ba3afbb3fe82955a56081b7164376952d8120463f3b4f0ddbce469dc6f04766f",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -4592,7 +4675,7 @@
       "site_status": "requires_review"
     }
   ],
-  "total": 71,
+  "total": 72,
   "queued_count": 7,
   "published_count": 44,
   "baseline_count": 6,
