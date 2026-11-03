@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-03T20:42:54Z",
+  "generated_at": "2026-11-03T21:16:45Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -201,10 +201,13 @@
       "media_error": "",
       "instagram_caption": "Two U.S. senators, Ron Wyden and Ed Markey, have opened an inquiry into Meta's camera glasses.\n\nTheir letter asks what safeguards stop the glasses from capturing intimate images without consent, whether Meta studied their potential for voyeurism, what footage is used to train its AI, and whether people who get captured can ask for their data to be deleted.\n\nThe backdrop: months of reports of people filmed in public and at work without knowing, then finding themselves on TikTok or Instagram. Earlier this year, journalists found contract data labelers in Kenya reviewing uncensored footage from the glasses. Meta ended that contract. In October, Dutch eyewear chain Hans Anders stopped selling the glasses in the Netherlands and Belgium.\n\nThe gap is simple: the person wearing the glasses agreed to Meta's terms. Everyone in frame didn't.\n\nSource: 404 Media, Oct 29, 2026; RetailDetail, Oct 2, 2026.\n\n#privacy #dataprivacy #tosmonitor #meta #smartglasses #rayban #consent #surveillance",
       "caption_sha256": "ddc7a2464336688465d1e680b27a888722c8203b4c767760e40b520eecd06d9d",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-03T00:06:48Z",
+      "instagram_post_id": "18097958234267895",
+      "instagram_permalink": "https://www.instagram.com/p/DfQjlGnm0qq/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -4676,8 +4679,8 @@
     }
   ],
   "total": 72,
-  "queued_count": 7,
-  "published_count": 44,
+  "queued_count": 6,
+  "published_count": 45,
   "baseline_count": 6,
   "held_count": 2
 }
