@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-03T21:16:45Z",
+  "generated_at": "2026-11-04T20:43:31Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -203,8 +203,8 @@
       "caption_sha256": "ddc7a2464336688465d1e680b27a888722c8203b4c767760e40b520eecd06d9d",
       "published": true,
       "published_at": "2026-11-03T00:06:48Z",
-      "instagram_post_id": "18097958234267895",
       "instagram_permalink": "https://www.instagram.com/p/DfQjlGnm0qq/",
+      "instagram_post_id": "18097958234267895",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
@@ -3196,6 +3196,152 @@
       "site_status": "requires_review"
     },
     {
+      "app": "Oura",
+      "accent": "#1a1a2e",
+      "headline": "Oura quietly shifted who controls your research data",
+      "subhead": "Your health study data may now have two controllers.",
+      "effective": "Updated November 04, 2026",
+      "changes": [
+        "Oura can now act as an independent controller of your research study data.",
+        "Previously, only the Research Sponsor was named as your data controller.",
+        "It's less clear who is fully responsible for your data rights in studies.",
+        "Privacy rights questions now directed to 'the controller' — not specifically the Sponsor."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Oura added itself as a possible independent controller of research data, diluting clear accountability for how your health data is handled in studies.",
+      "actions": [
+        "Read the Informed Consent Form carefully before joining any Oura study.",
+        "Ask explicitly who controls your data before enrolling in research.",
+        "Check Oura's privacy settings and limit research participation if concerned."
+      ],
+      "caption": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.",
+      "hashtags": [
+        "oura",
+        "ouraring",
+        "privacypolicy",
+        "healthdata",
+        "wearables",
+        "dataprotection",
+        "digitalhealth",
+        "privacyrights"
+      ],
+      "video_script": "If you use the Oura Research App, listen up. Oura just updated its privacy policy, and there is a meaningful change about who controls your health data in research studies. Before, the Research Sponsor was clearly the data controller. Now, Oura says it can also act as an independent controller of your research data. That shifts accountability in a way that is not totally clear cut. We call this worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Oura inserted itself as a potential independent controller of research data alongside the Research Sponsor, changing the data responsibility structure and potentially how your health data is used or shared."
+        }
+      ],
+      "caption_rendered": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.\n\n#oura #ouraring #privacypolicy #healthdata #wearables #dataprotection #digitalhealth #privacyrights #TOSMonitor",
+      "id": "2026-11-04_oura-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-11-04_oura-privacy_post.json",
+      "slide_folder": "2026-11-04_oura-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-04",
+      "priority": 100,
+      "instagram_caption": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.\n\n#oura #ouraring #privacypolicy #healthdata #wearables #dataprotection #digitalhealth #privacyrights #TOSMonitor",
+      "caption_sha256": "d9d18c23812d932068059690992935540e1ce91e3ad7fb0cecd11019658c2ef5",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
+      "app": "Uber",
+      "accent": "#000000",
+      "headline": "Uber adds AI agent rules to its Terms",
+      "subhead": "Bots can book rides — but you're on the hook",
+      "effective": "Effective 11/4/2026",
+      "changes": [
+        "New section governs AI agents (bots) acting on your behalf in Uber",
+        "You are fully liable for any order, payment, or booking an agent makes",
+        "Uber can block, suspend, or ban your account if an agent misbehaves",
+        "Credential-sharing with any agent is banned unless Uber explicitly approves it"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "AI booking agents are now a real possibility, but every mistake they make is legally your problem.",
+      "actions": [
+        "Check whether any third-party app has access to your Uber account",
+        "Do not share your Uber login with AI assistants or bots",
+        "Review Uber's new Approved Agent Program before using any automation tool"
+      ],
+      "caption": "Uber updated its Terms of Use on November 4, 2026, adding a brand-new section called Agent Terms that covers AI bots and automated tools acting on your behalf. In plain terms, if you let a third-party AI assistant book a ride, order food, or make a payment through your Uber account, you are personally responsible for whatever it does — including wrong addresses, missed bookings, and erroneous charges. Uber can block or ban any agent it has not approved, and it can suspend your account without notice if an agent violates its rules. You are also now explicitly forbidden from sharing your login credentials with any agent unless Uber has authorized it through an official program. If you use any automation or AI concierge service, check right now whether it touches your Uber account.",
+      "hashtags": [
+        "uber",
+        "aiagents",
+        "termsofservice",
+        "privacymatters",
+        "tosupdate",
+        "digitalrights",
+        "consumertech",
+        "appupdate"
+      ],
+      "video_script": "Uber just rewrote its Terms, and there is a big new section you need to know about. As of November 4th, Uber now has rules for AI agents — bots that book rides or order food on your behalf. Here is the catch: if that bot makes a mistake, you pay for it. Wrong address, bad order, missed booking — that is on you, not Uber. And if the bot breaks Uber's rules, Uber can shut down your account with zero notice. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "arbitration_waiver",
+          "explanation": "The existing mandatory arbitration and jury-trial waiver language remains and is now surfaced more prominently at the top of the updated terms, reinforcing that users cannot sue Uber in court."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "Uber now explicitly prohibits sharing account credentials with any agent or agent provider unless Uber has authorized that agent, adding a new restriction on how third-party tools may access your account."
+        }
+      ],
+      "caption_rendered": "Uber updated its Terms of Use on November 4, 2026, adding a brand-new section called Agent Terms that covers AI bots and automated tools acting on your behalf. In plain terms, if you let a third-party AI assistant book a ride, order food, or make a payment through your Uber account, you are personally responsible for whatever it does — including wrong addresses, missed bookings, and erroneous charges. Uber can block or ban any agent it has not approved, and it can suspend your account without notice if an agent violates its rules. You are also now explicitly forbidden from sharing your login credentials with any agent unless Uber has authorized it through an official program. If you use any automation or AI concierge service, check right now whether it touches your Uber account.\n\n#uber #aiagents #termsofservice #privacymatters #tosupdate #digitalrights #consumertech #appupdate #TOSMonitor",
+      "id": "2026-11-04_uber-terms",
+      "source_type": "diff",
+      "post_source": "diffs/2026-11-04_uber-terms_post.json",
+      "slide_folder": "2026-11-04_uber-terms",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_uber-terms/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_uber-terms/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_uber-terms/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_uber-terms/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_uber-terms/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_uber-terms/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-04",
+      "priority": 100,
+      "instagram_caption": "Uber updated its Terms of Use on November 4, 2026, adding a brand-new section called Agent Terms that covers AI bots and automated tools acting on your behalf. In plain terms, if you let a third-party AI assistant book a ride, order food, or make a payment through your Uber account, you are personally responsible for whatever it does — including wrong addresses, missed bookings, and erroneous charges. Uber can block or ban any agent it has not approved, and it can suspend your account without notice if an agent violates its rules. You are also now explicitly forbidden from sharing your login credentials with any agent unless Uber has authorized it through an official program. If you use any automation or AI concierge service, check right now whether it touches your Uber account.\n\n#uber #aiagents #termsofservice #privacymatters #tosupdate #digitalrights #consumertech #appupdate #TOSMonitor",
+      "caption_sha256": "9a9c0627c9e8c2bf885079482df0410afa961f6a4d22c08bacce7f82cc771c4e",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -4678,8 +4824,8 @@
       "site_status": "requires_review"
     }
   ],
-  "total": 72,
-  "queued_count": 6,
+  "total": 74,
+  "queued_count": 8,
   "published_count": 45,
   "baseline_count": 6,
   "held_count": 2

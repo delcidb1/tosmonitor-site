@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Oura)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+If you use the Oura Research App, listen up. Oura just updated its privacy policy, and there is a meaningful change about who controls your health data in research studies. Before, the Research Sponsor was clearly the data controller. Now, Oura says it can also act as an independent controller of your research data. That shifts accountability in a way that is not totally clear cut. We call this worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #1a1a2e accent lighting looks at the
+camera and says: 'Oura quietly shifted who controls your research data. Oura added itself as a possible independent controller of research data, diluting clear accountability for how your health data is handled in studies.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

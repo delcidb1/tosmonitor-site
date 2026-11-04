@@ -1,5 +1,107 @@
 [
   {
+    "id": "2026-11-04_uber-terms",
+    "app": "Uber",
+    "accent": "#000000",
+    "headline": "Uber adds AI agent rules to its Terms",
+    "subhead": "Bots can book rides \u2014 but you're on the hook",
+    "effective": "Effective 11/4/2026",
+    "changes": [
+      "New section governs AI agents (bots) acting on your behalf in Uber",
+      "You are fully liable for any order, payment, or booking an agent makes",
+      "Uber can block, suspend, or ban your account if an agent misbehaves",
+      "Credential-sharing with any agent is banned unless Uber explicitly approves it"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "AI booking agents are now a real possibility, but every mistake they make is legally your problem.",
+    "actions": [
+      "Check whether any third-party app has access to your Uber account",
+      "Do not share your Uber login with AI assistants or bots",
+      "Review Uber's new Approved Agent Program before using any automation tool"
+    ],
+    "categories": [
+      {
+        "tag": "arbitration_waiver",
+        "explanation": "The existing mandatory arbitration and jury-trial waiver language remains and is now surfaced more prominently at the top of the updated terms, reinforcing that users cannot sue Uber in court."
+      },
+      {
+        "tag": "permissions",
+        "explanation": "Uber now explicitly prohibits sharing account credentials with any agent or agent provider unless Uber has authorized that agent, adding a new restriction on how third-party tools may access your account."
+      }
+    ],
+    "date": "2026-11-04",
+    "slide_folder": "2026-11-04_uber-terms",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "diffs/2026-11-04_uber-terms_post.json",
+    "effective_date": "2026-11-04",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://www.uber.com/us/en/legal/general-terms-of-use/",
+    "key_changes": []
+  },
+  {
+    "id": "2026-11-04_oura-privacy",
+    "app": "Oura",
+    "accent": "#1a1a2e",
+    "headline": "Oura quietly shifted who controls your research data",
+    "subhead": "Your health study data may now have two controllers.",
+    "effective": "Updated November 04, 2026",
+    "changes": [
+      "Oura can now act as an independent controller of your research study data.",
+      "Previously, only the Research Sponsor was named as your data controller.",
+      "It's less clear who is fully responsible for your data rights in studies.",
+      "Privacy rights questions now directed to 'the controller' \u2014 not specifically the Sponsor."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Oura added itself as a possible independent controller of research data, diluting clear accountability for how your health data is handled in studies.",
+    "actions": [
+      "Read the Informed Consent Form carefully before joining any Oura study.",
+      "Ask explicitly who controls your data before enrolling in research.",
+      "Check Oura's privacy settings and limit research participation if concerned."
+    ],
+    "categories": [
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Oura inserted itself as a potential independent controller of research data alongside the Research Sponsor, changing the data responsibility structure and potentially how your health data is used or shared."
+      }
+    ],
+    "date": "2026-11-04",
+    "slide_folder": "2026-11-04_oura-privacy",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "diffs/2026-11-04_oura-privacy_post.json",
+    "effective_date": "2026-11-04",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://ouraring.com/privacy-policy",
+    "key_changes": []
+  },
+  {
     "id": "2026-11-02_roblox-privacy",
     "app": "Roblox",
     "accent": "#E8192C",
