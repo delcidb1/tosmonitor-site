@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-04T20:59:37Z",
+  "generated_at": "2026-11-04T21:29:50Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -270,10 +270,13 @@
       "media_error": "",
       "instagram_caption": "A federal judge in Oklahoma has ruled that a police search of the Flock license plate network was unconstitutional.\n\nA sheriff's deputy looked up a woman's plate in Flock without a warrant, with no apparent reason beyond the car's California plates. He then used her travel history from the camera network to help justify searching her car. Judge Sara Hill found that violated the Fourth Amendment, described Flock as indiscriminate mass surveillance, and suppressed everything found after the search.\n\nIt isn't binding precedent. But it's one of the first times a federal judge has called a Flock search unconstitutional, and it lands in a year of backlash: Florida and Texas have moved to stop using Flock, and Sen. Bernie Sanders has introduced the Block Flock Act to bar federal agencies from using plate readers.\n\nSource: TechCrunch, Oct 3, 2026.\n\n#privacy #dataprivacy #tosmonitor #flocksafety #alpr #licenseplatereader #fourthamendment #surveillance",
       "caption_sha256": "7e0e2d56c83a17f3281d20c6e490782bee10ff3e3132ae4ac2319c7bb02616e7",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-04T00:06:25Z",
+      "instagram_post_id": "17881753590554596",
+      "instagram_permalink": "https://www.instagram.com/p/DfTIVCVjgYg/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -4825,8 +4828,8 @@
     }
   ],
   "total": 74,
-  "queued_count": 8,
-  "published_count": 45,
+  "queued_count": 7,
+  "published_count": 46,
   "baseline_count": 6,
   "held_count": 2
 }

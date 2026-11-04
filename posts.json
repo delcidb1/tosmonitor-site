@@ -340,14 +340,14 @@
       "06_action.png",
       "07_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "manual/flock-safety-court-ruling_post.json",
     "effective_date": "2026-11-02",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DfTIVCVjgYg/",
+    "instagram_post_id": "17881753590554596",
+    "published_at": "2026-11-04T00:06:25Z"
   },
   {
     "id": "2026-11-02_apple-ios-27-2-age-verification",
