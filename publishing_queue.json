@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-06T20:28:17Z",
+  "generated_at": "2026-11-06T21:04:19Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -339,10 +339,13 @@
       "media_error": "",
       "instagram_caption": "iOS 27.2 adds a new way to prove you're an adult on your Apple Account: take a selfie.\n\nAn AI model estimates your age, running on your device and on Apple's Private Cloud Compute, and Apple says the selfie is deleted once your age is confirmed. The older options are still there: an account that already meets the age bar, a credit card (debit cards don't count), or scanning a passport, driver's license or government ID.\n\nFor now, this only matters if you're somewhere that requires age checks: the UK, Australia, Brazil, Singapore, South Korea and Texas.\n\nWhy it matters: age verification is spreading, and the usual way of doing it means sending a copy of your ID to a vendor. One vendor Discord used leaked about 70,000 ID images. A check that never stores your face is the less risky option. It's still a model guessing your age, though, and every one of those gets some adults wrong.\n\nSource: Privacy Guides, Oct 29, 2026.\n\n#privacy #dataprivacy #tosmonitor #apple #ios #ageverification #biometrics #iphone",
       "caption_sha256": "636331529bc5ea4b9eee1abff37b951932cbb92a4eb4b22e57f80dbfda9e8988",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-06T00:18:02Z",
+      "instagram_post_id": "17878660383633909",
+      "instagram_permalink": "https://www.instagram.com/p/DfYTIfujiVw/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -4899,8 +4902,8 @@
     }
   ],
   "total": 75,
-  "queued_count": 8,
-  "published_count": 46,
+  "queued_count": 7,
+  "published_count": 47,
   "baseline_count": 6,
   "held_count": 2
 }
