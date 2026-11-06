@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-06T19:38:55Z",
+  "generated_at": "2026-11-06T20:19:13Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3345,6 +3345,77 @@
       "site_status": "approved"
     },
     {
+      "app": "Roku",
+      "accent": "#6F1AB1",
+      "headline": "Roku now shares your data with Fox affiliates",
+      "subhead": "A corporate rebrand with real data-sharing consequences.",
+      "effective": "Effective November 6, 2026",
+      "changes": [
+        "Roku rebranded from Roku Inc. to Roku LLC, now under Fox Corporation's umbrella.",
+        "Fox-linked 'Company Affiliates' added as explicit recipients of your viewing, location, and browsing data.",
+        "Affiliates can now use your data for ads and analytics on their own services, not just Roku's.",
+        "Old pledge that affiliates must honor Roku's privacy policy was quietly removed."
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Your viewing habits, location, and browsing data can now flow to Fox-linked companies for their own ad targeting, with no stated policy guardrails.",
+      "actions": [
+        "Visit Roku's 'Your Privacy Choices' page and opt out of data sharing.",
+        "Check your Roku device privacy settings and disable Content Viewing Disclosure.",
+        "Review Fox Corporation's affiliate list at foxcorporation.com to see who may receive your data."
+      ],
+      "caption": "Roku updated its privacy policy on November 6, 2026, and the changes go beyond a name change. Roku has rebranded from Roku Inc. to Roku LLC and is now explicitly tied to Fox Corporation's network of affiliated companies. The updated policy adds these 'Company Affiliates' as named recipients of your personal data across nearly every category, including your viewing history, browsing activity, location, audio data, and even sensitive information like racial or ethnic origin and health data. Those affiliates can use your information for their own advertising and analytics, not just Roku's. Perhaps most notably, the previous language requiring affiliates to honor Roku's privacy policy has been removed, leaving no stated guardrail on how they handle your data. If you are a Roku user, now is the time to visit your privacy settings and opt out of data sharing.",
+      "hashtags": [
+        "roku",
+        "foxcorporation",
+        "privacypolicy",
+        "dataSharing",
+        "streamingprivacy",
+        "cordcutters",
+        "privacyrights",
+        "toschange"
+      ],
+      "video_script": "Hey, Roku just updated its privacy policy and there is something you should know. Roku has rebranded under Fox Corporation, and the new policy explicitly names Fox-linked companies as recipients of your data. We are talking your watch history, location, browsing habits, even sensitive categories like health data. They can use it for their own ad targeting on their own services. And the old rule that affiliates had to follow Roku's privacy policy? Gone. This one is Important. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Fox Corporation-linked 'Company Affiliates' are newly named as recipients of users' viewing, location, browsing, audio, and sensitive personal data for advertising and analytics on their own platforms, expanding the pool of entities that receive Roku user data."
+        }
+      ],
+      "caption_rendered": "Roku updated its privacy policy on November 6, 2026, and the changes go beyond a name change. Roku has rebranded from Roku Inc. to Roku LLC and is now explicitly tied to Fox Corporation's network of affiliated companies. The updated policy adds these 'Company Affiliates' as named recipients of your personal data across nearly every category, including your viewing history, browsing activity, location, audio data, and even sensitive information like racial or ethnic origin and health data. Those affiliates can use your information for their own advertising and analytics, not just Roku's. Perhaps most notably, the previous language requiring affiliates to honor Roku's privacy policy has been removed, leaving no stated guardrail on how they handle your data. If you are a Roku user, now is the time to visit your privacy settings and opt out of data sharing.\n\n#roku #foxcorporation #privacypolicy #dataSharing #streamingprivacy #cordcutters #privacyrights #toschange #TOSMonitor",
+      "id": "2026-11-06_roku-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-11-06_roku-privacy_post.json",
+      "slide_folder": "2026-11-06_roku-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-06_roku-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-06_roku-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-06_roku-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-06_roku-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-06_roku-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-06_roku-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-06",
+      "priority": 100,
+      "instagram_caption": "Roku updated its privacy policy on November 6, 2026, and the changes go beyond a name change. Roku has rebranded from Roku Inc. to Roku LLC and is now explicitly tied to Fox Corporation's network of affiliated companies. The updated policy adds these 'Company Affiliates' as named recipients of your personal data across nearly every category, including your viewing history, browsing activity, location, audio data, and even sensitive information like racial or ethnic origin and health data. Those affiliates can use your information for their own advertising and analytics, not just Roku's. Perhaps most notably, the previous language requiring affiliates to honor Roku's privacy policy has been removed, leaving no stated guardrail on how they handle your data. If you are a Roku user, now is the time to visit your privacy settings and opt out of data sharing.\n\n#roku #foxcorporation #privacypolicy #dataSharing #streamingprivacy #cordcutters #privacyrights #toschange #TOSMonitor",
+      "caption_sha256": "a2305052b7c2babbcf92ba7a8ccd7b47345d6bda04a932b844d4eb2549a39bf1",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -4827,8 +4898,8 @@
       "site_status": "requires_review"
     }
   ],
-  "total": 74,
-  "queued_count": 7,
+  "total": 75,
+  "queued_count": 8,
   "published_count": 46,
   "baseline_count": 6,
   "held_count": 2

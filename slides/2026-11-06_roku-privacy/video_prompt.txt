@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Roku)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, Roku just updated its privacy policy and there is something you should know. Roku has rebranded under Fox Corporation, and the new policy explicitly names Fox-linked companies as recipients of your data. We are talking your watch history, location, browsing habits, even sensitive categories like health data. They can use it for their own ad targeting on their own services. And the old rule that affiliates had to follow Roku's privacy policy? Gone. This one is Important. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #6F1AB1 accent lighting looks at the
+camera and says: 'Roku now shares your data with Fox affiliates. Your viewing habits, location, and browsing data can now flow to Fox-linked companies for their own ad targeting, with no stated policy guardrails.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
