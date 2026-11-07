@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-07T18:50:05Z",
+  "generated_at": "2026-11-07T19:37:22Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -409,10 +409,13 @@
       "media_error": "",
       "instagram_caption": "Meta has paused chat sharing in Muse, its personal AI agent, after researchers found shared conversations could be discovered by people who were never sent the link.\n\nHow it happened: each share link put the chat's title into the web address. Public DNS records logged those addresses whenever a link was opened, so security firm Claroc pulled up more than 6,800 of them with a single query. The pages opened without a login.\n\nMost were harmless. A few held prep notes for a confidential executive-search call, an internal revenue review, a small business loan application, and a to-do list with partial bank account details.\n\nMeta paused sharing on October 20 while it reviews the report. It hasn't said whether existing shares will be deleted or whether affected users will hear from it. The titles themselves stay in DNS history.\n\nSource: Ars Technica via PPC Land, Oct 20, 2026.\n\n#privacy #dataprivacy #tosmonitor #meta #muse #ai #aiprivacy #dataleak",
       "caption_sha256": "b6cbe11796e255a60ff01cec6e6ac75aefcca9e94484f77e0ce4cda9691dc356",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-06T22:56:30Z",
+      "instagram_post_id": "18349051237271610",
+      "instagram_permalink": "https://www.instagram.com/p/DfattZJEdbN/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved"
     },
     {
@@ -4902,8 +4905,8 @@
     }
   ],
   "total": 75,
-  "queued_count": 7,
-  "published_count": 47,
+  "queued_count": 6,
+  "published_count": 48,
   "baseline_count": 6,
   "held_count": 2
 }
