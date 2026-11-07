@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-06T21:04:19Z",
+  "generated_at": "2026-11-07T00:04:28Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -341,8 +341,8 @@
       "caption_sha256": "636331529bc5ea4b9eee1abff37b951932cbb92a4eb4b22e57f80dbfda9e8988",
       "published": true,
       "published_at": "2026-11-06T00:18:02Z",
-      "instagram_post_id": "17878660383633909",
       "instagram_permalink": "https://www.instagram.com/p/DfYTIfujiVw/",
+      "instagram_post_id": "17878660383633909",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
