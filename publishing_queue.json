@@ -1,6 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-08T14:10:31Z",
+  "generated_at": "2026-11-08T15:22:34Z",
+  "post_date": "2026-11-08",
   "posts": [
     {
       "app": "Flock Safety",
@@ -74,7 +75,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-10-02_maryland-surveillance-pricing-law",
@@ -139,7 +142,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-11-02_meta-glasses-senate-inquiry",
@@ -208,7 +213,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-11-02_flock-safety-court-ruling",
@@ -277,7 +284,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-11-02_apple-ios-27-2-age-verification",
@@ -346,7 +355,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-11-02_meta-muse-shared-chats",
@@ -416,7 +427,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-11-02_google-privacy-gmail-ads",
@@ -483,7 +496,9 @@
       "publishable": true,
       "status": "queued",
       "instagram_status": "queued",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true
     },
     {
       "app": "Albertsons",
@@ -547,7 +562,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Best Buy",
@@ -607,7 +624,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Kroger",
@@ -671,7 +690,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "ShopRite",
@@ -735,7 +756,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-07-19_whatsapp",
@@ -761,7 +784,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Netflix",
@@ -811,7 +836,9 @@
       "publishable": false,
       "status": "baseline",
       "instagram_status": "baseline",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Robinhood",
@@ -860,7 +887,9 @@
       "publishable": false,
       "status": "baseline",
       "instagram_status": "baseline",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Discord",
@@ -911,7 +940,9 @@
       "publishable": false,
       "status": "baseline",
       "instagram_status": "baseline",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Facebook",
@@ -961,7 +992,9 @@
       "publishable": false,
       "status": "baseline",
       "instagram_status": "baseline",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Instagram",
@@ -1015,7 +1048,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-07-30_discord",
@@ -1041,7 +1076,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Google",
@@ -1092,7 +1129,9 @@
       "publishable": false,
       "status": "baseline",
       "instagram_status": "baseline",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Snapchat",
@@ -1156,7 +1195,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-08-08_amazon-privacy-privacy-policy",
@@ -1182,7 +1223,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-08-08_amazon-terms-privacy-policy",
@@ -1208,7 +1251,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-08-08_grubhub",
@@ -1234,7 +1279,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-08-08_whatsapp",
@@ -1260,7 +1307,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Steam",
@@ -1325,7 +1374,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-08-13_twitch",
@@ -1351,7 +1402,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Twitch",
@@ -1425,7 +1478,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Amazon",
@@ -1496,7 +1551,9 @@
       "publishable": false,
       "status": "baseline",
       "instagram_status": "baseline",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-08-15_whatsapp",
@@ -1523,7 +1580,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Robinhood",
@@ -1601,7 +1660,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Facebook",
@@ -1679,7 +1740,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Telegram",
@@ -1756,7 +1819,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Amazon",
@@ -1834,7 +1899,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Instagram",
@@ -1902,7 +1969,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Microsoft",
@@ -1984,7 +2053,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "X (Twitter)",
@@ -2062,7 +2133,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Uber",
@@ -2132,7 +2205,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Uber",
@@ -2206,7 +2281,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Uber",
@@ -2284,7 +2361,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Grubhub",
@@ -2358,7 +2437,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Google",
@@ -2424,7 +2505,9 @@
       "status": "held",
       "instagram_status": "held",
       "site_status": "approved",
-      "hold_reason": "minor_change"
+      "hold_reason": "minor_change",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Roblox",
@@ -2497,7 +2580,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Uber",
@@ -2571,7 +2656,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Google",
@@ -2653,7 +2740,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Nanit",
@@ -2720,7 +2809,9 @@
       "status": "held",
       "instagram_status": "held",
       "site_status": "approved",
-      "hold_reason": "minor_change"
+      "hold_reason": "minor_change",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Uber",
@@ -2798,7 +2889,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Uber",
@@ -2876,7 +2969,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "VIZIO",
@@ -2954,7 +3049,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-10-31_breach_drivewealth",
@@ -3044,7 +3141,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Roblox",
@@ -3119,7 +3218,9 @@
       "publishable": true,
       "status": "queued",
       "instagram_status": "queued",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true
     },
     {
       "id": "2026-11-03_breach_harvard",
@@ -3202,7 +3303,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Oura",
@@ -3273,7 +3376,9 @@
       "publishable": true,
       "status": "queued",
       "instagram_status": "queued",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true
     },
     {
       "app": "Uber",
@@ -3348,7 +3453,9 @@
       "publishable": true,
       "status": "queued",
       "instagram_status": "queued",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true
     },
     {
       "app": "Roku",
@@ -3419,7 +3526,9 @@
       "publishable": true,
       "status": "queued",
       "instagram_status": "queued",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -3492,7 +3601,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy",
@@ -3565,7 +3676,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-03_clause-really-means_2026-08-04_google-privacy",
@@ -3612,7 +3725,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-04_clause-really-means_2026-08-10_steam-privacy",
@@ -3676,7 +3791,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-05_privacy-receipt_2026-08-22_facebook-privacy",
@@ -3749,7 +3866,11 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": [
+        "Saturday"
+      ],
+      "eligible_today": false
     },
     {
       "id": "2026-09-06_privacy-receipt_2026-08-13_twitch-privacy",
@@ -3818,7 +3939,11 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": [
+        "Saturday"
+      ],
+      "eligible_today": false
     },
     {
       "id": "2026-09-08_two-minute-fix_2026-08-29_instagram-terms",
@@ -3883,7 +4008,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-10_clause-really-means_2026-09-10_x-terms",
@@ -3957,7 +4084,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-12_privacy-receipt_2026-09-10_x-terms",
@@ -4031,7 +4160,11 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": [
+        "Saturday"
+      ],
+      "eligible_today": false
     },
     {
       "id": "2026-09-15_two-minute-fix_2026-09-10_x-terms",
@@ -4105,7 +4238,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-17_clause-really-means_2026-09-10_microsoft-privacy",
@@ -4183,7 +4318,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-19_privacy-receipt_2026-09-10_microsoft-privacy",
@@ -4261,7 +4398,11 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": [
+        "Saturday"
+      ],
+      "eligible_today": false
     },
     {
       "id": "2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy",
@@ -4339,7 +4480,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-24_clause-really-means_2026-08-29_instagram-terms",
@@ -4404,7 +4547,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update",
@@ -4473,7 +4618,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-10-01_clause-really-means_2026-08-15_amazon-terms",
@@ -4543,7 +4690,9 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-10-03_privacy-receipt_2026-08-22_telegram-privacy",
@@ -4617,7 +4766,11 @@
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": [
+        "Saturday"
+      ],
+      "eligible_today": false
     },
     {
       "id": "2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy",
@@ -4695,7 +4848,9 @@
       "publishable": true,
       "status": "queued",
       "instagram_status": "queued",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -4767,7 +4922,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-10-22_clause-really-means_2026-10-12_uber-terms",
@@ -4834,7 +4991,9 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-10-24_privacy-receipt_2026-10-02_roblox-privacy",
@@ -4901,7 +5060,11 @@
       "publishable": false,
       "status": "requires_review",
       "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "site_status": "requires_review",
+      "post_days": [
+        "Saturday"
+      ],
+      "eligible_today": false
     },
     {
       "id": "2026-11-08_weekly-recap",
@@ -5026,12 +5189,18 @@
       "publishable": true,
       "status": "queued",
       "instagram_status": "queued",
-      "site_status": "approved"
+      "site_status": "approved",
+      "post_days": [
+        "Sunday"
+      ],
+      "eligible_today": true
     }
   ],
   "total": 76,
   "queued_count": 7,
   "published_count": 48,
   "baseline_count": 6,
-  "held_count": 2
+  "held_count": 2,
+  "expired_count": 0,
+  "eligible_today_count": 7
 }
