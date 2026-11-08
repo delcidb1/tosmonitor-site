@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-08T18:57:56Z",
+  "generated_at": "2026-11-08T19:57:40Z",
   "post_date": "2026-11-08",
   "posts": [
     {
@@ -499,7 +499,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Albertsons",
@@ -3222,7 +3222,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-03_breach_harvard",
@@ -3381,7 +3381,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Uber",
@@ -3459,7 +3459,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Roku",
@@ -3533,7 +3533,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -4856,7 +4856,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -5212,22 +5212,25 @@
       "media_error": "",
       "instagram_caption": "THIS WEEK IN PRIVACY · Nov 2–8, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 9: Forbes readers in California: last day to claim from a $10M tracker deal (via Top Class Actions)\n📅 Nov 16: Used CVS's site or app? Claim deadline for its $20.5M privacy settlement (via The Money Overview)\n📅 Nov 19: Carter Credit Union breach settlement: claim $50, or up to $2,500 in losses (via Top Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Coupang: Seoul court refuses to pause its $315M data-breach fine; the breach hit 37.5 million people. (via The Korea JoongAng Daily)\n2. Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s. (via TechCrunch)\n3. DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents. (via BleepingComputer)\n4. Who Gives A Crap says a marketing vendor breach exposed AU, UK and US customers' contact details. (via ABC News)\n5. Roku now shares your data with Fox affiliates (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Know a Who Gives A Crap customer? Send this to them.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
       "caption_sha256": "54ef0b1de0c7e6a0e681a85e4f680bc2333e8cfd7062ae7ee5cd4f9de1f64bad",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-08T18:15:31Z",
+      "instagram_post_id": "18421106332154783",
+      "instagram_permalink": "https://www.instagram.com/p/DffYIH0HI_d/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": [
         "Sunday"
       ],
-      "eligible_today": true
+      "eligible_today": false
     }
   ],
   "total": 76,
-  "queued_count": 7,
-  "published_count": 48,
+  "queued_count": 6,
+  "published_count": 49,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
