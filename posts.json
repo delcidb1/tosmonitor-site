@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-11-08_weekly-recap",
+    "app": "This Week in Privacy",
+    "doc": "This Week in Privacy",
+    "post_type": "series",
+    "accent": "#38BDF8",
+    "headline": "Big fine upheld, kids' feeds in court, two breaches confirmed",
+    "subhead": "6 privacy and breach stories you may have missed",
+    "effective": "Nov 2\u20138, 2026",
+    "changes": [
+      "Coupang: Seoul court upholds $315M data-breach fine covering 37.5 million users.",
+      "Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s.",
+      "DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents.",
+      "Who Gives A Crap notifies AU, UK, and US customers of breach via a third-party marketing vendor.",
+      "Roku now shares your data with Fox affiliates",
+      "Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.'"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Regulators and courts are enforcing data-protection rules at scale while breaches through third-party vendors and misconfigured servers show how supply chains remain a persistent weak point.",
+    "actions": [
+      "Check haveibeenpwned.com for any email you use to sign in",
+      "Turn on two-factor sign-in for your email and bank accounts",
+      "Open one app you use daily and review its privacy settings"
+    ],
+    "categories": [],
+    "source_doc": "TOSMonitor weekly recap for Nov 2\u20138, 2026",
+    "date": "2026-11-08",
+    "slide_folder": "2026-11-08_weekly-recap",
+    "slide_count": 7,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_verdict.png",
+      "06_action.png",
+      "07_outro.png"
+    ],
+    "published": false,
+    "post_source": "evergreen/2026-11-08_weekly-recap_post.json",
+    "stories": [
+      {
+        "line": "Coupang: Seoul court upholds $315M data-breach fine covering 37.5 million users.",
+        "publisher": "The Korea JoongAng Daily",
+        "source_url": "https://www.koreajoongangdaily.com/business/court-keeps-coupangs-record-data-breach-fine-in-force/12958722",
+        "published": "2026-11-05",
+        "origin": "news"
+      },
+      {
+        "line": "Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s.",
+        "publisher": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+        "published": "2026-11-05",
+        "origin": "news"
+      },
+      {
+        "line": "DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents.",
+        "publisher": "Bleeping Computer",
+        "source_url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+        "published": "2026-11-05",
+        "origin": "news"
+      },
+      {
+        "line": "Who Gives A Crap notifies AU, UK, and US customers of breach via a third-party marketing vendor.",
+        "publisher": "Abijita.com (citing ABC News)",
+        "source_url": "https://www.abijita.com/who-gives-a-crap-data-breach/",
+        "published": "2026-11-08",
+        "origin": "news"
+      },
+      {
+        "line": "Roku now shares your data with Fox affiliates",
+        "publisher": "TOSMonitor",
+        "source_url": "https://delcidb1.github.io/tosmonitor-site/",
+        "published": "2026-11-06",
+        "origin": "tosmonitor",
+        "app": "Roku"
+      },
+      {
+        "line": "Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.'",
+        "publisher": "TOSMonitor",
+        "source_url": "https://delcidb1.github.io/tosmonitor-site/",
+        "published": "2026-11-02",
+        "origin": "tosmonitor",
+        "app": "Flock Safety"
+      }
+    ],
+    "effective_date": "2026-11-08",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-06_roku-privacy",
     "app": "Roku",
     "accent": "#6F1AB1",

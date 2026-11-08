@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-08T14:05:54Z",
+  "generated_at": "2026-11-08T14:10:31Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -4990,10 +4990,12 @@
       "window_start": "2026-11-02",
       "window_end": "2026-11-08",
       "caption_rendered": "THIS WEEK IN PRIVACY · Nov 2–8, 2026\n\nThe privacy and data-breach stories worth knowing from this week:\n\n1. Coupang: Seoul court upholds $315M data-breach fine covering 37.5 million users. (via The Korea JoongAng Daily)\n2. Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s. (via TechCrunch)\n3. DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents. (via Bleeping Computer)\n4. Who Gives A Crap notifies AU, UK, and US customers of breach via a third-party marketing vendor. (via Abijita.com (citing ABC News))\n5. Roku now shares your data with Fox affiliates (tracked by TOSMonitor)\n6. Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.' (tracked by TOSMonitor)\n\nWhat you can do this weekend:\n• Check haveibeenpwned.com for any email you use to sign in\n• Turn on two-factor sign-in for your email and bank accounts\n• Open one app you use daily and review its privacy settings\n\nEach story names the outlet that reported it. Save this post, and share it with someone who reuses passwords.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
-      "approved": false,
-      "publish_to_site": false,
+      "approved": true,
+      "publish_to_site": true,
       "priority": 300,
-      "draft": true,
+      "draft": false,
+      "approved_at": "2026-11-08T14:10:31+00:00",
+      "approved_via": "email",
       "source_type": "evergreen",
       "post_source": "evergreen/2026-11-08_weekly-recap_post.json",
       "slide_folder": "2026-11-08_weekly-recap",
@@ -5021,14 +5023,14 @@
       "instagram_caption": "THIS WEEK IN PRIVACY · Nov 2–8, 2026\n\nThe privacy and data-breach stories worth knowing from this week:\n\n1. Coupang: Seoul court upholds $315M data-breach fine covering 37.5 million users. (via The Korea JoongAng Daily)\n2. Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s. (via TechCrunch)\n3. DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents. (via Bleeping Computer)\n4. Who Gives A Crap notifies AU, UK, and US customers of breach via a third-party marketing vendor. (via Abijita.com (citing ABC News))\n5. Roku now shares your data with Fox affiliates (tracked by TOSMonitor)\n6. Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.' (tracked by TOSMonitor)\n\nWhat you can do this weekend:\n• Check haveibeenpwned.com for any email you use to sign in\n• Turn on two-factor sign-in for your email and bank accounts\n• Open one app you use daily and review its privacy settings\n\nEach story names the outlet that reported it. Save this post, and share it with someone who reuses passwords.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
       "caption_sha256": "f5b3368f2fb91d9ba83ceaebd803b89520c8abde1550f99f38a10843eee6090a",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review"
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved"
     }
   ],
   "total": 76,
-  "queued_count": 6,
+  "queued_count": 7,
   "published_count": 48,
   "baseline_count": 6,
   "held_count": 2
