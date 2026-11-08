@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-08T15:22:34Z",
+  "generated_at": "2026-11-08T15:37:12Z",
   "post_date": "2026-11-08",
   "posts": [
     {
@@ -498,7 +498,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
     },
     {
       "app": "Albertsons",
@@ -3220,7 +3221,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-11-03_breach_harvard",
@@ -3378,7 +3380,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
     },
     {
       "app": "Uber",
@@ -3455,7 +3458,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
     },
     {
       "app": "Roku",
@@ -3528,7 +3532,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -4850,7 +4855,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -5202,5 +5208,5 @@
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 7
+  "eligible_today_count": 1
 }
