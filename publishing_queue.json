@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-08T16:56:05Z",
+  "generated_at": "2026-11-08T17:35:27Z",
   "post_date": "2026-11-08",
   "posts": [
     {
@@ -5086,23 +5086,42 @@
       "series_id": "weekly-recap",
       "series_title": "This Week in Privacy",
       "headline": "Big fine upheld, kids' feeds in court, two breaches confirmed",
-      "subhead": "6 privacy and breach stories you may have missed",
+      "subhead": "5 privacy and breach stories you may have missed",
       "changes": [
         "Coupang: Seoul court refuses to pause its $315M data-breach fine; the breach hit 37.5 million people.",
         "Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s.",
         "DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents.",
         "Who Gives A Crap says a marketing vendor breach exposed AU, UK and US customers' contact details.",
-        "Roku now shares your data with Fox affiliates",
-        "Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.'"
+        "Roku now shares your data with Fox affiliates"
       ],
       "cover_lines": [
         "Coupang's $315M fine stands",
         "Big Tech sues over kids' feeds",
         "DigiCert breach exposes IDs",
         "Who Gives A Crap hit by breach",
-        "",
         ""
       ],
+      "watch": [
+        {
+          "date": "2026-11-09",
+          "line": "Forbes readers in California: last day to claim from a $10M tracker deal",
+          "publisher": "Top Class Actions",
+          "source_url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/10-class-action-settlements-you-can-claim-in-november-2026/"
+        },
+        {
+          "date": "2026-11-16",
+          "line": "Used CVS's site or app? Claim deadline for its $20.5M privacy settlement",
+          "publisher": "The Money Overview",
+          "source_url": "https://themoneyoverview.com/cvs-site-and-app-users-until-11-59-p-m-november-16-file-privacy/"
+        },
+        {
+          "date": "2026-11-19",
+          "line": "Carter Credit Union breach settlement: claim $50, or up to $2,500 in losses",
+          "publisher": "Top Class Actions",
+          "source_url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/10-class-action-settlements-you-can-claim-in-november-2026/"
+        }
+      ],
+      "edition": 1,
       "verdict": "WORTH_KNOWING",
       "verdict_text": "Regulators and courts are enforcing data-protection rules at scale while breaches through third-party vendors and misconfigured servers show how supply chains remain a persistent weak point.",
       "actions": [
@@ -5151,15 +5170,6 @@
           "origin": "tosmonitor",
           "teaser": "",
           "app": "Roku"
-        },
-        {
-          "line": "Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.'",
-          "publisher": "TOSMonitor",
-          "source_url": "https://delcidb1.github.io/tosmonitor-site/",
-          "published": "2026-11-02",
-          "origin": "tosmonitor",
-          "teaser": "",
-          "app": "Flock Safety"
         }
       ],
       "story_sources": [
@@ -5167,12 +5177,11 @@
         "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
         "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
         "https://www.abc.net.au/news/2026-11-08/who-gives-a-crap-hack/107359858",
-        "https://delcidb1.github.io/tosmonitor-site/",
         "https://delcidb1.github.io/tosmonitor-site/"
       ],
       "window_start": "2026-11-02",
       "window_end": "2026-11-08",
-      "caption_rendered": "THIS WEEK IN PRIVACY · Nov 2–8, 2026\n\nThe privacy and data-breach stories worth knowing from this week:\n\n1. Coupang: Seoul court refuses to pause its $315M data-breach fine; the breach hit 37.5 million people. (via The Korea JoongAng Daily)\n2. Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s. (via TechCrunch)\n3. DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents. (via BleepingComputer)\n4. Who Gives A Crap says a marketing vendor breach exposed AU, UK and US customers' contact details. (via ABC News)\n5. Roku now shares your data with Fox affiliates (tracked by TOSMonitor)\n6. Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.' (tracked by TOSMonitor)\n\nWhat you can do this weekend:\n• Check haveibeenpwned.com for any email you use to sign in\n• Turn on two-factor sign-in for your email and bank accounts\n• Open one app you use daily and review its privacy settings\n\nEach story names the outlet that reported it. Save this post, and share it with someone who reuses passwords.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "caption_rendered": "THIS WEEK IN PRIVACY · Nov 2–8, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 9: Forbes readers in California: last day to claim from a $10M tracker deal (via Top Class Actions)\n📅 Nov 16: Used CVS's site or app? Claim deadline for its $20.5M privacy settlement (via The Money Overview)\n📅 Nov 19: Carter Credit Union breach settlement: claim $50, or up to $2,500 in losses (via Top Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Coupang: Seoul court refuses to pause its $315M data-breach fine; the breach hit 37.5 million people. (via The Korea JoongAng Daily)\n2. Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s. (via TechCrunch)\n3. DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents. (via BleepingComputer)\n4. Who Gives A Crap says a marketing vendor breach exposed AU, UK and US customers' contact details. (via ABC News)\n5. Roku now shares your data with Fox affiliates (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Know a Who Gives A Crap customer? Send this to them.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
       "approved": true,
       "publish_to_site": true,
       "priority": 300,
@@ -5184,27 +5193,25 @@
       "slide_folder": "2026-11-08_weekly-recap",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/02_hook.png",
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/03_changes.png",
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/04_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/05_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/06_action.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/07_outro.png"
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/05_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/06_outro.png"
       ],
       "media_files": [
         "01_hook.png",
-        "02_changes.png",
+        "02_hook.png",
         "03_changes.png",
         "04_changes.png",
-        "05_verdict.png",
-        "06_action.png",
-        "07_outro.png"
+        "05_changes.png",
+        "06_outro.png"
       ],
-      "slide_count": 7,
+      "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "instagram_caption": "THIS WEEK IN PRIVACY · Nov 2–8, 2026\n\nThe privacy and data-breach stories worth knowing from this week:\n\n1. Coupang: Seoul court refuses to pause its $315M data-breach fine; the breach hit 37.5 million people. (via The Korea JoongAng Daily)\n2. Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s. (via TechCrunch)\n3. DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents. (via BleepingComputer)\n4. Who Gives A Crap says a marketing vendor breach exposed AU, UK and US customers' contact details. (via ABC News)\n5. Roku now shares your data with Fox affiliates (tracked by TOSMonitor)\n6. Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.' (tracked by TOSMonitor)\n\nWhat you can do this weekend:\n• Check haveibeenpwned.com for any email you use to sign in\n• Turn on two-factor sign-in for your email and bank accounts\n• Open one app you use daily and review its privacy settings\n\nEach story names the outlet that reported it. Save this post, and share it with someone who reuses passwords.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
-      "caption_sha256": "75d1224a4994d0db954474802237dc51abab5066335670c36c30be1e969d2c9f",
+      "instagram_caption": "THIS WEEK IN PRIVACY · Nov 2–8, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 9: Forbes readers in California: last day to claim from a $10M tracker deal (via Top Class Actions)\n📅 Nov 16: Used CVS's site or app? Claim deadline for its $20.5M privacy settlement (via The Money Overview)\n📅 Nov 19: Carter Credit Union breach settlement: claim $50, or up to $2,500 in losses (via Top Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Coupang: Seoul court refuses to pause its $315M data-breach fine; the breach hit 37.5 million people. (via The Korea JoongAng Daily)\n2. Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s. (via TechCrunch)\n3. DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents. (via BleepingComputer)\n4. Who Gives A Crap says a marketing vendor breach exposed AU, UK and US customers' contact details. (via ABC News)\n5. Roku now shares your data with Fox affiliates (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Know a Who Gives A Crap customer? Send this to them.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "caption_sha256": "54ef0b1de0c7e6a0e681a85e4f680bc2333e8cfd7062ae7ee5cd4f9de1f64bad",
       "published": false,
       "publishable": true,
       "status": "queued",

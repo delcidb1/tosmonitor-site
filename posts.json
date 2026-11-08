@@ -6,15 +6,14 @@
     "post_type": "series",
     "accent": "#38BDF8",
     "headline": "Big fine upheld, kids' feeds in court, two breaches confirmed",
-    "subhead": "6 privacy and breach stories you may have missed",
+    "subhead": "5 privacy and breach stories you may have missed",
     "effective": "Nov 2\u20138, 2026",
     "changes": [
       "Coupang: Seoul court refuses to pause its $315M data-breach fine; the breach hit 37.5 million people.",
       "Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s.",
       "DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents.",
       "Who Gives A Crap says a marketing vendor breach exposed AU, UK and US customers' contact details.",
-      "Roku now shares your data with Fox affiliates",
-      "Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.'"
+      "Roku now shares your data with Fox affiliates"
     ],
     "verdict": "WORTH_KNOWING",
     "verdict_text": "Regulators and courts are enforcing data-protection rules at scale while breaches through third-party vendors and misconfigured servers show how supply chains remain a persistent weak point.",
@@ -27,16 +26,15 @@
     "source_doc": "TOSMonitor weekly recap for Nov 2\u20138, 2026",
     "date": "2026-11-08",
     "slide_folder": "2026-11-08_weekly-recap",
-    "slide_count": 7,
+    "slide_count": 6,
     "has_slides": true,
     "media_files": [
       "01_hook.png",
-      "02_changes.png",
+      "02_hook.png",
       "03_changes.png",
       "04_changes.png",
-      "05_verdict.png",
-      "06_action.png",
-      "07_outro.png"
+      "05_changes.png",
+      "06_outro.png"
     ],
     "published": false,
     "post_source": "evergreen/2026-11-08_weekly-recap_post.json",
@@ -81,15 +79,6 @@
         "origin": "tosmonitor",
         "teaser": "",
         "app": "Roku"
-      },
-      {
-        "line": "Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.'",
-        "publisher": "TOSMonitor",
-        "source_url": "https://delcidb1.github.io/tosmonitor-site/",
-        "published": "2026-11-02",
-        "origin": "tosmonitor",
-        "teaser": "",
-        "app": "Flock Safety"
       }
     ],
     "effective_date": "2026-11-08",
