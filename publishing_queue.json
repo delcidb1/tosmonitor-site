@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-08T13:23:53Z",
+  "generated_at": "2026-11-08T14:05:54Z",
   "posts": [
     {
       "app": "Flock Safety",
@@ -4902,9 +4902,132 @@
       "status": "requires_review",
       "instagram_status": "requires_review",
       "site_status": "requires_review"
+    },
+    {
+      "id": "2026-11-08_weekly-recap",
+      "date": "2026-11-08",
+      "effective": "Nov 2–8, 2026",
+      "app": "This Week in Privacy",
+      "doc": "This Week in Privacy",
+      "post_type": "series",
+      "accent": "#38BDF8",
+      "categories": [],
+      "cover_query": "cyber security padlock data",
+      "source_doc": "TOSMonitor weekly recap for Nov 2–8, 2026",
+      "series_id": "weekly-recap",
+      "series_title": "This Week in Privacy",
+      "headline": "Big fine upheld, kids' feeds in court, two breaches confirmed",
+      "subhead": "6 privacy and breach stories you may have missed",
+      "changes": [
+        "Coupang: Seoul court upholds $315M data-breach fine covering 37.5 million users.",
+        "Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s.",
+        "DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents.",
+        "Who Gives A Crap notifies AU, UK, and US customers of breach via a third-party marketing vendor.",
+        "Roku now shares your data with Fox affiliates",
+        "Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.'"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Regulators and courts are enforcing data-protection rules at scale while breaches through third-party vendors and misconfigured servers show how supply chains remain a persistent weak point.",
+      "actions": [
+        "Check haveibeenpwned.com for any email you use to sign in",
+        "Turn on two-factor sign-in for your email and bank accounts",
+        "Open one app you use daily and review its privacy settings"
+      ],
+      "stories": [
+        {
+          "line": "Coupang: Seoul court upholds $315M data-breach fine covering 37.5 million users.",
+          "publisher": "The Korea JoongAng Daily",
+          "source_url": "https://www.koreajoongangdaily.com/business/court-keeps-coupangs-record-data-breach-fine-in-force/12958722",
+          "published": "2026-11-05",
+          "origin": "news"
+        },
+        {
+          "line": "Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s.",
+          "publisher": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+          "published": "2026-11-05",
+          "origin": "news"
+        },
+        {
+          "line": "DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents.",
+          "publisher": "Bleeping Computer",
+          "source_url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+          "published": "2026-11-05",
+          "origin": "news"
+        },
+        {
+          "line": "Who Gives A Crap notifies AU, UK, and US customers of breach via a third-party marketing vendor.",
+          "publisher": "Abijita.com (citing ABC News)",
+          "source_url": "https://www.abijita.com/who-gives-a-crap-data-breach/",
+          "published": "2026-11-08",
+          "origin": "news"
+        },
+        {
+          "line": "Roku now shares your data with Fox affiliates",
+          "publisher": "TOSMonitor",
+          "source_url": "https://delcidb1.github.io/tosmonitor-site/",
+          "published": "2026-11-06",
+          "origin": "tosmonitor",
+          "app": "Roku"
+        },
+        {
+          "line": "Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.'",
+          "publisher": "TOSMonitor",
+          "source_url": "https://delcidb1.github.io/tosmonitor-site/",
+          "published": "2026-11-02",
+          "origin": "tosmonitor",
+          "app": "Flock Safety"
+        }
+      ],
+      "story_sources": [
+        "https://www.koreajoongangdaily.com/business/court-keeps-coupangs-record-data-breach-fine-in-force/12958722",
+        "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+        "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+        "https://www.abijita.com/who-gives-a-crap-data-breach/",
+        "https://delcidb1.github.io/tosmonitor-site/",
+        "https://delcidb1.github.io/tosmonitor-site/"
+      ],
+      "window_start": "2026-11-02",
+      "window_end": "2026-11-08",
+      "caption_rendered": "THIS WEEK IN PRIVACY · Nov 2–8, 2026\n\nThe privacy and data-breach stories worth knowing from this week:\n\n1. Coupang: Seoul court upholds $315M data-breach fine covering 37.5 million users. (via The Korea JoongAng Daily)\n2. Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s. (via TechCrunch)\n3. DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents. (via Bleeping Computer)\n4. Who Gives A Crap notifies AU, UK, and US customers of breach via a third-party marketing vendor. (via Abijita.com (citing ABC News))\n5. Roku now shares your data with Fox affiliates (tracked by TOSMonitor)\n6. Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.' (tracked by TOSMonitor)\n\nWhat you can do this weekend:\n• Check haveibeenpwned.com for any email you use to sign in\n• Turn on two-factor sign-in for your email and bank accounts\n• Open one app you use daily and review its privacy settings\n\nEach story names the outlet that reported it. Save this post, and share it with someone who reuses passwords.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "approved": false,
+      "publish_to_site": false,
+      "priority": 300,
+      "draft": true,
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-11-08_weekly-recap_post.json",
+      "slide_folder": "2026-11-08_weekly-recap",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/07_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_verdict.png",
+        "06_action.png",
+        "07_outro.png"
+      ],
+      "slide_count": 7,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THIS WEEK IN PRIVACY · Nov 2–8, 2026\n\nThe privacy and data-breach stories worth knowing from this week:\n\n1. Coupang: Seoul court upholds $315M data-breach fine covering 37.5 million users. (via The Korea JoongAng Daily)\n2. Meta, Google, TikTok sue California AG to block AB 1709, which bars addictive feeds for under-16s. (via TechCrunch)\n3. DigiCert discloses breach after server migration exposed customer names, contacts, and ID documents. (via Bleeping Computer)\n4. Who Gives A Crap notifies AU, UK, and US customers of breach via a third-party marketing vendor. (via Abijita.com (citing ABC News))\n5. Roku now shares your data with Fox affiliates (tracked by TOSMonitor)\n6. Flock Safety: A federal judge just called Flock 'indiscriminate mass surveillance.' (tracked by TOSMonitor)\n\nWhat you can do this weekend:\n• Check haveibeenpwned.com for any email you use to sign in\n• Turn on two-factor sign-in for your email and bank accounts\n• Open one app you use daily and review its privacy settings\n\nEach story names the outlet that reported it. Save this post, and share it with someone who reuses passwords.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "caption_sha256": "f5b3368f2fb91d9ba83ceaebd803b89520c8abde1550f99f38a10843eee6090a",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review"
     }
   ],
-  "total": 75,
+  "total": 76,
   "queued_count": 6,
   "published_count": 48,
   "baseline_count": 6,
