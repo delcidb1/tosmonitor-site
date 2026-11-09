@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-08T23:39:43Z",
-  "post_date": "2026-11-08",
+  "generated_at": "2026-11-09T13:29:47Z",
+  "post_date": "2026-11-09",
   "posts": [
     {
       "app": "Flock Safety",
@@ -216,6 +216,83 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false
+    },
+    {
+      "app": "Oura",
+      "accent": "#1a1a2e",
+      "headline": "Oura quietly shifted who controls your research data",
+      "subhead": "Your health study data may now have two controllers.",
+      "effective": "Updated November 04, 2026",
+      "changes": [
+        "Oura can now act as an independent controller of your research study data.",
+        "Previously, only the Research Sponsor was named as your data controller.",
+        "It's less clear who is fully responsible for your data rights in studies.",
+        "Privacy rights questions now directed to 'the controller' — not specifically the Sponsor."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Oura added itself as a possible independent controller of research data, diluting clear accountability for how your health data is handled in studies.",
+      "actions": [
+        "Read the Informed Consent Form carefully before joining any Oura study.",
+        "Ask explicitly who controls your data before enrolling in research.",
+        "Check Oura's privacy settings and limit research participation if concerned."
+      ],
+      "caption": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.",
+      "hashtags": [
+        "oura",
+        "ouraring",
+        "privacypolicy",
+        "healthdata",
+        "wearables",
+        "dataprotection",
+        "digitalhealth",
+        "privacyrights"
+      ],
+      "video_script": "If you use the Oura Research App, listen up. Oura just updated its privacy policy, and there is a meaningful change about who controls your health data in research studies. Before, the Research Sponsor was clearly the data controller. Now, Oura says it can also act as an independent controller of your research data. That shifts accountability in a way that is not totally clear cut. We call this worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Oura inserted itself as a potential independent controller of research data alongside the Research Sponsor, changing the data responsibility structure and potentially how your health data is used or shared."
+        }
+      ],
+      "caption_rendered": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.\n\n#oura #ouraring #privacypolicy #healthdata #wearables #dataprotection #digitalhealth #privacyrights #TOSMonitor",
+      "id": "2026-11-04_oura-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-11-04_oura-privacy_post.json",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 1,
+      "caption_field": "caption_rendered",
+      "configured_slide_folder": "2026-11-04_oura-privacy",
+      "slide_folder": "2026-11-04_oura-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-04",
+      "instagram_caption": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.\n\n#oura #ouraring #privacypolicy #healthdata #wearables #dataprotection #digitalhealth #privacyrights #TOSMonitor",
+      "caption_sha256": "d9d18c23812d932068059690992935540e1ce91e3ad7fb0cecd11019658c2ef5",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true
     },
     {
       "id": "2026-11-02_flock-safety-court-ruling",
@@ -499,7 +576,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "app": "Albertsons",
@@ -3222,7 +3299,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-11-03_breach_harvard",
@@ -3310,80 +3387,6 @@
       "eligible_today": false
     },
     {
-      "app": "Oura",
-      "accent": "#1a1a2e",
-      "headline": "Oura quietly shifted who controls your research data",
-      "subhead": "Your health study data may now have two controllers.",
-      "effective": "Updated November 04, 2026",
-      "changes": [
-        "Oura can now act as an independent controller of your research study data.",
-        "Previously, only the Research Sponsor was named as your data controller.",
-        "It's less clear who is fully responsible for your data rights in studies.",
-        "Privacy rights questions now directed to 'the controller' — not specifically the Sponsor."
-      ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "Oura added itself as a possible independent controller of research data, diluting clear accountability for how your health data is handled in studies.",
-      "actions": [
-        "Read the Informed Consent Form carefully before joining any Oura study.",
-        "Ask explicitly who controls your data before enrolling in research.",
-        "Check Oura's privacy settings and limit research participation if concerned."
-      ],
-      "caption": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.",
-      "hashtags": [
-        "oura",
-        "ouraring",
-        "privacypolicy",
-        "healthdata",
-        "wearables",
-        "dataprotection",
-        "digitalhealth",
-        "privacyrights"
-      ],
-      "video_script": "If you use the Oura Research App, listen up. Oura just updated its privacy policy, and there is a meaningful change about who controls your health data in research studies. Before, the Research Sponsor was clearly the data controller. Now, Oura says it can also act as an independent controller of your research data. That shifts accountability in a way that is not totally clear cut. We call this worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
-      "categories": [
-        {
-          "tag": "third_party_sharing",
-          "explanation": "Oura inserted itself as a potential independent controller of research data alongside the Research Sponsor, changing the data responsibility structure and potentially how your health data is used or shared."
-        }
-      ],
-      "caption_rendered": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.\n\n#oura #ouraring #privacypolicy #healthdata #wearables #dataprotection #digitalhealth #privacyrights #TOSMonitor",
-      "id": "2026-11-04_oura-privacy",
-      "source_type": "diff",
-      "post_source": "diffs/2026-11-04_oura-privacy_post.json",
-      "slide_folder": "2026-11-04_oura-privacy",
-      "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/04_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/05_action.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_oura-privacy/06_outro.png"
-      ],
-      "media_files": [
-        "01_hook.png",
-        "02_changes.png",
-        "03_changes.png",
-        "04_verdict.png",
-        "05_action.png",
-        "06_outro.png"
-      ],
-      "slide_count": 6,
-      "has_slides": true,
-      "media_error": "",
-      "date": "2026-11-04",
-      "priority": 100,
-      "instagram_caption": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.\n\n#oura #ouraring #privacypolicy #healthdata #wearables #dataprotection #digitalhealth #privacyrights #TOSMonitor",
-      "caption_sha256": "d9d18c23812d932068059690992935540e1ce91e3ad7fb0cecd11019658c2ef5",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
-      "site_status": "approved",
-      "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "already_posted_today"
-    },
-    {
       "app": "Uber",
       "accent": "#000000",
       "headline": "Uber adds AI agent rules to its Terms",
@@ -3459,7 +3462,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "app": "Roku",
@@ -3533,7 +3536,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -4856,7 +4859,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -5232,5 +5235,5 @@
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 0
+  "eligible_today_count": 1
 }
