@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-09T22:39:56Z",
+  "generated_at": "2026-11-09T23:20:12Z",
   "post_date": "2026-11-09",
   "posts": [
     {
@@ -3539,6 +3539,83 @@
       "waiting_reason": "one_post_per_day"
     },
     {
+      "app": "Microsoft",
+      "accent": "#00A4EF",
+      "headline": "Microsoft privacy policy quietly expanded in November",
+      "subhead": "New data sources and phone features affect everyday users.",
+      "effective": "Effective November 2026",
+      "changes": [
+        "Microsoft now collects device age, type, language, and locale settings from your device.",
+        "Workplace and productivity data companies added as a new source of your personal data.",
+        "Phone Link section rewritten: iPhones now fully supported alongside Android for calls and texts.",
+        "New location-sharing feature lets your phone's GPS feed location to your Windows PC."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "New data sources and an expanded Phone Link scope broaden Microsoft's data collection in ways everyday users should review.",
+      "actions": [
+        "Review Phone Link settings under Bluetooth and Devices in Windows Settings.",
+        "Check Mobile Devices settings to disable location sharing if unwanted.",
+        "Visit your Microsoft account privacy dashboard to audit connected data sources."
+      ],
+      "caption": "Microsoft updated its Privacy Statement in November 2026, and several changes are worth your attention. The policy now names workplace and productivity data companies as a new source of personal data Microsoft can collect about you. Your device profile has also grown: Microsoft now explicitly gathers your device age, type, language, and locale settings. The Phone Link section was substantially rewritten to cover both Android and iPhone under a unified framework and adds a new location-sharing feature that lets your phone's GPS provide location data to your Windows PC. None of these changes indicate your data is being sold, but they do expand the scope of what Microsoft collects and from whom. Open your Windows Settings, go to Bluetooth and Devices, then Mobile Devices, and turn off any linked mobile features you do not actively use.",
+      "hashtags": [
+        "microsoft",
+        "windowsprivacy",
+        "phonelink",
+        "privacypolicy",
+        "datasecurity",
+        "techprivacy",
+        "digitalrights"
+      ],
+      "video_script": "Hey, Microsoft just updated its privacy policy and there are a few things you should actually know about. First, they have added workplace and productivity data companies as a new source of personal information they can collect on you. Second, your device profile now includes things like your device age, language, and locale settings. Third, the Phone Link feature has been expanded to cover iPhones alongside Android, and there is a brand-new location-sharing option that pipes your phone's GPS into your Windows PC. Our verdict: worth knowing. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Microsoft added 'companies that provide workplace and productivity data' as a new category of third-party sources from which it collects personal data about users."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "A new location-sharing permission was introduced, allowing a linked mobile device's GPS data to be used to provide location-based experiences on Windows PCs."
+        }
+      ],
+      "caption_rendered": "Microsoft updated its Privacy Statement in November 2026, and several changes are worth your attention. The policy now names workplace and productivity data companies as a new source of personal data Microsoft can collect about you. Your device profile has also grown: Microsoft now explicitly gathers your device age, type, language, and locale settings. The Phone Link section was substantially rewritten to cover both Android and iPhone under a unified framework and adds a new location-sharing feature that lets your phone's GPS provide location data to your Windows PC. None of these changes indicate your data is being sold, but they do expand the scope of what Microsoft collects and from whom. Open your Windows Settings, go to Bluetooth and Devices, then Mobile Devices, and turn off any linked mobile features you do not actively use.\n\n#microsoft #windowsprivacy #phonelink #privacypolicy #datasecurity #techprivacy #digitalrights #TOSMonitor",
+      "id": "2026-11-09_microsoft-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-11-09_microsoft-privacy_post.json",
+      "slide_folder": "2026-11-09_microsoft-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_microsoft-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_microsoft-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_microsoft-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_microsoft-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_microsoft-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_microsoft-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-09",
+      "priority": 100,
+      "instagram_caption": "Microsoft updated its Privacy Statement in November 2026, and several changes are worth your attention. The policy now names workplace and productivity data companies as a new source of personal data Microsoft can collect about you. Your device profile has also grown: Microsoft now explicitly gathers your device age, type, language, and locale settings. The Phone Link section was substantially rewritten to cover both Android and iPhone under a unified framework and adds a new location-sharing feature that lets your phone's GPS provide location data to your Windows PC. None of these changes indicate your data is being sold, but they do expand the scope of what Microsoft collects and from whom. Open your Windows Settings, go to Bluetooth and Devices, then Mobile Devices, and turn off any linked mobile features you do not actively use.\n\n#microsoft #windowsprivacy #phonelink #privacypolicy #datasecurity #techprivacy #digitalrights #TOSMonitor",
+      "caption_sha256": "a06d4a73eec53c7922500d7fe895e2a902867a1dfb8b29a907f3248c7d3387be",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -5229,8 +5306,8 @@
       "eligible_today": false
     }
   ],
-  "total": 76,
-  "queued_count": 6,
+  "total": 77,
+  "queued_count": 7,
   "published_count": 49,
   "baseline_count": 6,
   "held_count": 2,

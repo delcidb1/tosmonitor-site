@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-09_microsoft-privacy",
+    "app": "Microsoft",
+    "accent": "#00A4EF",
+    "headline": "Microsoft privacy policy quietly expanded in November",
+    "subhead": "New data sources and phone features affect everyday users.",
+    "effective": "Effective November 2026",
+    "changes": [
+      "Microsoft now collects device age, type, language, and locale settings from your device.",
+      "Workplace and productivity data companies added as a new source of your personal data.",
+      "Phone Link section rewritten: iPhones now fully supported alongside Android for calls and texts.",
+      "New location-sharing feature lets your phone's GPS feed location to your Windows PC."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "New data sources and an expanded Phone Link scope broaden Microsoft's data collection in ways everyday users should review.",
+    "actions": [
+      "Review Phone Link settings under Bluetooth and Devices in Windows Settings.",
+      "Check Mobile Devices settings to disable location sharing if unwanted.",
+      "Visit your Microsoft account privacy dashboard to audit connected data sources."
+    ],
+    "categories": [
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Microsoft added 'companies that provide workplace and productivity data' as a new category of third-party sources from which it collects personal data about users."
+      },
+      {
+        "tag": "permissions",
+        "explanation": "A new location-sharing permission was introduced, allowing a linked mobile device's GPS data to be used to provide location-based experiences on Windows PCs."
+      }
+    ],
+    "date": "2026-11-09",
+    "slide_folder": "2026-11-09_microsoft-privacy",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "diffs/2026-11-09_microsoft-privacy_post.json",
+    "effective_date": "2026-11-09",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://privacy.microsoft.com/en-us/privacystatement",
+    "key_changes": []
+  },
+  {
     "id": "2026-11-08_weekly-recap",
     "app": "This Week in Privacy",
     "doc": "This Week in Privacy",
