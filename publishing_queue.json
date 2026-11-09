@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-09T23:27:44Z",
+  "generated_at": "2026-11-09T23:51:32Z",
   "post_date": "2026-11-09",
   "posts": [
     {
@@ -286,13 +286,16 @@
       "date": "2026-11-04",
       "instagram_caption": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.\n\n#oura #ouraring #privacypolicy #healthdata #wearables #dataprotection #digitalhealth #privacyrights #TOSMonitor",
       "caption_sha256": "d9d18c23812d932068059690992935540e1ce91e3ad7fb0cecd11019658c2ef5",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-09T16:35:08Z",
+      "instagram_post_id": "18107084399281430",
+      "instagram_permalink": "https://www.instagram.com/p/DfhxdGKm_ug/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "id": "2026-11-02_flock-safety-court-ruling",
@@ -576,7 +579,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Albertsons",
@@ -3299,7 +3302,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-03_breach_harvard",
@@ -3462,7 +3465,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Roku",
@@ -3536,7 +3539,170 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
+    },
+    {
+      "id": "2026-11-09_breach_frontline-education",
+      "date": "2026-11-09",
+      "app": "Frontline Education",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://www.atg.wa.gov/data-breach-notifications",
+      "breach_source": "Washington Attorney General",
+      "breach_record_id": "0b541c83dc1a915a",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-10-27",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Frontline Education",
+        "Listed by: Washington Attorney General on 2026-10-27",
+        "Date(s) of breach: 2026-08-14",
+        "People affected: 40,494 Washington residents were affected",
+        "Details: Cause: Unauthorized Access"
+      ],
+      "materiality": "40,494 Washington residents",
+      "headline": "Frontline Education Hit by Unauthorized Access",
+      "subhead": "Over 40,000 Washington residents had data exposed.",
+      "changes": [
+        "Unauthorized access to Frontline Education systems occurred on August 14, 2026.",
+        "40,494 Washington residents were affected by the breach.",
+        "The breach was listed by the Washington Attorney General on October 27, 2026."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "No specific data types were named in the record, but unauthorized access to your account data is always a concern.",
+      "actions": [
+        "Change your Frontline Education password immediately if you have an account.",
+        "Monitor your email for any official notice from Frontline Education.",
+        "Watch for suspicious activity tied to any accounts using the same password."
+      ],
+      "caption": "Frontline Education, a software platform widely used by school districts, reported a data breach affecting more than 40,000 Washington state residents. The breach involved unauthorized access to their systems and occurred on August 14, 2026. It was disclosed by the Washington Attorney General nearly two months later, on October 27, 2026. The specific types of personal information involved were not detailed in the official record. If you or your child has an account through a school that uses Frontline Education, it is a good idea to update your password and stay alert for any follow-up communications. Source: Washington Attorney General.",
+      "hashtags": [
+        "FrontlineEducation",
+        "DataBreach",
+        "WashingtonState",
+        "SchoolData",
+        "CyberSecurity",
+        "UnauthorizedAccess",
+        "PrivacyAlert",
+        "EdTech"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "Frontline Education, a software platform widely used by school districts, reported a data breach affecting more than 40,000 Washington state residents. The breach involved unauthorized access to their systems and occurred on August 14, 2026. It was disclosed by the Washington Attorney General nearly two months later, on October 27, 2026. The specific types of personal information involved were not detailed in the official record. If you or your child has an account through a school that uses Frontline Education, it is a good idea to update your password and stay alert for any follow-up communications. Source: Washington Attorney General.\n\n#FrontlineEducation #DataBreach #WashingtonState #SchoolData #CyberSecurity #UnauthorizedAccess #PrivacyAlert #EdTech #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-09_breach_frontline-education_post.json",
+      "slide_folder": "2026-11-09_breach_frontline-education",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_frontline-education/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_frontline-education/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_frontline-education/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_frontline-education/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_frontline-education/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_frontline-education/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "Frontline Education, a software platform widely used by school districts, reported a data breach affecting more than 40,000 Washington state residents. The breach involved unauthorized access to their systems and occurred on August 14, 2026. It was disclosed by the Washington Attorney General nearly two months later, on October 27, 2026. The specific types of personal information involved were not detailed in the official record. If you or your child has an account through a school that uses Frontline Education, it is a good idea to update your password and stay alert for any follow-up communications. Source: Washington Attorney General.\n\n#FrontlineEducation #DataBreach #WashingtonState #SchoolData #CyberSecurity #UnauthorizedAccess #PrivacyAlert #EdTech #TOSMonitor",
+      "caption_sha256": "9edd3bed2c87ff26b74e6364cda3f482d20810b1e60680945d5521153b527e9a",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
+      "id": "2026-11-09_breach_marathon-health",
+      "date": "2026-11-09",
+      "app": "Marathon Health",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://www.atg.wa.gov/data-breach-notifications",
+      "breach_source": "Washington Attorney General",
+      "breach_record_id": "48e9da8940847b87",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-10-29",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Marathon Health",
+        "Listed by: Washington Attorney General on 2026-10-29",
+        "Date(s) of breach: 2026-09-09",
+        "People affected: 48,175 Washington residents were affected",
+        "Details: Cause: Cyberattack; Attack type: Other"
+      ],
+      "materiality": "48,175 Washington residents",
+      "headline": "Marathon Health hit by cyberattack this fall",
+      "subhead": "Nearly 50,000 Washington residents had data exposed.",
+      "changes": [
+        "A cyberattack hit Marathon Health on September 9, 2026.",
+        "48,175 Washington residents were affected by the breach.",
+        "The breach was listed by the Washington Attorney General."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "No specific data types were listed, but a cyberattack affecting nearly 50,000 people warrants attention.",
+      "actions": [
+        "Check your email for any notice from Marathon Health.",
+        "Monitor your accounts for unusual activity or charges.",
+        "Contact Marathon Health directly to ask what data was involved."
+      ],
+      "caption": "Marathon Health, a workplace health provider, reported a cyberattack that occurred on September 9, 2026. Nearly 50,000 Washington state residents were affected. The breach was disclosed to the Washington Attorney General, though the specific types of personal data involved have not been detailed in the official record. If you have used Marathon Health services, it is worth watching for any official notice from the company and keeping an eye on your personal accounts in the meantime. Source: Washington Attorney General",
+      "hashtags": [
+        "MarathonHealth",
+        "DataBreach",
+        "CyberAttack",
+        "WashingtonState",
+        "HealthcareSecurity",
+        "DataPrivacy",
+        "ConsumerAlert"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "Marathon Health, a workplace health provider, reported a cyberattack that occurred on September 9, 2026. Nearly 50,000 Washington state residents were affected. The breach was disclosed to the Washington Attorney General, though the specific types of personal data involved have not been detailed in the official record. If you have used Marathon Health services, it is worth watching for any official notice from the company and keeping an eye on your personal accounts in the meantime. Source: Washington Attorney General\n\n#MarathonHealth #DataBreach #CyberAttack #WashingtonState #HealthcareSecurity #DataPrivacy #ConsumerAlert #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-09_breach_marathon-health_post.json",
+      "slide_folder": "2026-11-09_breach_marathon-health",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_marathon-health/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_marathon-health/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_marathon-health/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_marathon-health/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_marathon-health/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_marathon-health/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "Marathon Health, a workplace health provider, reported a cyberattack that occurred on September 9, 2026. Nearly 50,000 Washington state residents were affected. The breach was disclosed to the Washington Attorney General, though the specific types of personal data involved have not been detailed in the official record. If you have used Marathon Health services, it is worth watching for any official notice from the company and keeping an eye on your personal accounts in the meantime. Source: Washington Attorney General\n\n#MarathonHealth #DataBreach #CyberAttack #WashingtonState #HealthcareSecurity #DataPrivacy #ConsumerAlert #TOSMonitor",
+      "caption_sha256": "967b5c810b0a754f7cf55028581f54e1ab73a4fee2f664c1d5ba5654542da5d6",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "app": "Microsoft",
@@ -3613,7 +3779,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -4936,7 +5102,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -5306,11 +5472,11 @@
       "eligible_today": false
     }
   ],
-  "total": 77,
-  "queued_count": 7,
-  "published_count": 49,
+  "total": 79,
+  "queued_count": 6,
+  "published_count": 50,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
