@@ -53,6 +53,50 @@
     "key_changes": []
   },
   {
+    "id": "2026-11-09_breach_marathon-health",
+    "app": "Marathon Health",
+    "doc": "Data Breach",
+    "post_type": "data_breach",
+    "accent": "#E11D48",
+    "headline": "Marathon Health hit by cyberattack this fall",
+    "subhead": "Nearly 50,000 Washington residents had data exposed.",
+    "effective": "Reported 2026-10-29",
+    "changes": [
+      "A cyberattack hit Marathon Health on September 9, 2026.",
+      "48,175 Washington residents were affected by the breach.",
+      "The breach was listed by the Washington Attorney General."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "No specific data types were listed, but a cyberattack affecting nearly 50,000 people warrants attention.",
+    "actions": [
+      "Check your email for any notice from Marathon Health.",
+      "Monitor your accounts for unusual activity or charges.",
+      "Contact Marathon Health directly to ask what data was involved."
+    ],
+    "categories": [],
+    "source_doc": "https://www.atg.wa.gov/data-breach-notifications",
+    "date": "2026-11-09",
+    "slide_folder": "2026-11-09_breach_marathon-health",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "breaches/2026-11-09_breach_marathon-health_post.json",
+    "effective_date": "2026-11-09",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-08_weekly-recap",
     "app": "This Week in Privacy",
     "doc": "This Week in Privacy",

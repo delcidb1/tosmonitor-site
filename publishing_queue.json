@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-10T02:40:56Z",
+  "generated_at": "2026-11-10T03:23:17Z",
   "post_date": "2026-11-09",
   "posts": [
     {
@@ -3667,10 +3667,13 @@
         "DataPrivacy",
         "ConsumerAlert"
       ],
-      "approved": false,
-      "draft": true,
+      "approved": true,
+      "draft": false,
       "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
       "caption_rendered": "Marathon Health, a workplace health provider, reported a cyberattack that occurred on September 9, 2026. Nearly 50,000 Washington state residents were affected. The breach was disclosed to the Washington Attorney General, though the specific types of personal data involved have not been detailed in the official record. If you have used Marathon Health services, it is worth watching for any official notice from the company and keeping an eye on your personal accounts in the meantime. Source: Washington Attorney General\n\n#MarathonHealth #DataBreach #CyberAttack #WashingtonState #HealthcareSecurity #DataPrivacy #ConsumerAlert #TOSMonitor",
+      "publish_to_site": true,
+      "approved_at": "2026-11-10T03:23:17+00:00",
+      "approved_via": "email",
       "source_type": "breach",
       "post_source": "breaches/2026-11-09_breach_marathon-health_post.json",
       "slide_folder": "2026-11-09_breach_marathon-health",
@@ -3697,12 +3700,13 @@
       "instagram_caption": "Marathon Health, a workplace health provider, reported a cyberattack that occurred on September 9, 2026. Nearly 50,000 Washington state residents were affected. The breach was disclosed to the Washington Attorney General, though the specific types of personal data involved have not been detailed in the official record. If you have used Marathon Health services, it is worth watching for any official notice from the company and keeping an eye on your personal accounts in the meantime. Source: Washington Attorney General\n\n#MarathonHealth #DataBreach #CyberAttack #WashingtonState #HealthcareSecurity #DataPrivacy #ConsumerAlert #TOSMonitor",
       "caption_sha256": "967b5c810b0a754f7cf55028581f54e1ab73a4fee2f664c1d5ba5654542da5d6",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false
+      "eligible_today": false,
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Microsoft",
@@ -5473,7 +5477,7 @@
     }
   ],
   "total": 79,
-  "queued_count": 6,
+  "queued_count": 7,
   "published_count": 50,
   "baseline_count": 6,
   "held_count": 2,
