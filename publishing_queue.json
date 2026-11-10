@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-10T03:23:17Z",
-  "post_date": "2026-11-09",
+  "generated_at": "2026-11-10T13:24:34Z",
+  "post_date": "2026-11-10",
   "posts": [
     {
       "app": "Flock Safety",
@@ -578,8 +578,7 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "eligible_today": true
     },
     {
       "app": "Albertsons",
@@ -3302,7 +3301,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-11-03_breach_harvard",
@@ -3465,7 +3464,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "app": "Roku",
@@ -3539,7 +3538,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-11-09_breach_frontline-education",
@@ -3706,7 +3705,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "app": "Microsoft",
@@ -3783,7 +3782,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -5106,7 +5105,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -5482,5 +5481,5 @@
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 0
+  "eligible_today_count": 1
 }
