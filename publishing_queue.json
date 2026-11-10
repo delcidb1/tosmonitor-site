@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-10T20:52:12Z",
+  "generated_at": "2026-11-10T20:57:34Z",
   "post_date": "2026-11-10",
   "posts": [
     {
@@ -5473,9 +5473,87 @@
         "Sunday"
       ],
       "eligible_today": false
+    },
+    {
+      "id": "2026-11-10_two-minute-fix_2026-10-28_vizio-privacy",
+      "date": "2026-11-10",
+      "effective": "Updated November 10, 2026",
+      "app": "VIZIO",
+      "doc": "The 2-Minute Fix",
+      "post_type": "series",
+      "accent": "#000000",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "New WatchFree+ App Data and WatchFree+ Streaming Data categories are explicitly added to the scope of data shared with Walmart, advertisers, Walmart Connect, and ad-tech vendors for targeting."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "WatchFree+ on non-VIZIO platforms (web, mobile app, third-party devices) now requires collection of viewing history and streaming activity as a condition of using the service, with no opt-out available."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-10-28_vizio-privacy",
+      "source_post_id": "2026-10-28_vizio-privacy",
+      "series_id": "two-minute-fix",
+      "series_title": "The 2-Minute Fix",
+      "approved": false,
+      "publish_to_site": false,
+      "priority": 300,
+      "draft": true,
+      "headline": "The 2-minute privacy check for VIZIO",
+      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+      "changes": [
+        "Go to VIZIO.com/account and review your data-sharing consent with Walmart.",
+        "Turn off Viewing Data in TV settings: All Settings > Privacy & Legal > Viewing Data.",
+        "Avoid using WatchFree+ on web or mobile if you don't want mandatory streaming-data collection."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "New data categories and mandatory collection on non-TV WatchFree+ platforms meaningfully expand what VIZIO gathers and shares for ad targeting.",
+      "actions": [
+        "Go to VIZIO.com/account and review your data-sharing consent with Walmart.",
+        "Turn off Viewing Data in TV settings: All Settings > Privacy & Legal > Viewing Data.",
+        "Avoid using WatchFree+ on web or mobile if you don't want mandatory streaming-data collection."
+      ],
+      "how_to_sources": [
+        "",
+        "",
+        ""
+      ],
+      "caption_rendered": "THE 2-MINUTE FIX · VIZIO\n\nA policy update is only useful if it leads to an action. Three checks from the VIZIO update we tracked, and how to do each one:\n\n1. Go to VIZIO.com/account and review your data-sharing consent with Walmart.\n2. Turn off Viewing Data in TV settings: All Settings > Privacy & Legal > Viewing Data.\n3. Avoid using WatchFree+ on web or mobile if you don't want mandatory streaming-data collection.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-11-10_two-minute-fix_2026-10-28_vizio-privacy_post.json",
+      "slide_folder": "2026-11-10_two-minute-fix_2026-10-28_vizio-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-10_two-minute-fix_2026-10-28_vizio-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-10_two-minute-fix_2026-10-28_vizio-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-10_two-minute-fix_2026-10-28_vizio-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-10_two-minute-fix_2026-10-28_vizio-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-10_two-minute-fix_2026-10-28_vizio-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-10_two-minute-fix_2026-10-28_vizio-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THE 2-MINUTE FIX · VIZIO\n\nA policy update is only useful if it leads to an action. Three checks from the VIZIO update we tracked, and how to do each one:\n\n1. Go to VIZIO.com/account and review your data-sharing consent with Walmart.\n2. Turn off Viewing Data in TV settings: All Settings > Privacy & Legal > Viewing Data.\n3. Avoid using WatchFree+ on web or mobile if you don't want mandatory streaming-data collection.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_sha256": "dfca3bbf8a45f811e2d1a71d48eaacd0f1aa2984d97b2cdf67616d0abaa8e396",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     }
   ],
-  "total": 79,
+  "total": 80,
   "queued_count": 7,
   "published_count": 50,
   "baseline_count": 6,
