@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-11T21:27:31Z",
+  "generated_at": "2026-11-11T22:16:15Z",
   "post_date": "2026-11-11",
   "posts": [
     {
@@ -3297,13 +3297,16 @@
       "priority": 100,
       "instagram_caption": "Roblox updated its Privacy Policy effective November 1, 2026, with several changes parents and users should know about. Parents now have clearly spelled-out COPPA rights to access, correct, delete, or stop the use of their child's personal information directly within the policy. Roblox has also expanded its explanation of facial age estimation, confirming selfies are deleted after the age check is complete. One small but notable change: if a parent does not finish linking their account to their child's, Roblox now waits 7 days before deleting the parent's email, up from 24 hours. A new section also confirms Roblox can share user data, potentially including personal information, with researchers in certain cases. If you are a parent, link your Roblox account to your child's account to make use of the new parental controls.\n\n#roblox #kidsprivacy #COPPA #privacypolicy #parentalcontrols #onlinesafety #gamingprivacy #tosmonitor #TOSMonitor",
       "caption_sha256": "0ae8c6e3f7064bfe68c2a03c59b937523dd5e7abd7af332df98e1ff279cc338c",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-11T16:33:39Z",
+      "instagram_post_id": "18104670677533005",
+      "instagram_permalink": "https://www.instagram.com/p/Dfm6367oODl/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "id": "2026-11-03_breach_harvard",
@@ -3466,7 +3469,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Roku",
@@ -3540,7 +3543,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-09_breach_frontline-education",
@@ -3707,7 +3710,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Microsoft",
@@ -3784,7 +3787,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-10_breach_quantum-health",
@@ -3943,6 +3946,259 @@
       "priority": 100,
       "instagram_caption": "Revolve Group, the online fashion retailer, reported a cyberattack that occurred on September 16, 2026. According to the Washington Attorney General, 24,859 Washington state residents were affected. The official record does not specify what types of personal data were exposed or the exact method used in the attack. If you have an account with Revolve, it is a good idea to update your password, stay alert to any unusual activity, and keep an eye on any communications from the company about next steps. Source: Washington Attorney General\n\n#RevolveGroup #DataBreach #Cyberattack #WashingtonAG #OnlineShopping #DataPrivacy #ConsumerAlert #CyberSecurity #TOSMonitor",
       "caption_sha256": "02416329355fe891d523220c1da89e56cb938f8c9a35a31ed3cfa2a27c486fc0",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
+      "id": "2026-11-11_breach_premise-health-holding",
+      "date": "2026-11-11",
+      "app": "Premise Health Holding",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://www.atg.wa.gov/data-breach-notifications",
+      "breach_source": "Washington Attorney General",
+      "breach_record_id": "42c49571c3378097",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-06",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Premise Health Holding",
+        "Listed by: Washington Attorney General on 2026-11-06",
+        "Date(s) of breach: 2026-09-18",
+        "People affected: 49,444 Washington residents were affected",
+        "Details: Cause: Unauthorized Access"
+      ],
+      "materiality": "49,444 Washington residents",
+      "headline": "Premise Health Holding Had Unauthorized Access",
+      "subhead": "Nearly 50,000 Washington residents' data exposed.",
+      "changes": [
+        "Unauthorized access to Premise Health Holding systems occurred on September 18, 2026.",
+        "49,444 Washington residents were affected by this breach.",
+        "The breach was listed by the Washington Attorney General on November 6, 2026.",
+        "Cause of breach is recorded as unauthorized access."
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Premise Health is a healthcare company. Health-related data exposure is treated as high priority.",
+      "actions": [
+        "Monitor your Premise Health account and any linked health records.",
+        "Watch for suspicious activity on accounts tied to Premise Health.",
+        "Consider placing a fraud alert with the major credit bureaus as a precaution."
+      ],
+      "caption": "If you are a Premise Health Holding member in Washington state, your personal information may have been exposed. On September 18, 2026, unauthorized access to Premise Health systems affected 49,444 Washington residents. Because this is a healthcare company, the risk to sensitive personal information is considered serious. The breach was publicly disclosed by the Washington Attorney General on November 6, 2026. Stay alert for any unusual communications or account activity connected to your Premise Health membership, and consider proactive steps to protect your identity. Source: Washington Attorney General.",
+      "hashtags": [
+        "PremiseHealth",
+        "DataBreach",
+        "HealthcareData",
+        "WashingtonState",
+        "CyberSecurity",
+        "UnauthorizedAccess",
+        "DataPrivacy",
+        "PrivacyAlert"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "If you are a Premise Health Holding member in Washington state, your personal information may have been exposed. On September 18, 2026, unauthorized access to Premise Health systems affected 49,444 Washington residents. Because this is a healthcare company, the risk to sensitive personal information is considered serious. The breach was publicly disclosed by the Washington Attorney General on November 6, 2026. Stay alert for any unusual communications or account activity connected to your Premise Health membership, and consider proactive steps to protect your identity. Source: Washington Attorney General.\n\n#PremiseHealth #DataBreach #HealthcareData #WashingtonState #CyberSecurity #UnauthorizedAccess #DataPrivacy #PrivacyAlert #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-11_breach_premise-health-holding_post.json",
+      "slide_folder": "2026-11-11_breach_premise-health-holding",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_premise-health-holding/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_premise-health-holding/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_premise-health-holding/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_premise-health-holding/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_premise-health-holding/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_premise-health-holding/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "If you are a Premise Health Holding member in Washington state, your personal information may have been exposed. On September 18, 2026, unauthorized access to Premise Health systems affected 49,444 Washington residents. Because this is a healthcare company, the risk to sensitive personal information is considered serious. The breach was publicly disclosed by the Washington Attorney General on November 6, 2026. Stay alert for any unusual communications or account activity connected to your Premise Health membership, and consider proactive steps to protect your identity. Source: Washington Attorney General.\n\n#PremiseHealth #DataBreach #HealthcareData #WashingtonState #CyberSecurity #UnauthorizedAccess #DataPrivacy #PrivacyAlert #TOSMonitor",
+      "caption_sha256": "ac0144cb92ba1edf72d880d88a175f3c11163004da87f641b7cf1e592b4d634f",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
+      "id": "2026-11-11_breach_sberspasibo",
+      "date": "2026-11-11",
+      "app": "СберСпасибо (SberSpasibo)",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://haveibeenpwned.com/PwnedWebsites#SberSpasibo",
+      "breach_source": "Have I Been Pwned",
+      "breach_record_id": "SberSpasibo",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-11",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: СберСпасибо (SberSpasibo)",
+        "Listed by: Have I Been Pwned on 2026-11-11",
+        "Website: spasibosberbank.ru",
+        "Date(s) of breach: 2023-03-09",
+        "People affected: 3,288,711 email addresses were in the leaked data",
+        "Data exposed: Bank card numbers, Dates of birth, Email addresses, Loyalty program details, Phone numbers",
+        "Details: In March 2023, data allegedly taken from СберСпасибо (SberSpasibo), the loyalty program of Russian bank Сбербанк (Sberbank), was published online . The data contained records relating to 48M users, including 3.3M unique email addresses alongside phone numbers and dates of birth. Data also included bank card numbers stored as unsalted SHA-1 hashes, plus loyalty program details such as membership dates and the redemption of bonus points for partner offers."
+      ],
+      "materiality": "3,288,711 accounts in HIBP",
+      "headline": "SberSpasibo breach exposed bank card numbers",
+      "subhead": "Sberbank loyalty program data leaked affecting millions",
+      "changes": [
+        "Bank card numbers stored as unsalted SHA-1 hashes were exposed",
+        "Phone numbers, dates of birth, and email addresses were leaked",
+        "Loyalty program details including membership dates and bonus point redemptions included",
+        "Data allegedly taken in March 2023 and published online"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Bank card numbers and personal identifiers were exposed. Over 3 million unique email addresses were confirmed in the leaked data.",
+      "actions": [
+        "Check if your email appears at haveibeenpwned.com",
+        "Monitor your bank card for any unfamiliar or suspicious transactions",
+        "Change your SberSpasibo account password if you still have access"
+      ],
+      "caption": "If you have or had an account with SberSpasibo, the loyalty rewards program run by Russian bank Sberbank, your personal data may have been exposed in a March 2023 breach. The leaked data included bank card numbers, phone numbers, dates of birth, email addresses, and loyalty program details such as membership dates and bonus point activity. The card numbers were stored as unsalted SHA-1 hashes, a weak protection method. Over 3.2 million unique email addresses were confirmed in the leaked dataset. The breach was listed by Have I Been Pwned.",
+      "hashtags": [
+        "SberSpasibo",
+        "Sberbank",
+        "DataBreach",
+        "BankCardLeak",
+        "PersonalData",
+        "HaveIBeenPwned",
+        "LoyaltyProgram",
+        "DataPrivacy"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "If you have or had an account with SberSpasibo, the loyalty rewards program run by Russian bank Sberbank, your personal data may have been exposed in a March 2023 breach. The leaked data included bank card numbers, phone numbers, dates of birth, email addresses, and loyalty program details such as membership dates and bonus point activity. The card numbers were stored as unsalted SHA-1 hashes, a weak protection method. Over 3.2 million unique email addresses were confirmed in the leaked dataset. The breach was listed by Have I Been Pwned.\n\n#SberSpasibo #Sberbank #DataBreach #BankCardLeak #PersonalData #HaveIBeenPwned #LoyaltyProgram #DataPrivacy #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-11_breach_sberspasibo_post.json",
+      "slide_folder": "2026-11-11_breach_sberspasibo",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "If you have or had an account with SberSpasibo, the loyalty rewards program run by Russian bank Sberbank, your personal data may have been exposed in a March 2023 breach. The leaked data included bank card numbers, phone numbers, dates of birth, email addresses, and loyalty program details such as membership dates and bonus point activity. The card numbers were stored as unsalted SHA-1 hashes, a weak protection method. Over 3.2 million unique email addresses were confirmed in the leaked dataset. The breach was listed by Have I Been Pwned.\n\n#SberSpasibo #Sberbank #DataBreach #BankCardLeak #PersonalData #HaveIBeenPwned #LoyaltyProgram #DataPrivacy #TOSMonitor",
+      "caption_sha256": "b8db8974e1f77eca660c51fe001b42f90f74fbf024dd067589bb155043fa6e33",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
+      "id": "2026-11-11_breach_youhack",
+      "date": "2026-11-11",
+      "app": "YouHack",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://haveibeenpwned.com/PwnedWebsites#YouHack",
+      "breach_source": "Have I Been Pwned",
+      "breach_record_id": "YouHack",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-11",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: YouHack",
+        "Listed by: Have I Been Pwned on 2026-11-11",
+        "Website: youhack.ru",
+        "Date(s) of breach: 2013-05-29",
+        "People affected: 7,160,849 email addresses were in the leaked data",
+        "Data exposed: Email addresses, IP addresses, Passwords, Usernames",
+        "Details: In May 2013, the Russian-language hacking forum YouHack suffered a data breach that was later redistributed as part of a larger corpus of data . The breach exposed 107k forum members' email addresses, usernames, IP addresses and MD5 password hashes, most of which were unsalted. Forum posts also contained email address and password pairs belonging to other victims, bringing the total to 7.2M unique email addresses."
+      ],
+      "materiality": "7,160,849 accounts in HIBP",
+      "headline": "YouHack Forum Breach Exposed 7M Email Addresses",
+      "subhead": "Passwords and usernames leaked from Russian hacking forum",
+      "changes": [
+        "7.2 million unique email addresses were exposed in the breach",
+        "Forum members' MD5 password hashes were leaked, most unsalted",
+        "Usernames and IP addresses of forum members were also exposed",
+        "Forum posts contained email and password pairs of other victims"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Passwords were exposed. If you reused credentials from YouHack elsewhere, those accounts may be at risk.",
+      "actions": [
+        "Check if your email appears on Have I Been Pwned",
+        "Change any password reused from YouHack on other sites",
+        "Enable two-factor authentication on accounts using the same password"
+      ],
+      "caption": "In May 2013, the Russian-language hacking forum YouHack suffered a data breach affecting over 7 million unique email addresses. The breach exposed forum members' usernames, IP addresses, and MD5 password hashes, most of which were unsalted and easier to crack. Forum posts also contained email and password pairs belonging to people outside the forum, dramatically widening the impact. The data was later redistributed as part of a larger collection and listed by Have I Been Pwned in November 2026. If you ever registered on YouHack or had credentials mentioned in its posts, treat those passwords as compromised. Source: Have I Been Pwned",
+      "hashtags": [
+        "DataBreach",
+        "YouHack",
+        "PasswordSecurity",
+        "EmailLeak",
+        "CyberSecurity",
+        "HaveIBeenPwned",
+        "AccountSecurity",
+        "DataPrivacy"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "In May 2013, the Russian-language hacking forum YouHack suffered a data breach affecting over 7 million unique email addresses. The breach exposed forum members' usernames, IP addresses, and MD5 password hashes, most of which were unsalted and easier to crack. Forum posts also contained email and password pairs belonging to people outside the forum, dramatically widening the impact. The data was later redistributed as part of a larger collection and listed by Have I Been Pwned in November 2026. If you ever registered on YouHack or had credentials mentioned in its posts, treat those passwords as compromised. Source: Have I Been Pwned\n\n#DataBreach #YouHack #PasswordSecurity #EmailLeak #CyberSecurity #HaveIBeenPwned #AccountSecurity #DataPrivacy #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-11_breach_youhack_post.json",
+      "slide_folder": "2026-11-11_breach_youhack",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_youhack/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_youhack/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_youhack/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_youhack/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_youhack/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_youhack/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "In May 2013, the Russian-language hacking forum YouHack suffered a data breach affecting over 7 million unique email addresses. The breach exposed forum members' usernames, IP addresses, and MD5 password hashes, most of which were unsalted and easier to crack. Forum posts also contained email and password pairs belonging to people outside the forum, dramatically widening the impact. The data was later redistributed as part of a larger collection and listed by Have I Been Pwned in November 2026. If you ever registered on YouHack or had credentials mentioned in its posts, treat those passwords as compromised. Source: Have I Been Pwned\n\n#DataBreach #YouHack #PasswordSecurity #EmailLeak #CyberSecurity #HaveIBeenPwned #AccountSecurity #DataPrivacy #TOSMonitor",
+      "caption_sha256": "5a9e2eeb2987c197c8c1ab8b367b92c177f019cabfa2b1e879eef8fc6f56c62c",
       "published": false,
       "publishable": false,
       "status": "requires_review",
@@ -5272,7 +5528,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -5720,11 +5976,11 @@
       "eligible_today": false
     }
   ],
-  "total": 82,
-  "queued_count": 6,
-  "published_count": 51,
+  "total": 85,
+  "queued_count": 5,
+  "published_count": 52,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }

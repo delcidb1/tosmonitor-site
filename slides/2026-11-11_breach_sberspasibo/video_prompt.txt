@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (СберСпасибо (SberSpasibo))
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+SberSpasibo breach exposed bank card numbers. Bank card numbers stored as unsalted SHA-1 hashes were exposed Phone numbers, dates of birth, and email addresses were leaked Loyalty program details including membership dates and bonus point redemptions included Data allegedly taken in March 2023 and published online Our verdict: important. Bank card numbers and personal identifiers were exposed. Over 3 million unique email addresses were confirmed in the leaked data. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #E11D48 accent lighting looks at the
+camera and says: 'SberSpasibo breach exposed bank card numbers. Bank card numbers and personal identifiers were exposed. Over 3 million unique email addresses were confirmed in the leaked data.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
