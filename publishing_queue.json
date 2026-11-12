@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-12T21:55:20Z",
+  "generated_at": "2026-11-12T21:58:13Z",
   "post_date": "2026-11-12",
   "posts": [
     {
@@ -3464,8 +3464,8 @@
       "caption_sha256": "9a9c0627c9e8c2bf885079482df0410afa961f6a4d22c08bacce7f82cc771c4e",
       "published": true,
       "published_at": "2026-11-12T16:34:28Z",
-      "instagram_post_id": "17991088857118275",
       "instagram_permalink": "https://www.instagram.com/p/Dfpfw_WlOeq/",
+      "instagram_post_id": "17991088857118275",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
@@ -4254,10 +4254,13 @@
         "PrivacyAlert",
         "DataSecurity"
       ],
-      "approved": false,
-      "draft": true,
+      "approved": true,
+      "draft": false,
       "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
       "caption_rendered": "Telecare Health, a health services organization, was hit by a ransomware cyberattack on January 25, 2026. Nearly 20,000 Washington state residents were affected. Ransomware attacks involve criminals locking or stealing data to demand payment, and they are particularly common against healthcare organizations that hold sensitive personal information. The specific types of data involved have not been detailed in the official record, but if you have ever been a Telecare Health patient or client, you should assume your information may have been at risk and take steps to protect yourself. This breach was listed by the Washington Attorney General.\n\n#DataBreach #TelecareHealth #Ransomware #CyberAttack #HealthcareSecurity #WashingtonState #PrivacyAlert #DataSecurity #TOSMonitor",
+      "publish_to_site": true,
+      "approved_at": "2026-11-12T21:58:13+00:00",
+      "approved_via": "email",
       "source_type": "breach",
       "post_source": "breaches/2026-11-12_breach_telecare-health_post.json",
       "slide_folder": "2026-11-12_breach_telecare-health",
@@ -4284,12 +4287,13 @@
       "instagram_caption": "Telecare Health, a health services organization, was hit by a ransomware cyberattack on January 25, 2026. Nearly 20,000 Washington state residents were affected. Ransomware attacks involve criminals locking or stealing data to demand payment, and they are particularly common against healthcare organizations that hold sensitive personal information. The specific types of data involved have not been detailed in the official record, but if you have ever been a Telecare Health patient or client, you should assume your information may have been at risk and take steps to protect yourself. This breach was listed by the Washington Attorney General.\n\n#DataBreach #TelecareHealth #Ransomware #CyberAttack #HealthcareSecurity #WashingtonState #PrivacyAlert #DataSecurity #TOSMonitor",
       "caption_sha256": "a0c7fa91d75ba460f0df6440326629f66dd0d1fdd7d60b7a40db053c7b2b9b09",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false
+      "eligible_today": false,
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-12_breach_uber-technologies",
@@ -6291,7 +6295,7 @@
     }
   ],
   "total": 89,
-  "queued_count": 5,
+  "queued_count": 6,
   "published_count": 53,
   "baseline_count": 6,
   "held_count": 2,
