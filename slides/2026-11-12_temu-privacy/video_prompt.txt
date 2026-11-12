@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Temu)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hey, quick heads-up: Temu just quietly updated its Privacy Policy, and it kicks in December 7, 2026. Here are the changes you should know about. First, Temu now explicitly collects your IP address automatically. Second, they have added age verification companies as a new third-party data source. And third, they can now send you marketing messages through messaging apps if your number is linked to one. Worth knowing, not a panic moment, but definitely check your notification settings before December 7. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #FF6B00 accent lighting looks at the
+camera and says: 'Temu's privacy policy updates December 2026. Several concrete expansions to data collection and sharing, including new third-party age verification and messaging-app marketing channels.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

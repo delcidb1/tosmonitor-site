@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026-11-12_temu-privacy",
+    "app": "Temu",
+    "accent": "#FF6B00",
+    "headline": "Temu's privacy policy updates December 2026",
+    "subhead": "New data sources, ad changes, and messaging opt-ins added.",
+    "effective": "Effective December 7, 2026",
+    "changes": [
+      "Temu now collects your IP address explicitly as an automatically gathered data point.",
+      "Age verification providers added: Temu may receive confirmation of your legal age from third parties.",
+      "Temu now may send you marketing messages via third-party messaging apps like WhatsApp.",
+      "Advertising section broadened: partners can now measure ad performance using your data."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Several concrete expansions to data collection and sharing, including new third-party age verification and messaging-app marketing channels.",
+    "actions": [
+      "Review and adjust marketing preferences in the Temu app Notifications menu.",
+      "Check your account settings and opt out of avatar and username sharing if desired.",
+      "Visit Temu's opt-out page to limit interest-based advertising and data sharing."
+    ],
+    "categories": [
+      {
+        "tag": "third_party_sharing",
+        "explanation": "Temu added age verification service providers and advertising analytics providers as new third-party recipients of user data, expanding the circle of outside parties that may access your information."
+      },
+      {
+        "tag": "permissions",
+        "explanation": "Temu now explicitly lists IP address as an automatically collected data point, formalizing collection that may not have been clearly disclosed before."
+      }
+    ],
+    "date": "2026-11-12",
+    "slide_folder": "2026-11-12_temu-privacy",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "diffs/2026-11-12_temu-privacy_post.json",
+    "effective_date": "2026-11-12",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://www.temu.com/privacy-and-cookie-policy.html",
+    "key_changes": []
+  },
+  {
     "id": "2026-11-09_microsoft-privacy",
     "app": "Microsoft",
     "accent": "#00A4EF",

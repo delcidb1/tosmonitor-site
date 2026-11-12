@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-12T20:19:31Z",
+  "generated_at": "2026-11-12T21:23:41Z",
   "post_date": "2026-11-12",
   "posts": [
     {
@@ -4207,6 +4207,84 @@
       "eligible_today": false
     },
     {
+      "app": "Temu",
+      "accent": "#FF6B00",
+      "headline": "Temu's privacy policy updates December 2026",
+      "subhead": "New data sources, ad changes, and messaging opt-ins added.",
+      "effective": "Effective December 7, 2026",
+      "changes": [
+        "Temu now collects your IP address explicitly as an automatically gathered data point.",
+        "Age verification providers added: Temu may receive confirmation of your legal age from third parties.",
+        "Temu now may send you marketing messages via third-party messaging apps like WhatsApp.",
+        "Advertising section broadened: partners can now measure ad performance using your data."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Several concrete expansions to data collection and sharing, including new third-party age verification and messaging-app marketing channels.",
+      "actions": [
+        "Review and adjust marketing preferences in the Temu app Notifications menu.",
+        "Check your account settings and opt out of avatar and username sharing if desired.",
+        "Visit Temu's opt-out page to limit interest-based advertising and data sharing."
+      ],
+      "caption": "Temu is rolling out an updated Privacy Policy effective December 7, 2026. The revised policy explicitly adds IP address to the list of automatically collected data, introduces age verification service providers as a new third-party data source, and allows Temu to send you marketing messages through messaging applications such as WhatsApp if your phone number or account is associated with one. The advertising section has also been rewritten to broaden how ad-performance measurement works with third-party partners. None of these are dramatic overhauls, but they do expand the number of ways your data can be used and the number of outside parties involved. Review your notification and privacy settings in the Temu app before December 7 to make sure your preferences still reflect what you are comfortable with.",
+      "hashtags": [
+        "temu",
+        "privacypolicy",
+        "dataprivacy",
+        "onlineshopping",
+        "adtracking",
+        "digitalrights",
+        "consumerprivacy",
+        "tosmonitor"
+      ],
+      "video_script": "Hey, quick heads-up: Temu just quietly updated its Privacy Policy, and it kicks in December 7, 2026. Here are the changes you should know about. First, Temu now explicitly collects your IP address automatically. Second, they have added age verification companies as a new third-party data source. And third, they can now send you marketing messages through messaging apps if your number is linked to one. Worth knowing, not a panic moment, but definitely check your notification settings before December 7. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Temu added age verification service providers and advertising analytics providers as new third-party recipients of user data, expanding the circle of outside parties that may access your information."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "Temu now explicitly lists IP address as an automatically collected data point, formalizing collection that may not have been clearly disclosed before."
+        }
+      ],
+      "caption_rendered": "Temu is rolling out an updated Privacy Policy effective December 7, 2026. The revised policy explicitly adds IP address to the list of automatically collected data, introduces age verification service providers as a new third-party data source, and allows Temu to send you marketing messages through messaging applications such as WhatsApp if your phone number or account is associated with one. The advertising section has also been rewritten to broaden how ad-performance measurement works with third-party partners. None of these are dramatic overhauls, but they do expand the number of ways your data can be used and the number of outside parties involved. Review your notification and privacy settings in the Temu app before December 7 to make sure your preferences still reflect what you are comfortable with.\n\n#temu #privacypolicy #dataprivacy #onlineshopping #adtracking #digitalrights #consumerprivacy #tosmonitor #TOSMonitor",
+      "id": "2026-11-12_temu-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-11-12_temu-privacy_post.json",
+      "slide_folder": "2026-11-12_temu-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_temu-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_temu-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_temu-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_temu-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_temu-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_temu-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-12",
+      "priority": 100,
+      "instagram_caption": "Temu is rolling out an updated Privacy Policy effective December 7, 2026. The revised policy explicitly adds IP address to the list of automatically collected data, introduces age verification service providers as a new third-party data source, and allows Temu to send you marketing messages through messaging applications such as WhatsApp if your phone number or account is associated with one. The advertising section has also been rewritten to broaden how ad-performance measurement works with third-party partners. None of these are dramatic overhauls, but they do expand the number of ways your data can be used and the number of outside parties involved. Review your notification and privacy settings in the Temu app before December 7 to make sure your preferences still reflect what you are comfortable with.\n\n#temu #privacypolicy #dataprivacy #onlineshopping #adtracking #digitalrights #consumerprivacy #tosmonitor #TOSMonitor",
+      "caption_sha256": "b5937d53779b762b02bd6414b0688bb9251adba80a337a9556f742518d8ea4d8",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -5975,8 +6053,8 @@
       "eligible_today": false
     }
   ],
-  "total": 85,
-  "queued_count": 5,
+  "total": 86,
+  "queued_count": 6,
   "published_count": 52,
   "baseline_count": 6,
   "held_count": 2,
