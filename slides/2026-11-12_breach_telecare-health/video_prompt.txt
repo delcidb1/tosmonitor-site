@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Telecare Health)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Telecare Health hit by ransomware attack. Cyberattack classified as ransomware struck Telecare Health 19,922 Washington residents were affected Reported to Washington Attorney General on November 9, 2026 Our verdict: important. Ransomware attacks on health-related organizations frequently involve sensitive personal and medical data. Stay alert for suspicious activity. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #E11D48 accent lighting looks at the
+camera and says: 'Telecare Health hit by ransomware attack. Ransomware attacks on health-related organizations frequently involve sensitive personal and medical data. Stay alert for suspicious activity.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

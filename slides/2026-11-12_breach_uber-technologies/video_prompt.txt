@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Uber Technologies)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Uber Technologies data breach confirmed. The California Attorney General listed a Uber Technologies data breach on 2026-11-10. Breach date(s) on record: 2026-10-07. Our verdict: worth knowing. If you have an account with them, take a few minutes to secure it. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #E11D48 accent lighting looks at the
+camera and says: 'Uber Technologies data breach confirmed. If you have an account with them, take a few minutes to secure it.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

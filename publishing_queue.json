@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-12T21:32:15Z",
+  "generated_at": "2026-11-12T21:55:20Z",
   "post_date": "2026-11-12",
   "posts": [
     {
@@ -3462,13 +3462,16 @@
       "priority": 100,
       "instagram_caption": "Uber updated its Terms of Use on November 4, 2026, adding a brand-new section called Agent Terms that covers AI bots and automated tools acting on your behalf. In plain terms, if you let a third-party AI assistant book a ride, order food, or make a payment through your Uber account, you are personally responsible for whatever it does — including wrong addresses, missed bookings, and erroneous charges. Uber can block or ban any agent it has not approved, and it can suspend your account without notice if an agent violates its rules. You are also now explicitly forbidden from sharing your login credentials with any agent unless Uber has authorized it through an official program. If you use any automation or AI concierge service, check right now whether it touches your Uber account.\n\n#uber #aiagents #termsofservice #privacymatters #tosupdate #digitalrights #consumertech #appupdate #TOSMonitor",
       "caption_sha256": "9a9c0627c9e8c2bf885079482df0410afa961f6a4d22c08bacce7f82cc771c4e",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-12T16:34:28Z",
+      "instagram_post_id": "17991088857118275",
+      "instagram_permalink": "https://www.instagram.com/p/Dfpfw_WlOeq/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "app": "Roku",
@@ -3542,7 +3545,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-09_breach_frontline-education",
@@ -3709,7 +3712,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Microsoft",
@@ -3786,7 +3789,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-10_breach_quantum-health",
@@ -4207,6 +4210,240 @@
       "eligible_today": false
     },
     {
+      "id": "2026-11-12_breach_telecare-health",
+      "date": "2026-11-12",
+      "app": "Telecare Health",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://www.atg.wa.gov/data-breach-notifications",
+      "breach_source": "Washington Attorney General",
+      "breach_record_id": "d6654315076cd774",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-09",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Telecare Health",
+        "Listed by: Washington Attorney General on 2026-11-09",
+        "Date(s) of breach: 2026-01-25",
+        "People affected: 19,922 Washington residents were affected",
+        "Details: Cause: Cyberattack; Attack type: Ransomware"
+      ],
+      "materiality": "19,922 Washington residents",
+      "headline": "Telecare Health hit by ransomware attack",
+      "subhead": "Nearly 20,000 Washington residents' data exposed",
+      "changes": [
+        "Cyberattack classified as ransomware struck Telecare Health",
+        "19,922 Washington residents were affected",
+        "Reported to Washington Attorney General on November 9, 2026"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Ransomware attacks on health-related organizations frequently involve sensitive personal and medical data. Stay alert for suspicious activity.",
+      "actions": [
+        "Monitor your credit and any health insurance explanation-of-benefits statements",
+        "Contact Telecare Health directly to ask what data was involved",
+        "Consider placing a fraud alert with the major credit bureaus"
+      ],
+      "caption": "Telecare Health, a health services organization, was hit by a ransomware cyberattack on January 25, 2026. Nearly 20,000 Washington state residents were affected. Ransomware attacks involve criminals locking or stealing data to demand payment, and they are particularly common against healthcare organizations that hold sensitive personal information. The specific types of data involved have not been detailed in the official record, but if you have ever been a Telecare Health patient or client, you should assume your information may have been at risk and take steps to protect yourself. This breach was listed by the Washington Attorney General.",
+      "hashtags": [
+        "DataBreach",
+        "TelecareHealth",
+        "Ransomware",
+        "CyberAttack",
+        "HealthcareSecurity",
+        "WashingtonState",
+        "PrivacyAlert",
+        "DataSecurity"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "Telecare Health, a health services organization, was hit by a ransomware cyberattack on January 25, 2026. Nearly 20,000 Washington state residents were affected. Ransomware attacks involve criminals locking or stealing data to demand payment, and they are particularly common against healthcare organizations that hold sensitive personal information. The specific types of data involved have not been detailed in the official record, but if you have ever been a Telecare Health patient or client, you should assume your information may have been at risk and take steps to protect yourself. This breach was listed by the Washington Attorney General.\n\n#DataBreach #TelecareHealth #Ransomware #CyberAttack #HealthcareSecurity #WashingtonState #PrivacyAlert #DataSecurity #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-12_breach_telecare-health_post.json",
+      "slide_folder": "2026-11-12_breach_telecare-health",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_telecare-health/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_telecare-health/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_telecare-health/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_telecare-health/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_telecare-health/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_telecare-health/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "Telecare Health, a health services organization, was hit by a ransomware cyberattack on January 25, 2026. Nearly 20,000 Washington state residents were affected. Ransomware attacks involve criminals locking or stealing data to demand payment, and they are particularly common against healthcare organizations that hold sensitive personal information. The specific types of data involved have not been detailed in the official record, but if you have ever been a Telecare Health patient or client, you should assume your information may have been at risk and take steps to protect yourself. This breach was listed by the Washington Attorney General.\n\n#DataBreach #TelecareHealth #Ransomware #CyberAttack #HealthcareSecurity #WashingtonState #PrivacyAlert #DataSecurity #TOSMonitor",
+      "caption_sha256": "a0c7fa91d75ba460f0df6440326629f66dd0d1fdd7d60b7a40db053c7b2b9b09",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
+      "id": "2026-11-12_breach_uber-technologies",
+      "date": "2026-11-12",
+      "app": "Uber Technologies",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://oag.ca.gov/privacy/databreach/list",
+      "breach_source": "California Attorney General",
+      "breach_record_id": "f29822c222438008",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-10",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Uber Technologies",
+        "Listed by: California Attorney General on 2026-11-10",
+        "Date(s) of breach: 2026-10-07"
+      ],
+      "materiality": "watched brand 'Uber'",
+      "headline": "Uber Technologies data breach confirmed",
+      "subhead": "What we know and what to do now",
+      "changes": [
+        "The California Attorney General listed a Uber Technologies data breach on 2026-11-10.",
+        "Breach date(s) on record: 2026-10-07."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "If you have an account with them, take a few minutes to secure it.",
+      "actions": [
+        "Change your Uber Technologies password and any reused elsewhere.",
+        "Turn on two-factor authentication for this account.",
+        "Distrust emails or texts mentioning Uber Technologies - phishing follows breaches."
+      ],
+      "caption": "Uber Technologies has a confirmed data breach on record with the California Attorney General (listed 2026-11-10). If you have an account, here is what to do: Change your Uber Technologies password and any reused elsewhere. Turn on two-factor authentication for this account. Distrust emails or texts mentioning Uber Technologies - phishing follows breaches. Source: https://oag.ca.gov/privacy/databreach/list",
+      "hashtags": [
+        "UberTechnologies",
+        "UberTechnologiesBreach",
+        "DataBreach",
+        "Cybersecurity",
+        "DataPrivacy",
+        "IdentityTheft",
+        "PrivacyAlert"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "Deterministic draft (AI skipped: The record contains only the organisation name, listing authority, and breach date. No data types exposed, number of people affected, or any other facts are stated. There is insufficient information to write a useful or accurate breach alert.). Breach posts always need approval - check the source link first.",
+      "caption_rendered": "Uber Technologies has a confirmed data breach on record with the California Attorney General (listed 2026-11-10). If you have an account, here is what to do: Change your Uber Technologies password and any reused elsewhere. Turn on two-factor authentication for this account. Distrust emails or texts mentioning Uber Technologies - phishing follows breaches. Source: https://oag.ca.gov/privacy/databreach/list\n\n#UberTechnologies #UberTechnologiesBreach #DataBreach #Cybersecurity #DataPrivacy #IdentityTheft #PrivacyAlert #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-12_breach_uber-technologies_post.json",
+      "slide_folder": "2026-11-12_breach_uber-technologies",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_uber-technologies/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_uber-technologies/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_uber-technologies/03_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_uber-technologies/04_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_uber-technologies/05_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_verdict.png",
+        "04_action.png",
+        "05_outro.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "Uber Technologies has a confirmed data breach on record with the California Attorney General (listed 2026-11-10). If you have an account, here is what to do: Change your Uber Technologies password and any reused elsewhere. Turn on two-factor authentication for this account. Distrust emails or texts mentioning Uber Technologies - phishing follows breaches. Source: https://oag.ca.gov/privacy/databreach/list\n\n#UberTechnologies #UberTechnologiesBreach #DataBreach #Cybersecurity #DataPrivacy #IdentityTheft #PrivacyAlert #TOSMonitor",
+      "caption_sha256": "8f0e6751d59b77ec4bc438857362c16b5c72a382b37fcbe8b9b7281e17ea5c01",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
+      "id": "2026-11-12_breach_vanguard-group",
+      "date": "2026-11-12",
+      "app": "Vanguard Group",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://oag.ca.gov/privacy/databreach/list",
+      "breach_source": "California Attorney General",
+      "breach_record_id": "dc92087a48df68e2",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-11",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Vanguard Group",
+        "Listed by: California Attorney General on 2026-11-11",
+        "Date(s) of breach: 2026-07-29, 2026-07-30, 2026-07-31"
+      ],
+      "materiality": "watched brand 'Vanguard'",
+      "headline": "Vanguard Group data breach confirmed",
+      "subhead": "What we know and what to do now",
+      "changes": [
+        "The California Attorney General listed a Vanguard Group data breach on 2026-11-11.",
+        "Breach date(s) on record: 2026-07-29, 2026-07-30, 2026-07-31."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "If you have an account with them, take a few minutes to secure it.",
+      "actions": [
+        "Change your Vanguard Group password and any reused elsewhere.",
+        "Turn on two-factor authentication for this account.",
+        "Distrust emails or texts mentioning Vanguard Group - phishing follows breaches."
+      ],
+      "caption": "Vanguard Group has a confirmed data breach on record with the California Attorney General (listed 2026-11-11). If you have an account, here is what to do: Change your Vanguard Group password and any reused elsewhere. Turn on two-factor authentication for this account. Distrust emails or texts mentioning Vanguard Group - phishing follows breaches. Source: https://oag.ca.gov/privacy/databreach/list",
+      "hashtags": [
+        "VanguardGroup",
+        "VanguardGroupBreach",
+        "DataBreach",
+        "Cybersecurity",
+        "DataPrivacy",
+        "IdentityTheft",
+        "PrivacyAlert"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "Deterministic draft (AI skipped: The record contains only the organisation name, listing authority, and breach dates. No data types exposed, number of people affected, or any other facts are stated. There is insufficient information to write a useful, accurate breach alert.). Breach posts always need approval - check the source link first.",
+      "caption_rendered": "Vanguard Group has a confirmed data breach on record with the California Attorney General (listed 2026-11-11). If you have an account, here is what to do: Change your Vanguard Group password and any reused elsewhere. Turn on two-factor authentication for this account. Distrust emails or texts mentioning Vanguard Group - phishing follows breaches. Source: https://oag.ca.gov/privacy/databreach/list\n\n#VanguardGroup #VanguardGroupBreach #DataBreach #Cybersecurity #DataPrivacy #IdentityTheft #PrivacyAlert #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-12_breach_vanguard-group_post.json",
+      "slide_folder": "2026-11-12_breach_vanguard-group",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_vanguard-group/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_vanguard-group/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_vanguard-group/03_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_vanguard-group/04_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_vanguard-group/05_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_verdict.png",
+        "04_action.png",
+        "05_outro.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "Vanguard Group has a confirmed data breach on record with the California Attorney General (listed 2026-11-11). If you have an account, here is what to do: Change your Vanguard Group password and any reused elsewhere. Turn on two-factor authentication for this account. Distrust emails or texts mentioning Vanguard Group - phishing follows breaches. Source: https://oag.ca.gov/privacy/databreach/list\n\n#VanguardGroup #VanguardGroupBreach #DataBreach #Cybersecurity #DataPrivacy #IdentityTheft #PrivacyAlert #TOSMonitor",
+      "caption_sha256": "a227fe0ae3c867b22269b6a2f2e16e630e303474a7b31b64325a667fd99d7edd",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
       "app": "Temu",
       "accent": "#FF6B00",
       "headline": "Temu's privacy policy updates December 2026",
@@ -4282,7 +4519,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -5605,7 +5842,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -6053,11 +6290,11 @@
       "eligible_today": false
     }
   ],
-  "total": 86,
-  "queued_count": 6,
-  "published_count": 52,
+  "total": 89,
+  "queued_count": 5,
+  "published_count": 53,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
