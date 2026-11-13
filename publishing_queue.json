@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-13T19:58:24Z",
+  "generated_at": "2026-11-13T20:49:12Z",
   "post_date": "2026-11-13",
   "posts": [
     {
@@ -4525,6 +4525,88 @@
       "waiting_reason": "one_post_per_day"
     },
     {
+      "app": "Pinterest",
+      "accent": "#E60023",
+      "headline": "Pinterest now trains AI on your Pins",
+      "subhead": "Your content, their models — what you need to know.",
+      "effective": "Effective November 12, 2026",
+      "changes": [
+        "Pinterest explicitly states it trains AI and generative AI models on your Pins.",
+        "Automated tools may now scan and analyze your private messages for harmful content.",
+        "Advertisers can now reach you off Pinterest, including on your connected TV.",
+        "Data providers may now supply information about you depending on where you live."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "AI training on user content is now explicit, and message scanning by vendors is newly disclosed. Neither is opt-in.",
+      "actions": [
+        "Review your Privacy and Data Settings to limit ad personalization off Pinterest.",
+        "Check your account settings for any AI or content usage controls Pinterest offers.",
+        "Visit Pinterest's AI features page to understand how your Pins may be used."
+      ],
+      "caption": "Pinterest updated its privacy policy, effective November 12, 2026. The biggest change: Pinterest now explicitly states it uses your Pins — regardless of when they were posted — to train machine learning and generative AI models. Previously this language was more vague. The policy also newly discloses that automated tools, including those run by third-party vendors, may scan and analyze your messages to detect harmful content. On the ads side, Pinterest can now reach you on connected TVs through partners, and may receive data about you from third-party data providers depending on where you live. None of these are opt-in by default. Go to your Privacy and Data Settings on Pinterest to review your personalization and ad choices.",
+      "hashtags": [
+        "pinterest",
+        "privacypolicy",
+        "aitraining",
+        "dataprivacy",
+        "generativeai",
+        "adtech",
+        "toschange",
+        "privacy"
+      ],
+      "video_script": "Hey, Pinterest just updated its privacy policy and there are a few things you should know. First, they've made it explicit that your Pins — yes, even old ones — can be used to train their AI and generative AI models. Second, third-party vendors may now scan your private messages using automated tools. And on the ads front, Pinterest can now follow you to your connected TV. The verdict? Worth knowing — none of this is opt-in. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "Pinterest now explicitly states it uses Pins and user content, regardless of when posted, to train machine learning and generative AI models, which was previously described in vaguer terms."
+        },
+        {
+          "tag": "third_party_sharing",
+          "explanation": "The updated policy discloses that data providers may supply information about users depending on location, and that third-party vendors may use automated tools to scan user messages — both are newly added disclosures."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "Pinterest added language about collecting data from connected TVs and noted that connected TV settings may be used to manage ad data, indicating expanded data collection to a new class of device."
+        }
+      ],
+      "caption_rendered": "Pinterest updated its privacy policy, effective November 12, 2026. The biggest change: Pinterest now explicitly states it uses your Pins — regardless of when they were posted — to train machine learning and generative AI models. Previously this language was more vague. The policy also newly discloses that automated tools, including those run by third-party vendors, may scan and analyze your messages to detect harmful content. On the ads side, Pinterest can now reach you on connected TVs through partners, and may receive data about you from third-party data providers depending on where you live. None of these are opt-in by default. Go to your Privacy and Data Settings on Pinterest to review your personalization and ad choices.\n\n#pinterest #privacypolicy #aitraining #dataprivacy #generativeai #adtech #toschange #privacy #TOSMonitor",
+      "id": "2026-11-13_pinterest-privacy",
+      "source_type": "diff",
+      "post_source": "diffs/2026-11-13_pinterest-privacy_post.json",
+      "slide_folder": "2026-11-13_pinterest-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-13_pinterest-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-13_pinterest-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-13_pinterest-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-13_pinterest-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-13_pinterest-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-13_pinterest-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-13",
+      "priority": 100,
+      "instagram_caption": "Pinterest updated its privacy policy, effective November 12, 2026. The biggest change: Pinterest now explicitly states it uses your Pins — regardless of when they were posted — to train machine learning and generative AI models. Previously this language was more vague. The policy also newly discloses that automated tools, including those run by third-party vendors, may scan and analyze your messages to detect harmful content. On the ads side, Pinterest can now reach you on connected TVs through partners, and may receive data about you from third-party data providers depending on where you live. None of these are opt-in by default. Go to your Privacy and Data Settings on Pinterest to review your personalization and ad choices.\n\n#pinterest #privacypolicy #aitraining #dataprivacy #generativeai #adtech #toschange #privacy #TOSMonitor",
+      "caption_sha256": "b703c0c460ad88f13ed413ce27f425c9069758501e171c90e6f9a66417721712",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -6293,8 +6375,8 @@
       "eligible_today": false
     }
   ],
-  "total": 89,
-  "queued_count": 6,
+  "total": 90,
+  "queued_count": 7,
   "published_count": 53,
   "baseline_count": 6,
   "held_count": 2,
