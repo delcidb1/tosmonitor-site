@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-13T01:00:31Z",
-  "post_date": "2026-11-12",
+  "generated_at": "2026-11-13T14:38:25Z",
+  "post_date": "2026-11-13",
   "posts": [
     {
       "app": "Flock Safety",
@@ -3544,8 +3544,7 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "eligible_today": true
     },
     {
       "id": "2026-11-09_breach_frontline-education",
@@ -3712,7 +3711,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "app": "Microsoft",
@@ -3789,7 +3788,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-11-10_breach_quantum-health",
@@ -4293,7 +4292,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-11-12_breach_uber-technologies",
@@ -4523,7 +4522,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -5846,7 +5845,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -6300,5 +6299,5 @@
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 0
+  "eligible_today_count": 1
 }
