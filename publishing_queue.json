@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-13T20:55:09Z",
+  "generated_at": "2026-11-13T21:38:04Z",
   "post_date": "2026-11-13",
   "posts": [
     {
@@ -3538,13 +3538,16 @@
       "priority": 100,
       "instagram_caption": "Roku updated its privacy policy on November 6, 2026, and the changes go beyond a name change. Roku has rebranded from Roku Inc. to Roku LLC and is now explicitly tied to Fox Corporation's network of affiliated companies. The updated policy adds these 'Company Affiliates' as named recipients of your personal data across nearly every category, including your viewing history, browsing activity, location, audio data, and even sensitive information like racial or ethnic origin and health data. Those affiliates can use your information for their own advertising and analytics, not just Roku's. Perhaps most notably, the previous language requiring affiliates to honor Roku's privacy policy has been removed, leaving no stated guardrail on how they handle your data. If you are a Roku user, now is the time to visit your privacy settings and opt out of data sharing.\n\n#roku #foxcorporation #privacypolicy #dataSharing #streamingprivacy #cordcutters #privacyrights #toschange #TOSMonitor",
       "caption_sha256": "a2305052b7c2babbcf92ba7a8ccd7b47345d6bda04a932b844d4eb2549a39bf1",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-13T16:34:52Z",
+      "instagram_post_id": "17994395654853104",
+      "instagram_permalink": "https://www.instagram.com/p/DfsEmrmmxLS/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "id": "2026-11-09_breach_frontline-education",
@@ -3711,7 +3714,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Microsoft",
@@ -3788,7 +3791,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-10_breach_quantum-health",
@@ -4292,7 +4295,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-12_breach_uber-technologies",
@@ -4522,7 +4525,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Pinterest",
@@ -4604,7 +4607,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -5927,7 +5930,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
@@ -6376,10 +6379,10 @@
     }
   ],
   "total": 90,
-  "queued_count": 7,
-  "published_count": 53,
+  "queued_count": 6,
+  "published_count": 54,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
