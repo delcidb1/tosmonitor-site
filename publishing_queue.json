@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-14T13:24:28Z",
+  "generated_at": "2026-11-14T15:20:46Z",
   "post_date": "2026-11-14",
   "posts": [
     {
@@ -5851,87 +5851,6 @@
       "eligible_today": false
     },
     {
-      "id": "2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy",
-      "date": "2026-10-06",
-      "effective": "Updated October 06, 2026",
-      "app": "Robinhood",
-      "doc": "The 2-Minute Fix",
-      "post_type": "series",
-      "accent": "#00C805",
-      "categories": [
-        {
-          "tag": "ai_training",
-          "explanation": "Robinhood already had AI training language, but now explicitly includes data generated when external AI agents use your account as potential training input."
-        },
-        {
-          "tag": "third_party_sharing",
-          "explanation": "Third-party AI agents are newly named alongside Google and Apple as external services that can connect to your account and share your profile data with Robinhood."
-        }
-      ],
-      "source_doc": "TOSMonitor series based on a monitored policy · 2026-08-20_robinhood-privacy",
-      "source_post_id": "2026-08-20_robinhood-privacy",
-      "series_id": "two-minute-fix",
-      "series_title": "The 2-Minute Fix",
-      "approved": true,
-      "publish_to_site": true,
-      "priority": 300,
-      "draft": false,
-      "headline": "The 2-minute privacy check for Robinhood",
-      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
-      "changes": [
-        "Check if any third-party AI tools are connected to your Robinhood account.",
-        "Review the updated Customer Agreement for agentic trading rules.",
-        "Revisit your GLBA affiliate-sharing opt-out under the updated entity list."
-      ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "Under Robinhood's updated Customer Agreement, orders your AI agent sends are binding on you, even if the agent gets it wrong.",
-      "actions": [
-        "Gear icon > Skills & subscriptions > Manage subscriptions: unsubscribe unused agent apps.",
-        "Agentic account > gear icon > General: keep Trade approvals on so you OK every order.",
-        "No in-app setting: email privacy@robinhood.com to limit affiliate data sharing."
-      ],
-      "caption_rendered": "THE 2-MINUTE FIX · Robinhood\n\nA policy update is only useful if it leads to an action. Three checks from the Robinhood update we tracked, and how to do each one:\n\n1. Gear icon > Skills & subscriptions > Manage subscriptions: unsubscribe unused agent apps.\n2. Agentic account > gear icon > General: keep Trade approvals on so you OK every order.\n3. No in-app setting: email privacy@robinhood.com to limit affiliate data sharing.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
-      "how_to_sources": [
-        "https://robinhood.com/us/en/support/articles/agent-apps/",
-        "https://robinhood.com/us/en/support/articles/robinhood-agents-overview/",
-        "https://conductatlas.com/platform/robinhood/robinhood-privacy-policy/user-right-to-opt-out-of-affiliate-sharing/"
-      ],
-      "approved_at": "2026-10-19T01:01:30+00:00",
-      "approved_via": "email",
-      "source_type": "evergreen",
-      "post_source": "evergreen/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy_post.json",
-      "slide_folder": "2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy",
-      "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/04_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/05_action.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-06_two-minute-fix_2026-08-20_robinhood-privacy/06_outro.png"
-      ],
-      "media_files": [
-        "01_hook.png",
-        "02_changes.png",
-        "03_changes.png",
-        "04_verdict.png",
-        "05_action.png",
-        "06_outro.png"
-      ],
-      "slide_count": 6,
-      "has_slides": true,
-      "media_error": "",
-      "instagram_caption": "THE 2-MINUTE FIX · Robinhood\n\nA policy update is only useful if it leads to an action. Three checks from the Robinhood update we tracked, and how to do each one:\n\n1. Gear icon > Skills & subscriptions > Manage subscriptions: unsubscribe unused agent apps.\n2. Agentic account > gear icon > General: keep Trade approvals on so you OK every order.\n3. No in-app setting: email privacy@robinhood.com to limit affiliate data sharing.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
-      "caption_sha256": "a21f8a0ff57def70be332f5fb8cf9dc574fded58d3e9356107afd9c2dbdb2b03",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
-      "site_status": "approved",
-      "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
-    },
-    {
       "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
       "date": "2026-10-20",
       "effective": "Updated October 20, 2026",
@@ -6377,8 +6296,8 @@
       "eligible_today": false
     }
   ],
-  "total": 90,
-  "queued_count": 6,
+  "total": 89,
+  "queued_count": 5,
   "published_count": 54,
   "baseline_count": 6,
   "held_count": 2,
