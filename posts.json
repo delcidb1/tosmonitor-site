@@ -241,14 +241,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "breaches/2026-11-09_breach_marathon-health_post.json",
     "effective_date": "2026-11-09",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DfupD0HlP0h/",
+    "instagram_post_id": "17929438329439106",
+    "published_at": "2026-11-14T16:31:54Z"
   },
   {
     "id": "2026-11-08_weekly-recap",

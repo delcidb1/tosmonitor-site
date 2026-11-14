@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-14T19:23:20Z",
+  "generated_at": "2026-11-14T20:05:04Z",
   "post_date": "2026-11-14",
   "posts": [
     {
@@ -3707,13 +3707,16 @@
       "priority": 100,
       "instagram_caption": "Marathon Health, a workplace health provider, reported a cyberattack that occurred on September 9, 2026. Nearly 50,000 Washington state residents were affected. The breach was disclosed to the Washington Attorney General, though the specific types of personal data involved have not been detailed in the official record. If you have used Marathon Health services, it is worth watching for any official notice from the company and keeping an eye on your personal accounts in the meantime. Source: Washington Attorney General\n\n#MarathonHealth #DataBreach #CyberAttack #WashingtonState #HealthcareSecurity #DataPrivacy #ConsumerAlert #TOSMonitor",
       "caption_sha256": "967b5c810b0a754f7cf55028581f54e1ab73a4fee2f664c1d5ba5654542da5d6",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-14T16:31:54Z",
+      "instagram_post_id": "17929438329439106",
+      "instagram_permalink": "https://www.instagram.com/p/DfupD0HlP0h/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "app": "Microsoft",
@@ -3790,7 +3793,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-10_breach_quantum-health",
@@ -4294,7 +4297,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-12_breach_uber-technologies",
@@ -4524,7 +4527,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Pinterest",
@@ -4606,7 +4609,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -6366,10 +6369,10 @@
     }
   ],
   "total": 90,
-  "queued_count": 5,
-  "published_count": 54,
+  "queued_count": 4,
+  "published_count": 55,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
