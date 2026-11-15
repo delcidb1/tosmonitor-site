@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (This Week in Privacy)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Meta's $887M fine, FedEx CCPA bust & NYC pricing ban. Italy's Garante fined Meta €805 million ($887M) for accessing Android users' photo galleries without specific consent. Telecare Health hit by ransomware attack Pinterest now trains AI on your Pins Temu's privacy policy updates December 2026 Marathon Health hit by cyberattack this fall Our verdict: worth knowing. Every story here comes down to the same question: who holds your data, and what they do with it when you are not looking. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #38BDF8 accent lighting looks at the
+camera and says: 'Meta's $887M fine, FedEx CCPA bust & NYC pricing ban. Every story here comes down to the same question: who holds your data, and what they do with it when you are not looking.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
