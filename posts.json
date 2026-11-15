@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-11-15_weekly-recap",
+    "app": "This Week in Privacy",
+    "doc": "This Week in Privacy",
+    "post_type": "series",
+    "accent": "#38BDF8",
+    "headline": "Meta's $887M Italy photo fine & FedEx's $2.975M privacy fine",
+    "subhead": "5 privacy and breach stories you may have missed",
+    "effective": "Nov 9\u201315, 2026",
+    "changes": [
+      "Italy fined Meta \u20ac805 million ($887M) after Facebook's Android app read users' photo galleries without specific consent.",
+      "FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not.",
+      "NYC Council voted 44-5 to ban surveillance pricing, using your data to set your price.",
+      "Telecare Health hit by ransomware attack",
+      "Pinterest now trains AI on your Pins"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Fines in Italy and California and a new law in New York all target the same thing: companies taking your data further than you agreed to.",
+    "actions": [
+      "Check haveibeenpwned.com for any email you use to sign in",
+      "On Android, set Facebook's photo access to selected photos only",
+      "Turn on Global Privacy Control in your browser to opt out of data sharing"
+    ],
+    "categories": [],
+    "source_doc": "TOSMonitor weekly recap for Nov 9\u201315, 2026",
+    "date": "2026-11-15",
+    "slide_folder": "2026-11-15_weekly-recap",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_hook.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_changes.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "evergreen/2026-11-15_weekly-recap_post.json",
+    "stories": [
+      {
+        "line": "Italy fined Meta \u20ac805 million ($887M) after Facebook's Android app read users' photo galleries without specific consent.",
+        "teaser": "Meta's $887M Italy photo fine",
+        "publisher": "AP",
+        "source_url": "https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127",
+        "published": "2026-11-14",
+        "origin": "news"
+      },
+      {
+        "line": "FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not.",
+        "teaser": "FedEx's $2.975M privacy fine",
+        "publisher": "California Privacy Protection Agency",
+        "source_url": "https://privacy.ca.gov/2026/11/federal-express-to-change-practices-and-pay-close-to-3-million-fine-over-ccpa-privacy-violations/",
+        "published": "2026-11-10",
+        "origin": "news"
+      },
+      {
+        "line": "NYC Council voted 44-5 to ban surveillance pricing, using your data to set your price.",
+        "teaser": "NYC bans surveillance pricing",
+        "publisher": "New York City Council",
+        "source_url": "https://council.nyc.gov/press/2026/11/12/3339/",
+        "published": "2026-11-12",
+        "origin": "news"
+      },
+      {
+        "line": "Telecare Health hit by ransomware attack",
+        "publisher": "TOSMonitor",
+        "source_url": "https://www.atg.wa.gov/data-breach-notifications",
+        "published": "2026-11-12",
+        "origin": "tosmonitor",
+        "teaser": "",
+        "app": "Telecare Health"
+      },
+      {
+        "line": "Pinterest now trains AI on your Pins",
+        "publisher": "TOSMonitor",
+        "source_url": "https://delcidb1.github.io/tosmonitor-site/",
+        "published": "2026-11-13",
+        "origin": "tosmonitor",
+        "teaser": "",
+        "app": "Pinterest"
+      }
+    ],
+    "effective_date": "2026-11-15",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-13_pinterest-privacy",
     "app": "Pinterest",
     "accent": "#E60023",

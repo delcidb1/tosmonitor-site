@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-15T16:43:18Z",
+  "generated_at": "2026-11-15T16:48:16Z",
   "post_date": "2026-11-15",
   "posts": [
     {
@@ -3792,7 +3792,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
     },
     {
       "id": "2026-11-10_breach_quantum-health",
@@ -6310,65 +6311,67 @@
       "source_doc": "TOSMonitor weekly recap for Nov 9–15, 2026",
       "series_id": "weekly-recap",
       "series_title": "This Week in Privacy",
-      "headline": "Meta's $880M Italy photo fine & FedEx hit with $2.975M CCPA fine",
+      "headline": "Meta's $887M Italy photo fine & FedEx's $2.975M privacy fine",
       "subhead": "5 privacy and breach stories you may have missed",
       "changes": [
-        "Italy's Garante fined Meta €805 million ($880M) for accessing Android users' photo galleries without specific consent.",
+        "Italy fined Meta €805 million ($887M) after Facebook's Android app read users' photo galleries without specific consent.",
         "FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not.",
+        "NYC Council voted 44-5 to ban surveillance pricing, using your data to set your price.",
         "Telecare Health hit by ransomware attack",
-        "Pinterest now trains AI on your Pins",
-        "Temu's privacy policy updates December 2026"
+        "Pinterest now trains AI on your Pins"
       ],
       "cover_lines": [
-        "Meta's $880M Italy photo fine",
-        "FedEx hit with $2.975M CCPA fine",
-        "",
+        "Meta's $887M Italy photo fine",
+        "FedEx's $2.975M privacy fine",
+        "NYC bans surveillance pricing",
         "",
         ""
       ],
       "watch": [
         {
           "date": "2026-11-19",
-          "line": "Carter Credit Union data breach settlement claims close; up to $2,500",
-          "publisher": "Top Class Actions",
-          "source_url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/10-class-action-settlements-you-can-claim-in-november-2026/"
-        },
-        {
-          "date": "2026-11-20",
-          "line": "ECSI $6.5M breach settlement opt-out and objection deadline passes",
-          "publisher": "LawfareClaims.org",
-          "source_url": "https://www.lawfareclaims.org/class-actions/ecsi-data-breach-settlement"
+          "line": "Carter Credit Union breach settlement claims close; up to $2,500",
+          "publisher": "ClassAction.org",
+          "source_url": "https://www.classaction.org/news/carter-credit-union-settlement-resolves-class-action-lawsuit-over-2025-cyberattack"
         },
         {
           "date": "2026-11-27",
           "line": "Finastra $3.125M data breach settlement claim deadline; up to $2,500",
-          "publisher": "Open Class Actions",
-          "source_url": "https://openclassactions.com/settlements/data-breaches/finastra-data-breach-settlement.php"
+          "publisher": "Top Class Actions",
+          "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/3-12m-finastra-data-breach-class-action-settlement/"
         }
       ],
       "edition": 2,
       "verdict": "WORTH_KNOWING",
-      "verdict_text": "Regulators and courts are holding platforms and logistics companies accountable for how they collect and share personal data, while breaches at third-party AI vendors show supply-chain risk spreading beyond traditional tech targets.",
+      "verdict_text": "Fines in Italy and California and a new law in New York all target the same thing: companies taking your data further than you agreed to.",
       "actions": [
         "Check haveibeenpwned.com for any email you use to sign in",
-        "Turn on two-factor sign-in for your email and bank accounts",
-        "Open one app you use daily and review its privacy settings"
+        "On Android, set Facebook's photo access to selected photos only",
+        "Turn on Global Privacy Control in your browser to opt out of data sharing"
       ],
       "stories": [
         {
-          "line": "Italy's Garante fined Meta €805 million ($880M) for accessing Android users' photo galleries without specific consent.",
-          "teaser": "Meta's $880M Italy photo fine",
-          "publisher": "CBS News",
-          "source_url": "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/",
+          "line": "Italy fined Meta €805 million ($887M) after Facebook's Android app read users' photo galleries without specific consent.",
+          "teaser": "Meta's $887M Italy photo fine",
+          "publisher": "AP",
+          "source_url": "https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127",
           "published": "2026-11-14",
           "origin": "news"
         },
         {
           "line": "FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not.",
-          "teaser": "FedEx hit with $2.975M CCPA fine",
+          "teaser": "FedEx's $2.975M privacy fine",
           "publisher": "California Privacy Protection Agency",
           "source_url": "https://privacy.ca.gov/2026/11/federal-express-to-change-practices-and-pay-close-to-3-million-fine-over-ccpa-privacy-violations/",
           "published": "2026-11-10",
+          "origin": "news"
+        },
+        {
+          "line": "NYC Council voted 44-5 to ban surveillance pricing, using your data to set your price.",
+          "teaser": "NYC bans surveillance pricing",
+          "publisher": "New York City Council",
+          "source_url": "https://council.nyc.gov/press/2026/11/12/3339/",
+          "published": "2026-11-12",
           "origin": "news"
         },
         {
@@ -6388,31 +6391,24 @@
           "origin": "tosmonitor",
           "teaser": "",
           "app": "Pinterest"
-        },
-        {
-          "line": "Temu's privacy policy updates December 2026",
-          "publisher": "TOSMonitor",
-          "source_url": "https://delcidb1.github.io/tosmonitor-site/",
-          "published": "2026-11-12",
-          "origin": "tosmonitor",
-          "teaser": "",
-          "app": "Temu"
         }
       ],
       "story_sources": [
-        "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/",
+        "https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127",
         "https://privacy.ca.gov/2026/11/federal-express-to-change-practices-and-pay-close-to-3-million-fine-over-ccpa-privacy-violations/",
+        "https://council.nyc.gov/press/2026/11/12/3339/",
         "https://www.atg.wa.gov/data-breach-notifications",
-        "https://delcidb1.github.io/tosmonitor-site/",
         "https://delcidb1.github.io/tosmonitor-site/"
       ],
       "window_start": "2026-11-09",
       "window_end": "2026-11-15",
-      "caption_rendered": "THIS WEEK IN PRIVACY · Nov 9–15, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 19: Carter Credit Union data breach settlement claims close; up to $2,500 (via Top Class Actions)\n📅 Nov 20: ECSI $6.5M breach settlement opt-out and objection deadline passes (via LawfareClaims.org)\n📅 Nov 27: Finastra $3.125M data breach settlement claim deadline; up to $2,500 (via Open Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Italy's Garante fined Meta €805 million ($880M) for accessing Android users' photo galleries without specific consent. (via CBS News)\n2. FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not. (via California Privacy Protection Agency)\n3. Telecare Health hit by ransomware attack (tracked by TOSMonitor)\n4. Pinterest now trains AI on your Pins (tracked by TOSMonitor)\n5. Temu's privacy policy updates December 2026 (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Send this to someone who reuses passwords.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
-      "approved": false,
-      "publish_to_site": false,
+      "caption_rendered": "THIS WEEK IN PRIVACY · Nov 9–15, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 19: Carter Credit Union breach settlement claims close; up to $2,500 (via ClassAction.org)\n📅 Nov 27: Finastra $3.125M data breach settlement claim deadline; up to $2,500 (via Top Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Italy fined Meta €805 million ($887M) after Facebook's Android app read users' photo galleries without specific consent. (via AP)\n2. FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not. (via California Privacy Protection Agency)\n3. NYC Council voted 44-5 to ban surveillance pricing, using your data to set your price. (via New York City Council)\n4. Telecare Health hit by ransomware attack (tracked by TOSMonitor)\n5. Pinterest now trains AI on your Pins (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Know a FedEx customer? Send this to them.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "approved": true,
+      "publish_to_site": true,
       "priority": 300,
-      "draft": true,
+      "draft": false,
+      "approved_at": "2026-11-15T16:48:16+00:00",
+      "approved_via": "email",
       "source_type": "evergreen",
       "post_source": "evergreen/2026-11-15_weekly-recap_post.json",
       "slide_folder": "2026-11-15_weekly-recap",
@@ -6435,21 +6431,21 @@
       "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "instagram_caption": "THIS WEEK IN PRIVACY · Nov 9–15, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 19: Carter Credit Union data breach settlement claims close; up to $2,500 (via Top Class Actions)\n📅 Nov 20: ECSI $6.5M breach settlement opt-out and objection deadline passes (via LawfareClaims.org)\n📅 Nov 27: Finastra $3.125M data breach settlement claim deadline; up to $2,500 (via Open Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Italy's Garante fined Meta €805 million ($880M) for accessing Android users' photo galleries without specific consent. (via CBS News)\n2. FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not. (via California Privacy Protection Agency)\n3. Telecare Health hit by ransomware attack (tracked by TOSMonitor)\n4. Pinterest now trains AI on your Pins (tracked by TOSMonitor)\n5. Temu's privacy policy updates December 2026 (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Send this to someone who reuses passwords.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
-      "caption_sha256": "0541b4160865e52a7f972e1889a7a8d9f74c840a98507dc9e5574551e393c590",
+      "instagram_caption": "THIS WEEK IN PRIVACY · Nov 9–15, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 19: Carter Credit Union breach settlement claims close; up to $2,500 (via ClassAction.org)\n📅 Nov 27: Finastra $3.125M data breach settlement claim deadline; up to $2,500 (via Top Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Italy fined Meta €805 million ($887M) after Facebook's Android app read users' photo galleries without specific consent. (via AP)\n2. FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not. (via California Privacy Protection Agency)\n3. NYC Council voted 44-5 to ban surveillance pricing, using your data to set your price. (via New York City Council)\n4. Telecare Health hit by ransomware attack (tracked by TOSMonitor)\n5. Pinterest now trains AI on your Pins (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Know a FedEx customer? Send this to them.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "caption_sha256": "34a5ede597557a9664a1a5c6276a07628524955d33157076d0d07be7a94ce073",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
       "post_days": [
         "Sunday"
       ],
-      "eligible_today": false
+      "eligible_today": true
     }
   ],
   "total": 90,
-  "queued_count": 4,
+  "queued_count": 5,
   "published_count": 55,
   "baseline_count": 6,
   "held_count": 2,

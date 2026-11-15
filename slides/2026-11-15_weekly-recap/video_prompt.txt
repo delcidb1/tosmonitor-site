@@ -3,7 +3,7 @@ VIDEO SCRIPT + PROMPTS for this post (This Week in Privacy)
 
 --- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
 
-Meta's $880M Italy photo fine & FedEx hit with $2.975M CCPA fine. Italy's Garante fined Meta €805 million ($880M) for accessing Android users' photo galleries without specific consent. FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not. Telecare Health hit by ransomware attack Pinterest now trains AI on your Pins Temu's privacy policy updates December 2026 Our verdict: worth knowing. Regulators and courts are holding platforms and logistics companies accountable for how they collect and share personal data, while breaches at third-party AI vendors show supply-chain risk spreading beyond traditional tech targets. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+Meta's $887M Italy photo fine & FedEx's $2.975M privacy fine. Italy fined Meta €805 million ($887M) after Facebook's Android app read users' photo galleries without specific consent. FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not. NYC Council voted 44-5 to ban surveillance pricing, using your data to set your price. Telecare Health hit by ransomware attack Pinterest now trains AI on your Pins Our verdict: worth knowing. Fines in Italy and California and a new law in New York all target the same thing: companies taking your data further than you agreed to. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
 
 --- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
 1. heygen.com -> Create video -> AI Avatar
@@ -15,7 +15,7 @@ Paste this prompt into Gemini:
 
 "A friendly tech news presenter in a modern studio with dark navy
 background and #38BDF8 accent lighting looks at the
-camera and says: 'Meta's $880M Italy photo fine & FedEx hit with $2.975M CCPA fine. Regulators and courts are holding platforms and logistics companies accountable for how they collect and share personal data, while breaches at third-party AI vendors show supply-chain risk spreading beyond traditional tech targets.'
+camera and says: 'Meta's $887M Italy photo fine & FedEx's $2.975M privacy fine. Fines in Italy and California and a new law in New York all target the same thing: companies taking your data further than you agreed to.'
 Clean lighting, vertical 9:16 format, professional but approachable."
 
 --- OPTION C: Voiceover Reel (no AI person) ---
