@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-15T16:40:01Z",
+  "generated_at": "2026-11-15T16:43:18Z",
   "post_date": "2026-11-15",
   "posts": [
     {
@@ -6310,39 +6310,45 @@
       "source_doc": "TOSMonitor weekly recap for Nov 9–15, 2026",
       "series_id": "weekly-recap",
       "series_title": "This Week in Privacy",
-      "headline": "Meta's $887M fine, FedEx CCPA bust & NYC pricing ban",
+      "headline": "Meta's $880M Italy photo fine & FedEx hit with $2.975M CCPA fine",
       "subhead": "5 privacy and breach stories you may have missed",
       "changes": [
-        "Italy's Garante fined Meta €805 million ($887M) for accessing Android users' photo galleries without specific consent.",
+        "Italy's Garante fined Meta €805 million ($880M) for accessing Android users' photo galleries without specific consent.",
+        "FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not.",
         "Telecare Health hit by ransomware attack",
         "Pinterest now trains AI on your Pins",
-        "Temu's privacy policy updates December 2026",
-        "Marathon Health hit by cyberattack this fall"
+        "Temu's privacy policy updates December 2026"
       ],
       "cover_lines": [
-        "Meta's $887M Italy photo fine",
-        "",
+        "Meta's $880M Italy photo fine",
+        "FedEx hit with $2.975M CCPA fine",
         "",
         "",
         ""
       ],
       "watch": [
         {
-          "date": "2026-11-16",
-          "line": "CVS $20.5M digital privacy settlement claim deadline for US app/site users",
-          "publisher": "CNBC Select",
-          "source_url": "https://www.cnbc.com/select/cvs-20-5-million-digital-privacy-settlement/"
+          "date": "2026-11-19",
+          "line": "Carter Credit Union data breach settlement claims close; up to $2,500",
+          "publisher": "Top Class Actions",
+          "source_url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/10-class-action-settlements-you-can-claim-in-november-2026/"
         },
         {
-          "date": "2026-11-25",
-          "line": "Neutrogena Skin360 $4.7M BIPA settlement claim deadline for Illinois users",
-          "publisher": "Top Class Actions",
-          "source_url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/4-7m-neutrogena-skin360-bipa-violation-class-action-settlement/"
+          "date": "2026-11-20",
+          "line": "ECSI $6.5M breach settlement opt-out and objection deadline passes",
+          "publisher": "LawfareClaims.org",
+          "source_url": "https://www.lawfareclaims.org/class-actions/ecsi-data-breach-settlement"
+        },
+        {
+          "date": "2026-11-27",
+          "line": "Finastra $3.125M data breach settlement claim deadline; up to $2,500",
+          "publisher": "Open Class Actions",
+          "source_url": "https://openclassactions.com/settlements/data-breaches/finastra-data-breach-settlement.php"
         }
       ],
       "edition": 2,
       "verdict": "WORTH_KNOWING",
-      "verdict_text": "Every story here comes down to the same question: who holds your data, and what they do with it when you are not looking.",
+      "verdict_text": "Regulators and courts are holding platforms and logistics companies accountable for how they collect and share personal data, while breaches at third-party AI vendors show supply-chain risk spreading beyond traditional tech targets.",
       "actions": [
         "Check haveibeenpwned.com for any email you use to sign in",
         "Turn on two-factor sign-in for your email and bank accounts",
@@ -6350,11 +6356,19 @@
       ],
       "stories": [
         {
-          "line": "Italy's Garante fined Meta €805 million ($887M) for accessing Android users' photo galleries without specific consent.",
-          "teaser": "Meta's $887M Italy photo fine",
+          "line": "Italy's Garante fined Meta €805 million ($880M) for accessing Android users' photo galleries without specific consent.",
+          "teaser": "Meta's $880M Italy photo fine",
           "publisher": "CBS News",
           "source_url": "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/",
           "published": "2026-11-14",
+          "origin": "news"
+        },
+        {
+          "line": "FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not.",
+          "teaser": "FedEx hit with $2.975M CCPA fine",
+          "publisher": "California Privacy Protection Agency",
+          "source_url": "https://privacy.ca.gov/2026/11/federal-express-to-change-practices-and-pay-close-to-3-million-fine-over-ccpa-privacy-violations/",
+          "published": "2026-11-10",
           "origin": "news"
         },
         {
@@ -6383,27 +6397,18 @@
           "origin": "tosmonitor",
           "teaser": "",
           "app": "Temu"
-        },
-        {
-          "line": "Marathon Health hit by cyberattack this fall",
-          "publisher": "TOSMonitor",
-          "source_url": "https://www.atg.wa.gov/data-breach-notifications",
-          "published": "2026-11-09",
-          "origin": "tosmonitor",
-          "teaser": "",
-          "app": "Marathon Health"
         }
       ],
       "story_sources": [
         "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/",
+        "https://privacy.ca.gov/2026/11/federal-express-to-change-practices-and-pay-close-to-3-million-fine-over-ccpa-privacy-violations/",
         "https://www.atg.wa.gov/data-breach-notifications",
         "https://delcidb1.github.io/tosmonitor-site/",
-        "https://delcidb1.github.io/tosmonitor-site/",
-        "https://www.atg.wa.gov/data-breach-notifications"
+        "https://delcidb1.github.io/tosmonitor-site/"
       ],
       "window_start": "2026-11-09",
       "window_end": "2026-11-15",
-      "caption_rendered": "THIS WEEK IN PRIVACY · Nov 9–15, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 16: CVS $20.5M digital privacy settlement claim deadline for US app/site users (via CNBC Select)\n📅 Nov 25: Neutrogena Skin360 $4.7M BIPA settlement claim deadline for Illinois users (via Top Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Italy's Garante fined Meta €805 million ($887M) for accessing Android users' photo galleries without specific consent. (via CBS News)\n2. Telecare Health hit by ransomware attack (tracked by TOSMonitor)\n3. Pinterest now trains AI on your Pins (tracked by TOSMonitor)\n4. Temu's privacy policy updates December 2026 (tracked by TOSMonitor)\n5. Marathon Health hit by cyberattack this fall (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Know a Meta customer? Send this to them.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "caption_rendered": "THIS WEEK IN PRIVACY · Nov 9–15, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 19: Carter Credit Union data breach settlement claims close; up to $2,500 (via Top Class Actions)\n📅 Nov 20: ECSI $6.5M breach settlement opt-out and objection deadline passes (via LawfareClaims.org)\n📅 Nov 27: Finastra $3.125M data breach settlement claim deadline; up to $2,500 (via Open Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Italy's Garante fined Meta €805 million ($880M) for accessing Android users' photo galleries without specific consent. (via CBS News)\n2. FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not. (via California Privacy Protection Agency)\n3. Telecare Health hit by ransomware attack (tracked by TOSMonitor)\n4. Pinterest now trains AI on your Pins (tracked by TOSMonitor)\n5. Temu's privacy policy updates December 2026 (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Send this to someone who reuses passwords.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
       "approved": false,
       "publish_to_site": false,
       "priority": 300,
@@ -6430,8 +6435,8 @@
       "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "instagram_caption": "THIS WEEK IN PRIVACY · Nov 9–15, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 16: CVS $20.5M digital privacy settlement claim deadline for US app/site users (via CNBC Select)\n📅 Nov 25: Neutrogena Skin360 $4.7M BIPA settlement claim deadline for Illinois users (via Top Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Italy's Garante fined Meta €805 million ($887M) for accessing Android users' photo galleries without specific consent. (via CBS News)\n2. Telecare Health hit by ransomware attack (tracked by TOSMonitor)\n3. Pinterest now trains AI on your Pins (tracked by TOSMonitor)\n4. Temu's privacy policy updates December 2026 (tracked by TOSMonitor)\n5. Marathon Health hit by cyberattack this fall (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Know a Meta customer? Send this to them.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
-      "caption_sha256": "2c824a57fbe0dfaeba3627770b5887dfdd95cb9bc86e26a061af4c29057e3e04",
+      "instagram_caption": "THIS WEEK IN PRIVACY · Nov 9–15, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 19: Carter Credit Union data breach settlement claims close; up to $2,500 (via Top Class Actions)\n📅 Nov 20: ECSI $6.5M breach settlement opt-out and objection deadline passes (via LawfareClaims.org)\n📅 Nov 27: Finastra $3.125M data breach settlement claim deadline; up to $2,500 (via Open Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Italy's Garante fined Meta €805 million ($880M) for accessing Android users' photo galleries without specific consent. (via CBS News)\n2. FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not. (via California Privacy Protection Agency)\n3. Telecare Health hit by ransomware attack (tracked by TOSMonitor)\n4. Pinterest now trains AI on your Pins (tracked by TOSMonitor)\n5. Temu's privacy policy updates December 2026 (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Send this to someone who reuses passwords.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "caption_sha256": "0541b4160865e52a7f972e1889a7a8d9f74c840a98507dc9e5574551e393c590",
       "published": false,
       "publishable": false,
       "status": "requires_review",
