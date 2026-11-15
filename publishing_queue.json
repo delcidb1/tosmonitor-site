@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-15T19:54:04Z",
+  "generated_at": "2026-11-15T20:35:06Z",
   "post_date": "2026-11-15",
   "posts": [
     {
@@ -3786,14 +3786,16 @@
       "priority": 100,
       "instagram_caption": "Microsoft updated its Privacy Statement in November 2026, and several changes are worth your attention. The policy now names workplace and productivity data companies as a new source of personal data Microsoft can collect about you. Your device profile has also grown: Microsoft now explicitly gathers your device age, type, language, and locale settings. The Phone Link section was substantially rewritten to cover both Android and iPhone under a unified framework and adds a new location-sharing feature that lets your phone's GPS provide location data to your Windows PC. None of these changes indicate your data is being sold, but they do expand the scope of what Microsoft collects and from whom. Open your Windows Settings, go to Bluetooth and Devices, then Mobile Devices, and turn off any linked mobile features you do not actively use.\n\n#microsoft #windowsprivacy #phonelink #privacypolicy #datasecurity #techprivacy #digitalrights #TOSMonitor",
       "caption_sha256": "a06d4a73eec53c7922500d7fe895e2a902867a1dfb8b29a907f3248c7d3387be",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-15T16:35:45Z",
+      "instagram_post_id": "17953613160052241",
+      "instagram_permalink": "https://www.instagram.com/p/DfxOS7cEXeo/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "eligible_today": false
     },
     {
       "id": "2026-11-10_breach_quantum-health",
@@ -4297,7 +4299,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-12_breach_uber-technologies",
@@ -4527,7 +4529,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Pinterest",
@@ -4609,7 +4611,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -6433,22 +6435,25 @@
       "media_error": "",
       "instagram_caption": "THIS WEEK IN PRIVACY · Nov 9–15, 2026\n\nWhat to watch in the next two weeks:\n📅 Nov 19: Carter Credit Union breach settlement claims close; up to $2,500 (via ClassAction.org)\n📅 Nov 27: Finastra $3.125M data breach settlement claim deadline; up to $2,500 (via Top Class Actions)\n\nLast week's top privacy and data-breach stories:\n1. Italy fined Meta €805 million ($887M) after Facebook's Android app read users' photo galleries without specific consent. (via AP)\n2. FedEx fined $2.975M by CalPrivacy for sharing visitor data with ad-tech firms while claiming it did not. (via California Privacy Protection Agency)\n3. NYC Council voted 44-5 to ban surveillance pricing, using your data to set your price. (via New York City Council)\n4. Telecare Health hit by ransomware attack (tracked by TOSMonitor)\n5. Pinterest now trains AI on your Pins (tracked by TOSMonitor)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Know a FedEx customer? Send this to them.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
       "caption_sha256": "34a5ede597557a9664a1a5c6276a07628524955d33157076d0d07be7a94ce073",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-15T17:02:21Z",
+      "instagram_post_id": "18108166691374515",
+      "instagram_permalink": "https://www.instagram.com/p/DfxQuTMG4TN/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": [
         "Sunday"
       ],
-      "eligible_today": true
+      "eligible_today": false
     }
   ],
   "total": 90,
-  "queued_count": 5,
-  "published_count": 55,
+  "queued_count": 3,
+  "published_count": 57,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }

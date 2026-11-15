@@ -36,7 +36,7 @@
       "05_changes.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "evergreen/2026-11-15_weekly-recap_post.json",
     "stories": [
       {
@@ -84,10 +84,10 @@
     ],
     "effective_date": "2026-11-15",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DfxQuTMG4TN/",
+    "instagram_post_id": "18108166691374515",
+    "published_at": "2026-11-15T17:02:21Z"
   },
   {
     "id": "2026-11-13_pinterest-privacy",
@@ -285,14 +285,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "diffs/2026-11-09_microsoft-privacy_post.json",
     "effective_date": "2026-11-09",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": "",
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DfxOS7cEXeo/",
+    "instagram_post_id": "17953613160052241",
+    "published_at": "2026-11-15T16:35:45Z",
     "preview_hook": "Source: https://privacy.microsoft.com/en-us/privacystatement",
     "key_changes": []
   },
