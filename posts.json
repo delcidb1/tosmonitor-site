@@ -234,14 +234,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "breaches/2026-11-12_breach_telecare-health_post.json",
     "effective_date": "2026-11-12",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/Df08g2DDLzK/",
+    "instagram_post_id": "18116073821135197",
+    "published_at": "2026-11-17T03:17:22Z"
   },
   {
     "id": "2026-11-09_microsoft-privacy",

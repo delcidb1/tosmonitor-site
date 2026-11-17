@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-17T22:33:38Z",
+  "generated_at": "2026-11-17T23:09:40Z",
   "post_date": "2026-11-17",
   "posts": [
     {
@@ -4292,13 +4292,16 @@
       "priority": 100,
       "instagram_caption": "Telecare Health, a health services organization, was hit by a ransomware cyberattack on January 25, 2026. Nearly 20,000 Washington state residents were affected. Ransomware attacks involve criminals locking or stealing data to demand payment, and they are particularly common against healthcare organizations that hold sensitive personal information. The specific types of data involved have not been detailed in the official record, but if you have ever been a Telecare Health patient or client, you should assume your information may have been at risk and take steps to protect yourself. This breach was listed by the Washington Attorney General.\n\n#DataBreach #TelecareHealth #Ransomware #CyberAttack #HealthcareSecurity #WashingtonState #PrivacyAlert #DataSecurity #TOSMonitor",
       "caption_sha256": "a0c7fa91d75ba460f0df6440326629f66dd0d1fdd7d60b7a40db053c7b2b9b09",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-17T03:17:22Z",
+      "instagram_post_id": "18116073821135197",
+      "instagram_permalink": "https://www.instagram.com/p/Df08g2DDLzK/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "id": "2026-11-12_breach_uber-technologies",
@@ -4527,8 +4530,7 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "eligible_today": true
     },
     {
       "app": "Pinterest",
@@ -6521,8 +6523,8 @@
     }
   ],
   "total": 91,
-  "queued_count": 3,
-  "published_count": 57,
+  "queued_count": 2,
+  "published_count": 58,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
