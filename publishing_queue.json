@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-17T22:27:22Z",
+  "generated_at": "2026-11-17T22:33:38Z",
   "post_date": "2026-11-17",
   "posts": [
     {
@@ -6446,9 +6446,81 @@
         "Sunday"
       ],
       "eligible_today": false
+    },
+    {
+      "id": "2026-11-17_two-minute-fix_2026-11-02_meta-glasses-senate-inquiry",
+      "date": "2026-11-17",
+      "effective": "Updated November 17, 2026",
+      "app": "Meta",
+      "doc": "The 2-Minute Fix",
+      "post_type": "series",
+      "accent": "#0467DF",
+      "categories": [
+        "ai_training",
+        "permissions"
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-11-02_meta-glasses-senate-inquiry",
+      "source_post_id": "2026-11-02_meta-glasses-senate-inquiry",
+      "series_id": "two-minute-fix",
+      "series_title": "The 2-Minute Fix",
+      "approved": false,
+      "publish_to_site": false,
+      "priority": 300,
+      "draft": true,
+      "headline": "The 2-minute privacy check for Meta",
+      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+      "changes": [
+        "A white LED on the frame means it's recording",
+        "Ask venues and workplaces if camera glasses are allowed",
+        "Filmed and posted? Report it as non-consensual content"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "The wearer agreed to Meta's terms. The people in the footage didn't. A small white LED is the only warning they get, and some footage can end up in front of human reviewers.",
+      "actions": [
+        "A white LED on the frame means it's recording",
+        "No Meta setting exists for venue rules; ask staff directly before the wearer enters.",
+        "Go to meta.com/help/policies/1437976901029950 > NCII Reporting Form > complete and submit."
+      ],
+      "how_to_sources": [
+        "",
+        "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
+        "https://www.meta.com/help/policies/1437976901029950/"
+      ],
+      "caption_rendered": "THE 2-MINUTE FIX · Meta\n\nA policy update is only useful if it leads to an action. Three checks from the Meta update we tracked, and how to do each one:\n\n1. A white LED on the frame means it's recording\n2. No Meta setting exists for venue rules; ask staff directly before the wearer enters.\n3. Go to meta.com/help/policies/1437976901029950 > NCII Reporting Form > complete and submit.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-11-17_two-minute-fix_2026-11-02_meta-glasses-senate-inquiry_post.json",
+      "slide_folder": "2026-11-17_two-minute-fix_2026-11-02_meta-glasses-senate-inquiry",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_two-minute-fix_2026-11-02_meta-glasses-senate-inquiry/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_two-minute-fix_2026-11-02_meta-glasses-senate-inquiry/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_two-minute-fix_2026-11-02_meta-glasses-senate-inquiry/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_two-minute-fix_2026-11-02_meta-glasses-senate-inquiry/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_two-minute-fix_2026-11-02_meta-glasses-senate-inquiry/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_two-minute-fix_2026-11-02_meta-glasses-senate-inquiry/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THE 2-MINUTE FIX · Meta\n\nA policy update is only useful if it leads to an action. Three checks from the Meta update we tracked, and how to do each one:\n\n1. A white LED on the frame means it's recording\n2. No Meta setting exists for venue rules; ask staff directly before the wearer enters.\n3. Go to meta.com/help/policies/1437976901029950 > NCII Reporting Form > complete and submit.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_sha256": "4b262077f012540e7bfcd7b4b0a3069dbb094f45e135190723b43b9a8b64f7c7",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     }
   ],
-  "total": 90,
+  "total": 91,
   "queued_count": 3,
   "published_count": 57,
   "baseline_count": 6,
