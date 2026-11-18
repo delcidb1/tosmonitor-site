@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-18T22:02:14Z",
+  "generated_at": "2026-11-18T22:42:04Z",
   "post_date": "2026-11-18",
   "posts": [
     {
@@ -372,13 +372,16 @@
       "media_error": "",
       "instagram_caption": "48 hours, 5 breaches, and one new kind of threat. 🔓\n\nA hijacked website tool put card-skimming code on 178 major sites. Uber drivers lost license data through an AI vendor. Visa confirmed an attack. Infoblox, Ipsos and Japan's flagship supercomputer were also hit.\n\nThe pattern: almost every one came in through a third-party vendor. You don't have to use a company's own app to be exposed by its vendors.\n\nSwipe for what to do ➡️\n\n#databreach #cybersecurity #privacy #infosec #uber #visa #dataprivacy #hacked #tosmonitor",
       "caption_sha256": "cc7890836ef8b7674e18dc5198fd63cbe51e966fc4bc8bfa1b17cc40ee847171",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-18T01:12:41Z",
+      "instagram_post_id": "18034450688683443",
+      "instagram_permalink": "https://www.instagram.com/p/Df3SNttDIeb/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "id": "2026-11-02_flock-safety-court-ruling",
@@ -4607,14 +4610,16 @@
       "priority": 100,
       "instagram_caption": "Temu is rolling out an updated Privacy Policy effective December 7, 2026. The revised policy explicitly adds IP address to the list of automatically collected data, introduces age verification service providers as a new third-party data source, and allows Temu to send you marketing messages through messaging applications such as WhatsApp if your phone number or account is associated with one. The advertising section has also been rewritten to broaden how ad-performance measurement works with third-party partners. None of these are dramatic overhauls, but they do expand the number of ways your data can be used and the number of outside parties involved. Review your notification and privacy settings in the Temu app before December 7 to make sure your preferences still reflect what you are comfortable with.\n\n#temu #privacypolicy #dataprivacy #onlineshopping #adtracking #digitalrights #consumerprivacy #tosmonitor #TOSMonitor",
       "caption_sha256": "b5937d53779b762b02bd6414b0688bb9251adba80a337a9556f742518d8ea4d8",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-18T00:51:25Z",
+      "instagram_post_id": "17899922823682317",
+      "instagram_permalink": "https://www.instagram.com/p/Df3Qkj5jBxm/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "eligible_today": false
     },
     {
       "app": "Pinterest",
@@ -4695,8 +4700,89 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "eligible_today": true
+    },
+    {
+      "id": "2026-11-18_breach_prism-medical-products",
+      "date": "2026-11-18",
+      "app": "Prism Medical Products",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://www.atg.wa.gov/data-breach-notifications",
+      "breach_source": "Washington Attorney General",
+      "breach_record_id": "65fdefa6778ebc8e",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-14",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Prism Medical Products",
+        "Listed by: Washington Attorney General on 2026-11-14",
+        "Date(s) of breach: 2026-10-19",
+        "People affected: 16,307 Washington residents were affected",
+        "Details: Cause: Unauthorized Access"
+      ],
+      "materiality": "16,307 Washington residents",
+      "headline": "Prism Medical Products Hit by Unauthorized Access",
+      "subhead": "Over 16,000 Washington residents had data exposed",
+      "changes": [
+        "Unauthorized access to Prism Medical Products systems occurred on October 19, 2026",
+        "16,307 Washington residents were affected by the breach",
+        "Breach was listed by the Washington Attorney General on November 14, 2026"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Prism Medical Products is a medical company. Breaches involving medical organizations commonly implicate health or personal ID data.",
+      "actions": [
+        "Contact Prism Medical Products directly to ask what data was exposed",
+        "Monitor your credit report and explanation of benefits statements closely",
+        "Consider placing a fraud alert with the major credit bureaus"
+      ],
+      "caption": "Prism Medical Products, a medical products company, experienced unauthorized access to its systems on October 19, 2026. The Washington Attorney General listed the breach on November 14, 2026, noting that 16,307 Washington residents were affected. Because this involves a medical products organization, there is reasonable concern that sensitive personal or health-related information may be at risk. If you are a customer or patient of Prism Medical Products, reach out to them directly to find out exactly what information was involved and what protections they are offering. Source: Washington Attorney General",
+      "hashtags": [
+        "PrismMedicalProducts",
+        "DataBreach",
+        "MedicalDataBreach",
+        "WashingtonState",
+        "UnauthorizedAccess",
+        "PrivacyAlert",
+        "HealthData",
+        "CyberSecurity"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "Prism Medical Products, a medical products company, experienced unauthorized access to its systems on October 19, 2026. The Washington Attorney General listed the breach on November 14, 2026, noting that 16,307 Washington residents were affected. Because this involves a medical products organization, there is reasonable concern that sensitive personal or health-related information may be at risk. If you are a customer or patient of Prism Medical Products, reach out to them directly to find out exactly what information was involved and what protections they are offering. Source: Washington Attorney General\n\n#PrismMedicalProducts #DataBreach #MedicalDataBreach #WashingtonState #UnauthorizedAccess #PrivacyAlert #HealthData #CyberSecurity #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-18_breach_prism-medical-products_post.json",
+      "slide_folder": "2026-11-18_breach_prism-medical-products",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-18_breach_prism-medical-products/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-18_breach_prism-medical-products/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-18_breach_prism-medical-products/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-18_breach_prism-medical-products/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-18_breach_prism-medical-products/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-18_breach_prism-medical-products/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "Prism Medical Products, a medical products company, experienced unauthorized access to its systems on October 19, 2026. The Washington Attorney General listed the breach on November 14, 2026, noting that 16,307 Washington residents were affected. Because this involves a medical products organization, there is reasonable concern that sensitive personal or health-related information may be at risk. If you are a customer or patient of Prism Medical Products, reach out to them directly to find out exactly what information was involved and what protections they are offering. Source: Washington Attorney General\n\n#PrismMedicalProducts #DataBreach #MedicalDataBreach #WashingtonState #UnauthorizedAccess #PrivacyAlert #HealthData #CyberSecurity #TOSMonitor",
+      "caption_sha256": "15ab5d81ffd4283633cb004929e39b9432725545766e2730115c1a0d56ee014e",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     },
     {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
@@ -6606,9 +6692,9 @@
       "eligible_today": false
     }
   ],
-  "total": 92,
-  "queued_count": 3,
-  "published_count": 58,
+  "total": 93,
+  "queued_count": 1,
+  "published_count": 60,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
