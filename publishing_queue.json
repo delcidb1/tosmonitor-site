@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-17T23:09:40Z",
+  "generated_at": "2026-11-18T00:59:28Z",
   "post_date": "2026-11-17",
   "posts": [
     {
@@ -296,6 +296,89 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false
+    },
+    {
+      "id": "2026-11-17_breach-watch",
+      "date": "2026-11-17",
+      "app": "Breach Watch",
+      "doc": "Nov 16–17 Recap",
+      "post_type": "tldr",
+      "accent": "#C8102E",
+      "headline": "5 breaches + 1 new threat in 48 hours",
+      "subhead": "Hacks and data breaches disclosed Nov 16–17, 2026",
+      "effective": "Nov 16–17, 2026",
+      "changes": [
+        "Attackers hijacked Optimizely and planted card-skimming code on 178 websites, including Zoom, BBC, CNN, HSBC, IKEA, Equifax and American Eagle (Nov 16).",
+        "Hackers used stolen Fireworks AI credentials to take personal and driver's license data on nearly 150,000 Uber drivers; Notion was hit in the same breach.",
+        "The n0n ransomware gang listed Visa and JPMorgan Chase. Visa says a third-party provider in Asia-Pacific was hit; JPMorgan says its outage was a software bug.",
+        "Infoblox: attackers used a data-migration vendor's login to take customer network snapshots and employee data.",
+        "Ipsos disclosed a breach of an internal system; Riken paused Japan's Fugaku supercomputer after a breach that may expose 4,597 users.",
+        "Google says Russian-speaking hackers ran the first cyberattack carried out end-to-end by AI; the FBI warns of the Artex AI hacking tool."
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Almost every one of these came in through a third-party vendor. You don't have to use a company's own app to be exposed by its vendors.",
+      "actions": [
+        "Check card and bank statements from Nov 16",
+        "Turn on alerts for every card purchase",
+        "Expect phishing that uses these headlines",
+        "Freeze your credit if your license or SSN may be exposed"
+      ],
+      "categories": [
+        "third_party_sharing"
+      ],
+      "sources": [
+        "https://aa.com.tr/en/world/cyberattack-hits-178-major-global-brands-exposing-visitors-to-data-theft/4127456",
+        "https://allaboutcookies.org/cyberattack-178-organizations-credit-card-data",
+        "https://securityaffairs.com/",
+        "https://gizmodo.com/hackers-stole-thousands-of-uber-drivers-data-through-an-ai-startup-2000839947",
+        "https://cybernews.com/security/visa-jpmorgan-data-breach/",
+        "https://www.scworld.com/brief/infoblox-investigates-data-breach-involving-third-party-vendor",
+        "https://breachnews.com/cyber-attacks/ipsos-cybersecurity-incident-internal-system-breach/",
+        "https://databreaches.net/",
+        "https://cyberscoop.com/google-fully-automated-ai-cyberattack/",
+        "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+      ],
+      "caption_rendered": "48 hours, 5 breaches, and one new kind of threat. 🔓\n\nA hijacked website tool put card-skimming code on 178 major sites. Uber drivers lost license data through an AI vendor. Visa confirmed an attack. Infoblox, Ipsos and Japan's flagship supercomputer were also hit.\n\nThe pattern: almost every one came in through a third-party vendor. You don't have to use a company's own app to be exposed by its vendors.\n\nSwipe for what to do ➡️\n\n#databreach #cybersecurity #privacy #infosec #uber #visa #dataprivacy #hacked #tosmonitor",
+      "source_type": "manual",
+      "post_source": "manual/breach-watch-2026-11-17_post.json",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 1,
+      "caption_field": "caption_rendered",
+      "configured_slide_folder": "2026-11-17_breach-watch",
+      "slide_folder": "2026-11-17_breach-watch",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_breach-watch/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_breach-watch/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_breach-watch/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_breach-watch/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_breach-watch/05_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_breach-watch/06_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_breach-watch/07_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-17_breach-watch/08_action.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_changes.png",
+        "06_changes.png",
+        "07_changes.png",
+        "08_action.png"
+      ],
+      "slide_count": 8,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "48 hours, 5 breaches, and one new kind of threat. 🔓\n\nA hijacked website tool put card-skimming code on 178 major sites. Uber drivers lost license data through an AI vendor. Visa confirmed an attack. Infoblox, Ipsos and Japan's flagship supercomputer were also hit.\n\nThe pattern: almost every one came in through a third-party vendor. You don't have to use a company's own app to be exposed by its vendors.\n\nSwipe for what to do ➡️\n\n#databreach #cybersecurity #privacy #infosec #uber #visa #dataprivacy #hacked #tosmonitor",
+      "caption_sha256": "cc7890836ef8b7674e18dc5198fd63cbe51e966fc4bc8bfa1b17cc40ee847171",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true
     },
     {
       "id": "2026-11-02_flock-safety-court-ruling",
@@ -4294,8 +4377,8 @@
       "caption_sha256": "a0c7fa91d75ba460f0df6440326629f66dd0d1fdd7d60b7a40db053c7b2b9b09",
       "published": true,
       "published_at": "2026-11-17T03:17:22Z",
-      "instagram_post_id": "18116073821135197",
       "instagram_permalink": "https://www.instagram.com/p/Df08g2DDLzK/",
+      "instagram_post_id": "18116073821135197",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
@@ -4530,7 +4613,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
     },
     {
       "app": "Pinterest",
@@ -6522,8 +6606,8 @@
       "eligible_today": false
     }
   ],
-  "total": 91,
-  "queued_count": 2,
+  "total": 92,
+  "queued_count": 3,
   "published_count": 58,
   "baseline_count": 6,
   "held_count": 2,

@@ -1,5 +1,56 @@
 [
   {
+    "id": "2026-11-17_breach-watch",
+    "app": "Breach Watch",
+    "doc": "Nov 16\u201317 Recap",
+    "post_type": "tldr",
+    "accent": "#C8102E",
+    "headline": "5 breaches + 1 new threat in 48 hours",
+    "subhead": "Hacks and data breaches disclosed Nov 16\u201317, 2026",
+    "effective": "Nov 16\u201317, 2026",
+    "changes": [
+      "Attackers hijacked Optimizely and planted card-skimming code on 178 websites, including Zoom, BBC, CNN, HSBC, IKEA, Equifax and American Eagle (Nov 16).",
+      "Hackers used stolen Fireworks AI credentials to take personal and driver's license data on nearly 150,000 Uber drivers; Notion was hit in the same breach.",
+      "The n0n ransomware gang listed Visa and JPMorgan Chase. Visa says a third-party provider in Asia-Pacific was hit; JPMorgan says its outage was a software bug.",
+      "Infoblox: attackers used a data-migration vendor's login to take customer network snapshots and employee data.",
+      "Ipsos disclosed a breach of an internal system; Riken paused Japan's Fugaku supercomputer after a breach that may expose 4,597 users.",
+      "Google says Russian-speaking hackers ran the first cyberattack carried out end-to-end by AI; the FBI warns of the Artex AI hacking tool."
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "Almost every one of these came in through a third-party vendor. You don't have to use a company's own app to be exposed by its vendors.",
+    "actions": [
+      "Check card and bank statements from Nov 16",
+      "Turn on alerts for every card purchase",
+      "Expect phishing that uses these headlines",
+      "Freeze your credit if your license or SSN may be exposed"
+    ],
+    "categories": [
+      "third_party_sharing"
+    ],
+    "date": "2026-11-17",
+    "slide_folder": "2026-11-17_breach-watch",
+    "slide_count": 8,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_changes.png",
+      "06_changes.png",
+      "07_changes.png",
+      "08_action.png"
+    ],
+    "published": false,
+    "post_source": "manual/breach-watch-2026-11-17_post.json",
+    "effective_date": "2026-11-17",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-15_weekly-recap",
     "app": "This Week in Privacy",
     "doc": "This Week in Privacy",
