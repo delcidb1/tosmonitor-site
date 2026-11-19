@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-19T22:22:29Z",
+  "generated_at": "2026-11-19T22:46:14Z",
   "post_date": "2026-11-19",
   "posts": [
     {
@@ -4694,13 +4694,16 @@
       "priority": 100,
       "instagram_caption": "Pinterest updated its privacy policy, effective November 12, 2026. The biggest change: Pinterest now explicitly states it uses your Pins — regardless of when they were posted — to train machine learning and generative AI models. Previously this language was more vague. The policy also newly discloses that automated tools, including those run by third-party vendors, may scan and analyze your messages to detect harmful content. On the ads side, Pinterest can now reach you on connected TVs through partners, and may receive data about you from third-party data providers depending on where you live. None of these are opt-in by default. Go to your Privacy and Data Settings on Pinterest to review your personalization and ad choices.\n\n#pinterest #privacypolicy #aitraining #dataprivacy #generativeai #adtech #toschange #privacy #TOSMonitor",
       "caption_sha256": "b703c0c460ad88f13ed413ce27f425c9069758501e171c90e6f9a66417721712",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-19T16:33:20Z",
+      "instagram_post_id": "18081669302735605",
+      "instagram_permalink": "https://www.instagram.com/p/Df7hNSxFLoT/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "id": "2026-11-18_breach_prism-medical-products",
@@ -6760,10 +6763,10 @@
     }
   ],
   "total": 94,
-  "queued_count": 1,
-  "published_count": 60,
+  "queued_count": 0,
+  "published_count": 61,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
