@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Too Lost)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Too Lost breach hits 724,000 music accounts. 724,323 unique email addresses belonging to artists, collaborators, and fans were exposed Some records contained bcrypt password hashes A small subset included passport, driver's licence, or national ID numbers Partial credit card data (last 4 digits and card type) and payouts to artists were also leaked Our verdict: important. Passwords, government-issued ID numbers, and partial financial data were exposed. This is a serious breach. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #E11D48 accent lighting looks at the
+camera and says: 'Too Lost breach hits 724,000 music accounts. Passwords, government-issued ID numbers, and partial financial data were exposed. This is a serious breach.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

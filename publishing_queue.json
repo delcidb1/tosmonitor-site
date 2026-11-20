@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-20T21:44:03Z",
+  "generated_at": "2026-11-20T22:40:20Z",
   "post_date": "2026-11-20",
   "posts": [
     {
@@ -4788,6 +4788,176 @@
       "eligible_today": false
     },
     {
+      "id": "2026-11-20_breach_careers360",
+      "date": "2026-11-20",
+      "app": "Careers360",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://haveibeenpwned.com/PwnedWebsites#Careers360",
+      "breach_source": "Have I Been Pwned",
+      "breach_record_id": "Careers360",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-20",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Careers360",
+        "Listed by: Have I Been Pwned on 2026-11-20",
+        "Website: careers360.com",
+        "Date(s) of breach: 2026-11-14",
+        "People affected: 3,609,421 email addresses were in the leaked data",
+        "Data exposed: Academic records, Castes, Email addresses, Genders, Names, Phone numbers",
+        "Details: In November 2026, data allegedly taken from the Indian education and careers platform Careers360 appeared on a public hacking forum . The 22M records included 3.6M unique email addresses alongside names, phone numbers, genders and caste categories, and most also contained students' entrance exam results, including ranks and marks."
+      ],
+      "materiality": "3,609,421 accounts in HIBP",
+      "headline": "Careers360 breach exposes 3.6M users' data",
+      "subhead": "Education platform leak includes exam results and caste data",
+      "changes": [
+        "3,609,421 unique email addresses were found in the leaked data",
+        "Records included names, phone numbers, genders, and caste categories",
+        "Most records also contained entrance exam results, ranks, and marks",
+        "Data allegedly appeared on a public hacking forum in November 2026"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Over 3.6 million people are affected. Sensitive academic records, caste data, and personal details were exposed.",
+      "actions": [
+        "Change your Careers360 password immediately and enable two-factor authentication",
+        "Watch for phishing emails targeting students using your exam or personal details",
+        "Check Have I Been Pwned to confirm if your email was included"
+      ],
+      "caption": "In November 2026, data allegedly taken from Indian education and careers platform Careers360 appeared on a public hacking forum. Over 3.6 million unique email addresses were included, along with names, phone numbers, genders, caste categories, and for most records, students' entrance exam results including ranks and marks. This is especially sensitive because it combines personal identity details with academic performance data and caste information, which could be used to target individuals. If you have ever used Careers360 to explore college admissions or career options in India, your information may be in this dataset. Source: Have I Been Pwned",
+      "hashtags": [
+        "DataBreach",
+        "Careers360",
+        "StudentData",
+        "India",
+        "EducationBreach",
+        "PersonalData",
+        "HaveIBeenPwned",
+        "CyberSecurity"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "In November 2026, data allegedly taken from Indian education and careers platform Careers360 appeared on a public hacking forum. Over 3.6 million unique email addresses were included, along with names, phone numbers, genders, caste categories, and for most records, students' entrance exam results including ranks and marks. This is especially sensitive because it combines personal identity details with academic performance data and caste information, which could be used to target individuals. If you have ever used Careers360 to explore college admissions or career options in India, your information may be in this dataset. Source: Have I Been Pwned\n\n#DataBreach #Careers360 #StudentData #India #EducationBreach #PersonalData #HaveIBeenPwned #CyberSecurity #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-20_breach_careers360_post.json",
+      "slide_folder": "2026-11-20_breach_careers360",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_careers360/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_careers360/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_careers360/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_careers360/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_careers360/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_careers360/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "In November 2026, data allegedly taken from Indian education and careers platform Careers360 appeared on a public hacking forum. Over 3.6 million unique email addresses were included, along with names, phone numbers, genders, caste categories, and for most records, students' entrance exam results including ranks and marks. This is especially sensitive because it combines personal identity details with academic performance data and caste information, which could be used to target individuals. If you have ever used Careers360 to explore college admissions or career options in India, your information may be in this dataset. Source: Have I Been Pwned\n\n#DataBreach #Careers360 #StudentData #India #EducationBreach #PersonalData #HaveIBeenPwned #CyberSecurity #TOSMonitor",
+      "caption_sha256": "7bf70aa51c1becac84c765d9a2a1547089b7f6a6f415706e9126215e01aea5fe",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
+      "id": "2026-11-20_breach_too-lost",
+      "date": "2026-11-20",
+      "app": "Too Lost",
+      "doc": "Data Breach",
+      "post_type": "data_breach",
+      "source_doc": "https://haveibeenpwned.com/PwnedWebsites#TooLost",
+      "breach_source": "Have I Been Pwned",
+      "breach_record_id": "TooLost",
+      "accent": "#E11D48",
+      "effective": "Reported 2026-11-20",
+      "categories": [],
+      "breach_evidence": [
+        "Organisation: Too Lost",
+        "Listed by: Have I Been Pwned on 2026-11-20",
+        "Website: toolost.com",
+        "Date(s) of breach: 2026-11-02",
+        "People affected: 724,323 email addresses were in the leaked data",
+        "Data exposed: Dates of birth, Driver's licenses, Email addresses, Government issued IDs, IP addresses, Names, Partial credit card data, Passport numbers, Passwords, Payment histories, Physical addresses, Places of birth, Social media profiles, Usernames",
+        "Details: In November 2026, an unauthorised party claimed to have obtained data from the music distributor for independent artists, Too Lost. The data contained 724k unique email addresses belonging to artists, their collaborators and fans. Some records also contained bcrypt password hashes, while a small subset included partial credit card data (last 4 digits and card type), identity verification information (in some cases, passport, driver's licence or national ID numbers), and payouts made to artists. Too Lost advised that its investigation remains ongoing, external forensic specialists have been engaged, and measures have been taken to secure affected systems and credentials. The company is also working with advisors to coordinate communications and support for affected individuals."
+      ],
+      "materiality": "724,323 accounts in HIBP",
+      "headline": "Too Lost breach hits 724,000 music accounts",
+      "subhead": "Passwords, IDs, and payment data exposed in breach",
+      "changes": [
+        "724,323 unique email addresses belonging to artists, collaborators, and fans were exposed",
+        "Some records contained bcrypt password hashes",
+        "A small subset included passport, driver's licence, or national ID numbers",
+        "Partial credit card data (last 4 digits and card type) and payouts to artists were also leaked"
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Passwords, government-issued ID numbers, and partial financial data were exposed. This is a serious breach.",
+      "actions": [
+        "Change your Too Lost password immediately and anywhere you reused it",
+        "Monitor bank and card statements for any suspicious activity",
+        "Watch for phishing emails targeting your name, email, or payout details"
+      ],
+      "caption": "Too Lost, a music distributor for independent artists, suffered a data breach in November 2026 affecting over 724,000 people including artists, collaborators, and fans. An unauthorised party claimed to have obtained data that included names, email addresses, passwords, physical addresses, dates and places of birth, and in some cases passport numbers, driver's licences, or national IDs. A small number of records also contained partial credit card data and payout information. Too Lost says its investigation is ongoing, external forensic specialists have been engaged, and steps have been taken to secure affected systems. Source: Have I Been Pwned.",
+      "hashtags": [
+        "TooLost",
+        "DataBreach",
+        "MusicIndustry",
+        "IndependentArtists",
+        "PasswordSecurity",
+        "IdentityTheft",
+        "CyberSecurity",
+        "HaveIBeenPwned"
+      ],
+      "approved": false,
+      "draft": true,
+      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
+      "caption_rendered": "Too Lost, a music distributor for independent artists, suffered a data breach in November 2026 affecting over 724,000 people including artists, collaborators, and fans. An unauthorised party claimed to have obtained data that included names, email addresses, passwords, physical addresses, dates and places of birth, and in some cases passport numbers, driver's licences, or national IDs. A small number of records also contained partial credit card data and payout information. Too Lost says its investigation is ongoing, external forensic specialists have been engaged, and steps have been taken to secure affected systems. Source: Have I Been Pwned.\n\n#TooLost #DataBreach #MusicIndustry #IndependentArtists #PasswordSecurity #IdentityTheft #CyberSecurity #HaveIBeenPwned #TOSMonitor",
+      "source_type": "breach",
+      "post_source": "breaches/2026-11-20_breach_too-lost_post.json",
+      "slide_folder": "2026-11-20_breach_too-lost",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_too-lost/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_too-lost/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_too-lost/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_too-lost/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_too-lost/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_too-lost/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "priority": 100,
+      "instagram_caption": "Too Lost, a music distributor for independent artists, suffered a data breach in November 2026 affecting over 724,000 people including artists, collaborators, and fans. An unauthorised party claimed to have obtained data that included names, email addresses, passwords, physical addresses, dates and places of birth, and in some cases passport numbers, driver's licences, or national IDs. A small number of records also contained partial credit card data and payout information. Too Lost says its investigation is ongoing, external forensic specialists have been engaged, and steps have been taken to secure affected systems. Source: Have I Been Pwned.\n\n#TooLost #DataBreach #MusicIndustry #IndependentArtists #PasswordSecurity #IdentityTheft #CyberSecurity #HaveIBeenPwned #TOSMonitor",
+      "caption_sha256": "16c76b53c4d2e6499e3ec1980d4fa6db4ea7b7849369ab339e5dc1a497a27b2b",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -6030,80 +6200,6 @@
       "eligible_today": false
     },
     {
-      "id": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
-      "date": "2026-10-20",
-      "effective": "Updated October 20, 2026",
-      "app": "Grubhub",
-      "doc": "The 2-Minute Fix",
-      "post_type": "series",
-      "accent": "#F4722B",
-      "categories": [
-        {
-          "tag": "third_party_sharing",
-          "explanation": "Grubhub added new language allowing it to share card transaction data with participating merchants and card networks, expanding the circle of third parties who receive user payment information."
-        }
-      ],
-      "source_doc": "TOSMonitor series based on a monitored policy · 2026-09-28_grubhub-privacy",
-      "source_post_id": "2026-09-28_grubhub-privacy",
-      "series_id": "two-minute-fix",
-      "series_title": "The 2-Minute Fix",
-      "approved": false,
-      "publish_to_site": false,
-      "priority": 300,
-      "draft": true,
-      "headline": "The 2-minute privacy check for Grubhub",
-      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
-      "changes": [
-        "Check your Grubhub account settings and review any linked payment cards",
-        "To opt out, go to account page, click The Drop, then Manage Linked Cards",
-        "Review participating merchants' privacy policies, as they may also receive your data"
-      ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "A new card-linking feature introduces payment transaction tracking and merchant data sharing, which many users may not expect.",
-      "actions": [
-        "In the app: Account > Payment to see all saved cards; remove any you do not recognize.",
-        "In the app: Account > The Drop > Manage next to Linked Cards, then remove enrolled card.",
-        "Review participating merchants' privacy policies, as they may also receive your data"
-      ],
-      "how_to_sources": [
-        "https://www.grubhub.com/legal/privacy-policy",
-        "https://www.grubhub.com/legal",
-        ""
-      ],
-      "caption_rendered": "THE 2-MINUTE FIX · Grubhub\n\nA policy update is only useful if it leads to an action. Three checks from the Grubhub update we tracked, and how to do each one:\n\n1. In the app: Account > Payment to see all saved cards; remove any you do not recognize.\n2. In the app: Account > The Drop > Manage next to Linked Cards, then remove enrolled card.\n3. Review participating merchants' privacy policies, as they may also receive your data\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
-      "source_type": "evergreen",
-      "post_source": "evergreen/2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy_post.json",
-      "slide_folder": "2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy",
-      "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy/04_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy/05_action.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-20_two-minute-fix_2026-09-28_grubhub-privacy/06_outro.png"
-      ],
-      "media_files": [
-        "01_hook.png",
-        "02_changes.png",
-        "03_changes.png",
-        "04_verdict.png",
-        "05_action.png",
-        "06_outro.png"
-      ],
-      "slide_count": 6,
-      "has_slides": true,
-      "media_error": "",
-      "instagram_caption": "THE 2-MINUTE FIX · Grubhub\n\nA policy update is only useful if it leads to an action. Three checks from the Grubhub update we tracked, and how to do each one:\n\n1. In the app: Account > Payment to see all saved cards; remove any you do not recognize.\n2. In the app: Account > The Drop > Manage next to Linked Cards, then remove enrolled card.\n3. Review participating merchants' privacy policies, as they may also receive your data\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
-      "caption_sha256": "c0ebbee7e179f289609a010797649e5850483029c735ffb2d69c02a6466a9a7f",
-      "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
-      "post_days": "any",
-      "eligible_today": false
-    },
-    {
       "id": "2026-10-22_clause-really-means_2026-10-12_uber-terms",
       "date": "2026-10-22",
       "effective": "Updated October 22, 2026",
@@ -6762,7 +6858,7 @@
       "eligible_today": false
     }
   ],
-  "total": 94,
+  "total": 95,
   "queued_count": 0,
   "published_count": 61,
   "baseline_count": 6,
