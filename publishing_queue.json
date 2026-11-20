@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-20T23:26:37Z",
+  "generated_at": "2026-11-20T23:27:11Z",
   "post_date": "2026-11-20",
   "posts": [
     {
@@ -4139,91 +4139,6 @@
       "waiting_reason": "one_post_per_day"
     },
     {
-      "id": "2026-11-11_breach_sberspasibo",
-      "date": "2026-11-11",
-      "app": "СберСпасибо (SberSpasibo)",
-      "doc": "Data Breach",
-      "post_type": "data_breach",
-      "source_doc": "https://haveibeenpwned.com/PwnedWebsites#SberSpasibo",
-      "breach_source": "Have I Been Pwned",
-      "breach_record_id": "SberSpasibo",
-      "accent": "#E11D48",
-      "effective": "Reported 2026-11-11",
-      "categories": [],
-      "breach_evidence": [
-        "Organisation: СберСпасибо (SberSpasibo)",
-        "Listed by: Have I Been Pwned on 2026-11-11",
-        "Website: spasibosberbank.ru",
-        "Date(s) of breach: 2023-03-09",
-        "People affected: 3,288,711 email addresses were in the leaked data",
-        "Data exposed: Bank card numbers, Dates of birth, Email addresses, Loyalty program details, Phone numbers",
-        "Details: In March 2023, data allegedly taken from СберСпасибо (SberSpasibo), the loyalty program of Russian bank Сбербанк (Sberbank), was published online . The data contained records relating to 48M users, including 3.3M unique email addresses alongside phone numbers and dates of birth. Data also included bank card numbers stored as unsalted SHA-1 hashes, plus loyalty program details such as membership dates and the redemption of bonus points for partner offers."
-      ],
-      "materiality": "3,288,711 accounts in HIBP",
-      "headline": "SberSpasibo breach exposed bank card numbers",
-      "subhead": "Sberbank loyalty program data leaked affecting millions",
-      "changes": [
-        "Bank card numbers stored as unsalted SHA-1 hashes were exposed",
-        "Phone numbers, dates of birth, and email addresses were leaked",
-        "Loyalty program details including membership dates and bonus point redemptions included",
-        "Data allegedly taken in March 2023 and published online"
-      ],
-      "verdict": "IMPORTANT",
-      "verdict_text": "Bank card numbers and personal identifiers were exposed. Over 3 million unique email addresses were confirmed in the leaked data.",
-      "actions": [
-        "Check if your email appears at haveibeenpwned.com",
-        "Monitor your bank card for any unfamiliar or suspicious transactions",
-        "Change your SberSpasibo account password if you still have access"
-      ],
-      "caption": "If you have or had an account with SberSpasibo, the loyalty rewards program run by Russian bank Sberbank, your personal data may have been exposed in a March 2023 breach. The leaked data included bank card numbers, phone numbers, dates of birth, email addresses, and loyalty program details such as membership dates and bonus point activity. The card numbers were stored as unsalted SHA-1 hashes, a weak protection method. Over 3.2 million unique email addresses were confirmed in the leaked dataset. The breach was listed by Have I Been Pwned.",
-      "hashtags": [
-        "SberSpasibo",
-        "Sberbank",
-        "DataBreach",
-        "BankCardLeak",
-        "PersonalData",
-        "HaveIBeenPwned",
-        "LoyaltyProgram",
-        "DataPrivacy"
-      ],
-      "approved": false,
-      "draft": true,
-      "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
-      "caption_rendered": "If you have or had an account with SberSpasibo, the loyalty rewards program run by Russian bank Sberbank, your personal data may have been exposed in a March 2023 breach. The leaked data included bank card numbers, phone numbers, dates of birth, email addresses, and loyalty program details such as membership dates and bonus point activity. The card numbers were stored as unsalted SHA-1 hashes, a weak protection method. Over 3.2 million unique email addresses were confirmed in the leaked dataset. The breach was listed by Have I Been Pwned.\n\n#SberSpasibo #Sberbank #DataBreach #BankCardLeak #PersonalData #HaveIBeenPwned #LoyaltyProgram #DataPrivacy #TOSMonitor",
-      "source_type": "breach",
-      "post_source": "breaches/2026-11-11_breach_sberspasibo_post.json",
-      "slide_folder": "2026-11-11_breach_sberspasibo",
-      "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/04_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/05_action.png",
-        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_sberspasibo/06_outro.png"
-      ],
-      "media_files": [
-        "01_hook.png",
-        "02_changes.png",
-        "03_changes.png",
-        "04_verdict.png",
-        "05_action.png",
-        "06_outro.png"
-      ],
-      "slide_count": 6,
-      "has_slides": true,
-      "media_error": "",
-      "priority": 100,
-      "instagram_caption": "If you have or had an account with SberSpasibo, the loyalty rewards program run by Russian bank Sberbank, your personal data may have been exposed in a March 2023 breach. The leaked data included bank card numbers, phone numbers, dates of birth, email addresses, and loyalty program details such as membership dates and bonus point activity. The card numbers were stored as unsalted SHA-1 hashes, a weak protection method. Over 3.2 million unique email addresses were confirmed in the leaked dataset. The breach was listed by Have I Been Pwned.\n\n#SberSpasibo #Sberbank #DataBreach #BankCardLeak #PersonalData #HaveIBeenPwned #LoyaltyProgram #DataPrivacy #TOSMonitor",
-      "caption_sha256": "b8db8974e1f77eca660c51fe001b42f90f74fbf024dd067589bb155043fa6e33",
-      "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
-      "post_days": "any",
-      "eligible_today": false
-    },
-    {
       "id": "2026-11-11_breach_youhack",
       "date": "2026-11-11",
       "app": "YouHack",
@@ -6512,7 +6427,7 @@
       "eligible_today": false
     }
   ],
-  "total": 90,
+  "total": 89,
   "queued_count": 3,
   "published_count": 61,
   "baseline_count": 6,
