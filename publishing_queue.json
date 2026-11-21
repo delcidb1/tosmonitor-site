@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-21T20:51:02Z",
+  "generated_at": "2026-11-21T20:53:17Z",
   "post_date": "2026-11-21",
   "posts": [
     {
@@ -6449,52 +6449,66 @@
       "priority": 300,
       "draft": true,
       "headline": "Your Oura privacy receipt",
-      "subhead": "4 things Oura's privacy policy says it does with your data.",
+      "subhead": "6 things Oura's privacy policy says it does with your data.",
       "changes": [
-        "Your own AI training: Oura uses your personal data to develop, test and improve its own AI/ML/LLM features, including Oura Advisor.",
-        "Website ad cookies: Oura uses cookies on its website to measure marketing and serve contextual ads; separate from your health data.",
-        "Data kept indefinitely: Data is kept for your account's lifetime; Oura gives no specific post-deletion window, only 'as required by law'.",
-        "Anonymised research data: If you joined a study, your anonymised contributions can remain in research datasets even after you delete your account."
+        "Your own LLM/AI training: Oura may collect and use your personal data to develop, test, and improve its own AI and large language model-powered features.",
+        "Reproductive health data: Oura explicitly collects reproductive and sexual health information, diagnoses, and other legally or socially sensitive data via its Services.",
+        "Data at merger/acquisition: Your data may be disclosed for Oura's legitimate interests, including in a merger, acquisition, or sale. No opt-out is mentioned.",
+        "Cancelled account data: Cancelling your Oura Membership does NOT delete your data. Data is only removed if you separately delete your account.",
+        "Aggregated health trends: Oura uses anonymised, aggregated data to identify and publicly share broad health trends, e.g. average Sleep Score by country.",
+        "Third-party integrations: If you connect a third party, that party's own privacy policy governs your data — Oura cannot recall it once transferred."
       ],
       "receipt_items": [
         {
-          "item": "Your own AI training",
+          "item": "Your own LLM/AI training",
           "tag": "AI TRAINING",
-          "detail": "Oura uses your personal data to develop, test and improve its own AI/ML/LLM features, including Oura Advisor.",
+          "detail": "Oura may collect and use your personal data to develop, test, and improve its own AI and large language model-powered features.",
           "source_url": "https://ouraring.com/privacy-policy"
         },
         {
-          "item": "Website ad cookies",
-          "tag": "ADS",
-          "detail": "Oura uses cookies on its website to measure marketing and serve contextual ads; separate from your health data.",
+          "item": "Reproductive health data",
+          "tag": "COLLECTED",
+          "detail": "Oura explicitly collects reproductive and sexual health information, diagnoses, and other legally or socially sensitive data via its Services.",
           "source_url": "https://ouraring.com/privacy-policy"
         },
         {
-          "item": "Data kept indefinitely",
-          "tag": "KEPT",
-          "detail": "Data is kept for your account's lifetime; Oura gives no specific post-deletion window, only 'as required by law'.",
-          "source_url": "https://www.mozillafoundation.org/en/nothing-personal/oura-ring-privacy-review/"
+          "item": "Data at merger/acquisition",
+          "tag": "SHARED",
+          "detail": "Your data may be disclosed for Oura's legitimate interests, including in a merger, acquisition, or sale. No opt-out is mentioned.",
+          "source_url": "https://ouraring.com/privacy-policy"
         },
         {
-          "item": "Anonymised research data",
+          "item": "Cancelled account data",
           "tag": "KEPT",
-          "detail": "If you joined a study, your anonymised contributions can remain in research datasets even after you delete your account.",
-          "source_url": "https://ismyhealthappsafe.com/apps/oura/"
+          "detail": "Cancelling your Oura Membership does NOT delete your data. Data is only removed if you separately delete your account.",
+          "source_url": "https://ouraring.com/membership"
+        },
+        {
+          "item": "Aggregated health trends",
+          "tag": "SHARED",
+          "detail": "Oura uses anonymised, aggregated data to identify and publicly share broad health trends, e.g. average Sleep Score by country.",
+          "source_url": "https://ouraring.com/trust-center"
+        },
+        {
+          "item": "Third-party integrations",
+          "tag": "SHARED",
+          "detail": "If you connect a third party, that party's own privacy policy governs your data — Oura cannot recall it once transferred.",
+          "source_url": "https://ouraring.com/privacy-policy"
         }
       ],
       "verdict": "WORTH_KNOWING",
-      "verdict_text": "Oura doesn't sell your data, but it trains its own AI on it, shares it in any acquisition, and keeps research contributions even after deletion.",
+      "verdict_text": "Oura collects sensitive health data—including reproductive info—that persists after cancellation, may transfer in a sale, and can train its AI. Third-party sharing falls outside Oura's control once sent.",
       "actions": [
-        "Read the Informed Consent Form carefully before joining any Oura study.",
-        "Ask explicitly who controls your data before enrolling in research.",
-        "Check Oura's privacy settings and limit research participation if concerned."
+        "Delete health data by range: App menu > Settings > Security & Privacy > Manage data > Delete data",
+        "Submit data access, correction, or deletion requests by emailing dataprotection@ouraring.com"
       ],
       "receipt_sources": [
-        "https://ismyhealthappsafe.com/apps/oura/",
+        "https://ouraring.com/membership",
         "https://ouraring.com/privacy-policy",
-        "https://www.mozillafoundation.org/en/nothing-personal/oura-ring-privacy-review/"
+        "https://ouraring.com/trust-center",
+        "https://support.ouraring.com/hc/en-us/articles/360025586673-How-Oura-Protects-Your-Data"
       ],
-      "caption_rendered": "PRIVACY RECEIPT · Oura\n\nThe receipt you never get after using Oura. Straight from its current privacy policy:\n\n🧾 Your own AI training (ai training): Oura uses your personal data to develop, test and improve its own AI/ML/LLM features, including Oura Advisor.\n🧾 Website ad cookies (ads): Oura uses cookies on its website to measure marketing and serve contextual ads; separate from your health data.\n🧾 Data kept indefinitely (kept): Data is kept for your account's lifetime; Oura gives no specific post-deletion window, only 'as required by law'.\n🧾 Anonymised research data (kept): If you joined a study, your anonymised contributions can remain in research datasets even after you delete your account.\n\nWhat you can do:\n1. Read the Informed Consent Form carefully before joining any Oura study.\n2. Ask explicitly who controls your data before enrolling in research.\n3. Check Oura's privacy settings and limit research participation if concerned.\n\nSave this receipt and check it against your own settings.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #Oura #TOSMonitor",
+      "caption_rendered": "PRIVACY RECEIPT · Oura\n\nThe receipt you never get after using Oura. Straight from its current privacy policy:\n\n🧾 Your own LLM/AI training (ai training): Oura may collect and use your personal data to develop, test, and improve its own AI and large language model-powered features.\n🧾 Reproductive health data (collected): Oura explicitly collects reproductive and sexual health information, diagnoses, and other legally or socially sensitive data via its Services.\n🧾 Data at merger/acquisition (shared): Your data may be disclosed for Oura's legitimate interests, including in a merger, acquisition, or sale. No opt-out is mentioned.\n🧾 Cancelled account data (kept): Cancelling your Oura Membership does NOT delete your data. Data is only removed if you separately delete your account.\n🧾 Aggregated health trends (shared): Oura uses anonymised, aggregated data to identify and publicly share broad health trends, e.g. average Sleep Score by country.\n🧾 Third-party integrations (shared): If you connect a third party, that party's own privacy policy governs your data — Oura cannot recall it once transferred.\n\nWhat you can do:\n1. Delete health data by range: App menu > Settings > Security & Privacy > Manage data > Delete data\n2. Submit data access, correction, or deletion requests by emailing dataprotection@ouraring.com\n\nSave this receipt and check it against your own settings.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #Oura #TOSMonitor",
       "source_type": "evergreen",
       "post_source": "evergreen/2026-11-21_privacy-receipt_2026-11-04_oura-privacy_post.json",
       "slide_folder": "2026-11-21_privacy-receipt_2026-11-04_oura-privacy",
@@ -6517,8 +6531,8 @@
       "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "instagram_caption": "PRIVACY RECEIPT · Oura\n\nThe receipt you never get after using Oura. Straight from its current privacy policy:\n\n🧾 Your own AI training (ai training): Oura uses your personal data to develop, test and improve its own AI/ML/LLM features, including Oura Advisor.\n🧾 Website ad cookies (ads): Oura uses cookies on its website to measure marketing and serve contextual ads; separate from your health data.\n🧾 Data kept indefinitely (kept): Data is kept for your account's lifetime; Oura gives no specific post-deletion window, only 'as required by law'.\n🧾 Anonymised research data (kept): If you joined a study, your anonymised contributions can remain in research datasets even after you delete your account.\n\nWhat you can do:\n1. Read the Informed Consent Form carefully before joining any Oura study.\n2. Ask explicitly who controls your data before enrolling in research.\n3. Check Oura's privacy settings and limit research participation if concerned.\n\nSave this receipt and check it against your own settings.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #Oura #TOSMonitor",
-      "caption_sha256": "439411b391a61152bafd5536442928b7b7478d1c7fbd67ffc95e14b2a7acd9c4",
+      "instagram_caption": "PRIVACY RECEIPT · Oura\n\nThe receipt you never get after using Oura. Straight from its current privacy policy:\n\n🧾 Your own LLM/AI training (ai training): Oura may collect and use your personal data to develop, test, and improve its own AI and large language model-powered features.\n🧾 Reproductive health data (collected): Oura explicitly collects reproductive and sexual health information, diagnoses, and other legally or socially sensitive data via its Services.\n🧾 Data at merger/acquisition (shared): Your data may be disclosed for Oura's legitimate interests, including in a merger, acquisition, or sale. No opt-out is mentioned.\n🧾 Cancelled account data (kept): Cancelling your Oura Membership does NOT delete your data. Data is only removed if you separately delete your account.\n🧾 Aggregated health trends (shared): Oura uses anonymised, aggregated data to identify and publicly share broad health trends, e.g. average Sleep Score by country.\n🧾 Third-party integrations (shared): If you connect a third party, that party's own privacy policy governs your data — Oura cannot recall it once transferred.\n\nWhat you can do:\n1. Delete health data by range: App menu > Settings > Security & Privacy > Manage data > Delete data\n2. Submit data access, correction, or deletion requests by emailing dataprotection@ouraring.com\n\nSave this receipt and check it against your own settings.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #Oura #TOSMonitor",
+      "caption_sha256": "de48be76b1b28bb524ac800acf4a3bc6995294825953a89c64702ad92916efea",
       "published": false,
       "publishable": false,
       "status": "requires_review",
