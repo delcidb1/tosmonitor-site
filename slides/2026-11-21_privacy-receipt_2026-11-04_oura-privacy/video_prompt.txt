@@ -3,7 +3,7 @@ VIDEO SCRIPT + PROMPTS for this post (Oura)
 
 --- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
 
-Your Oura privacy receipt. Your own LLM/AI training: Oura may collect and use your personal data to develop, test, and improve its own AI and large language model-powered features. Reproductive health data: Oura explicitly collects reproductive and sexual health information, diagnoses, and other legally or socially sensitive data via its Services. Data at merger/acquisition: Your data may be disclosed for Oura's legitimate interests, including in a merger, acquisition, or sale. No opt-out is mentioned. Cancelled account data: Cancelling your Oura Membership does NOT delete your data. Data is only removed if you separately delete your account. Aggregated health trends: Oura uses anonymised, aggregated data to identify and publicly share broad health trends, e.g. average Sleep Score by country. Third-party integrations: If you connect a third party, that party's own privacy policy governs your data — Oura cannot recall it once transferred. Our verdict: worth knowing. Oura collects sensitive health data—including reproductive info—that persists after cancellation, may transfer in a sale, and can train its AI. Third-party sharing falls outside Oura's control once sent. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
+Your Oura privacy receipt. Your data for Oura's AI: Oura may collect and use your personal data to develop, test, and improve its own AI and large language model-powered features. Reproductive health data: Oura collects reproductive and sexual health information, which its policy treats as sensitive data. Data at merger/acquisition: Your data may be disclosed if Oura is part of a merger, acquisition or sale. Cancelled account data: Cancelling your Oura Membership does NOT delete your data. Data is only removed if you separately delete your account. Aggregated health trends: Oura uses anonymised, aggregated data to identify and publicly share broad health trends, e.g. average Sleep Score by country. Third-party integrations: If you connect another app, the data you send it is governed by that app's own privacy policy. Our verdict: worth knowing. Oura collects sensitive health data, including reproductive health, can use it to build its AI, and keeps it after you cancel unless you delete your account. Full breakdown in the carousel - follow at tos underscore monitor for the next change.
 
 --- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
 1. heygen.com -> Create video -> AI Avatar
@@ -15,7 +15,7 @@ Paste this prompt into Gemini:
 
 "A friendly tech news presenter in a modern studio with dark navy
 background and #1a1a2e accent lighting looks at the
-camera and says: 'Your Oura privacy receipt. Oura collects sensitive health data—including reproductive info—that persists after cancellation, may transfer in a sale, and can train its AI. Third-party sharing falls outside Oura's control once sent.'
+camera and says: 'Your Oura privacy receipt. Oura collects sensitive health data, including reproductive health, can use it to build its AI, and keeps it after you cancel unless you delete your account.'
 Clean lighting, vertical 9:16 format, professional but approachable."
 
 --- OPTION C: Voiceover Reel (no AI person) ---
