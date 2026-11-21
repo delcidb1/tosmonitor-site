@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-21T20:49:13Z",
+  "generated_at": "2026-11-21T20:51:02Z",
   "post_date": "2026-11-21",
   "posts": [
     {
@@ -6425,9 +6425,112 @@
         "Sunday"
       ],
       "eligible_today": false
+    },
+    {
+      "id": "2026-11-21_privacy-receipt_2026-11-04_oura-privacy",
+      "date": "2026-11-21",
+      "effective": "Updated November 21, 2026",
+      "app": "Oura",
+      "doc": "Privacy Receipt",
+      "post_type": "series",
+      "accent": "#1a1a2e",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Oura inserted itself as a potential independent controller of research data alongside the Research Sponsor, changing the data responsibility structure and potentially how your health data is used or shared."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-11-04_oura-privacy",
+      "source_post_id": "2026-11-04_oura-privacy",
+      "series_id": "privacy-receipt",
+      "series_title": "Privacy Receipt",
+      "approved": false,
+      "publish_to_site": false,
+      "priority": 300,
+      "draft": true,
+      "headline": "Your Oura privacy receipt",
+      "subhead": "4 things Oura's privacy policy says it does with your data.",
+      "changes": [
+        "Your own AI training: Oura uses your personal data to develop, test and improve its own AI/ML/LLM features, including Oura Advisor.",
+        "Website ad cookies: Oura uses cookies on its website to measure marketing and serve contextual ads; separate from your health data.",
+        "Data kept indefinitely: Data is kept for your account's lifetime; Oura gives no specific post-deletion window, only 'as required by law'.",
+        "Anonymised research data: If you joined a study, your anonymised contributions can remain in research datasets even after you delete your account."
+      ],
+      "receipt_items": [
+        {
+          "item": "Your own AI training",
+          "tag": "AI TRAINING",
+          "detail": "Oura uses your personal data to develop, test and improve its own AI/ML/LLM features, including Oura Advisor.",
+          "source_url": "https://ouraring.com/privacy-policy"
+        },
+        {
+          "item": "Website ad cookies",
+          "tag": "ADS",
+          "detail": "Oura uses cookies on its website to measure marketing and serve contextual ads; separate from your health data.",
+          "source_url": "https://ouraring.com/privacy-policy"
+        },
+        {
+          "item": "Data kept indefinitely",
+          "tag": "KEPT",
+          "detail": "Data is kept for your account's lifetime; Oura gives no specific post-deletion window, only 'as required by law'.",
+          "source_url": "https://www.mozillafoundation.org/en/nothing-personal/oura-ring-privacy-review/"
+        },
+        {
+          "item": "Anonymised research data",
+          "tag": "KEPT",
+          "detail": "If you joined a study, your anonymised contributions can remain in research datasets even after you delete your account.",
+          "source_url": "https://ismyhealthappsafe.com/apps/oura/"
+        }
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Oura doesn't sell your data, but it trains its own AI on it, shares it in any acquisition, and keeps research contributions even after deletion.",
+      "actions": [
+        "Read the Informed Consent Form carefully before joining any Oura study.",
+        "Ask explicitly who controls your data before enrolling in research.",
+        "Check Oura's privacy settings and limit research participation if concerned."
+      ],
+      "receipt_sources": [
+        "https://ismyhealthappsafe.com/apps/oura/",
+        "https://ouraring.com/privacy-policy",
+        "https://www.mozillafoundation.org/en/nothing-personal/oura-ring-privacy-review/"
+      ],
+      "caption_rendered": "PRIVACY RECEIPT · Oura\n\nThe receipt you never get after using Oura. Straight from its current privacy policy:\n\n🧾 Your own AI training (ai training): Oura uses your personal data to develop, test and improve its own AI/ML/LLM features, including Oura Advisor.\n🧾 Website ad cookies (ads): Oura uses cookies on its website to measure marketing and serve contextual ads; separate from your health data.\n🧾 Data kept indefinitely (kept): Data is kept for your account's lifetime; Oura gives no specific post-deletion window, only 'as required by law'.\n🧾 Anonymised research data (kept): If you joined a study, your anonymised contributions can remain in research datasets even after you delete your account.\n\nWhat you can do:\n1. Read the Informed Consent Form carefully before joining any Oura study.\n2. Ask explicitly who controls your data before enrolling in research.\n3. Check Oura's privacy settings and limit research participation if concerned.\n\nSave this receipt and check it against your own settings.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #Oura #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-11-21_privacy-receipt_2026-11-04_oura-privacy_post.json",
+      "slide_folder": "2026-11-21_privacy-receipt_2026-11-04_oura-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-21_privacy-receipt_2026-11-04_oura-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-21_privacy-receipt_2026-11-04_oura-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-21_privacy-receipt_2026-11-04_oura-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-21_privacy-receipt_2026-11-04_oura-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-21_privacy-receipt_2026-11-04_oura-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-21_privacy-receipt_2026-11-04_oura-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "PRIVACY RECEIPT · Oura\n\nThe receipt you never get after using Oura. Straight from its current privacy policy:\n\n🧾 Your own AI training (ai training): Oura uses your personal data to develop, test and improve its own AI/ML/LLM features, including Oura Advisor.\n🧾 Website ad cookies (ads): Oura uses cookies on its website to measure marketing and serve contextual ads; separate from your health data.\n🧾 Data kept indefinitely (kept): Data is kept for your account's lifetime; Oura gives no specific post-deletion window, only 'as required by law'.\n🧾 Anonymised research data (kept): If you joined a study, your anonymised contributions can remain in research datasets even after you delete your account.\n\nWhat you can do:\n1. Read the Informed Consent Form carefully before joining any Oura study.\n2. Ask explicitly who controls your data before enrolling in research.\n3. Check Oura's privacy settings and limit research participation if concerned.\n\nSave this receipt and check it against your own settings.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #Oura #TOSMonitor",
+      "caption_sha256": "439411b391a61152bafd5536442928b7b7478d1c7fbd67ffc95e14b2a7acd9c4",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": [
+        "Saturday"
+      ],
+      "eligible_today": false
     }
   ],
-  "total": 89,
+  "total": 90,
   "queued_count": 3,
   "published_count": 61,
   "baseline_count": 6,
