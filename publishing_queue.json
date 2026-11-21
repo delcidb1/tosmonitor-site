@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-21T20:55:49Z",
+  "generated_at": "2026-11-21T21:01:15Z",
   "post_date": "2026-11-21",
   "posts": [
     {
@@ -37,7 +37,7 @@
       "draft": true,
       "id": "2026-08-20_flock-safety-privacy-security-update",
       "source_type": "manual",
-      "post_source": "manual/flock_post.json",
+      "post_source": "posts/manual/flock_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 1,
@@ -105,7 +105,7 @@
       "categories": [],
       "caption_rendered": "📋 MARYLAND POLICY BREAKDOWN (TL;DR)\n\nGrocers can't use your personal data to charge you more. Mostly.\n\nWHAT THE LAW SAYS:\n• Covers grocery stores of 15,000+ sq ft and grocery delivery services\n• They can't set a personalized grocery price based on your personal data\n• Applies even if the store bought your data instead of collecting it\n• Protected-class data can't be used to deny you deals others get\n• Exempt: loyalty and rewards pricing, promos, subscriptions, retention discounts\n\nOUR VERDICT: WORTH KNOWING\nThe first state law to ban surveillance pricing outright, not just require disclosure. But loyalty programs are exempt, only the Attorney General can enforce it, and companies get 45 days to fix a violation.\n\nWHAT YOU CAN DO:\n→ Compare app prices against a friend's account or a logged-out view\n→ Report suspected personalized pricing to the MD Attorney General\n→ Remember: loyalty-card deals are not covered by the ban\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor for clear breakdowns of what you're agreeing to.\n\n#Maryland #MarylandPrivacy #SurveillancePricing #Groceries #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "source_type": "manual",
-      "post_source": "manual/maryland-surveillance-pricing_post.json",
+      "post_source": "posts/manual/maryland-surveillance-pricing_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 1,
@@ -176,7 +176,7 @@
       "caption_rendered": "Two U.S. senators, Ron Wyden and Ed Markey, have opened an inquiry into Meta's camera glasses.\n\nTheir letter asks what safeguards stop the glasses from capturing intimate images without consent, whether Meta studied their potential for voyeurism, what footage is used to train its AI, and whether people who get captured can ask for their data to be deleted.\n\nThe backdrop: months of reports of people filmed in public and at work without knowing, then finding themselves on TikTok or Instagram. Earlier this year, journalists found contract data labelers in Kenya reviewing uncensored footage from the glasses. Meta ended that contract. In October, Dutch eyewear chain Hans Anders stopped selling the glasses in the Netherlands and Belgium.\n\nThe gap is simple: the person wearing the glasses agreed to Meta's terms. Everyone in frame didn't.\n\nSource: 404 Media, Oct 29, 2026; RetailDetail, Oct 2, 2026.\n\n#privacy #dataprivacy #tosmonitor #meta #smartglasses #rayban #consent #surveillance",
       "cover_query": "smart glasses",
       "source_type": "manual",
-      "post_source": "manual/meta-glasses-senate-inquiry_post.json",
+      "post_source": "posts/manual/meta-glasses-senate-inquiry_post.json",
       "approved": false,
       "publish_to_site": true,
       "priority": 1,
@@ -257,7 +257,7 @@
       "caption_rendered": "Oura recently updated its Privacy Policy for users of the Oura Research App. Previously, the Research Sponsor was clearly identified as the sole controller of your research data, with Oura acting only as a processor or service provider. The updated language now allows Oura to act as an independent controller of that same data. This matters because the controller determines how your sensitive health data is used and who is responsible for protecting your rights. The policy now directs privacy rights questions to 'the controller' rather than specifically the Research Sponsor, which creates ambiguity. If you participate in Oura research studies, read your Informed Consent Form closely and ask who controls your data before you enroll.\n\n#oura #ouraring #privacypolicy #healthdata #wearables #dataprotection #digitalhealth #privacyrights #TOSMonitor",
       "id": "2026-11-04_oura-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-11-04_oura-privacy_post.json",
+      "post_source": "posts/tos/2026-11-04_oura-privacy_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 1,
@@ -340,7 +340,7 @@
       ],
       "caption_rendered": "48 hours, 5 breaches, and one new kind of threat. 🔓\n\nA hijacked website tool put card-skimming code on 178 major sites. Uber drivers lost license data through an AI vendor. Visa confirmed an attack. Infoblox, Ipsos and Japan's flagship supercomputer were also hit.\n\nThe pattern: almost every one came in through a third-party vendor. You don't have to use a company's own app to be exposed by its vendors.\n\nSwipe for what to do ➡️\n\n#databreach #cybersecurity #privacy #infosec #uber #visa #dataprivacy #hacked #tosmonitor",
       "source_type": "manual",
-      "post_source": "manual/breach-watch-2026-11-17_post.json",
+      "post_source": "posts/manual/breach-watch-2026-11-17_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 1,
@@ -413,7 +413,7 @@
       ],
       "caption_rendered": "A federal judge in Oklahoma has ruled that a police search of the Flock license plate network was unconstitutional.\n\nA sheriff's deputy looked up a woman's plate in Flock without a warrant, with no apparent reason beyond the car's California plates. He then used her travel history from the camera network to help justify searching her car. Judge Sara Hill found that violated the Fourth Amendment, described Flock as indiscriminate mass surveillance, and suppressed everything found after the search.\n\nIt isn't binding precedent. But it's one of the first times a federal judge has called a Flock search unconstitutional, and it lands in a year of backlash: Florida and Texas have moved to stop using Flock, and Sen. Bernie Sanders has introduced the Block Flock Act to bar federal agencies from using plate readers.\n\nSource: TechCrunch, Oct 3, 2026.\n\n#privacy #dataprivacy #tosmonitor #flocksafety #alpr #licenseplatereader #fourthamendment #surveillance",
       "source_type": "manual",
-      "post_source": "manual/flock-safety-court-ruling_post.json",
+      "post_source": "posts/manual/flock-safety-court-ruling_post.json",
       "approved": false,
       "publish_to_site": true,
       "priority": 2,
@@ -484,7 +484,7 @@
       "caption_rendered": "iOS 27.2 adds a new way to prove you're an adult on your Apple Account: take a selfie.\n\nAn AI model estimates your age, running on your device and on Apple's Private Cloud Compute, and Apple says the selfie is deleted once your age is confirmed. The older options are still there: an account that already meets the age bar, a credit card (debit cards don't count), or scanning a passport, driver's license or government ID.\n\nFor now, this only matters if you're somewhere that requires age checks: the UK, Australia, Brazil, Singapore, South Korea and Texas.\n\nWhy it matters: age verification is spreading, and the usual way of doing it means sending a copy of your ID to a vendor. One vendor Discord used leaked about 70,000 ID images. A check that never stores your face is the less risky option. It's still a model guessing your age, though, and every one of those gets some adults wrong.\n\nSource: Privacy Guides, Oct 29, 2026.\n\n#privacy #dataprivacy #tosmonitor #apple #ios #ageverification #biometrics #iphone",
       "cover_query": "person taking selfie phone",
       "source_type": "manual",
-      "post_source": "manual/apple-ios-27-2-age-verification_post.json",
+      "post_source": "posts/manual/apple-ios-27-2-age-verification_post.json",
       "approved": false,
       "publish_to_site": true,
       "priority": 3,
@@ -556,7 +556,7 @@
       "caption_rendered": "Meta has paused chat sharing in Muse, its personal AI agent, after researchers found shared conversations could be discovered by people who were never sent the link.\n\nHow it happened: each share link put the chat's title into the web address. Public DNS records logged those addresses whenever a link was opened, so security firm Claroc pulled up more than 6,800 of them with a single query. The pages opened without a login.\n\nMost were harmless. A few held prep notes for a confidential executive-search call, an internal revenue review, a small business loan application, and a to-do list with partial bank account details.\n\nMeta paused sharing on October 20 while it reviews the report. It hasn't said whether existing shares will be deleted or whether affected users will hear from it. The titles themselves stay in DNS history.\n\nSource: Ars Technica via PPC Land, Oct 20, 2026.\n\n#privacy #dataprivacy #tosmonitor #meta #muse #ai #aiprivacy #dataleak",
       "cover_query": "person typing phone chat",
       "source_type": "manual",
-      "post_source": "manual/meta-muse-shared-chats_post.json",
+      "post_source": "posts/manual/meta-muse-shared-chats_post.json",
       "approved": false,
       "publish_to_site": true,
       "priority": 4,
@@ -628,7 +628,7 @@
       "caption_rendered": "Google's privacy policy changed on October 16, and one line matters for your inbox.\n\nIf you let Search or Gemini access other Google apps (Gmail, Photos, Drive and more), Search services can now use that data to personalize what you see, ads included. Google's help page says ads won't be based directly on your email or photos, but they can draw on summaries, excerpts and inferences from them. Advertisers don't see your inbox.\n\nWhy it stands out: since 2021, Google's policy said it doesn't personalize ads using content from Gmail, Drive or Photos. That's now carved out for connected apps.\n\nTwo details worth knowing. Connecting apps is opt-in, but the policy doesn't describe a separate yes for ads. And disconnecting an app doesn't delete data Search already holds.\n\nSource: Google Privacy Policy (Oct 16, 2026), via PPC Land.\n\n#privacy #dataprivacy #tosmonitor #google #gmail #googlephotos #gemini #ads",
       "cover_query": "email inbox laptop",
       "source_type": "manual",
-      "post_source": "manual/google-privacy-gmail-ads_post.json",
+      "post_source": "posts/manual/google-privacy-gmail-ads_post.json",
       "approved": false,
       "publish_to_site": true,
       "priority": 5,
@@ -701,7 +701,7 @@
       ],
       "id": "albertsons",
       "source_type": "manual",
-      "post_source": "manual/albertsons_post.json",
+      "post_source": "posts/manual/albertsons_post.json",
       "slide_folder": "2026-08-08_albertsons-privacy-policy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_albertsons-privacy-policy/01_hook.png",
@@ -763,7 +763,7 @@
       ],
       "id": "bestbuy",
       "source_type": "manual",
-      "post_source": "manual/bestbuy_post.json",
+      "post_source": "posts/manual/bestbuy_post.json",
       "slide_folder": "2026-08-08_best-buy-privacy-policy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-08_best-buy-privacy-policy/01_hook.png",
@@ -825,7 +825,7 @@
       ],
       "id": "kroger",
       "source_type": "manual",
-      "post_source": "manual/kroger_post.json",
+      "post_source": "posts/manual/kroger_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 100,
@@ -891,7 +891,7 @@
       ],
       "id": "shoprite",
       "source_type": "manual",
-      "post_source": "manual/shoprite_post.json",
+      "post_source": "posts/manual/shoprite_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 100,
@@ -978,7 +978,7 @@
       ],
       "id": "2026-07-20_netflix-terms",
       "source_type": "diff",
-      "post_source": "diffs/2026-07-20_netflix-terms_post.json",
+      "post_source": "posts/tos/2026-07-20_netflix-terms_post.json",
       "slide_folder": "2026-07-20_netflix",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-20_netflix/01_hook.png",
@@ -1029,7 +1029,7 @@
       ],
       "id": "2026-07-22_robinhood-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-07-22_robinhood-privacy_post.json",
+      "post_source": "posts/tos/2026-07-22_robinhood-privacy_post.json",
       "slide_folder": "2026-07-22_robinhood",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-22_robinhood/01_hook.png",
@@ -1082,7 +1082,7 @@
       "video_script": "Hey, Discord just quietly updated its privacy policy — but before you panic, this one's actually fine. They rewrote a single line about screen sharing to make it clearer: Discord does NOT store the content of your screen shares. The old wording was honestly a bit ambiguous. Your thumbnail image? Still kept briefly. But the actual stream content? Not stored. Verdict: minor — this is a clarification, not a new data grab. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
       "id": "2026-07-24_discord-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-07-24_discord-privacy_post.json",
+      "post_source": "posts/tos/2026-07-24_discord-privacy_post.json",
       "slide_folder": "2026-07-24_discord",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_discord/01_hook.png",
@@ -1134,7 +1134,7 @@
       ],
       "id": "2026-07-24_facebook-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-07-24_facebook-privacy_post.json",
+      "post_source": "posts/tos/2026-07-24_facebook-privacy_post.json",
       "slide_folder": "2026-07-24_facebook",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-24_facebook/01_hook.png",
@@ -1187,7 +1187,7 @@
       "video_script": "Hey, Instagram just quietly updated its Terms of Service — and if you use any kind of automation, bot, or scraping tool, you need to pay attention. They've introduced something called the 'Automated Data Collection Terms' — a whole new document that anyone collecting data from Instagram must now follow. And here's the kicker: Instagram can revoke permission for that automated access at any time, for any reason. Regular users? Probably fine. But developers and businesses should check their tools now. Full breakdown in the carousel — follow at tos underscore monitor for the next change.",
       "id": "2026-07-28_instagram-terms",
       "source_type": "diff",
-      "post_source": "diffs/2026-07-28_instagram-terms_post.json",
+      "post_source": "posts/tos/2026-07-28_instagram-terms_post.json",
       "slide_folder": "2026-07-28_instagram",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-07-28_instagram/01_hook.png",
@@ -1271,7 +1271,7 @@
       "categories": [],
       "id": "2026-08-04_google-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-04_google-privacy_post.json",
+      "post_source": "posts/tos/2026-08-04_google-privacy_post.json",
       "slide_folder": "2026-08-04_google",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-04_google/01_hook.png",
@@ -1334,7 +1334,7 @@
       ],
       "id": "2026-08-05_snapchat-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-05_snapchat-privacy_post.json",
+      "post_source": "posts/tos/2026-08-05_snapchat-privacy_post.json",
       "slide_folder": "2026-08-05_snapchat",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-05_snapchat/01_hook.png",
@@ -1513,7 +1513,7 @@
       "caption_rendered": "Steam recently updated its Privacy Policy to swap out its EU data-protection representative. The old representative, Valve GmbH i.L., has been replaced by RIVACY GmbH, located at Mexikoring 33, 22297 Hamburg, Germany. For most users this changes nothing about how Steam collects, uses, or shares your data. However, if you are an EU resident who needs to submit a data-access, correction, or deletion request under GDPR, you should make sure you are directing those inquiries to the new representative. Check Steam's current privacy policy for the updated contact before sending any formal requests.\n\n#Steam #valve #privacypolicy #GDPR #gamingprivacy #dataprotection #EUprivacy #privacy",
       "id": "2026-08-10_steam-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-10_steam-privacy_post.json",
+      "post_source": "posts/tos/2026-08-10_steam-privacy_post.json",
       "slide_folder": "2026-08-10_steam",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-10_steam/01_hook.png",
@@ -1615,7 +1615,7 @@
       "caption_rendered": "Twitch updated its Privacy Notice on August 12, 2026, and added new language explicitly allowing your data to be used for machine learning and artificial intelligence development, including training generative AI models across Twitch and Amazon's products and services. Previously, the policy described data use for recommendations, advertising, and general service improvement. Now it goes further, stating Twitch may use data to develop or deploy generative AI. Because Twitch is an Amazon subsidiary, this extends your data's reach into Amazon's broader AI ecosystem. No opt-out mechanism is mentioned in this update. You should visit Twitch's Privacy Choices page and review Amazon's Generative AI Development Disclosure to understand your current options.\n\n#Twitch #amazon #privacypolicy #aitraining #generativeai #dataprivacy #streamers #userdata",
       "id": "2026-08-13_twitch-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-13_twitch-privacy_post.json",
+      "post_source": "posts/tos/2026-08-13_twitch-privacy_post.json",
       "slide_folder": "2026-08-13_twitch-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-13_twitch-privacy/01_hook.png",
@@ -1691,7 +1691,7 @@
       "caption_rendered": "Amazon updated its Conditions of Use on August 14, 2026, replacing a straightforward court-dispute clause with a detailed mandatory arbitration system. Under the new terms, if you have a complaint about Amazon — a bad charge, a faulty product, a policy dispute — you can no longer take it to a regular court with a judge or jury. Instead, you must first contact customer service and negotiate for up to 60 days, then go through a JAMS arbitration process. A new class-action waiver means you cannot join other customers in a lawsuit against Amazon; each person must fight their case alone. The only notable carve-out is for personal injury or property damage from a product, which will now be governed by the law of the state where the harm occurred....\n\n#Amazon #arbitration #consumerrights #termsofservice #privacyrights #classaction #onlineshopping #toschange",
       "id": "2026-08-15_amazon-terms",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-15_amazon-terms_post.json",
+      "post_source": "posts/tos/2026-08-15_amazon-terms_post.json",
       "slide_folder": "2026-08-15_amazon",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-15_amazon/01_hook.png",
@@ -1797,7 +1797,7 @@
       "caption_rendered": "Robinhood updated its privacy policy on August 18, 2026, with changes focused on artificial intelligence agents. The policy now explicitly states that Robinhood collects your usage data whether you access the app directly or through an external AI agent acting on your behalf. It also names third-party AI agents alongside Google and Apple as services that can connect to your account and send Robinhood your profile information. This matters because an AI agent operating on your account could generate data Robinhood collects and potentially uses to train its own AI features. If you use or plan to use any AI tool that links to Robinhood, review the updated Customer Agreement and check which services have access to your account.\n\n#Robinhood #privacypolicy #AIagents #fintech #dataprivacy #agenticAI #investingapp #tosmonitor",
       "id": "2026-08-20_robinhood-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-20_robinhood-privacy_post.json",
+      "post_source": "posts/tos/2026-08-20_robinhood-privacy_post.json",
       "slide_folder": "2026-08-20_robinhood",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-20_robinhood/01_hook.png",
@@ -1877,7 +1877,7 @@
       "caption_rendered": "Facebook has expanded and restructured its Privacy Policy, adding new sections that are more explicit about several data practices that previously received less attention. Most notably, the updated policy now openly states that publicly available datasets — including from data providers, research institutions, and academic groups — are used to improve Meta's AI technologies, including computer vision and natural language processing. It also adds a dedicated section on data collected when you use Meta's generative AI features, such as prompts, responses, and information from third-party apps you connect to those features. Additionally, the policy now explains in more detail how your data is combined across Facebook, Instagram, and WhatsApp when accounts are linked in the Accounts Center. If you use multiple Meta apps and have ever interacted with Meta AI...\n\n#Facebook #meta #privacypolicy #aitraining #dataprivacy #metaai #accountscenter #tosmonitor",
       "id": "2026-08-22_facebook-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-22_facebook-privacy_post.json",
+      "post_source": "posts/tos/2026-08-22_facebook-privacy_post.json",
       "slide_folder": "2026-08-22_facebook",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_facebook/01_hook.png",
@@ -1956,7 +1956,7 @@
       "caption_rendered": "Telegram updated its Privacy Policy on August 21, 2026, quietly narrowing its long-standing no-ads pledge. Previously, Telegram said it never used 'your data' to show ads. Now, the protection applies only to the contents of private chats and contact lists. Separately, a new section reveals that ads can be targeted to your approximate country or city, estimated from your phone number's area code or your IP address. The channels you follow can also place you into ad categories that follow you across other large channels and bots. No data is handed to advertisers, and Telegram Premium users are exempt. If this concerns you, review your Data Settings and consider whether a Premium subscription makes sense.\n\n#Telegram #privacypolicy #dataprivacy #adtargeting #tosupdate #messaging #digitalrights #privacy",
       "id": "2026-08-22_telegram-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-22_telegram-privacy_post.json",
+      "post_source": "posts/tos/2026-08-22_telegram-privacy_post.json",
       "slide_folder": "2026-08-22_telegram",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-22_telegram/01_hook.png",
@@ -2036,7 +2036,7 @@
       "caption_rendered": "🚨 AMAZON POLICY UPDATE\n\nAmazon now uses your data to train AI\n\nWHAT CHANGED:\n• Amazon now explicitly uses your data to develop and deploy generative AI models.\n• Linking your Amazon account to a third-party via Login with Amazon is now listed as a data source.\n• Amazon replaced 'search results and Sponsored Links' with broader ad-interaction tracking on third-party sites and apps.\n• Amazon now collects advertising identifiers and data from third parties to improve its services.\n\nOUR VERDICT: IMPORTANT\nThe new AI training clause and expanded ad-tracking language meaningfully broaden how Amazon can use your personal data.\n\nWHAT YOU CAN DO:\n→ Review Amazon's Generative AI Development Disclosure linked in the policy.\n→ Check your ad preferences and opt out of interest-based ads at amazon.com/ibanotice.\n→ Avoid linking your Amazon account to third-party apps unless necessary.\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Amazon #AmazonPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "id": "2026-08-23_amazon-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-23_amazon-privacy_post.json",
+      "post_source": "posts/tos/2026-08-23_amazon-privacy_post.json",
       "slide_folder": "2026-08-23_amazon",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-23_amazon/01_hook.png",
@@ -2106,7 +2106,7 @@
       "caption_rendered": "🚨 INSTAGRAM POLICY UPDATE\n\nInstagram quietly rewrites its scraping rules\n\nWHAT CHANGED:\n• Instagram removed the explicit reference to its Automated Data Collection Terms.\n• Scrapers no longer must comply with a named, separate ruleset for bots.\n• The rule against unauthorized automated access still stands, but is now vaguer.\n• Instagram can still restrict or revoke permission, but that reminder was deleted.\n\nOUR VERDICT: WORTH KNOWING\nThe change strips out a specific compliance framework for scrapers, making the prohibition vaguer and harder for users and researchers to enforce or interpret.\n\nWHAT YOU CAN DO:\n→ If you use any third-party apps that pull your Instagram data, review their permissions.\n→ Check which apps have access to your account under Settings and remove unused ones.\n→ Follow @tos_monitor so you catch any follow-up changes to the scraping rules.\n\nSwipe through the carousel for the slide breakdown.\nFollow @tos_monitor to find out the next time the terms change quietly.\n\n#Instagram #InstagramPrivacy #TermsOfService #PrivacyPolicy #DataPrivacy #TechNews #ConsumerRights #TOSMonitor",
       "id": "2026-08-29_instagram-terms",
       "source_type": "diff",
-      "post_source": "diffs/2026-08-29_instagram-terms_post.json",
+      "post_source": "posts/tos/2026-08-29_instagram-terms_post.json",
       "slide_folder": "2026-08-29_instagram",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-08-29_instagram/01_hook.png",
@@ -2190,7 +2190,7 @@
       "caption_rendered": "Microsoft updated its Privacy Statement in September 2026, making several notable changes to how Copilot handles your data. The policy now allows Copilot to personalize your experience using your activity across other Microsoft products like Bing, Edge, and MSN — not just your Copilot conversations. At the same time, the earlier explicit statement that Microsoft may use conversation data to train AI models in some markets has been removed, replaced with softer language about improving the service. Copilot has also been quietly removed from the list of services children can access with parental consent. Xbox's required diagnostic data collection is now spelled out more clearly, including game activity and app usage. Open your Copilot settings and privacy dashboard to review what personalization is turned on.\n\n#microsoft #copilot #privacypolicy #dataprotection #AIprivacy #xbox #techprivacy #tosmonitor #TOSMonitor",
       "id": "2026-09-10_microsoft-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-09-10_microsoft-privacy_post.json",
+      "post_source": "posts/tos/2026-09-10_microsoft-privacy_post.json",
       "slide_folder": "2026-09-10_microsoft-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_microsoft-privacy/01_hook.png",
@@ -2270,7 +2270,7 @@
       "caption_rendered": "X updated its Terms of Service, effective October 9, 2026. The new terms explicitly state that X can use everything you post — text, images, videos — to train its AI and machine learning models, with no compensation to you. The updated terms also consolidate dispute rules: any legal dispute must first go to a Texas court, and if that is unenforceable, it moves to binding arbitration. Critically, you are waiving your right to join a class-action lawsuit against X or its corporate affiliates, including SpaceX and Cursor entities. X can also suspend or terminate your account for prolonged inactivity or if continuing to serve you is no longer commercially viable. Read the full terms at x.com/tos before October 9.\n\n#XTerms #TwitterPolicy #AITraining #PrivacyRights #ClassAction #TermsOfService #DataRights #SocialMedia #TOSMonitor",
       "id": "2026-09-10_x-terms",
       "source_type": "diff",
-      "post_source": "diffs/2026-09-10_x-terms_post.json",
+      "post_source": "posts/tos/2026-09-10_x-terms_post.json",
       "slide_folder": "2026-09-10_x-terms",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_x-terms/01_hook.png",
@@ -2344,7 +2344,7 @@
       "caption_rendered": "On September 17, 2026, Uber updated its driver and delivery privacy notice with one concrete clarification: your SMS opt-in and consent data will not be shared with any third parties. Previously, the policy said Uber wouldn't share your phone number for marketing texts, but it didn't spell out what happens to the consent record itself, the data that proves you agreed to receive texts. That record is now explicitly protected too. For drivers and delivery people, this means the paper trail of your text-message consent cannot be passed along to outside companies. No action is required on your part, but it is a good reminder to review your notification preferences in the Uber Driver app.\n\n#uber #privacypolicy #smsprivacy #textmessaging #rideshare #deliverydriver #tosupdate #dataprotection #TOSMonitor",
       "id": "2026-09-18_uber-privacy-drivers",
       "source_type": "diff",
-      "post_source": "diffs/2026-09-18_uber-privacy-drivers_post.json",
+      "post_source": "posts/tos/2026-09-18_uber-privacy-drivers_post.json",
       "slide_folder": "2026-09-18_uber-privacy-drivers",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-drivers/01_hook.png",
@@ -2418,7 +2418,7 @@
       "caption_rendered": "Uber updated its privacy notice on September 17, 2026, adding one clarifying sentence about how your phone number and SMS opt-in data are handled. The new language states that not just your phone number, but also your text messaging opt-in status and consent records, will not be shared with third parties for marketing purposes. In practice, this does not change what Uber was already doing, but it makes the commitment more explicit and aligns with telecom industry standards around consent data. If you have opted into Uber text alerts, your consent information stays with Uber and its delivery partners only. No action is needed, but it is a good moment to review your notification settings if you want to limit how Uber contacts you.\n\n#uber #privacypolicy #smsprivacy #dataprivacy #textmessaging #tosmonitor #privacyupdate #consumerrights #TOSMonitor",
       "id": "2026-09-18_uber-privacy-riders",
       "source_type": "diff",
-      "post_source": "diffs/2026-09-18_uber-privacy-riders_post.json",
+      "post_source": "posts/tos/2026-09-18_uber-privacy-riders_post.json",
       "slide_folder": "2026-09-18_uber-privacy-riders",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-18_uber-privacy-riders/01_hook.png",
@@ -2498,7 +2498,7 @@
       "caption_rendered": "Uber updated its Cookie Notice on September 26, 2026. The biggest changes affect how your data is used for advertising and who receives it. Uber added more than ten new advertising partners to its list, including Awin, Viant, StackAdapt, OGURY, and Inmarket, meaning more companies can track your behavior across the web. The notice now explicitly states that in some US states this data sharing may legally count as a sale of your personal data. For users in Europe, personalized ad cookies now require your active consent before being placed. Uber also added a new section on email pixel tracking, letting you opt out via Communications Preferences. Check your in-app privacy settings and opt out of ad data sharing if you are concerned.\n\n#uber #cookiepolicy #privacypolicy #adtracking #dataprivacy #personalizedads #tosmonitor #privacyrights #TOSMonitor",
       "id": "2026-09-26_uber-cookie-notice",
       "source_type": "diff",
-      "post_source": "diffs/2026-09-26_uber-cookie-notice_post.json",
+      "post_source": "posts/tos/2026-09-26_uber-cookie-notice_post.json",
       "slide_folder": "2026-09-26_uber-cookie-notice",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-26_uber-cookie-notice/01_hook.png",
@@ -2574,7 +2574,7 @@
       "caption_rendered": "Grubhub updated its privacy policy to cover a new Card-Linked Offers and In-Person Dining rewards program. If you enroll, Grubhub can collect transaction data directly from card networks like Visa, Mastercard, and American Express. This includes your registered card identifier, the merchant you visited, and the date, time, and amount of your transaction. That data may be shared with participating merchants to confirm qualifying purchases and report how rewards are used. Grubhub may also anonymize and aggregate it for broader purposes described in their policy. If you are not comfortable with this level of payment tracking, visit your account page, click on The Drop, and remove any linked cards to opt out.\n\n#grubhub #privacypolicy #fooddelivery #cardlinkedoffers #paymentdata #datasharing #consumerprivacy #tosupdate #TOSMonitor",
       "id": "2026-09-28_grubhub-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-09-28_grubhub-privacy_post.json",
+      "post_source": "posts/tos/2026-09-28_grubhub-privacy_post.json",
       "slide_folder": "2026-09-28_grubhub-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-28_grubhub-privacy/01_hook.png",
@@ -2644,7 +2644,7 @@
       "caption_rendered": "Google recently removed two 'Learn more' links from its privacy policy — one near the section explaining how Google Photos data is used to create albums and collages, and one near the section covering health and fitness data from devices like Fitbit and Pixel Watch. The surrounding policy language describing what data is collected and how it is used remains the same. For ordinary users, nothing about how Google handles your photos or health data has changed. That said, if you rely on linked explainers to understand these sections, you may now need to search Google's Help Center directly for that context. No action on your account settings is required.\n\n#googleprivacy #privacypolicy #googlefit #googlephotos #tosupdate #privacywatch #dataprotection #TOSMonitor",
       "id": "2026-10-01_google-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-10-01_google-privacy_post.json",
+      "post_source": "posts/tos/2026-10-01_google-privacy_post.json",
       "slide_folder": "2026-10-01_google-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-01_google-privacy/01_hook.png",
@@ -2717,7 +2717,7 @@
       "caption_rendered": "Roblox is updating its Privacy Policy effective November 1, 2026, replacing an earlier April 30 revision. The updated policy adds two new disclosures: one explaining that access to certain features varies by region, and another stating that Roblox now collects data from researchers. The policy also retains existing language about sharing information with authorities. For most users the day-to-day impact is limited, but the researcher data collection clause is new and worth understanding, especially for parents of younger players. Take a few minutes to read the change summary Roblox has linked in the updated policy, and check your account privacy settings to make sure they reflect your preferences.\n\n#roblox #privacypolicy #dataprivacy #kidsafety #tosupdate #onlineprivacy #gamingprivacy #TOSMonitor",
       "id": "2026-10-02_roblox-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-10-02_roblox-privacy_post.json",
+      "post_source": "posts/tos/2026-10-02_roblox-privacy_post.json",
       "slide_folder": "2026-10-02_roblox-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-02_roblox-privacy/01_hook.png",
@@ -2793,7 +2793,7 @@
       "caption_rendered": "Uber updated its Terms of Use on October 12, 2026. The main change is a new SMS Terms and Conditions section that applies if you opt in to receive transactional text messages during account setup. It spells out what kinds of messages you may get, that message and data rates may apply, and how to opt out by replying STOP. It also notes that carriers are not liable for delayed or undelivered texts. For ordinary users, this matters because it formalizes consent to text messaging in a way that was not explicitly covered before. If you have already signed up, check whether you opted in to these messages and reply STOP if you no longer want them.\n\n#uber #termsofservice #privacypolicy #SMS #textmessages #digitalrights #tosupdate #consumerrights #TOSMonitor",
       "id": "2026-10-12_uber-terms",
       "source_type": "diff",
-      "post_source": "diffs/2026-10-12_uber-terms_post.json",
+      "post_source": "posts/tos/2026-10-12_uber-terms_post.json",
       "slide_folder": "2026-10-12_uber-terms",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-12_uber-terms/01_hook.png",
@@ -2877,7 +2877,7 @@
       "caption_rendered": "As of October 16, 2026, Google updated its Privacy Policy to allow services like Search and Gemini to access data from your Gmail, Google Photos, and Drive — with your permission — to personalize your experience and, importantly, your ads. Previously, Google explicitly promised it would never use Drive, Gmail, or Photos content for personalized ads, full stop. That promise now has an exception: if you choose to let one Google service access another, that data can feed ad targeting too. A new feature called Personal Intelligence is also introduced, letting Search pull from your emails to answer questions. Review your sharing settings and ad controls now.\n\n#googleprivacy #gmail #googlegemini #personalintelligence #privacypolicy #adtargeting #dataprivacy #googledrive #TOSMonitor",
       "id": "2026-10-16_google-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-10-16_google-privacy_post.json",
+      "post_source": "posts/tos/2026-10-16_google-privacy_post.json",
       "slide_folder": "2026-10-16_google-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-16_google-privacy/01_hook.png",
@@ -2948,7 +2948,7 @@
       "caption_rendered": "Nanit updated its privacy policy on October 21, 2026. The main changes are administrative: the company has now formally named an EU Representative (MyEDPO Limited in Cork, Ireland) and a UK Representative (MyEDPO UK Ltd in London) for data protection matters. The Data Privacy Framework compliance statement was also repositioned in the document but its content remains the same. No changes were made to what data Nanit collects, how it is used, how long it is kept, or who it is shared with. If you are a Nanit user based in the EU or UK and ever need to raise a data protection concern, you now have a clearly listed regional contact to reach out to.\n\n#nanit #babycam #privacypolicy #gdpr #dataprotection #parenttech #smarthome #privacyrights #TOSMonitor",
       "id": "2026-10-21_nanit-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-10-21_nanit-privacy_post.json",
+      "post_source": "posts/tos/2026-10-21_nanit-privacy_post.json",
       "slide_folder": "2026-10-21_nanit-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-21_nanit-privacy/01_hook.png",
@@ -3026,7 +3026,7 @@
       "caption_rendered": "As of October 22, 2026, Uber updated its driver and delivery privacy notice to name a new subsidiary, Uber AI Solutions LLC, as a co-certified entity under the EU-US Data Privacy Framework. Previously only Uber Technologies Inc. held this certification. This matters because the Data Privacy Framework is the legal mechanism that allows Uber to move personal data from Europe to the United States with certain protections attached. Adding an AI-named subsidiary to that certification means this entity can now formally receive and process European driver and delivery data under those same rules. If you drive or deliver for Uber and you are based in the EEA, the UK, or Switzerland, you should check what data is being transferred and consider asking Uber directly about the AI subsidiary's specific role.\n\n#uber #privacypolicy #dataprivacy #EUUSdataframework #driverdata #AIdata #tosmonitor #privacyrights #TOSMonitor",
       "id": "2026-10-23_uber-privacy-drivers",
       "source_type": "diff",
-      "post_source": "diffs/2026-10-23_uber-privacy-drivers_post.json",
+      "post_source": "posts/tos/2026-10-23_uber-privacy-drivers_post.json",
       "slide_folder": "2026-10-23_uber-privacy-drivers",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-drivers/01_hook.png",
@@ -3106,7 +3106,7 @@
       "caption_rendered": "Uber updated its privacy notice on October 22, 2026, and the key change affects users in Europe, the UK, and Switzerland. A new Uber subsidiary called Uber AI Solutions LLC has been added alongside Uber Technologies Inc. as a certified entity under the EU-US and Swiss-US Data Privacy Frameworks. In plain terms, this means a second Uber entity - one focused on AI - is now formally authorized to receive and process personal data transferred from Europe. If you are an Uber user based in the EEA, UK, or Switzerland, you should be aware that your data may flow to this additional entity. Check your Uber privacy settings and consider reviewing the updated certification details on the US Department of Commerce website.\n\n#uber #privacypolicy #dataprivacy #EUdataprivacy #AIdata #privacyframework #tosmonitor #dataprotection #TOSMonitor",
       "id": "2026-10-23_uber-privacy-riders",
       "source_type": "diff",
-      "post_source": "diffs/2026-10-23_uber-privacy-riders_post.json",
+      "post_source": "posts/tos/2026-10-23_uber-privacy-riders_post.json",
       "slide_folder": "2026-10-23_uber-privacy-riders",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-23_uber-privacy-riders/01_hook.png",
@@ -3186,7 +3186,7 @@
       "caption_rendered": "VIZIO updated its privacy policy on October 26, 2026, with changes centered on its WatchFree+ streaming service. Two new data categories, WatchFree+ App Data and WatchFree+ Streaming Data, now formally cover what VIZIO collects when you use WatchFree+ outside your VIZIO TV, such as on a website, mobile app, or a third-party streaming device. Unlike your TV, where you can opt out of data collection, WatchFree+ on non-VIZIO platforms states that data collection is required to provide the service. This data, including your viewing history and content choices, can be linked to your Walmart account and shared with advertisers, Walmart Connect, and analytics partners for targeted ads. VIZIO also broadened its cookie definition to include beacons, pixel tags, and trackers. Review your data-sharing settings at VIZIO.com/account and consider whether you want to use WatchFree+ on non-TV platforms.\n\n#vizio #watchfreeplus #smarttv #privacypolicy #datatracking #streamingprivacy #walmart #adtargeting #TOSMonitor",
       "id": "2026-10-28_vizio-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-10-28_vizio-privacy_post.json",
+      "post_source": "posts/tos/2026-10-28_vizio-privacy_post.json",
       "slide_folder": "2026-10-28_vizio-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-28_vizio-privacy/01_hook.png",
@@ -3279,7 +3279,7 @@
       "approved_at": "2026-10-31T18:53:20+00:00",
       "approved_via": "email",
       "source_type": "breach",
-      "post_source": "breaches/2026-10-31_breach_drivewealth_post.json",
+      "post_source": "posts/breaches/2026-10-31_breach_drivewealth_post.json",
       "slide_folder": "2026-10-31_breach_drivewealth",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-31_breach_drivewealth/01_hook.png",
@@ -3358,7 +3358,7 @@
       "caption_rendered": "Roblox updated its Privacy Policy effective November 1, 2026, with several changes parents and users should know about. Parents now have clearly spelled-out COPPA rights to access, correct, delete, or stop the use of their child's personal information directly within the policy. Roblox has also expanded its explanation of facial age estimation, confirming selfies are deleted after the age check is complete. One small but notable change: if a parent does not finish linking their account to their child's, Roblox now waits 7 days before deleting the parent's email, up from 24 hours. A new section also confirms Roblox can share user data, potentially including personal information, with researchers in certain cases. If you are a parent, link your Roblox account to your child's account to make use of the new parental controls.\n\n#roblox #kidsprivacy #COPPA #privacypolicy #parentalcontrols #onlinesafety #gamingprivacy #tosmonitor #TOSMonitor",
       "id": "2026-11-02_roblox-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-11-02_roblox-privacy_post.json",
+      "post_source": "posts/tos/2026-11-02_roblox-privacy_post.json",
       "slide_folder": "2026-11-02_roblox-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-02_roblox-privacy/01_hook.png",
@@ -3450,7 +3450,7 @@
       "approved_at": "2026-11-20T23:25:57+00:00",
       "approved_via": "email",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-03_breach_harvard_post.json",
+      "post_source": "posts/breaches/2026-11-03_breach_harvard_post.json",
       "slide_folder": "2026-11-03_breach_harvard",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-03_breach_harvard/01_hook.png",
@@ -3526,7 +3526,7 @@
       "caption_rendered": "Uber updated its Terms of Use on November 4, 2026, adding a brand-new section called Agent Terms that covers AI bots and automated tools acting on your behalf. In plain terms, if you let a third-party AI assistant book a ride, order food, or make a payment through your Uber account, you are personally responsible for whatever it does — including wrong addresses, missed bookings, and erroneous charges. Uber can block or ban any agent it has not approved, and it can suspend your account without notice if an agent violates its rules. You are also now explicitly forbidden from sharing your login credentials with any agent unless Uber has authorized it through an official program. If you use any automation or AI concierge service, check right now whether it touches your Uber account.\n\n#uber #aiagents #termsofservice #privacymatters #tosupdate #digitalrights #consumertech #appupdate #TOSMonitor",
       "id": "2026-11-04_uber-terms",
       "source_type": "diff",
-      "post_source": "diffs/2026-11-04_uber-terms_post.json",
+      "post_source": "posts/tos/2026-11-04_uber-terms_post.json",
       "slide_folder": "2026-11-04_uber-terms",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-04_uber-terms/01_hook.png",
@@ -3602,7 +3602,7 @@
       "caption_rendered": "Roku updated its privacy policy on November 6, 2026, and the changes go beyond a name change. Roku has rebranded from Roku Inc. to Roku LLC and is now explicitly tied to Fox Corporation's network of affiliated companies. The updated policy adds these 'Company Affiliates' as named recipients of your personal data across nearly every category, including your viewing history, browsing activity, location, audio data, and even sensitive information like racial or ethnic origin and health data. Those affiliates can use your information for their own advertising and analytics, not just Roku's. Perhaps most notably, the previous language requiring affiliates to honor Roku's privacy policy has been removed, leaving no stated guardrail on how they handle your data. If you are a Roku user, now is the time to visit your privacy settings and opt out of data sharing.\n\n#roku #foxcorporation #privacypolicy #dataSharing #streamingprivacy #cordcutters #privacyrights #toschange #TOSMonitor",
       "id": "2026-11-06_roku-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-11-06_roku-privacy_post.json",
+      "post_source": "posts/tos/2026-11-06_roku-privacy_post.json",
       "slide_folder": "2026-11-06_roku-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-06_roku-privacy/01_hook.png",
@@ -3688,7 +3688,7 @@
       "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
       "caption_rendered": "Frontline Education, a software platform widely used by school districts, reported a data breach affecting more than 40,000 Washington state residents. The breach involved unauthorized access to their systems and occurred on August 14, 2026. It was disclosed by the Washington Attorney General nearly two months later, on October 27, 2026. The specific types of personal information involved were not detailed in the official record. If you or your child has an account through a school that uses Frontline Education, it is a good idea to update your password and stay alert for any follow-up communications. Source: Washington Attorney General.\n\n#FrontlineEducation #DataBreach #WashingtonState #SchoolData #CyberSecurity #UnauthorizedAccess #PrivacyAlert #EdTech #TOSMonitor",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-09_breach_frontline-education_post.json",
+      "post_source": "posts/breaches/2026-11-09_breach_frontline-education_post.json",
       "slide_folder": "2026-11-09_breach_frontline-education",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_frontline-education/01_hook.png",
@@ -3772,7 +3772,7 @@
       "approved_at": "2026-11-10T03:23:17+00:00",
       "approved_via": "email",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-09_breach_marathon-health_post.json",
+      "post_source": "posts/breaches/2026-11-09_breach_marathon-health_post.json",
       "slide_folder": "2026-11-09_breach_marathon-health",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_breach_marathon-health/01_hook.png",
@@ -3850,7 +3850,7 @@
       "caption_rendered": "Microsoft updated its Privacy Statement in November 2026, and several changes are worth your attention. The policy now names workplace and productivity data companies as a new source of personal data Microsoft can collect about you. Your device profile has also grown: Microsoft now explicitly gathers your device age, type, language, and locale settings. The Phone Link section was substantially rewritten to cover both Android and iPhone under a unified framework and adds a new location-sharing feature that lets your phone's GPS provide location data to your Windows PC. None of these changes indicate your data is being sold, but they do expand the scope of what Microsoft collects and from whom. Open your Windows Settings, go to Bluetooth and Devices, then Mobile Devices, and turn off any linked mobile features you do not actively use.\n\n#microsoft #windowsprivacy #phonelink #privacypolicy #datasecurity #techprivacy #digitalrights #TOSMonitor",
       "id": "2026-11-09_microsoft-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-11-09_microsoft-privacy_post.json",
+      "post_source": "posts/tos/2026-11-09_microsoft-privacy_post.json",
       "slide_folder": "2026-11-09_microsoft-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-09_microsoft-privacy/01_hook.png",
@@ -3937,7 +3937,7 @@
       "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
       "caption_rendered": "Quantum Health reported a cyberattack that affected 15,321 Washington state residents, with the breach occurring on June 1, 2026. The incident was listed by the Washington Attorney General on October 27, 2026. The type of cyberattack is recorded only as other, and the specific data exposed has not been detailed in the official record. If you are or were a Quantum Health member in Washington, it is worth reaching out to the company to find out whether your personal information was involved and what steps they are taking to protect you. Source: Washington Attorney General.\n\n#QuantumHealth #DataBreach #WashingtonState #CyberAttack #DataPrivacy #BreachAlert #ConsumerProtection #InfoSec #TOSMonitor",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-10_breach_quantum-health_post.json",
+      "post_source": "posts/breaches/2026-11-10_breach_quantum-health_post.json",
       "slide_folder": "2026-11-10_breach_quantum-health",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-10_breach_quantum-health/01_hook.png",
@@ -4019,7 +4019,7 @@
       "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
       "caption_rendered": "Revolve Group, the online fashion retailer, reported a cyberattack that occurred on September 16, 2026. According to the Washington Attorney General, 24,859 Washington state residents were affected. The official record does not specify what types of personal data were exposed or the exact method used in the attack. If you have an account with Revolve, it is a good idea to update your password, stay alert to any unusual activity, and keep an eye on any communications from the company about next steps. Source: Washington Attorney General\n\n#RevolveGroup #DataBreach #Cyberattack #WashingtonAG #OnlineShopping #DataPrivacy #ConsumerAlert #CyberSecurity #TOSMonitor",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-10_breach_revolve-group_post.json",
+      "post_source": "posts/breaches/2026-11-10_breach_revolve-group_post.json",
       "slide_folder": "2026-11-10_breach_revolve-group",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-10_breach_revolve-group/01_hook.png",
@@ -4105,7 +4105,7 @@
       "approved_at": "2026-11-20T23:25:20+00:00",
       "approved_via": "email",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-11_breach_premise-health-holding_post.json",
+      "post_source": "posts/breaches/2026-11-11_breach_premise-health-holding_post.json",
       "slide_folder": "2026-11-11_breach_premise-health-holding",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_premise-health-holding/01_hook.png",
@@ -4191,7 +4191,7 @@
       "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
       "caption_rendered": "In May 2013, the Russian-language hacking forum YouHack suffered a data breach affecting over 7 million unique email addresses. The breach exposed forum members' usernames, IP addresses, and MD5 password hashes, most of which were unsalted and easier to crack. Forum posts also contained email and password pairs belonging to people outside the forum, dramatically widening the impact. The data was later redistributed as part of a larger collection and listed by Have I Been Pwned in November 2026. If you ever registered on YouHack or had credentials mentioned in its posts, treat those passwords as compromised. Source: Have I Been Pwned\n\n#DataBreach #YouHack #PasswordSecurity #EmailLeak #CyberSecurity #HaveIBeenPwned #AccountSecurity #DataPrivacy #TOSMonitor",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-11_breach_youhack_post.json",
+      "post_source": "posts/breaches/2026-11-11_breach_youhack_post.json",
       "slide_folder": "2026-11-11_breach_youhack",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-11_breach_youhack/01_hook.png",
@@ -4276,7 +4276,7 @@
       "approved_at": "2026-11-12T21:58:13+00:00",
       "approved_via": "email",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-12_breach_telecare-health_post.json",
+      "post_source": "posts/breaches/2026-11-12_breach_telecare-health_post.json",
       "slide_folder": "2026-11-12_breach_telecare-health",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_telecare-health/01_hook.png",
@@ -4357,7 +4357,7 @@
       "approval_note": "Deterministic draft (AI skipped: The record contains only the organisation name, listing authority, and breach date. No data types exposed, number of people affected, or any other facts are stated. There is insufficient information to write a useful or accurate breach alert.). Breach posts always need approval - check the source link first.",
       "caption_rendered": "Uber Technologies has a confirmed data breach on record with the California Attorney General (listed 2026-11-10). If you have an account, here is what to do: Change your Uber Technologies password and any reused elsewhere. Turn on two-factor authentication for this account. Distrust emails or texts mentioning Uber Technologies - phishing follows breaches. Source: https://oag.ca.gov/privacy/databreach/list\n\n#UberTechnologies #UberTechnologiesBreach #DataBreach #Cybersecurity #DataPrivacy #IdentityTheft #PrivacyAlert #TOSMonitor",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-12_breach_uber-technologies_post.json",
+      "post_source": "posts/breaches/2026-11-12_breach_uber-technologies_post.json",
       "slide_folder": "2026-11-12_breach_uber-technologies",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_uber-technologies/01_hook.png",
@@ -4433,7 +4433,7 @@
       "approval_note": "Deterministic draft (AI skipped: The record contains only the organisation name, listing authority, and breach dates. No data types exposed, number of people affected, or any other facts are stated. There is insufficient information to write a useful, accurate breach alert.). Breach posts always need approval - check the source link first.",
       "caption_rendered": "Vanguard Group has a confirmed data breach on record with the California Attorney General (listed 2026-11-11). If you have an account, here is what to do: Change your Vanguard Group password and any reused elsewhere. Turn on two-factor authentication for this account. Distrust emails or texts mentioning Vanguard Group - phishing follows breaches. Source: https://oag.ca.gov/privacy/databreach/list\n\n#VanguardGroup #VanguardGroupBreach #DataBreach #Cybersecurity #DataPrivacy #IdentityTheft #PrivacyAlert #TOSMonitor",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-12_breach_vanguard-group_post.json",
+      "post_source": "posts/breaches/2026-11-12_breach_vanguard-group_post.json",
       "slide_folder": "2026-11-12_breach_vanguard-group",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_breach_vanguard-group/01_hook.png",
@@ -4507,7 +4507,7 @@
       "caption_rendered": "Temu is rolling out an updated Privacy Policy effective December 7, 2026. The revised policy explicitly adds IP address to the list of automatically collected data, introduces age verification service providers as a new third-party data source, and allows Temu to send you marketing messages through messaging applications such as WhatsApp if your phone number or account is associated with one. The advertising section has also been rewritten to broaden how ad-performance measurement works with third-party partners. None of these are dramatic overhauls, but they do expand the number of ways your data can be used and the number of outside parties involved. Review your notification and privacy settings in the Temu app before December 7 to make sure your preferences still reflect what you are comfortable with.\n\n#temu #privacypolicy #dataprivacy #onlineshopping #adtracking #digitalrights #consumerprivacy #tosmonitor #TOSMonitor",
       "id": "2026-11-12_temu-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-11-12_temu-privacy_post.json",
+      "post_source": "posts/tos/2026-11-12_temu-privacy_post.json",
       "slide_folder": "2026-11-12_temu-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-12_temu-privacy/01_hook.png",
@@ -4591,7 +4591,7 @@
       "caption_rendered": "Pinterest updated its privacy policy, effective November 12, 2026. The biggest change: Pinterest now explicitly states it uses your Pins — regardless of when they were posted — to train machine learning and generative AI models. Previously this language was more vague. The policy also newly discloses that automated tools, including those run by third-party vendors, may scan and analyze your messages to detect harmful content. On the ads side, Pinterest can now reach you on connected TVs through partners, and may receive data about you from third-party data providers depending on where you live. None of these are opt-in by default. Go to your Privacy and Data Settings on Pinterest to review your personalization and ad choices.\n\n#pinterest #privacypolicy #aitraining #dataprivacy #generativeai #adtech #toschange #privacy #TOSMonitor",
       "id": "2026-11-13_pinterest-privacy",
       "source_type": "diff",
-      "post_source": "diffs/2026-11-13_pinterest-privacy_post.json",
+      "post_source": "posts/tos/2026-11-13_pinterest-privacy_post.json",
       "slide_folder": "2026-11-13_pinterest-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-13_pinterest-privacy/01_hook.png",
@@ -4680,7 +4680,7 @@
       "approved_at": "2026-11-20T23:24:38+00:00",
       "approved_via": "email",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-18_breach_prism-medical-products_post.json",
+      "post_source": "posts/breaches/2026-11-18_breach_prism-medical-products_post.json",
       "slide_folder": "2026-11-18_breach_prism-medical-products",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-18_breach_prism-medical-products/01_hook.png",
@@ -4766,7 +4766,7 @@
       "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
       "caption_rendered": "In November 2026, data allegedly taken from Indian education and careers platform Careers360 appeared on a public hacking forum. Over 3.6 million unique email addresses were included, along with names, phone numbers, genders, caste categories, and for most records, students' entrance exam results including ranks and marks. This is especially sensitive because it combines personal identity details with academic performance data and caste information, which could be used to target individuals. If you have ever used Careers360 to explore college admissions or career options in India, your information may be in this dataset. Source: Have I Been Pwned\n\n#DataBreach #Careers360 #StudentData #India #EducationBreach #PersonalData #HaveIBeenPwned #CyberSecurity #TOSMonitor",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-20_breach_careers360_post.json",
+      "post_source": "posts/breaches/2026-11-20_breach_careers360_post.json",
       "slide_folder": "2026-11-20_breach_careers360",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_careers360/01_hook.png",
@@ -4851,7 +4851,7 @@
       "approval_note": "AI-drafted from the breach record; bullets passed the grounding guard. Breach posts always need approval - check the source link first.",
       "caption_rendered": "Too Lost, a music distributor for independent artists, suffered a data breach in November 2026 affecting over 724,000 people including artists, collaborators, and fans. An unauthorised party claimed to have obtained data that included names, email addresses, passwords, physical addresses, dates and places of birth, and in some cases passport numbers, driver's licences, or national IDs. A small number of records also contained partial credit card data and payout information. Too Lost says its investigation is ongoing, external forensic specialists have been engaged, and steps have been taken to secure affected systems. Source: Have I Been Pwned.\n\n#TooLost #DataBreach #MusicIndustry #IndependentArtists #PasswordSecurity #IdentityTheft #CyberSecurity #HaveIBeenPwned #TOSMonitor",
       "source_type": "breach",
-      "post_source": "breaches/2026-11-20_breach_too-lost_post.json",
+      "post_source": "posts/breaches/2026-11-20_breach_too-lost_post.json",
       "slide_folder": "2026-11-20_breach_too-lost",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-20_breach_too-lost/01_hook.png",
@@ -4924,7 +4924,7 @@
       ],
       "caption_rendered": "THE 2-MINUTE FIX · Amazon\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Amazon update we tracked:\n• Review Amazon's Generative AI Development Disclosure linked in the policy.\n• Check your ad preferences and opt out of interest-based ads at amazon.com/ibanotice.\n• Avoid linking your Amazon account to third-party apps unless necessary.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy_post.json",
+      "post_source": "posts/evergreen/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy_post.json",
       "slide_folder": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy/01_hook.png",
@@ -4999,7 +4999,7 @@
       ],
       "caption_rendered": "THE 2-MINUTE FIX · Snapchat\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Snapchat update we tracked:\n• Check Memories settings and disable face grouping features if unwanted.\n• Review My AI chat history and delete anything you don't want used for training.\n• Visit Snapchat's Privacy Center to audit what data Snap holds about you.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy_post.json",
+      "post_source": "posts/evergreen/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy_post.json",
       "slide_folder": "2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy/01_hook.png",
@@ -5065,7 +5065,7 @@
       ],
       "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Google\n\nGoogle quietly trimmed its privacy policy navigation\n\nIn plain English:\n• Only navigation menu links were removed from the policy page\n• No substantive data collection or sharing rules appear changed\n• Policy text body and user-facing terms remain intact\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-03_clause-really-means_2026-08-04_google-privacy_post.json",
+      "post_source": "posts/evergreen/2026-09-03_clause-really-means_2026-08-04_google-privacy_post.json",
       "slide_folder": "",
       "media_urls": [],
       "media_files": [],
@@ -5114,7 +5114,7 @@
       ],
       "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Steam\n\nSteam quietly swapped its EU privacy contact\n\nIn plain English:\n• Steam replaced its EU data-protection representative with a new firm.\n• Old rep: Valve GmbH i.L. — New rep: RIVACY GmbH in Hamburg.\n• The contact address for EU privacy questions has changed.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-04_clause-really-means_2026-08-10_steam-privacy_post.json",
+      "post_source": "posts/evergreen/2026-09-04_clause-really-means_2026-08-10_steam-privacy_post.json",
       "slide_folder": "2026-09-04_clause-really-means_2026-08-10_steam-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-04_clause-really-means_2026-08-10_steam-privacy/01_hook.png",
@@ -5189,7 +5189,7 @@
       ],
       "caption_rendered": "PRIVACY RECEIPT · Facebook\n\nHere is what the monitored policy change puts on the record:\n• Meta now explicitly lists publicly available datasets used to improve AI and ML models.\n• New section details data collected when you interact with Meta's generative AI features.\n• Policy now spells out cross-account data combining when WhatsApp is linked via Accounts Center.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy_post.json",
+      "post_source": "posts/evergreen/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy_post.json",
       "slide_folder": "2026-09-05_privacy-receipt_2026-08-22_facebook-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy/01_hook.png",
@@ -5262,7 +5262,7 @@
       ],
       "caption_rendered": "PRIVACY RECEIPT · Twitch\n\nHere is what the monitored policy change puts on the record:\n• Twitch explicitly added AI and machine learning training as a use of your data.\n• Your data may now be used to develop or deploy Amazon's generative AI models.\n• This applies across Twitch products and Amazon's broader services ecosystem.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy_post.json",
+      "post_source": "posts/evergreen/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy_post.json",
       "slide_folder": "2026-09-06_privacy-receipt_2026-08-13_twitch-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy/01_hook.png",
@@ -5331,7 +5331,7 @@
       ],
       "caption_rendered": "THE 2-MINUTE FIX · Instagram\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Instagram update we tracked:\n• If you use any third-party apps that pull your Instagram data, review their permissions.\n• Check which apps have access to your account under Settings and remove unused ones.\n• Follow @tos_monitor so you catch any follow-up changes to the scraping rules.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-08_two-minute-fix_2026-08-29_instagram-terms_post.json",
+      "post_source": "posts/evergreen/2026-09-08_two-minute-fix_2026-08-29_instagram-terms_post.json",
       "slide_folder": "2026-09-08_two-minute-fix_2026-08-29_instagram-terms",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-08_two-minute-fix_2026-08-29_instagram-terms/01_hook.png",
@@ -5407,7 +5407,7 @@
       ],
       "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · X (Twitter)\n\nX Terms of Service updated, effective October 2026\n\nIn plain English:\n• X can use your posts to train AI and machine learning models.\n• Disputes go to Texas courts first; arbitration applies if that fails.\n• You waive the right to join a class-action lawsuit against X.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-10_clause-really-means_2026-09-10_x-terms_post.json",
+      "post_source": "posts/evergreen/2026-09-10_clause-really-means_2026-09-10_x-terms_post.json",
       "slide_folder": "2026-09-10_clause-really-means_2026-09-10_x-terms",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-10_clause-really-means_2026-09-10_x-terms/01_hook.png",
@@ -5483,7 +5483,7 @@
       ],
       "caption_rendered": "PRIVACY RECEIPT · X (Twitter)\n\nHere is what the monitored policy change puts on the record:\n• X can use your posts to train AI and machine learning models.\n• Disputes go to Texas courts first; arbitration applies if that fails.\n• You waive the right to join a class-action lawsuit against X.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-12_privacy-receipt_2026-09-10_x-terms_post.json",
+      "post_source": "posts/evergreen/2026-09-12_privacy-receipt_2026-09-10_x-terms_post.json",
       "slide_folder": "2026-09-12_privacy-receipt_2026-09-10_x-terms",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-12_privacy-receipt_2026-09-10_x-terms/01_hook.png",
@@ -5561,7 +5561,7 @@
       ],
       "caption_rendered": "THE 2-MINUTE FIX · X (Twitter)\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the X (Twitter) update we tracked:\n• Review your content-sharing settings in X Privacy settings now.\n• Note you cannot opt out of the class-action waiver under these terms.\n• Consider whether you want to keep posting given the AI training license.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-15_two-minute-fix_2026-09-10_x-terms_post.json",
+      "post_source": "posts/evergreen/2026-09-15_two-minute-fix_2026-09-10_x-terms_post.json",
       "slide_folder": "2026-09-15_two-minute-fix_2026-09-10_x-terms",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-15_two-minute-fix_2026-09-10_x-terms/01_hook.png",
@@ -5641,7 +5641,7 @@
       ],
       "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Microsoft\n\nMicrosoft Privacy Policy updated September 2026\n\nIn plain English:\n• Copilot can now personalize using your activity across Bing, Edge, and MSN\n• Explicit language about AI model training from conversation data quietly removed\n• Copilot removed from list of services available to children with parental consent\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-17_clause-really-means_2026-09-10_microsoft-privacy_post.json",
+      "post_source": "posts/evergreen/2026-09-17_clause-really-means_2026-09-10_microsoft-privacy_post.json",
       "slide_folder": "2026-09-17_clause-really-means_2026-09-10_microsoft-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-17_clause-really-means_2026-09-10_microsoft-privacy/01_hook.png",
@@ -5721,7 +5721,7 @@
       ],
       "caption_rendered": "PRIVACY RECEIPT · Microsoft\n\nHere is what the monitored policy change puts on the record:\n• Copilot can now personalize using your activity across Bing, Edge, and MSN\n• Explicit language about AI model training from conversation data quietly removed\n• Copilot removed from list of services available to children with parental consent\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-19_privacy-receipt_2026-09-10_microsoft-privacy_post.json",
+      "post_source": "posts/evergreen/2026-09-19_privacy-receipt_2026-09-10_microsoft-privacy_post.json",
       "slide_folder": "2026-09-19_privacy-receipt_2026-09-10_microsoft-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-19_privacy-receipt_2026-09-10_microsoft-privacy/01_hook.png",
@@ -5803,7 +5803,7 @@
       ],
       "caption_rendered": "THE 2-MINUTE FIX · Microsoft\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Microsoft update we tracked:\n• Review and adjust personalization settings inside Microsoft Copilot now\n• Check your Microsoft Privacy Dashboard to manage Copilot prompt history\n• If you have a child account, confirm which Microsoft services they can access\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy_post.json",
+      "post_source": "posts/evergreen/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy_post.json",
       "slide_folder": "2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy/01_hook.png",
@@ -5870,7 +5870,7 @@
       ],
       "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Instagram\n\nInstagram quietly rewrites its scraping rules\n\nIn plain English:\n• Instagram removed the explicit reference to its Automated Data Collection Terms.\n• Scrapers no longer must comply with a named, separate ruleset for bots.\n• The rule against unauthorized automated access still stands, but is now vaguer.\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-24_clause-really-means_2026-08-29_instagram-terms_post.json",
+      "post_source": "posts/evergreen/2026-09-24_clause-really-means_2026-08-29_instagram-terms_post.json",
       "slide_folder": "2026-09-24_clause-really-means_2026-08-29_instagram-terms",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-24_clause-really-means_2026-08-29_instagram-terms/01_hook.png",
@@ -5941,7 +5941,7 @@
       ],
       "caption_rendered": "THE 2-MINUTE FIX · Flock Safety\n\nA policy update is only useful if it leads to an action. Here are three checks drawn from the Flock Safety update we tracked:\n• Look up your police department's Flock Transparency Portal.\n• Ask your city council: 7-day retention, or still 30?\n• Check deflock.org for cameras mapped near you.\n\nSave this guide, then check your account settings.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update_post.json",
+      "post_source": "posts/evergreen/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update_post.json",
       "slide_folder": "2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update/01_hook.png",
@@ -6013,7 +6013,7 @@
       ],
       "caption_rendered": "WHAT THIS CLAUSE REALLY MEANS · Amazon\n\nAmazon now requires arbitration, drops jury trials\n\nIn plain English:\n• Disputes must now go to binding arbitration, not court\n• Class-action lawsuits against Amazon are now banned\n• You must contact customer service and wait 60 days before arbitrating\n\nRead the source policy before making account decisions.\n\n#PrivacyExplained #TermsOfService #DataPrivacy #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-10-01_clause-really-means_2026-08-15_amazon-terms_post.json",
+      "post_source": "posts/evergreen/2026-10-01_clause-really-means_2026-08-15_amazon-terms_post.json",
       "slide_folder": "2026-10-01_clause-really-means_2026-08-15_amazon-terms",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-01_clause-really-means_2026-08-15_amazon-terms/01_hook.png",
@@ -6089,7 +6089,7 @@
       ],
       "caption_rendered": "PRIVACY RECEIPT · Telegram\n\nHere is what the monitored policy change puts on the record:\n• Ad-free pledge narrowed: only chat contents and contact lists are protected.\n• Ads can now be targeted by country or city, estimated from your phone number or IP.\n• Channels you follow can determine which ad categories you see across Telegram.\n\nKeep the receipt: save this post and review the source policy when you have time.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #ConsumerRights #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy_post.json",
+      "post_source": "posts/evergreen/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy_post.json",
       "slide_folder": "2026-10-03_privacy-receipt_2026-08-22_telegram-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy/01_hook.png",
@@ -6242,7 +6242,7 @@
       "approved_at": "2026-11-08T14:10:31+00:00",
       "approved_via": "email",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-11-08_weekly-recap_post.json",
+      "post_source": "posts/evergreen/2026-11-08_weekly-recap_post.json",
       "slide_folder": "2026-11-08_weekly-recap",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-08_weekly-recap/01_hook.png",
@@ -6390,7 +6390,7 @@
       "approved_at": "2026-11-15T16:48:16+00:00",
       "approved_via": "email",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-11-15_weekly-recap_post.json",
+      "post_source": "posts/evergreen/2026-11-15_weekly-recap_post.json",
       "slide_folder": "2026-11-15_weekly-recap",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-15_weekly-recap/01_hook.png",
@@ -6510,7 +6510,7 @@
       ],
       "caption_rendered": "PRIVACY RECEIPT · Oura\n\nThe receipt you never get after using Oura. Straight from its current privacy policy:\n\n🧾 Your data for Oura's AI (ai training): Oura may collect and use your personal data to develop, test, and improve its own AI and large language model-powered features.\n🧾 Reproductive health data (collected): Oura collects reproductive and sexual health information, which its policy treats as sensitive data.\n🧾 Data at merger/acquisition (shared): Your data may be disclosed if Oura is part of a merger, acquisition or sale.\n🧾 Cancelled account data (kept): Cancelling your Oura Membership does NOT delete your data. Data is only removed if you separately delete your account.\n🧾 Aggregated health trends (shared): Oura uses anonymised, aggregated data to identify and publicly share broad health trends, e.g. average Sleep Score by country.\n🧾 Third-party integrations (shared): If you connect another app, the data you send it is governed by that app's own privacy policy.\n\nWhat you can do:\n1. Delete health data by range: App menu > Settings > Security & Privacy > Manage data > Delete data\n2. Submit data access, correction, or deletion requests by emailing dataprotection@ouraring.com\n\nSave this receipt and check it against your own settings.\n\n#PrivacyReceipt #DataPrivacy #KnowYourData #Oura #TOSMonitor",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-11-21_privacy-receipt_2026-11-04_oura-privacy_post.json",
+      "post_source": "posts/evergreen/2026-11-21_privacy-receipt_2026-11-04_oura-privacy_post.json",
       "slide_folder": "2026-11-21_privacy-receipt_2026-11-04_oura-privacy",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-21_privacy-receipt_2026-11-04_oura-privacy/01_hook.png",

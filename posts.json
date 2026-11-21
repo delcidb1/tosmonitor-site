@@ -35,7 +35,7 @@
       "06_outro.png"
     ],
     "published": false,
-    "post_source": "breaches/2026-11-18_breach_prism-medical-products_post.json",
+    "post_source": "posts/breaches/2026-11-18_breach_prism-medical-products_post.json",
     "effective_date": "2026-11-18",
     "site_status": "approved",
     "instagram_status": "queued",
@@ -86,7 +86,7 @@
       "08_action.png"
     ],
     "published": true,
-    "post_source": "manual/breach-watch-2026-11-17_post.json",
+    "post_source": "posts/manual/breach-watch-2026-11-17_post.json",
     "effective_date": "2026-11-17",
     "site_status": "approved",
     "instagram_status": "published",
@@ -132,7 +132,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-11-15_weekly-recap_post.json",
+    "post_source": "posts/evergreen/2026-11-15_weekly-recap_post.json",
     "stories": [
       {
         "line": "Italy fined Meta \u20ac805 million ($887M) after Facebook's Android app read users' photo galleries without specific consent.",
@@ -231,7 +231,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-11-13_pinterest-privacy_post.json",
+    "post_source": "posts/tos/2026-11-13_pinterest-privacy_post.json",
     "effective_date": "2026-11-13",
     "site_status": "approved",
     "instagram_status": "published",
@@ -284,7 +284,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-11-12_temu-privacy_post.json",
+    "post_source": "posts/tos/2026-11-12_temu-privacy_post.json",
     "effective_date": "2026-11-12",
     "site_status": "approved",
     "instagram_status": "published",
@@ -330,7 +330,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "breaches/2026-11-12_breach_telecare-health_post.json",
+    "post_source": "posts/breaches/2026-11-12_breach_telecare-health_post.json",
     "effective_date": "2026-11-12",
     "site_status": "approved",
     "instagram_status": "published",
@@ -375,7 +375,7 @@
       "06_outro.png"
     ],
     "published": false,
-    "post_source": "breaches/2026-11-11_breach_premise-health-holding_post.json",
+    "post_source": "posts/breaches/2026-11-11_breach_premise-health-holding_post.json",
     "effective_date": "2026-11-11",
     "site_status": "approved",
     "instagram_status": "queued",
@@ -426,7 +426,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-11-09_microsoft-privacy_post.json",
+    "post_source": "posts/tos/2026-11-09_microsoft-privacy_post.json",
     "effective_date": "2026-11-09",
     "site_status": "approved",
     "instagram_status": "published",
@@ -472,7 +472,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "breaches/2026-11-09_breach_marathon-health_post.json",
+    "post_source": "posts/breaches/2026-11-09_breach_marathon-health_post.json",
     "effective_date": "2026-11-09",
     "site_status": "approved",
     "instagram_status": "published",
@@ -518,7 +518,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-11-08_weekly-recap_post.json",
+    "post_source": "posts/evergreen/2026-11-08_weekly-recap_post.json",
     "stories": [
       {
         "line": "Coupang: Seoul court refuses to pause its $315M data-breach fine; the breach hit 37.5 million people.",
@@ -608,7 +608,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-11-06_roku-privacy_post.json",
+    "post_source": "posts/tos/2026-11-06_roku-privacy_post.json",
     "effective_date": "2026-11-06",
     "site_status": "approved",
     "instagram_status": "published",
@@ -665,7 +665,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-11-04_uber-terms_post.json",
+    "post_source": "posts/tos/2026-11-04_uber-terms_post.json",
     "effective_date": "2026-11-04",
     "site_status": "approved",
     "instagram_status": "published",
@@ -714,7 +714,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-11-04_oura-privacy_post.json",
+    "post_source": "posts/tos/2026-11-04_oura-privacy_post.json",
     "effective_date": "2026-11-04",
     "site_status": "approved",
     "instagram_status": "published",
@@ -761,7 +761,7 @@
       "06_outro.png"
     ],
     "published": false,
-    "post_source": "breaches/2026-11-03_breach_harvard_post.json",
+    "post_source": "posts/breaches/2026-11-03_breach_harvard_post.json",
     "effective_date": "2026-11-03",
     "site_status": "approved",
     "instagram_status": "queued",
@@ -812,7 +812,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-11-02_roblox-privacy_post.json",
+    "post_source": "posts/tos/2026-11-02_roblox-privacy_post.json",
     "effective_date": "2026-11-02",
     "site_status": "approved",
     "instagram_status": "published",
@@ -863,7 +863,7 @@
       "07_outro.png"
     ],
     "published": true,
-    "post_source": "manual/meta-muse-shared-chats_post.json",
+    "post_source": "posts/manual/meta-muse-shared-chats_post.json",
     "effective_date": "2026-11-02",
     "site_status": "approved",
     "instagram_status": "published",
@@ -911,7 +911,7 @@
       "07_outro.png"
     ],
     "published": true,
-    "post_source": "manual/meta-glasses-senate-inquiry_post.json",
+    "post_source": "posts/manual/meta-glasses-senate-inquiry_post.json",
     "effective_date": "2026-11-02",
     "site_status": "approved",
     "instagram_status": "published",
@@ -960,7 +960,7 @@
       "07_outro.png"
     ],
     "published": true,
-    "post_source": "manual/google-privacy-gmail-ads_post.json",
+    "post_source": "posts/manual/google-privacy-gmail-ads_post.json",
     "effective_date": "2026-11-02",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1009,7 +1009,7 @@
       "07_outro.png"
     ],
     "published": true,
-    "post_source": "manual/flock-safety-court-ruling_post.json",
+    "post_source": "posts/manual/flock-safety-court-ruling_post.json",
     "effective_date": "2026-11-02",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1057,7 +1057,7 @@
       "07_outro.png"
     ],
     "published": true,
-    "post_source": "manual/apple-ios-27-2-age-verification_post.json",
+    "post_source": "posts/manual/apple-ios-27-2-age-verification_post.json",
     "effective_date": "2026-11-02",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1102,7 +1102,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "breaches/2026-10-31_breach_drivewealth_post.json",
+    "post_source": "posts/breaches/2026-10-31_breach_drivewealth_post.json",
     "effective_date": "2026-10-31",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1153,7 +1153,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-10-28_vizio-privacy_post.json",
+    "post_source": "posts/tos/2026-10-28_vizio-privacy_post.json",
     "effective_date": "2026-10-28",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1206,7 +1206,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-10-23_uber-privacy-riders_post.json",
+    "post_source": "posts/tos/2026-10-23_uber-privacy-riders_post.json",
     "effective_date": "2026-10-23",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1259,7 +1259,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-10-23_uber-privacy-drivers_post.json",
+    "post_source": "posts/tos/2026-10-23_uber-privacy-drivers_post.json",
     "effective_date": "2026-10-23",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1303,7 +1303,7 @@
       "06_outro.png"
     ],
     "published": false,
-    "post_source": "diffs/2026-10-21_nanit-privacy_post.json",
+    "post_source": "posts/tos/2026-10-21_nanit-privacy_post.json",
     "effective_date": "2026-10-21",
     "site_status": "approved",
     "instagram_status": "held",
@@ -1360,7 +1360,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-10-16_google-privacy_post.json",
+    "post_source": "posts/tos/2026-10-16_google-privacy_post.json",
     "effective_date": "2026-10-16",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1409,7 +1409,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-10-12_uber-terms_post.json",
+    "post_source": "posts/tos/2026-10-12_uber-terms_post.json",
     "effective_date": "2026-10-12",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1464,7 +1464,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy_post.json",
+    "post_source": "posts/evergreen/2026-10-03_privacy-receipt_2026-08-22_telegram-privacy_post.json",
     "effective_date": "2026-10-03",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1511,7 +1511,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-10-02_roblox-privacy_post.json",
+    "post_source": "posts/tos/2026-10-02_roblox-privacy_post.json",
     "effective_date": "2026-10-02",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1561,7 +1561,7 @@
       "07_outro.png"
     ],
     "published": true,
-    "post_source": "manual/maryland-surveillance-pricing_post.json",
+    "post_source": "posts/manual/maryland-surveillance-pricing_post.json",
     "effective_date": "2026-10-02",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1603,7 +1603,7 @@
       "06_outro.png"
     ],
     "published": false,
-    "post_source": "diffs/2026-10-01_google-privacy_post.json",
+    "post_source": "posts/tos/2026-10-01_google-privacy_post.json",
     "effective_date": "2026-10-01",
     "site_status": "approved",
     "instagram_status": "held",
@@ -1657,7 +1657,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-10-01_clause-really-means_2026-08-15_amazon-terms_post.json",
+    "post_source": "posts/evergreen/2026-10-01_clause-really-means_2026-08-15_amazon-terms_post.json",
     "effective_date": "2026-10-01",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1705,7 +1705,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update_post.json",
+    "post_source": "posts/evergreen/2026-09-29_two-minute-fix_2026-08-20_flock-safety-privacy-security-update_post.json",
     "effective_date": "2026-09-29",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1752,7 +1752,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-09-28_grubhub-privacy_post.json",
+    "post_source": "posts/tos/2026-09-28_grubhub-privacy_post.json",
     "effective_date": "2026-09-28",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1805,7 +1805,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-09-26_uber-cookie-notice_post.json",
+    "post_source": "posts/tos/2026-09-26_uber-cookie-notice_post.json",
     "effective_date": "2026-09-26",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1851,7 +1851,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-24_clause-really-means_2026-08-29_instagram-terms_post.json",
+    "post_source": "posts/evergreen/2026-09-24_clause-really-means_2026-08-29_instagram-terms_post.json",
     "effective_date": "2026-09-24",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1908,7 +1908,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy_post.json",
+    "post_source": "posts/evergreen/2026-09-22_two-minute-fix_2026-09-10_microsoft-privacy_post.json",
     "effective_date": "2026-09-22",
     "site_status": "approved",
     "instagram_status": "published",
@@ -1965,7 +1965,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-19_privacy-receipt_2026-09-10_microsoft-privacy_post.json",
+    "post_source": "posts/evergreen/2026-09-19_privacy-receipt_2026-09-10_microsoft-privacy_post.json",
     "effective_date": "2026-09-19",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2012,7 +2012,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-09-18_uber-privacy-riders_post.json",
+    "post_source": "posts/tos/2026-09-18_uber-privacy-riders_post.json",
     "effective_date": "2026-09-18",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2058,7 +2058,7 @@
       "05_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-09-18_uber-privacy-drivers_post.json",
+    "post_source": "posts/tos/2026-09-18_uber-privacy-drivers_post.json",
     "effective_date": "2026-09-18",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2117,7 +2117,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-17_clause-really-means_2026-09-10_microsoft-privacy_post.json",
+    "post_source": "posts/evergreen/2026-09-17_clause-really-means_2026-09-10_microsoft-privacy_post.json",
     "effective_date": "2026-09-17",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2170,7 +2170,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-15_two-minute-fix_2026-09-10_x-terms_post.json",
+    "post_source": "posts/evergreen/2026-09-15_two-minute-fix_2026-09-10_x-terms_post.json",
     "effective_date": "2026-09-15",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2223,7 +2223,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-12_privacy-receipt_2026-09-10_x-terms_post.json",
+    "post_source": "posts/evergreen/2026-09-12_privacy-receipt_2026-09-10_x-terms_post.json",
     "effective_date": "2026-09-12",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2274,7 +2274,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-09-10_x-terms_post.json",
+    "post_source": "posts/tos/2026-09-10_x-terms_post.json",
     "effective_date": "2026-09-10",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2331,7 +2331,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-09-10_microsoft-privacy_post.json",
+    "post_source": "posts/tos/2026-09-10_microsoft-privacy_post.json",
     "effective_date": "2026-09-10",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2386,7 +2386,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-10_clause-really-means_2026-09-10_x-terms_post.json",
+    "post_source": "posts/evergreen/2026-09-10_clause-really-means_2026-09-10_x-terms_post.json",
     "effective_date": "2026-09-10",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2430,7 +2430,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-08_two-minute-fix_2026-08-29_instagram-terms_post.json",
+    "post_source": "posts/evergreen/2026-09-08_two-minute-fix_2026-08-29_instagram-terms_post.json",
     "effective_date": "2026-09-08",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2478,7 +2478,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy_post.json",
+    "post_source": "posts/evergreen/2026-09-06_privacy-receipt_2026-08-13_twitch-privacy_post.json",
     "effective": "2026-09-06",
     "effective_date": "2026-09-06",
     "site_status": "approved",
@@ -2531,7 +2531,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy_post.json",
+    "post_source": "posts/evergreen/2026-09-05_privacy-receipt_2026-08-22_facebook-privacy_post.json",
     "effective": "2026-09-05",
     "effective_date": "2026-09-05",
     "site_status": "approved",
@@ -2575,7 +2575,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-04_clause-really-means_2026-08-10_steam-privacy_post.json",
+    "post_source": "posts/evergreen/2026-09-04_clause-really-means_2026-08-10_steam-privacy_post.json",
     "effective": "2026-09-04",
     "effective_date": "2026-09-04",
     "site_status": "approved",
@@ -2612,7 +2612,7 @@
     "has_slides": false,
     "media_files": [],
     "published": false,
-    "post_source": "evergreen/2026-09-03_clause-really-means_2026-08-04_google-privacy_post.json",
+    "post_source": "posts/evergreen/2026-09-03_clause-really-means_2026-08-04_google-privacy_post.json",
     "effective": "2026-09-03",
     "effective_date": "2026-09-03",
     "site_status": "approved",
@@ -2665,7 +2665,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy_post.json",
+    "post_source": "posts/evergreen/2026-09-02_two-minute-fix_2026-08-05_snapchat-privacy_post.json",
     "effective": "2026-09-02",
     "effective_date": "2026-09-02",
     "site_status": "approved",
@@ -2718,7 +2718,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "evergreen/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy_post.json",
+    "post_source": "posts/evergreen/2026-09-01_two-minute-fix_2026-08-23_amazon-privacy_post.json",
     "effective": "2026-09-01",
     "effective_date": "2026-09-01",
     "site_status": "approved",
@@ -2761,7 +2761,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-08-29_instagram-terms_post.json",
+    "post_source": "posts/tos/2026-08-29_instagram-terms_post.json",
     "effective_date": "2026-08-29",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2814,7 +2814,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-08-23_amazon-privacy_post.json",
+    "post_source": "posts/tos/2026-08-23_amazon-privacy_post.json",
     "effective_date": "2026-08-23",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2867,7 +2867,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-08-22_telegram-privacy_post.json",
+    "post_source": "posts/tos/2026-08-22_telegram-privacy_post.json",
     "effective_date": "2026-08-22",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2920,7 +2920,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-08-22_facebook-privacy_post.json",
+    "post_source": "posts/tos/2026-08-22_facebook-privacy_post.json",
     "effective_date": "2026-08-22",
     "site_status": "approved",
     "instagram_status": "published",
@@ -2973,7 +2973,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-08-20_robinhood-privacy_post.json",
+    "post_source": "posts/tos/2026-08-20_robinhood-privacy_post.json",
     "effective_date": "2026-08-20",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3026,7 +3026,7 @@
       "07_outro.png"
     ],
     "published": true,
-    "post_source": "manual/flock_post.json",
+    "post_source": "posts/manual/flock_post.json",
     "effective_date": "2026-08-20",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3073,7 +3073,7 @@
       "05_action.png"
     ],
     "published": true,
-    "post_source": "manual/shoprite_post.json",
+    "post_source": "posts/manual/shoprite_post.json",
     "effective_date": "2026-08-18",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3120,7 +3120,7 @@
       "05_action.png"
     ],
     "published": true,
-    "post_source": "manual/kroger_post.json",
+    "post_source": "posts/manual/kroger_post.json",
     "effective_date": "2026-08-17",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3167,7 +3167,7 @@
       "06_outro.png"
     ],
     "published": false,
-    "post_source": "diffs/2026-08-15_amazon-terms_post.json",
+    "post_source": "posts/tos/2026-08-15_amazon-terms_post.json",
     "effective_date": "2026-08-15",
     "site_status": "approved",
     "instagram_status": "baseline",
@@ -3222,7 +3222,7 @@
       "05_action.png"
     ],
     "published": true,
-    "post_source": "manual/albertsons_post.json",
+    "post_source": "posts/manual/albertsons_post.json",
     "effective_date": "2026-08-14",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3269,7 +3269,7 @@
       "06_outro.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-08-13_twitch-privacy_post.json",
+    "post_source": "posts/tos/2026-08-13_twitch-privacy_post.json",
     "effective_date": "2026-08-13",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3311,7 +3311,7 @@
       "05_action.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-08-10_steam-privacy_post.json",
+    "post_source": "posts/tos/2026-08-10_steam-privacy_post.json",
     "effective_date": "2026-08-10",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3360,7 +3360,7 @@
       "05_action.png"
     ],
     "published": true,
-    "post_source": "manual/bestbuy_post.json",
+    "post_source": "posts/manual/bestbuy_post.json",
     "effective_date": "2026-08-09",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3410,7 +3410,7 @@
       "05_action.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-08-05_snapchat-privacy_post.json",
+    "post_source": "posts/tos/2026-08-05_snapchat-privacy_post.json",
     "effective_date": "2026-08-05",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3452,7 +3452,7 @@
       "05_action.png"
     ],
     "published": false,
-    "post_source": "diffs/2026-08-04_google-privacy_post.json",
+    "post_source": "posts/tos/2026-08-04_google-privacy_post.json",
     "effective_date": "2026-08-04",
     "site_status": "approved",
     "instagram_status": "baseline",
@@ -3574,7 +3574,7 @@
       "05_action.png"
     ],
     "published": true,
-    "post_source": "diffs/2026-07-28_instagram-terms_post.json",
+    "post_source": "posts/tos/2026-07-28_instagram-terms_post.json",
     "effective_date": "2026-07-28",
     "site_status": "approved",
     "instagram_status": "published",
@@ -3620,7 +3620,7 @@
       "05_action.png"
     ],
     "published": false,
-    "post_source": "diffs/2026-07-24_facebook-privacy_post.json",
+    "post_source": "posts/tos/2026-07-24_facebook-privacy_post.json",
     "effective_date": "2026-07-24",
     "site_status": "approved",
     "instagram_status": "baseline",
@@ -3662,7 +3662,7 @@
       "05_action.png"
     ],
     "published": false,
-    "post_source": "diffs/2026-07-24_discord-privacy_post.json",
+    "post_source": "posts/tos/2026-07-24_discord-privacy_post.json",
     "effective_date": "2026-07-24",
     "site_status": "approved",
     "instagram_status": "baseline",
@@ -3703,7 +3703,7 @@
       "05_action.png"
     ],
     "published": false,
-    "post_source": "diffs/2026-07-22_robinhood-privacy_post.json",
+    "post_source": "posts/tos/2026-07-22_robinhood-privacy_post.json",
     "effective_date": "2026-07-22",
     "site_status": "approved",
     "instagram_status": "baseline",
@@ -3745,7 +3745,7 @@
       "05_action.png"
     ],
     "published": false,
-    "post_source": "diffs/2026-07-20_netflix-terms_post.json",
+    "post_source": "posts/tos/2026-07-20_netflix-terms_post.json",
     "effective_date": "2026-07-20",
     "site_status": "approved",
     "instagram_status": "baseline",
