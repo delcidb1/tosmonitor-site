@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-22T16:46:30Z",
+  "generated_at": "2026-11-22T16:48:13Z",
   "post_date": "2026-11-22",
   "posts": [
     {
@@ -6542,9 +6542,124 @@
         "Saturday"
       ],
       "eligible_today": false
+    },
+    {
+      "id": "2026-11-22_weekly-recap",
+      "date": "2026-11-22",
+      "effective": "Nov 16–22, 2026",
+      "app": "This Week in Privacy",
+      "doc": "This Week in Privacy",
+      "post_type": "series",
+      "accent": "#38BDF8",
+      "categories": [],
+      "cover_query": "cyber security padlock data",
+      "source_doc": "TOSMonitor weekly recap for Nov 16–22, 2026",
+      "series_id": "weekly-recap",
+      "series_title": "This Week in Privacy",
+      "headline": "Oregon's $2B OpenAI child suit & Hertz & FedEx CCPA opt-out fines",
+      "subhead": "4 privacy and breach stories you may have missed",
+      "changes": [
+        "Oregon AG sued OpenAI for $2.035B, alleging ChatGPT endangered children and misled parents about its safety guardrails.",
+        "CalPrivacy fined Hertz $1.55M and FedEx $2.975M for ignoring browser opt-out signals.",
+        "Prism Medical Products Hit by Unauthorized Access",
+        "Breach Watch: 5 breaches + 1 new threat in 48 hours"
+      ],
+      "cover_lines": [
+        "Oregon's $2B OpenAI child suit",
+        "Hertz & FedEx CCPA opt-out fines",
+        "",
+        ""
+      ],
+      "watch": [],
+      "edition": 3,
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Every story here comes down to the same question: who holds your data, and what they do with it when you are not looking.",
+      "actions": [
+        "Check haveibeenpwned.com for any email you use to sign in",
+        "Turn on two-factor sign-in for your email and bank accounts",
+        "Open one app you use daily and review its privacy settings"
+      ],
+      "stories": [
+        {
+          "line": "Oregon AG sued OpenAI for $2.035B, alleging ChatGPT endangered children and misled parents about its safety guardrails.",
+          "teaser": "Oregon's $2B OpenAI child suit",
+          "publisher": "Oregon Capital Chronicle",
+          "source_url": "https://oregoncapitalchronicle.com/2026/11/17/oregon-sues-open-ai-for-more-than-2b-for-child-endangerment-misleading-the-public/",
+          "published": "2026-11-17",
+          "origin": "news"
+        },
+        {
+          "line": "CalPrivacy fined Hertz $1.55M and FedEx $2.975M for ignoring browser opt-out signals.",
+          "teaser": "Hertz & FedEx CCPA opt-out fines",
+          "publisher": "Law360",
+          "source_url": "https://www.law360.com/articles/2550678",
+          "published": "2026-11-17",
+          "origin": "news"
+        },
+        {
+          "line": "Prism Medical Products Hit by Unauthorized Access",
+          "publisher": "TOSMonitor",
+          "source_url": "https://www.atg.wa.gov/data-breach-notifications",
+          "published": "2026-11-18",
+          "origin": "tosmonitor",
+          "teaser": "",
+          "app": "Prism Medical Products"
+        },
+        {
+          "line": "Breach Watch: 5 breaches + 1 new threat in 48 hours",
+          "publisher": "TOSMonitor",
+          "source_url": "https://delcidb1.github.io/tosmonitor-site/",
+          "published": "2026-11-17",
+          "origin": "tosmonitor",
+          "teaser": "",
+          "app": "Breach Watch"
+        }
+      ],
+      "story_sources": [
+        "https://oregoncapitalchronicle.com/2026/11/17/oregon-sues-open-ai-for-more-than-2b-for-child-endangerment-misleading-the-public/",
+        "https://www.law360.com/articles/2550678",
+        "https://www.atg.wa.gov/data-breach-notifications",
+        "https://delcidb1.github.io/tosmonitor-site/"
+      ],
+      "window_start": "2026-11-16",
+      "window_end": "2026-11-22",
+      "caption_rendered": "THIS WEEK IN PRIVACY · Nov 16–22, 2026\n\nThe privacy and data-breach stories worth knowing from this week:\n1. Oregon AG sued OpenAI for $2.035B, alleging ChatGPT endangered children and misled parents about its safety guardrails. (via Oregon Capital Chronicle)\n2. CalPrivacy fined Hertz $1.55M and FedEx $2.975M for ignoring browser opt-out signals. (via Law360)\n3. Prism Medical Products Hit by Unauthorized Access (tracked by TOSMonitor)\n4. Breach Watch: 5 breaches + 1 new threat in 48 hours (tracked by TOSMonitor)\n\n🔖 Save this for the next time a company emails you about your data.\n📤 Send this to someone who reuses passwords.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "approved": false,
+      "publish_to_site": false,
+      "priority": 300,
+      "draft": true,
+      "source_type": "evergreen",
+      "post_source": "posts/evergreen/2026-11-22_weekly-recap_post.json",
+      "slide_folder": "2026-11-22_weekly-recap",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-22_weekly-recap/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-22_weekly-recap/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-22_weekly-recap/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-22_weekly-recap/04_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_outro.png"
+      ],
+      "slide_count": 4,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THIS WEEK IN PRIVACY · Nov 16–22, 2026\n\nThe privacy and data-breach stories worth knowing from this week:\n1. Oregon AG sued OpenAI for $2.035B, alleging ChatGPT endangered children and misled parents about its safety guardrails. (via Oregon Capital Chronicle)\n2. CalPrivacy fined Hertz $1.55M and FedEx $2.975M for ignoring browser opt-out signals. (via Law360)\n3. Prism Medical Products Hit by Unauthorized Access (tracked by TOSMonitor)\n4. Breach Watch: 5 breaches + 1 new threat in 48 hours (tracked by TOSMonitor)\n\n🔖 Save this for the next time a company emails you about your data.\n📤 Send this to someone who reuses passwords.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
+      "caption_sha256": "3ad96fbdacaabfcabc444111cadffcc364f38a386387dd996e351ea92f5536f9",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": [
+        "Sunday"
+      ],
+      "eligible_today": false
     }
   ],
-  "total": 90,
+  "total": 91,
   "queued_count": 3,
   "published_count": 61,
   "baseline_count": 6,
