@@ -1,5 +1,84 @@
 [
   {
+    "id": "2026-11-22_weekly-recap",
+    "app": "This Week in Privacy",
+    "doc": "This Week in Privacy",
+    "post_type": "series",
+    "accent": "#38BDF8",
+    "headline": "Oregon's $2B OpenAI child suit & Hertz & FedEx CCPA opt-out fines",
+    "subhead": "4 privacy and breach stories you may have missed",
+    "effective": "Nov 16\u201322, 2026",
+    "changes": [
+      "Oregon AG sued OpenAI for $2.035B, alleging ChatGPT endangered children and misled parents about its safety guardrails.",
+      "CalPrivacy fined Hertz $1.55M and FedEx $2.975M for ignoring browser opt-out signals.",
+      "Prism Medical Products Hit by Unauthorized Access",
+      "Breach Watch: 5 breaches + 1 new threat in 48 hours"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "Every story here comes down to the same question: who holds your data, and what they do with it when you are not looking.",
+    "actions": [
+      "Check haveibeenpwned.com for any email you use to sign in",
+      "Turn on two-factor sign-in for your email and bank accounts",
+      "Open one app you use daily and review its privacy settings"
+    ],
+    "categories": [],
+    "source_doc": "TOSMonitor weekly recap for Nov 16\u201322, 2026",
+    "date": "2026-11-22",
+    "slide_folder": "2026-11-22_weekly-recap",
+    "slide_count": 4,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_outro.png"
+    ],
+    "published": false,
+    "post_source": "posts/evergreen/2026-11-22_weekly-recap_post.json",
+    "stories": [
+      {
+        "line": "Oregon AG sued OpenAI for $2.035B, alleging ChatGPT endangered children and misled parents about its safety guardrails.",
+        "teaser": "Oregon's $2B OpenAI child suit",
+        "publisher": "Oregon Capital Chronicle",
+        "source_url": "https://oregoncapitalchronicle.com/2026/11/17/oregon-sues-open-ai-for-more-than-2b-for-child-endangerment-misleading-the-public/",
+        "published": "2026-11-17",
+        "origin": "news"
+      },
+      {
+        "line": "CalPrivacy fined Hertz $1.55M and FedEx $2.975M for ignoring browser opt-out signals.",
+        "teaser": "Hertz & FedEx CCPA opt-out fines",
+        "publisher": "Law360",
+        "source_url": "https://www.law360.com/articles/2550678",
+        "published": "2026-11-17",
+        "origin": "news"
+      },
+      {
+        "line": "Prism Medical Products Hit by Unauthorized Access",
+        "publisher": "TOSMonitor",
+        "source_url": "https://www.atg.wa.gov/data-breach-notifications",
+        "published": "2026-11-18",
+        "origin": "tosmonitor",
+        "teaser": "",
+        "app": "Prism Medical Products"
+      },
+      {
+        "line": "Breach Watch: 5 breaches + 1 new threat in 48 hours",
+        "publisher": "TOSMonitor",
+        "source_url": "https://delcidb1.github.io/tosmonitor-site/",
+        "published": "2026-11-17",
+        "origin": "tosmonitor",
+        "teaser": "",
+        "app": "Breach Watch"
+      }
+    ],
+    "effective_date": "2026-11-22",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-18_breach_prism-medical-products",
     "app": "Prism Medical Products",
     "doc": "Data Breach",
