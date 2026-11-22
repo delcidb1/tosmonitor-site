@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-22T20:48:21Z",
+  "generated_at": "2026-11-22T21:03:48Z",
   "post_date": "2026-11-22",
   "posts": [
     {
@@ -3474,14 +3474,16 @@
       "priority": 100,
       "instagram_caption": "Harvard University suffered a data breach in November 2025 that exposed personal information for over 850,000 people connected to its alumni and fundraising systems. The leaked data included names, email addresses, phone numbers, home and business addresses, charitable donation details, dates of birth, ethnicities, family members' names, job titles, and social media profiles, among other biographical details. The breach was later linked to a ShinyHunters extortion attempt. Those affected include alumni, donors, parents, and some faculty, staff, and students. Harvard disclosed the breach and confirmed the exposure of fundraising and alumni engagement records. Source: Have I Been Pwned.\n\n#HarvardBreach #DataBreach #AlumniData #ShinyHunters #PersonalData #DataPrivacy #CyberSecurity #HigherEducation #TOSMonitor",
       "caption_sha256": "ba3afbb3fe82955a56081b7164376952d8120463f3b4f0ddbce469dc6f04766f",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-21T16:32:17Z",
+      "instagram_post_id": "17999228280049964",
+      "instagram_permalink": "https://www.instagram.com/p/DgAqrVcILlu/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "eligible_today": false
     },
     {
       "app": "Uber",
@@ -6663,8 +6665,8 @@
     }
   ],
   "total": 91,
-  "queued_count": 4,
-  "published_count": 61,
+  "queued_count": 3,
+  "published_count": 62,
   "baseline_count": 6,
   "held_count": 2,
   "expired_count": 0,
