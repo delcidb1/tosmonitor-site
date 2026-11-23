@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-23T00:48:03Z",
-  "post_date": "2026-11-22",
+  "generated_at": "2026-11-23T13:29:11Z",
+  "post_date": "2026-11-23",
   "posts": [
     {
       "app": "Flock Safety",
@@ -4138,8 +4138,7 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "eligible_today": true
     },
     {
       "id": "2026-11-11_breach_youhack",
@@ -6654,21 +6653,21 @@
       "instagram_caption": "THIS WEEK IN PRIVACY · Nov 16–22, 2026\n\nThe privacy and data-breach stories worth knowing from this week:\n1. Oregon AG sued OpenAI for $2.035B, alleging ChatGPT endangered children and misled parents about its safety guardrails. (via Oregon Capital Chronicle)\n2. CalPrivacy fined Hertz $1.55M and FedEx $2.975M for ignoring browser opt-out signals. (via Law360)\n3. Prism Medical Products Hit by Unauthorized Access (tracked by TOSMonitor)\n4. Breach Watch: 5 breaches + 1 new threat in 48 hours (tracked by TOSMonitor)\n\n🔖 Save this for the next time a company emails you about your data.\n📤 Send this to someone who reuses passwords.\n🔔 Follow @tos_monitor. One recap every Sunday, so you don't have to read 50 articles.\n\n#DataPrivacy #DataBreach #PrivacyNews #CyberSecurity #WeekInReview #TOSMonitor",
       "caption_sha256": "3ad96fbdacaabfcabc444111cadffcc364f38a386387dd996e351ea92f5536f9",
       "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "publishable": false,
+      "status": "expired",
+      "instagram_status": "expired",
       "site_status": "approved",
       "post_days": [
         "Sunday"
       ],
-      "eligible_today": true
+      "eligible_today": false
     }
   ],
   "total": 91,
-  "queued_count": 3,
+  "queued_count": 2,
   "published_count": 62,
   "baseline_count": 6,
   "held_count": 2,
-  "expired_count": 0,
+  "expired_count": 1,
   "eligible_today_count": 1
 }
