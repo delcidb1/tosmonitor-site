@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-24T23:30:01Z",
+  "generated_at": "2026-11-24T23:36:05Z",
   "post_date": "2026-11-24",
   "posts": [
     {
@@ -6908,9 +6908,83 @@
         "Sunday"
       ],
       "eligible_today": false
+    },
+    {
+      "id": "2026-11-24_two-minute-fix_2026-11-06_roku-privacy",
+      "date": "2026-11-24",
+      "effective": "Updated November 24, 2026",
+      "app": "Roku",
+      "doc": "The 2-Minute Fix",
+      "post_type": "series",
+      "accent": "#6F1AB1",
+      "categories": [
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Fox Corporation-linked 'Company Affiliates' are newly named as recipients of users' viewing, location, browsing, audio, and sensitive personal data for advertising and analytics on their own platforms, expanding the pool of entities that receive Roku user data."
+        }
+      ],
+      "source_doc": "TOSMonitor series based on a monitored policy · 2026-11-06_roku-privacy",
+      "source_post_id": "2026-11-06_roku-privacy",
+      "series_id": "two-minute-fix",
+      "series_title": "The 2-Minute Fix",
+      "approved": false,
+      "publish_to_site": false,
+      "priority": 300,
+      "draft": true,
+      "headline": "The 2-minute privacy check for Roku",
+      "subhead": "Three account checks based on the policy change TOSMonitor tracked.",
+      "changes": [
+        "Visit Roku's 'Your Privacy Choices' page and opt out of data sharing.",
+        "Check your Roku device privacy settings and disable Content Viewing Disclosure.",
+        "Review Fox Corporation's affiliate list at foxcorporation.com to see who may receive your data."
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Your viewing habits, location, and browsing data can now flow to Fox-linked companies for their own ad targeting, with no stated policy guardrails.",
+      "actions": [
+        "Visit Roku's 'Your Privacy Choices' page and opt out of data sharing.",
+        "Check your Roku device privacy settings and disable Content Viewing Disclosure.",
+        "Review Fox Corporation's affiliate list at foxcorporation.com to see who may receive your data."
+      ],
+      "how_to_sources": [
+        "",
+        "",
+        ""
+      ],
+      "caption_rendered": "THE 2-MINUTE FIX · Roku\n\nA policy update is only useful if it leads to an action. Three checks from the Roku update we tracked, and how to do each one:\n\n1. Visit Roku's 'Your Privacy Choices' page and opt out of data sharing.\n2. Check your Roku device privacy settings and disable Content Viewing Disclosure.\n3. Review Fox Corporation's affiliate list at foxcorporation.com to see who may receive your data.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "source_type": "evergreen",
+      "post_source": "posts/evergreen/2026-11-24_two-minute-fix_2026-11-06_roku-privacy_post.json",
+      "slide_folder": "2026-11-24_two-minute-fix_2026-11-06_roku-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_two-minute-fix_2026-11-06_roku-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_two-minute-fix_2026-11-06_roku-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_two-minute-fix_2026-11-06_roku-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_two-minute-fix_2026-11-06_roku-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_two-minute-fix_2026-11-06_roku-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_two-minute-fix_2026-11-06_roku-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THE 2-MINUTE FIX · Roku\n\nA policy update is only useful if it leads to an action. Three checks from the Roku update we tracked, and how to do each one:\n\n1. Visit Roku's 'Your Privacy Choices' page and opt out of data sharing.\n2. Check your Roku device privacy settings and disable Content Viewing Disclosure.\n3. Review Fox Corporation's affiliate list at foxcorporation.com to see who may receive your data.\n\nMenus move. If a path above has changed in your app, tell us in the comments.\n\n#PrivacySettings #DataPrivacy #ConsumerRights #PrivacyTips #TOSMonitor",
+      "caption_sha256": "e95e2db0061a50f5c21753cbca99e1f82155968f58deb46f09664b8b1e401cd4",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": "any",
+      "eligible_today": false
     }
   ],
-  "total": 94,
+  "total": 95,
   "queued_count": 3,
   "published_count": 63,
   "baseline_count": 6,
