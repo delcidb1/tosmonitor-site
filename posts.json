@@ -559,14 +559,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "posts/breaches/2026-11-11_breach_premise-health-holding_post.json",
     "effective_date": "2026-11-11",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DgF0qq7IJ9y/",
+    "instagram_post_id": "18040782611892836",
+    "published_at": "2026-11-23T16:35:51Z"
   },
   {
     "id": "2026-11-09_microsoft-privacy",
