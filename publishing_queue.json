@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-24T00:15:47Z",
+  "generated_at": "2026-11-24T01:33:24Z",
   "post_date": "2026-11-23",
   "posts": [
     {
@@ -4886,6 +4886,162 @@
       "eligible_today": false
     },
     {
+      "app": "Discord",
+      "accent": "#5865F2",
+      "headline": "Discord revamps privacy policy for age and ads",
+      "subhead": "New age signals, ad tracking, and parental access added.",
+      "effective": "Effective December 15, 2026",
+      "changes": [
+        "Discord now separately collects birthday, IP, and device data to estimate your age.",
+        "Interacting with sponsored content may now share your device ID or advertising ID with partners.",
+        "Parents or guardians may now be able to access your information and recent activity.",
+        "Machine learning models may now be built using your data to estimate user age groups."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Several concrete data collection and sharing expansions affect ad targeting and minors' privacy. Worth reviewing your privacy settings.",
+      "actions": [
+        "Review and adjust your privacy and ad personalization settings in Discord.",
+        "Check if personalized sponsored content is enabled or disabled in your region.",
+        "If you are a minor, be aware parents may gain access to your activity data."
+      ],
+      "caption": "Discord updated its privacy policy, effective December 15, 2026. The biggest changes affect how Discord handles age verification, advertising, and parental access. Discord now collects your birthday, IP address, and limited device data as separate age signals, and may work with third-party age verification providers. When you interact with sponsored content, Discord may now collect and share your device ID or advertising ID with ad partners. Parents or guardians may now be able to request access to a minor's information and recent activity. Discord also explicitly mentions building machine learning models to estimate user age groups. You should review your privacy and ad settings in the Discord app to understand what is shared and with whom.",
+      "hashtags": [
+        "discord",
+        "privacypolicy",
+        "digitalPrivacy",
+        "onlineSafety",
+        "adtracking",
+        "minorsonline",
+        "tosupdate",
+        "privacyrights"
+      ],
+      "video_script": "Hey, Discord just updated its privacy policy and there are a few things you should know. First, Discord is now collecting your birthday, IP address, and device info separately as age signals, and may bring in third-party age verification providers. Second, if you click on a sponsored post or Quest, Discord may now share your device ID or advertising ID with ad partners. And parents or guardians may now be able to access a minor's recent activity on the platform. Our verdict? Worth knowing, especially if you or your kids use Discord regularly. Full breakdown in the carousel, follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "ai_training",
+          "explanation": "Discord explicitly added language about building machine learning models using user data to estimate age groups, expanding how automated systems are trained on user information."
+        },
+        {
+          "tag": "third_party_sharing",
+          "explanation": "Discord now discloses that interacting with sponsored content may result in your device ID or advertising ID being shared with advertising and measurement partners."
+        },
+        {
+          "tag": "permissions",
+          "explanation": "Discord added a new, separate section explaining it collects your IP address and limited device information specifically to determine your region and estimate your age."
+        }
+      ],
+      "caption_rendered": "Discord updated its privacy policy, effective December 15, 2026. The biggest changes affect how Discord handles age verification, advertising, and parental access. Discord now collects your birthday, IP address, and limited device data as separate age signals, and may work with third-party age verification providers. When you interact with sponsored content, Discord may now collect and share your device ID or advertising ID with ad partners. Parents or guardians may now be able to request access to a minor's information and recent activity. Discord also explicitly mentions building machine learning models to estimate user age groups. You should review your privacy and ad settings in the Discord app to understand what is shared and with whom.\n\n#discord #privacypolicy #digitalPrivacy #onlineSafety #adtracking #minorsonline #tosupdate #privacyrights #TOSMonitor",
+      "id": "2026-11-24_discord-privacy",
+      "source_type": "diff",
+      "post_source": "posts/tos/2026-11-24_discord-privacy_post.json",
+      "slide_folder": "2026-11-24_discord-privacy",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-privacy/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-privacy/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-privacy/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-privacy/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-privacy/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-privacy/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-24",
+      "priority": 100,
+      "instagram_caption": "Discord updated its privacy policy, effective December 15, 2026. The biggest changes affect how Discord handles age verification, advertising, and parental access. Discord now collects your birthday, IP address, and limited device data as separate age signals, and may work with third-party age verification providers. When you interact with sponsored content, Discord may now collect and share your device ID or advertising ID with ad partners. Parents or guardians may now be able to request access to a minor's information and recent activity. Discord also explicitly mentions building machine learning models to estimate user age groups. You should review your privacy and ad settings in the Discord app to understand what is shared and with whom.\n\n#discord #privacypolicy #digitalPrivacy #onlineSafety #adtracking #minorsonline #tosupdate #privacyrights #TOSMonitor",
+      "caption_sha256": "8d7af89025509281514ec7098254774227c91058245bbafea0112dcdaff12124",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false,
+      "waiting_reason": "one_post_per_day"
+    },
+    {
+      "app": "Discord",
+      "accent": "#5865F2",
+      "headline": "Discord rewrites dispute rules and content policies",
+      "subhead": "Non-US users now pulled into binding arbitration too.",
+      "effective": "Effective December 15, 2026",
+      "changes": [
+        "Non-US users who choose arbitration are now bound by US arbitration rules.",
+        "Discord can delete your content 'for any reason,' not just rule violations.",
+        "Filing a dispute now requires a web form, not a written email notice.",
+        "New 'Delegation' clause means an arbitrator—not a court—decides if arbitration applies."
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "Arbitration scope expands beyond US/Canada users, and content removal powers are explicitly broadened. Worth reading if you post content or may ever file a complaint.",
+      "actions": [
+        "Review Discord's updated dispute resolution form at dis.gd/disputes.",
+        "Check your server's admin settings—admins now control more content visibility off Discord.",
+        "US/Canada users: re-read the arbitration section before filing any complaint against Discord."
+      ],
+      "caption": "Discord updated its Terms of Service, effective December 15, 2026, with several changes ordinary users should know about. First, the mandatory arbitration clause, previously limited to US and Canadian residents, now also binds non-US users who choose to initiate arbitration, locking them into US arbitration rules. Second, Discord broadened its content removal language so it can delete your posts for any reason at its discretion, removing the previous implication that a rule violation was required. Third, the informal dispute process now requires submitting a specific online form rather than emailing a written notice. Finally, a new 'delegation' clause means an arbitrator, not a judge, decides whether your dispute even qualifies for arbitration. Read the updated terms and familiarize yourself with your rights before you need to use them.",
+      "hashtags": [
+        "discord",
+        "termsofservice",
+        "privacymatters",
+        "arbitration",
+        "digitalrights",
+        "contentmoderation",
+        "techpolicy",
+        "tosupdate"
+      ],
+      "video_script": "Discord just quietly updated its Terms of Service and there are a few things you should know. The biggest change: arbitration now potentially applies to users outside the US and Canada if they choose to start a dispute. Discord has also given itself the right to delete your content for any reason, full stop. And if you ever need to file a complaint, you now have to use an online form instead of sending an email. Our verdict: worth knowing, especially if you're outside the US or post a lot of content. Full breakdown in the carousel - follow at tos underscore monitor for the next change.",
+      "categories": [
+        {
+          "tag": "arbitration_waiver",
+          "explanation": "Discord expanded its mandatory arbitration clause to cover non-US and non-Canadian users who choose to initiate arbitration, and added a new 'Delegation of Arbitrability' clause giving arbitrators—not courts—the power to decide whether a dispute is subject to arbitration, reducing users' ability to challenge the process in court."
+        }
+      ],
+      "caption_rendered": "Discord updated its Terms of Service, effective December 15, 2026, with several changes ordinary users should know about. First, the mandatory arbitration clause, previously limited to US and Canadian residents, now also binds non-US users who choose to initiate arbitration, locking them into US arbitration rules. Second, Discord broadened its content removal language so it can delete your posts for any reason at its discretion, removing the previous implication that a rule violation was required. Third, the informal dispute process now requires submitting a specific online form rather than emailing a written notice. Finally, a new 'delegation' clause means an arbitrator, not a judge, decides whether your dispute even qualifies for arbitration. Read the updated terms and familiarize yourself with your rights before you need to use them.\n\n#discord #termsofservice #privacymatters #arbitration #digitalrights #contentmoderation #techpolicy #tosupdate #TOSMonitor",
+      "id": "2026-11-24_discord-terms",
+      "source_type": "diff",
+      "post_source": "posts/tos/2026-11-24_discord-terms_post.json",
+      "slide_folder": "2026-11-24_discord-terms",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-terms/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-terms/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-terms/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-terms/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-terms/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/tosmonitor-site/main/slides/2026-11-24_discord-terms/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-24",
+      "priority": 100,
+      "instagram_caption": "Discord updated its Terms of Service, effective December 15, 2026, with several changes ordinary users should know about. First, the mandatory arbitration clause, previously limited to US and Canadian residents, now also binds non-US users who choose to initiate arbitration, locking them into US arbitration rules. Second, Discord broadened its content removal language so it can delete your posts for any reason at its discretion, removing the previous implication that a rule violation was required. Third, the informal dispute process now requires submitting a specific online form rather than emailing a written notice. Finally, a new 'delegation' clause means an arbitrator, not a judge, decides whether your dispute even qualifies for arbitration. Read the updated terms and familiarize yourself with your rights before you need to use them.\n\n#discord #termsofservice #privacymatters #arbitration #digitalrights #contentmoderation #techpolicy #tosupdate #TOSMonitor",
+      "caption_sha256": "9559ea346bfb6bff1376370710006d96634b975e5b1913d214aa21e7468dcd4e",
+      "published": false,
+      "publishable": false,
+      "status": "held",
+      "instagram_status": "held",
+      "site_status": "approved",
+      "hold_reason": "duplicate_of:2026-11-24_discord-privacy",
+      "post_days": "any",
+      "eligible_today": false
+    },
+    {
       "id": "2026-09-01_two-minute-fix_2026-08-23_amazon-privacy",
       "date": "2026-09-01",
       "app": "Amazon",
@@ -6663,11 +6819,11 @@
       "eligible_today": false
     }
   ],
-  "total": 91,
-  "queued_count": 2,
+  "total": 93,
+  "queued_count": 3,
   "published_count": 62,
   "baseline_count": 6,
-  "held_count": 2,
+  "held_count": 3,
   "expired_count": 1,
   "eligible_today_count": 1
 }
