@@ -264,14 +264,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "posts/breaches/2026-11-18_breach_prism-medical-products_post.json",
     "effective_date": "2026-11-18",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DgIZMahEWA0/",
+    "instagram_post_id": "18129814747925354",
+    "published_at": "2026-11-24T16:33:28Z"
   },
   {
     "id": "2026-11-17_breach-watch",

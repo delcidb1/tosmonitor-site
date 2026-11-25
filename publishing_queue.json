@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-24T23:36:05Z",
+  "generated_at": "2026-11-25T00:06:41Z",
   "post_date": "2026-11-24",
   "posts": [
     {
@@ -4709,13 +4709,16 @@
       "priority": 100,
       "instagram_caption": "Prism Medical Products, a medical products company, experienced unauthorized access to its systems on October 19, 2026. The Washington Attorney General listed the breach on November 14, 2026, noting that 16,307 Washington residents were affected. Because this involves a medical products organization, there is reasonable concern that sensitive personal or health-related information may be at risk. If you are a customer or patient of Prism Medical Products, reach out to them directly to find out exactly what information was involved and what protections they are offering. Source: Washington Attorney General\n\n#PrismMedicalProducts #DataBreach #MedicalDataBreach #WashingtonState #UnauthorizedAccess #PrivacyAlert #HealthData #CyberSecurity #TOSMonitor",
       "caption_sha256": "15ab5d81ffd4283633cb004929e39b9432725545766e2730115c1a0d56ee014e",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-24T16:33:28Z",
+      "instagram_post_id": "18129814747925354",
+      "instagram_permalink": "https://www.instagram.com/p/DgIZMahEWA0/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "id": "2026-11-20_breach_careers360",
@@ -4974,7 +4977,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Discord",
@@ -5056,7 +5059,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Discord",
@@ -6985,10 +6988,10 @@
     }
   ],
   "total": 95,
-  "queued_count": 3,
-  "published_count": 63,
+  "queued_count": 2,
+  "published_count": 64,
   "baseline_count": 6,
   "held_count": 3,
   "expired_count": 1,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
