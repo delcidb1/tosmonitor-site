@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T23:08:24Z",
+  "generated_at": "2026-11-25T23:47:49Z",
   "post_date": "2026-11-25",
   "posts": [
     {
@@ -4970,13 +4970,16 @@
       "priority": 100,
       "instagram_caption": "UK education software provider Bromcom suffered a data breach in September 2026 affecting over 355,000 people, including school staff and pupils. The breach involved a legacy single sign-on registration system and exposed email addresses alongside SSO registration reference numbers. Bromcom confirmed that no passwords or authentication tokens were leaked, and that the incident did not enable access to Microsoft or Google accounts or its school management system. Even so, exposed email addresses can be used for targeted phishing attacks, so anyone connected to a UK school using Bromcom should stay alert to suspicious messages. Source: Have I Been Pwned\n\n#DataBreach #Bromcom #UKSchools #Education #Cybersecurity #EmailBreach #SchoolData #HaveIBeenPwned #TOSMonitor",
       "caption_sha256": "ea790bbd77a3c3cd1a939e3e2399aee1aede0cea6cdce483bba41237ca1ff56c",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-25T16:35:19Z",
+      "instagram_post_id": "18363844756223874",
+      "instagram_permalink": "https://www.instagram.com/p/DgK-NIHlNJO/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "app": "Discord",
@@ -5058,7 +5061,7 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     },
     {
       "app": "Discord",
@@ -6987,10 +6990,10 @@
     }
   ],
   "total": 95,
-  "queued_count": 2,
-  "published_count": 64,
+  "queued_count": 1,
+  "published_count": 65,
   "baseline_count": 6,
   "held_count": 3,
   "expired_count": 1,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }

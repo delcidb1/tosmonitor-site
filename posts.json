@@ -141,14 +141,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "posts/breaches/2026-11-24_breach_bromcom_post.json",
     "effective_date": "2026-11-24",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DgK-NIHlNJO/",
+    "instagram_post_id": "18363844756223874",
+    "published_at": "2026-11-25T16:35:19Z"
   },
   {
     "id": "2026-11-22_weekly-recap",
