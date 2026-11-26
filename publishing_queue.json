@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-26T02:45:58Z",
-  "post_date": "2026-11-25",
+  "generated_at": "2026-11-26T13:24:48Z",
+  "post_date": "2026-11-26",
   "posts": [
     {
       "app": "Flock Safety",
@@ -5060,8 +5060,7 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "eligible_today": true
     },
     {
       "app": "Discord",
@@ -6995,5 +6994,5 @@
   "baseline_count": 6,
   "held_count": 3,
   "expired_count": 1,
-  "eligible_today_count": 0
+  "eligible_today_count": 1
 }
