@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-26T23:11:50Z",
+  "generated_at": "2026-11-27T00:00:13Z",
   "post_date": "2026-11-26",
   "posts": [
     {
@@ -5054,13 +5054,16 @@
       "priority": 100,
       "instagram_caption": "Discord updated its privacy policy, effective December 15, 2026. The biggest changes affect how Discord handles age verification, advertising, and parental access. Discord now collects your birthday, IP address, and limited device data as separate age signals, and may work with third-party age verification providers. When you interact with sponsored content, Discord may now collect and share your device ID or advertising ID with ad partners. Parents or guardians may now be able to request access to a minor's information and recent activity. Discord also explicitly mentions building machine learning models to estimate user age groups. You should review your privacy and ad settings in the Discord app to understand what is shared and with whom.\n\n#discord #privacypolicy #digitalPrivacy #onlineSafety #adtracking #minorsonline #tosupdate #privacyrights #TOSMonitor",
       "caption_sha256": "8d7af89025509281514ec7098254774227c91058245bbafea0112dcdaff12124",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-26T16:35:50Z",
+      "instagram_post_id": "18506121457096289",
+      "instagram_permalink": "https://www.instagram.com/p/DgNjDEXm5Tv/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false
     },
     {
       "app": "Discord",
@@ -5132,7 +5135,7 @@
       "status": "held",
       "instagram_status": "held",
       "site_status": "approved",
-      "hold_reason": "duplicate_of:2026-11-24_discord-privacy",
+      "hold_reason": "app_cooldown:last_published_2026-11-26",
       "post_days": "any",
       "eligible_today": false
     },
@@ -7062,10 +7065,10 @@
     }
   ],
   "total": 96,
-  "queued_count": 1,
-  "published_count": 65,
+  "queued_count": 0,
+  "published_count": 66,
   "baseline_count": 6,
   "held_count": 3,
   "expired_count": 1,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
